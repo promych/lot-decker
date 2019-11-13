@@ -1,0 +1,18 @@
+{
+  "appName": "Deck Builder",
+  "save": "Сохранить",
+  "delete": "Удалить",
+  "done": "Готово",
+  "cancel": "Отмена",
+  "select language": "Выбор языка",
+  "settings": "Настройки",
+  "no internet": "Нет интернет соединения",
+  "default error": "Что-то пошло не так :(",
+  "search": "Поиск",
+  "rename": "Переименовать",
+  "deck code": "Код колоды",
+  "edit name": "Измените имя",
+  "new deck": "Новая колода",
+  "empty field error": "Поле не может быть пустым",
+  "filter": "Фильтр"
+}

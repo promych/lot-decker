@@ -1,0 +1,42 @@
+name: lor_decker
+description: LoR project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  badges: ^1.1.0
+  equatable: ^0.6.1
+  provider: ^3.1.0+1
+  sembast: ^2.1.0
+  path_provider: ^1.4.0
+  shared_preferences: ^0.5.3+5
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/lang/
+   - assets/data/
+   - assets/img/regions/
+   - assets/img/cards/
+   - assets/img/types/
+   - assets/img/rarities/
+   - assets/img/keywords/
+
+  fonts:
+    - family: Alegreya
+      fonts:
+        - asset: fonts/AlegreyaSansSC-Regular.ttf

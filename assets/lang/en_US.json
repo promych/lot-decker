@@ -1,0 +1,18 @@
+{
+  "appName": "Deck Builder",
+  "save": "Save",
+  "delete": "Delete",
+  "done": "Done",
+  "cancel": "Cancel",
+  "select language": "Select language",
+  "settings": "Settings",
+  "no internet": "No internet connection",
+  "default error": "Something goes wrong :(",
+  "search": "Search",
+  "rename": "Rename",
+  "deck code": "Deck code",
+  "edit name": "Edit name",
+  "new deck": "New deck",
+  "empty field error": "Field can't be empty",
+  "filter": "Filter"
+}
