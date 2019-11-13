@@ -52,7 +52,7 @@ class ManaCostChart extends StatelessWidget {
           alignment: Alignment.bottomCenter,
           children: [
             Container(
-              height: 100.0,
+              height: 80.0,
               width: 20.0,
               color: selectedManaCostBar == cost
                   ? Styles.lightGrey
@@ -65,7 +65,7 @@ class ManaCostChart extends StatelessWidget {
                       ? Container()
                       : Text(selectedCardsByManaCost.toString()),
                 Container(
-                  height: 80.0 * selectedCardsByManaCost / _maxManaCost,
+                  height: 60.0 * selectedCardsByManaCost / _maxManaCost,
                   width: 20.0,
                   color: Styles.cyanColor,
                 ),

@@ -45,6 +45,9 @@ class _DeckPageState extends State<DeckPage> {
 
   Future<void> _saveDeck(BuildContext context) async {
     await widget.bloc.saveDeck(_deckNameEditingController.text);
+    // Scaffold.of(context).showSnackBar(
+    //   SnackBar(content: Text(LocaleManager.of(context).translate('saved'))),
+    // );
     Navigator.of(context).pop();
   }
 
@@ -54,6 +57,8 @@ class _DeckPageState extends State<DeckPage> {
   }
 
   void _editDeckName(BuildContext context) {
+    _deckNameEditingController.text = _name;
+
     showDialog(
       context: context,
       builder: (context) {
@@ -104,11 +109,12 @@ class _DeckPageState extends State<DeckPage> {
           return Container();
         }
         return IconButton(
-          icon: Icon(Icons.save),
-          onPressed: () => widget.bloc.deck != null
-              ? _saveDeck(context)
-              : _editDeckName(context),
-        );
+            icon: Icon(Icons.save),
+            onPressed: () {
+              widget.bloc.deck != null
+                  ? _saveDeck(context)
+                  : _editDeckName(context);
+            });
       },
     );
   }
@@ -174,7 +180,6 @@ class _DeckPageState extends State<DeckPage> {
     _name = widget.bloc.deck != null
         ? widget.bloc.deck.name
         : LocaleManager.of(context).translate('new deck');
-    _deckNameEditingController.text = _name;
     widget.bloc.updateName(_name);
 
     return StreamBuilder<bool>(
@@ -188,7 +193,7 @@ class _DeckPageState extends State<DeckPage> {
             actions: _appBarActions(context),
           ),
           body: Padding(
-            padding: const EdgeInsets.all(16.0),
+            padding: const EdgeInsets.only(left: 16.0, top: 10.0, right: 16.0),
             child: StreamBuilder<List<CardModel>>(
               stream: widget.bloc.$selectedCards,
               initialData: widget.bloc.selectedCards,
@@ -196,15 +201,15 @@ class _DeckPageState extends State<DeckPage> {
                 return Column(
                   children: <Widget>[
                     DeckPageManaCostBar(),
-                    SizedBox(height: 20.0),
+                    SizedBox(height: 10.0),
                     DeckStatusBar(
                       cardsInDeck: selectedCards.data,
                       withFactions: true,
                     ),
-                    if (isEditing.data) ...[
-                      SizedBox(height: 20.0),
-                      SearchField(onChanged: widget.bloc.updateSearch)
-                    ],
+                    // if (isEditing.data) ...[
+                    //   SizedBox(height: 20.0),
+                    //   SearchField(onChanged: widget.bloc.updateSearch)
+                    // ],
                     SizedBox(height: 10.0),
                     isEditing.data ? DeckPageCardsSelection() : DeckViewCards(),
                   ],

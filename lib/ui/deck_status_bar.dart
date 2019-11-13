@@ -7,7 +7,7 @@ import '../managers/app_manager.dart';
 import '../models/card.dart';
 import 'faction_image.dart';
 
-const _iconSize = 32.0;
+const _iconSize = 28.0;
 
 class DeckStatusBar extends StatelessWidget {
   final List<CardModel> cardsInDeck;
@@ -21,28 +21,29 @@ class DeckStatusBar extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    if (cardsInDeck == null || cardsInDeck.isEmpty) return Container();
     final globals = Provider.of<AppManager>(context).globals;
 
-    // int spellsNum = 0;
-    // int championsNum = 0;
-    // int unitsNum = 0;
-    // int total = 0;
-    // Set<String> factions = {};
+    int spellsNum = 0;
+    int championsNum = 0;
+    int unitsNum = 0;
+    int total = 0;
+    Set<String> factions = {};
 
     final unitLocaleName = globals.cardTypes
         .singleWhere((t) => t.nameRef == 'Unit', orElse: () => null)
         ?.name;
 
-    final spellsNum =
-        cardsInDeck.where((card) => card.spellSpeedRef.isNotEmpty).length;
-    final championsNum =
-        cardsInDeck.where((card) => card.supertype.isNotEmpty).length;
-    final unitsNum =
-        cardsInDeck.where((card) => card.cardType == unitLocaleName).length;
-    final factions =
-        cardsInDeck.map((card) => card.cardCode.substring(2, 4)).toSet();
-    final total = cardsInDeck.length;
+    if (cardsInDeck != null && cardsInDeck.isNotEmpty) {
+      spellsNum =
+          cardsInDeck.where((card) => card.spellSpeedRef.isNotEmpty).length;
+      championsNum =
+          cardsInDeck.where((card) => card.supertype.isNotEmpty).length;
+      unitsNum =
+          cardsInDeck.where((card) => card.cardType == unitLocaleName).length;
+      factions =
+          cardsInDeck.map((card) => card.cardCode.substring(2, 4)).toSet();
+      total = cardsInDeck.length;
+    }
 
     int _cardsByFaction(String fAbbr) {
       final nameRef = globals.regions

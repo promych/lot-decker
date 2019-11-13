@@ -23,7 +23,7 @@ class CardIconsBar extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: [
             FactionImage(size: kIconSize, abbrName: region.abbreviation),
-            // Text(card.region),
+            Text(card.region),
           ],
         ),
         SizedBox(width: 10.0),
@@ -35,7 +35,7 @@ class CardIconsBar extends StatelessWidget {
                 'assets/img/rarities/${card.rarityRef}.png',
                 height: kIconSize,
               ),
-              // Text(card.rarity),
+              Text(card.rarity),
             ],
           ),
         SizedBox(width: 10.0),
@@ -46,7 +46,7 @@ class CardIconsBar extends StatelessWidget {
               'assets/img/types/${app.globals.cardTypeRef(card.cardType)}.png',
               height: kIconSize,
             ),
-            // Text(card.cardType),
+            Text(card.cardType),
           ],
         )
       ],

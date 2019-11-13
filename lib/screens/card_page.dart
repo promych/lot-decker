@@ -53,7 +53,7 @@ class _CardPageState extends State<CardPage> {
   @override
   void initState() {
     super.initState();
-    _pageController = PageController(viewportFraction: 0.7, initialPage: 0);
+    _pageController = PageController(viewportFraction: 0.6, initialPage: 0);
     _cardList = [widget.card];
     _selectedCard = widget.card;
     _pageController.addListener(() {
@@ -83,11 +83,11 @@ class _CardPageState extends State<CardPage> {
         child: Column(
           children: <Widget>[
             Expanded(
-              flex: 2,
+              flex: 3,
               child: _buildAssociatedCardsView(),
             ),
             Expanded(
-              flex: 1,
+              flex: 2,
               child:
                   SingleChildScrollView(child: _CardInfo(card: _selectedCard)),
             ),
@@ -120,6 +120,7 @@ class _CardInfo extends StatelessWidget {
           Text('${card.name}', style: Styles.defaultText20),
           SizedBox(height: 10.0),
           CardIconsBar(card: card),
+          SizedBox(height: 10.0),
           if (card.keywordRefs.isNotEmpty) ...[
             for (var keyword in app.globals.keywords
                 .where((k) => card.keywordRefs.contains(k.nameRef))

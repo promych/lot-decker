@@ -1,10 +1,14 @@
+import 'dart:math' show pi;
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../data/db_bloc.dart';
 import '../helpers/theme.dart';
 import '../managers/app_manager.dart';
+import '../managers/locale_manager.dart';
 import '../ui/card_tile_favorite.dart';
+import '../ui/fake_card_img.dart';
 import '../ui/sliver_container.dart';
 
 class FavoritesPage extends StatelessWidget {
@@ -15,7 +19,7 @@ class FavoritesPage extends StatelessWidget {
     return CustomScrollView(
       slivers: [
         SliverAppBar(
-          title: Text('Wishlist'),
+          title: Text(LocaleManager.of(context).translate('favorites')),
           forceElevated: true,
           backgroundColor: Styles.layerColor,
         ),
@@ -39,7 +43,9 @@ class _CardList extends StatelessWidget {
       initialData: favBloc.favoritedCards,
       builder: (context, snapshot) {
         if (!snapshot.hasData || snapshot.data.isEmpty) {
-          return SliverContainer(child: Text('no fav cards'));
+          return SliverContainer(
+            child: _EmptyFavContainer(),
+          );
         }
         final cardCodes = snapshot.data;
         return SliverList(
@@ -58,6 +64,41 @@ class _CardList extends StatelessWidget {
           ),
         );
       },
+    );
+  }
+}
+
+class _EmptyFavContainer extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: <Widget>[
+        Stack(
+          children: [
+            Transform.rotate(
+              angle: pi / 12,
+              origin: Offset(330.0, 20.0),
+              child: FakeCardImg(),
+            ),
+            Transform.rotate(
+              angle: -pi / 12,
+              child: FakeCardImg(),
+              origin: Offset(-400.0, 20.0),
+            ),
+          ],
+        ),
+        Text(
+          LocaleManager.of(context).translate('no fav'),
+          style: Styles.defaultText20,
+          textAlign: TextAlign.center,
+        ),
+        Text(
+          LocaleManager.of(context).translate('no fav hint'),
+          style: Styles.defaultText16,
+          textAlign: TextAlign.center,
+        ),
+      ],
     );
   }
 }

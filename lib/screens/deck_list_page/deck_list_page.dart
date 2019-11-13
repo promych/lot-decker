@@ -1,9 +1,13 @@
+import 'dart:math' show pi;
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../../data/db_bloc.dart';
 import '../../helpers/theme.dart';
+import '../../managers/locale_manager.dart';
 import '../../models/deck.dart';
+import '../../ui/fake_card_img.dart';
 import '../../ui/sliver_container.dart';
 import '../deck_page/deck_page.dart';
 import 'deck_list_tile.dart';
@@ -23,7 +27,7 @@ class DeckListPage extends StatelessWidget {
     return CustomScrollView(
       slivers: [
         SliverAppBar(
-          title: Text('Decks'),
+          title: Text(LocaleManager.of(context).translate('decks')),
           backgroundColor: Styles.layerColor,
           forceElevated: true,
           actions: [
@@ -63,6 +67,9 @@ class _DeckList extends StatelessWidget {
         if (snapshot.hasError) {
           return SliverContainer(child: Text('${snapshot.error}'));
         }
+        if (snapshot.data.isEmpty) {
+          return SliverContainer(child: _EmptyDecksContainer());
+        }
         if (snapshot.hasData) {
           return SliverList(
             delegate: SliverChildBuilderDelegate((_, i) {
@@ -85,6 +92,55 @@ class _DeckList extends StatelessWidget {
         }
         return SliverContainer(child: Text('No decks'));
       },
+    );
+  }
+}
+
+class _EmptyDecksContainer extends StatelessWidget {
+  final Matrix4 _tr = Matrix4.identity()
+    ..setEntry(3, 2, 0.001)
+    ..rotateX(-pi / 2.4)
+    ..rotateZ(-pi / 6.9)
+    ..rotateY(pi / 19);
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        Stack(
+          children: [
+            Transform(
+              origin: Offset(10.0, 50.0),
+              transform: _tr,
+              child: FakeCardImg(),
+            ),
+            Transform(
+              origin: Offset(-10.0, 45.0),
+              transform: _tr,
+              child: FakeCardImg(),
+            ),
+            Transform(
+              origin: Offset(-30.0, 40.0),
+              transform: _tr,
+              child: FakeCardImg(),
+            ),
+            Transform(
+              origin: Offset(-50.0, 35.0),
+              transform: _tr,
+              child: FakeCardImg(),
+            ),
+          ],
+        ),
+        Text(
+          LocaleManager.of(context).translate('no decks'),
+          style: Styles.defaultText20,
+        ),
+        Text(
+          LocaleManager.of(context).translate('no decks hint'),
+          style: Styles.defaultText16,
+        ),
+      ],
     );
   }
 }
