@@ -53,14 +53,15 @@ class FilterCardsDrawer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final app = Provider.of<AppManager>(context);
     return Drawer(
       child: Container(
         color: Styles.scaffoldBackgroundColor,
         child: SafeArea(
           child: SingleChildScrollView(
             child: StreamBuilder<Map<String, List<dynamic>>>(
-              initialData: Map(),
-              stream: Provider.of<AppManager>(context).$filter,
+              initialData: app.filter,
+              stream: app.$filter,
               builder: (context, filter) {
                 return Column(
                   children: [

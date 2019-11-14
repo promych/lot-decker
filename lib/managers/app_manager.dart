@@ -120,6 +120,7 @@ class AppManager implements FilterBloc {
   Stream<List<CardModel>> get $filteredCards => _filteredCardsController.stream;
 
   var _filter = Map<String, List<dynamic>>();
+  Map<String, List<dynamic>> get filter => _filter;
 
   final _filterController =
       StreamController<Map<String, List<dynamic>>>.broadcast();
