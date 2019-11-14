@@ -35,7 +35,6 @@ class DeckPageBloc {
   void toggleEdit() {
     _isEditing = !_isEditing;
     _editingController.sink.add(_isEditing);
-    // selectManaCostBar(0);
   }
 
   // deck
@@ -166,16 +165,13 @@ class DeckPageBloc {
         handleData: (value, sink) => sink.add(filterCards(value)));
 
     $filteredCards = _filteredCardsController.stream.transform(tr);
-    // ..listen((data) {
-    //   print(data.length);
-    // });
 
     _filteredCards = cards;
     _filteredCardsController.sink.add(_filteredCards);
 
-    $isEditing.listen((data) {
-      if (data) selectManaCostBar(0);
-    });
+    // $isEditing.listen((data) {
+    // if (data) selectManaCostBar(0);
+    // });
 
     $searchText.listen((text) {
       if (text != null && text != '') {
