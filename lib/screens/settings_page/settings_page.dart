@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 
 import '../../helpers/theme.dart';
 import '../../managers/locale_manager.dart';
-import '../simple_page.dart';
 import 'locale_selector.dart';
 
 class SettingsPage extends StatelessWidget {
@@ -11,9 +10,13 @@ class SettingsPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SimplePage(
-      title: LocaleManager.of(context).translate('settings'),
-      child: DefaultTextStyle(
+    return Scaffold(
+      appBar: AppBar(
+        centerTitle: false,
+        title: Text(LocaleManager.of(context).translate('settings')),
+        backgroundColor: Styles.layerColor,
+      ),
+      body: DefaultTextStyle(
         style: Styles.defaultText20,
         child: SafeArea(
           child: Padding(

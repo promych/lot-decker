@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:lor_decker/helpers/theme.dart';
-import 'package:lor_decker/ui/search_field.dart';
-import 'package:lor_decker/ui/sliver_container.dart';
 import 'package:provider/provider.dart';
 
+import '../../helpers/theme.dart';
 import '../../models/card.dart';
 import '../../ui/card_tile.dart';
 import '../../ui/same_cards_num_in_deck_chip.dart';
+import '../../ui/search_field.dart';
 import 'deck_page_bloc.dart';
 
 class DeckPageCardsSelection extends StatelessWidget {

@@ -10,7 +10,6 @@ import '../../managers/app_manager.dart';
 import '../../managers/locale_manager.dart';
 import '../../models/card.dart';
 import '../../ui/deck_status_bar.dart';
-import '../../ui/search_field.dart';
 import 'deck_cards_selection.dart';
 import 'deck_cards_view.dart';
 import 'deck_mana_cost_bar.dart';
