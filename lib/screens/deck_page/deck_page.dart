@@ -98,6 +98,10 @@ class _DeckPageState extends State<DeckPage> {
     );
   }
 
+  Future<void> _getDeckCode() async {
+    await widget.bloc.deckCode();
+  }
+
   Widget _buildDeckName(BuildContext context) {
     return StreamBuilder<String>(
       stream: widget.bloc.$deckNameToShow,
@@ -145,7 +149,7 @@ class _DeckPageState extends State<DeckPage> {
               _deleteDeck(context);
               break;
             case 'Deck code':
-              // TODO deck code getter (native)
+              _getDeckCode();
               break;
           }
         },
@@ -155,7 +159,8 @@ class _DeckPageState extends State<DeckPage> {
             _appBarPopupAction('Rename'),
             _appBarPopupAction('Delete')
           ],
-          _appBarPopupAction('Deck code'),
+          if (widget.bloc.selectedCards.isNotEmpty)
+            _appBarPopupAction('Deck code'),
         ],
       )
     ];

@@ -22,6 +22,24 @@ class DeckListPage extends StatelessWidget {
     ));
   }
 
+  Future<void> _codeToDeck(BuildContext context) async {
+    showDialog(
+        context: context,
+        builder: (context) {
+          return AlertDialog(
+            backgroundColor: Styles.layerColor,
+            title: Text(LocaleManager.of(context).translate('paste code')),
+            content: TextField(),
+            actions: [
+              FlatButton(
+                child: Text('OK'),
+                onPressed: () {},
+              )
+            ],
+          );
+        });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scrollbar(
@@ -32,12 +50,18 @@ class DeckListPage extends StatelessWidget {
             backgroundColor: Styles.layerColor,
             forceElevated: true,
             actions: [
-              IconButton(
-                icon: Icon(Icons.add),
+              FlatButton.icon(
+                icon: Icon(Icons.add_box),
+                label: Text('Deck'),
                 onPressed: () {
                   Provider.of<DbBloc>(context).selectedDeckId = null;
                   _editDeck(context);
                 },
+              ),
+              FlatButton.icon(
+                icon: Icon(Icons.library_add),
+                label: Text('Code'),
+                onPressed: () => _codeToDeck(context),
               )
             ],
           ),

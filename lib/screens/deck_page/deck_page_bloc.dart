@@ -73,6 +73,15 @@ class DeckPageBloc {
     await _db.deleteDeck(deck.id);
   }
 
+  Future<String> deckCode() async {
+    final cardCodes = Map<String, int>();
+    cardCodes.addEntries(_selectedCards.map((card) => MapEntry<String, int>(
+        card.cardCode,
+        _selectedCards.where((c) => c.cardCode == card.cardCode).length)));
+    print(cardCodes);
+    return await Future.microtask(() => 'asd');
+  }
+
   // cards and mana cost
 
   final _selectedCardsController =

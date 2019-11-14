@@ -22,5 +22,6 @@
   "no fav": "No cards in wishlist",
   "no fav hint": "Begin add cards to wishlist in Cards list",
   "no decks": "You have no saved decks yet",
-  "no decks hint": "Start creating your deck or enter deck code"
+  "no decks hint": "Start creating your deck or enter deck code",
+  "paste code": "Enter deck code"
 }
