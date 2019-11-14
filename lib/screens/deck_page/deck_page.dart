@@ -19,10 +19,11 @@ import 'deck_page_bloc.dart';
 class DeckPage extends StatefulWidget {
   final DeckPageBloc bloc;
 
-  const DeckPage({Key key, @required this.bloc}) : super(key: key);
+  DeckPage({Key key, @required this.bloc}) : super(key: key);
 
   static Future<Widget> create(BuildContext context) async {
     final currentDeck = await Provider.of<DbBloc>(context).currentDeck;
+
     return Provider<DeckPageBloc>(
       builder: (_) => DeckPageBloc(
         cards: Provider.of<AppManager>(context).cardsCollectible,
@@ -41,13 +42,12 @@ class DeckPage extends StatefulWidget {
 
 class _DeckPageState extends State<DeckPage> {
   TextEditingController _deckNameEditingController;
-  String _name;
+  // String _name;
 
   Future<void> _saveDeck(BuildContext context) async {
-    await widget.bloc.saveDeck(_deckNameEditingController.text);
-    // Scaffold.of(context).showSnackBar(
-    //   SnackBar(content: Text(LocaleManager.of(context).translate('saved'))),
-    // );
+    await widget.bloc.saveDeck(_deckNameEditingController.text != ''
+        ? _deckNameEditingController.text
+        : _name);
     Navigator.of(context).pop();
   }
 
@@ -55,6 +55,10 @@ class _DeckPageState extends State<DeckPage> {
     await widget.bloc.deleteDeck();
     Navigator.of(context).pop();
   }
+
+  String get _name => widget.bloc.deck != null
+      ? widget.bloc.deck.name
+      : LocaleManager.of(context).translate('new deck');
 
   void _editDeckName(BuildContext context) {
     _deckNameEditingController.text = _name;
@@ -80,8 +84,12 @@ class _DeckPageState extends State<DeckPage> {
               actions: <Widget>[
                 FlatButton(
                   child: Text('OK'),
-                  onPressed:
-                      deckName.hasError ? null : () => _saveDeck(context),
+                  onPressed: deckName.hasError
+                      ? null
+                      : () {
+                          _saveDeck(context);
+                          Navigator.of(context).pop();
+                        },
                 )
               ],
             );
@@ -94,7 +102,7 @@ class _DeckPageState extends State<DeckPage> {
   Widget _buildDeckName(BuildContext context) {
     return StreamBuilder<String>(
       stream: widget.bloc.$deckNameToShow,
-      initialData: '',
+      initialData: _name,
       builder: (context, deckName) =>
           Text(deckName.hasData ? deckName.data : _name),
     );
@@ -177,11 +185,6 @@ class _DeckPageState extends State<DeckPage> {
 
   @override
   Widget build(BuildContext context) {
-    _name = widget.bloc.deck != null
-        ? widget.bloc.deck.name
-        : LocaleManager.of(context).translate('new deck');
-    widget.bloc.updateName(_name);
-
     return StreamBuilder<bool>(
       stream: widget.bloc.$isEditing,
       initialData: widget.bloc.isEditing,
