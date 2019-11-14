@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 
 import '../../helpers/theme.dart';
 import '../../ui/same_cards_num_in_deck_chip.dart';
+import '../card_page.dart';
 import 'deck_page_bloc.dart';
 
 class DeckViewCards extends StatelessWidget {
@@ -29,6 +30,12 @@ class DeckViewCards extends StatelessWidget {
               ),
             ),
             trailing: SameCardsInDeck(card: card),
+            onTap: () => Navigator.of(context).push(
+              MaterialPageRoute(
+                fullscreenDialog: true,
+                builder: (context) => CardPage(card: card),
+              ),
+            ),
           );
         },
         separatorBuilder: (_, index) => Container(
