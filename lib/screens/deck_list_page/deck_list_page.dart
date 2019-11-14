@@ -135,10 +135,12 @@ class _EmptyDecksContainer extends StatelessWidget {
         Text(
           LocaleManager.of(context).translate('no decks'),
           style: Styles.defaultText20,
+          textAlign: TextAlign.center,
         ),
         Text(
           LocaleManager.of(context).translate('no decks hint'),
           style: Styles.defaultText16,
+          textAlign: TextAlign.center,
         ),
       ],
     );

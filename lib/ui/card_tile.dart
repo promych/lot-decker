@@ -61,10 +61,11 @@ class CardTile extends StatelessWidget {
                                 if (actions != null) actions,
                               ],
                             ),
-                            if (card.description.isNotEmpty)
-                              Text(card.description),
                           ],
                         ),
+                        card.description.isNotEmpty
+                            ? Expanded(child: Text(card.description))
+                            : Spacer(),
                         Expanded(
                             child: Center(child: CardIconsBar(card: card))),
                       ],

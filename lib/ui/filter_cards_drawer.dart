@@ -144,7 +144,7 @@ class _FilterSection extends StatelessWidget {
 
     final res = values.map((item) {
       if (item is! Referable) return Container();
-      final entry = MapEntry(category, item.nameRef);
+      final entry = MapEntry(category, item.name);
       return Container(
         margin: const EdgeInsets.all(4.0),
         color: app.inFilter(entry)

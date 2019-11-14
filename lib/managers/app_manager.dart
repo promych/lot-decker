@@ -81,7 +81,7 @@ class AppManager implements FilterBloc {
       ..sort((a, b) => a.cost.compareTo(b.cost));
 
     _cardsController.sink.add(_cards);
-    _applyFilter();
+    clearFilter();
   }
 
   // cards
