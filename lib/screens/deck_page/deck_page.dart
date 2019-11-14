@@ -195,30 +195,28 @@ class _DeckPageState extends State<DeckPage> {
             backgroundColor: Styles.layerColor,
             actions: _appBarActions(context),
           ),
-          body: Padding(
-            padding: const EdgeInsets.only(left: 16.0, top: 10.0, right: 16.0),
-            child: StreamBuilder<List<CardModel>>(
-              stream: widget.bloc.$selectedCards,
-              initialData: widget.bloc.selectedCards,
-              builder: (context, selectedCards) {
-                return Column(
-                  children: <Widget>[
-                    DeckPageManaCostBar(),
-                    SizedBox(height: 10.0),
-                    DeckStatusBar(
+          body: StreamBuilder<List<CardModel>>(
+            stream: widget.bloc.$selectedCards,
+            initialData: widget.bloc.selectedCards,
+            builder: (context, selectedCards) {
+              return Column(
+                children: <Widget>[
+                  SizedBox(height: 10.0),
+                  DeckPageManaCostBar(),
+                  Padding(
+                    padding: const EdgeInsets.symmetric(
+                      vertical: 10.0,
+                      horizontal: 16.0,
+                    ),
+                    child: DeckStatusBar(
                       cardsInDeck: selectedCards.data,
                       withFactions: true,
                     ),
-                    // if (isEditing.data) ...[
-                    //   SizedBox(height: 20.0),
-                    //   SearchField(onChanged: widget.bloc.updateSearch)
-                    // ],
-                    SizedBox(height: 10.0),
-                    isEditing.data ? DeckPageCardsSelection() : DeckViewCards(),
-                  ],
-                );
-              },
-            ),
+                  ),
+                  isEditing.data ? DeckPageCardsSelection() : DeckViewCards(),
+                ],
+              );
+            },
           ),
         );
       },

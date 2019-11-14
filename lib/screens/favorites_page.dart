@@ -24,7 +24,7 @@ class FavoritesPage extends StatelessWidget {
           backgroundColor: Styles.layerColor,
         ),
         SliverPadding(
-          padding: const EdgeInsets.all(10.0),
+          padding: const EdgeInsets.symmetric(vertical: 10.0, horizontal: 16.0),
           sliver: _CardList(),
         )
       ],

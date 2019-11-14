@@ -24,29 +24,34 @@ class DeckListPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return CustomScrollView(
-      slivers: [
-        SliverAppBar(
-          title: Text(LocaleManager.of(context).translate('decks')),
-          backgroundColor: Styles.layerColor,
-          forceElevated: true,
-          actions: [
-            IconButton(
-              icon: Icon(Icons.add),
-              onPressed: () {
-                Provider.of<DbBloc>(context).selectedDeckId = null;
-                _editDeck(context);
-              },
-            )
-          ],
-        ),
-        SliverPadding(
-          padding: const EdgeInsets.all(10.0),
-          sliver: _DeckList(
-            onEdit: () => _editDeck(context),
+    return Scrollbar(
+      child: CustomScrollView(
+        slivers: [
+          SliverAppBar(
+            title: Text(LocaleManager.of(context).translate('decks')),
+            backgroundColor: Styles.layerColor,
+            forceElevated: true,
+            actions: [
+              IconButton(
+                icon: Icon(Icons.add),
+                onPressed: () {
+                  Provider.of<DbBloc>(context).selectedDeckId = null;
+                  _editDeck(context);
+                },
+              )
+            ],
           ),
-        )
-      ],
+          SliverPadding(
+            padding: const EdgeInsets.symmetric(
+              horizontal: 16.0,
+              vertical: 10.0,
+            ),
+            sliver: _DeckList(
+              onEdit: () => _editDeck(context),
+            ),
+          )
+        ],
+      ),
     );
   }
 }

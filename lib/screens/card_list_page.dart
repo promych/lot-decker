@@ -14,29 +14,34 @@ class CardListPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return CustomScrollView(
-      slivers: [
-        SliverAppBar(
-          title: _SearchBar(
-            onChanged: Provider.of<AppManager>(context).updateSearch,
+    return Scrollbar(
+      child: CustomScrollView(
+        slivers: [
+          SliverAppBar(
+            title: _SearchBar(
+              onChanged: Provider.of<AppManager>(context).updateSearch,
+            ),
+            backgroundColor: Styles.layerColor,
+            automaticallyImplyLeading: false,
+            centerTitle: false,
+            forceElevated: true,
+            floating: true,
+            actions: [
+              IconButton(
+                icon: Icon(Icons.filter_list),
+                onPressed: () => Scaffold.of(context).openEndDrawer(),
+              )
+            ],
           ),
-          backgroundColor: Styles.layerColor,
-          automaticallyImplyLeading: false,
-          centerTitle: false,
-          forceElevated: true,
-          floating: true,
-          actions: [
-            IconButton(
-              icon: Icon(Icons.filter_list),
-              onPressed: () => Scaffold.of(context).openEndDrawer(),
-            )
-          ],
-        ),
-        SliverPadding(
-          padding: const EdgeInsets.all(10.0),
-          sliver: _CardList(),
-        )
-      ],
+          SliverPadding(
+            padding: const EdgeInsets.symmetric(
+              vertical: 10.0,
+              horizontal: 16.0,
+            ),
+            sliver: _CardList(),
+          )
+        ],
+      ),
     );
   }
 }

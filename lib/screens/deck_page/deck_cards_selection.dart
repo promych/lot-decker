@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:lor_decker/helpers/theme.dart';
+import 'package:lor_decker/ui/search_field.dart';
+import 'package:lor_decker/ui/sliver_container.dart';
 import 'package:provider/provider.dart';
 
 import '../../models/card.dart';
@@ -12,25 +15,43 @@ class DeckPageCardsSelection extends StatelessWidget {
     final bloc = Provider.of<DeckPageBloc>(context);
 
     return Expanded(
-      child: StreamBuilder<List<CardModel>>(
-        stream: bloc.$filteredCards,
-        initialData: bloc.filterCards(bloc.cards),
-        builder: (context, snapshot) {
-          return ListView.builder(
-            itemCount: snapshot.data.length,
-            itemBuilder: (_, index) {
-              final card = snapshot.data[index];
-              return CardTile(
-                card: card,
-                selectCard: bloc.selectCard,
-                actions: GestureDetector(
-                  child: SameCardsInDeck(card: card),
-                  onTap: () => bloc.unselectCard(card),
-                ),
-              );
-            },
-          );
-        },
+      child: Scrollbar(
+        child: CustomScrollView(
+          slivers: [
+            SliverAppBar(
+              title: SearchField(onChanged: bloc.updateSearch),
+              floating: true,
+              backgroundColor: Styles.scaffoldBackgroundColor,
+              automaticallyImplyLeading: false,
+              centerTitle: false,
+            ),
+            StreamBuilder<List<CardModel>>(
+              stream: bloc.$filteredCards,
+              initialData: bloc.filterCards(bloc.cards),
+              builder: (context, snapshot) {
+                return SliverPadding(
+                  padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                  sliver: SliverList(
+                    delegate: SliverChildBuilderDelegate(
+                      (_, index) {
+                        final card = snapshot.data[index];
+                        return CardTile(
+                          card: card,
+                          selectCard: bloc.selectCard,
+                          actions: GestureDetector(
+                            child: SameCardsInDeck(card: card),
+                            onTap: () => bloc.unselectCard(card),
+                          ),
+                        );
+                      },
+                      childCount: snapshot.data.length,
+                    ),
+                  ),
+                );
+              },
+            )
+          ],
+        ),
       ),
     );
   }
