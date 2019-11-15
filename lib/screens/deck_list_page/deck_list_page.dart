@@ -9,18 +9,12 @@ import '../../managers/locale_manager.dart';
 import '../../models/deck.dart';
 import '../../ui/fake_card_img.dart';
 import '../../ui/sliver_container.dart';
-import '../deck_page/deck_page.dart';
 import 'deck_list_tile.dart';
 
 class DeckListPage extends StatelessWidget {
-  const DeckListPage({Key key}) : super(key: key);
+  final Function onTap;
 
-  Future<void> _editDeck(BuildContext context) async {
-    final deckPage = await DeckPage.create(context);
-    Navigator.of(context).push(MaterialPageRoute(
-      builder: (context) => deckPage,
-    ));
-  }
+  const DeckListPage({Key key, @required this.onTap}) : super(key: key);
 
   Future<void> _codeToDeck(BuildContext context) async {
     showDialog(
@@ -51,14 +45,6 @@ class DeckListPage extends StatelessWidget {
             forceElevated: true,
             actions: [
               FlatButton.icon(
-                icon: Icon(Icons.add_box),
-                label: Text('Deck'),
-                onPressed: () {
-                  Provider.of<DbBloc>(context).selectedDeckId = null;
-                  _editDeck(context);
-                },
-              ),
-              FlatButton.icon(
                 icon: Icon(Icons.library_add),
                 label: Text('Code'),
                 onPressed: () => _codeToDeck(context),
@@ -70,9 +56,7 @@ class DeckListPage extends StatelessWidget {
               horizontal: 16.0,
               vertical: 10.0,
             ),
-            sliver: _DeckList(
-              onEdit: () => _editDeck(context),
-            ),
+            sliver: _DeckList(onEdit: onTap),
           )
         ],
       ),

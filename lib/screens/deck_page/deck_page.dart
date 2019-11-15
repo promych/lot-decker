@@ -120,7 +120,7 @@ class _DeckPageState extends State<DeckPage> {
           return Container();
         }
         return IconButton(
-            icon: Icon(Icons.save),
+            icon: Icon(Icons.save_alt),
             onPressed: () {
               widget.bloc.deck != null
                   ? _saveDeck(context)

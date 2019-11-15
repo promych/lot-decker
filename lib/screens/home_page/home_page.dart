@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
+import '../../data/db_bloc.dart';
 import '../../helpers/theme.dart';
 import '../../managers/locale_manager.dart';
 import '../../ui/filter_cards_drawer.dart';
 import '../card_list_page.dart';
 import '../deck_list_page/deck_list_page.dart';
+import '../deck_page/deck_page.dart';
 import '../favorites_page.dart';
 import '../settings_page/settings_page.dart';
 
@@ -16,6 +19,13 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   int _selectedIndex = 0;
   PageStorageBucket _bucket;
+
+  Future<void> _editDeck(BuildContext context) async {
+    final deckPage = await DeckPage.create(context);
+    Navigator.of(context).push(MaterialPageRoute(
+      builder: (context) => deckPage,
+    ));
+  }
 
   Widget _bottomNavigationBar(int selectedIndex) {
     return BottomNavigationBar(
@@ -58,7 +68,10 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     final List<Widget> pages = [
-      DeckListPage(key: PageStorageKey('decks')),
+      DeckListPage(
+        key: PageStorageKey('decks'),
+        onTap: () => _editDeck(context),
+      ),
       CardListPage(key: PageStorageKey('cards')),
       FavoritesPage(key: PageStorageKey('favorites')),
       SettingsPage(key: PageStorageKey('settings')),
@@ -71,6 +84,16 @@ class _HomePageState extends State<HomePage> {
         child: pages[_selectedIndex],
         bucket: _bucket,
       ),
+      floatingActionButton: _selectedIndex == 0
+          ? FloatingActionButton(
+              child: Icon(Icons.add, color: Colors.white),
+              backgroundColor: Styles.cyanColor,
+              onPressed: () {
+                Provider.of<DbBloc>(context).selectedDeckId = null;
+                _editDeck(context);
+              },
+            )
+          : null,
     );
   }
 }
