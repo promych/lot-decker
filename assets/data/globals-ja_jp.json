@@ -1,0 +1,253 @@
+{
+  "keywords": [
+    {
+      "description": "ゲームから完全に取り除かれる。ラストブレスは発動せず、蘇生させることもできない。",
+      "name": "除外",
+      "nameRef": "Obliterate"
+    },
+    {
+      "description": "ユニットによって生成、詠唱されるもので、スペルのような効果を持つ。",
+      "name": "スキル",
+      "nameRef": "Skill"
+    },
+    {
+      "description": "アタック時にブロッカーよりも先に攻撃し、その後ブロッカーと同じタイミングで再び攻撃する。",
+      "name": "ダブルアタック",
+      "nameRef": "DoubleStrike"
+    },
+    {
+      "description": "最も攻撃力が低いユニットを指す。攻撃力が同じの場合は体力、次にコストの低さで決定される。",
+      "name": "最も弱い",
+      "nameRef": "Weakest"
+    },
+    {
+      "description": "「イルーシブ」を持つユニット以外にはブロックされない。",
+      "name": "イルーシブ",
+      "nameRef": "Elusive"
+    },
+    {
+      "description": "このユニットが与えたダメージと同じ分だけ、ネクサスの体力を回復する。",
+      "name": "吸収",
+      "nameRef": "Drain"
+    },
+    {
+      "description": "ユニット1体を戦闘から取り除く。スタンさせられたユニットはそのラウンドが終了するまでアタックもブロックもできない。",
+      "name": "スタン",
+      "nameRef": "Stun"
+    },
+    {
+      "description": "他のカードにくっつき、トラップを仕掛ける。トラップを仕掛けられたカードが引かれると、効果が発動する。",
+      "name": "トラップ",
+      "nameRef": "Autoplay"
+    },
+    {
+      "description": " ",
+      "name": "ピルトーヴァー & ゾウン",
+      "nameRef": "PiltoverZaun"
+    },
+    {
+      "description": " ",
+      "name": "デマーシア",
+      "nameRef": "Demacia"
+    },
+    {
+      "description": " ",
+      "name": "シャドウアイル",
+      "nameRef": "ShadowIsles"
+    },
+    {
+      "description": "対象の体力を上回るダメージを与えると、超過分のダメージを相手のネクサスに与える。",
+      "name": "オーバーパワー",
+      "nameRef": "SpellOverwhelm"
+    },
+    {
+      "description": "ユニットが次に受けるダメージを無効化する。この効果は1ラウンドのみ持続する。",
+      "name": "バリア",
+      "nameRef": "Barrier"
+    },
+    {
+      "description": "拘束されたカードは一時的にゲームから取り除かれ、拘束したユニットが場を離れた際に戻ってくる。",
+      "name": "拘束",
+      "nameRef": "Capture"
+    },
+    {
+      "description": "1ラウンドの間、ユニット1体の攻撃力を0にする。攻撃力はその後増減可能。",
+      "name": "凍結",
+      "nameRef": "Frostbite"
+    },
+    {
+      "description": "すぐに解決され、相手はこのスペルが完了するまでアクションを実行できない。",
+      "name": "バースト",
+      "nameRef": "Burst"
+    },
+    {
+      "description": "「フリーティング」を持つカードはラウンド終了時に手札から破棄される。",
+      "name": "フリーティング",
+      "nameRef": "Fleeting"
+    },
+    {
+      "description": "いつでも詠唱できるが、相手はこのスペルに対して行動可能。",
+      "name": "ファスト",
+      "nameRef": "Fast"
+    },
+    {
+      "description": "ブロッカーに与えたダメージの超過分を敵のネクサスに与える。",
+      "name": "オーバーパワー",
+      "nameRef": "Overwhelm"
+    },
+    {
+      "description": "アタック時にブロッカーより先に攻撃する。",
+      "name": "クイックアタック",
+      "nameRef": "QuickStrike"
+    },
+    {
+      "description": "あらゆる被ダメージを1軽減する。",
+      "name": "タフ",
+      "nameRef": "Tough"
+    },
+    {
+      "description": "ユニットを1体手札に戻し、そのユニットに適用されていた効果をすべて取り除く。",
+      "name": "リコール",
+      "nameRef": "Recall"
+    },
+    {
+      "description": " ",
+      "name": "アイオニア",
+      "nameRef": "Ionia"
+    },
+    {
+      "description": "各ラウンドの開始時に体力を全回復する。",
+      "name": "リジェネレーション",
+      "nameRef": "Regeneration"
+    },
+    {
+      "description": "このユニットが与えたダメージと同じ分だけ、ネクサスの体力を回復する。",
+      "name": "ライフスティール",
+      "nameRef": "Lifesteal"
+    },
+    {
+      "description": "マナが上限の10まで溜まっている時、プレイヤーはエンライト状態である。",
+      "name": "エンライト",
+      "nameRef": "Enlightened"
+    },
+    {
+      "description": "非戦闘中かつ他のスペルを詠唱していない場合にのみ詠唱できる。敵はこのスペルに対してアクションを実行可能。",
+      "name": "スロウ",
+      "nameRef": "Slow"
+    },
+    {
+      "description": " ",
+      "name": "ノクサス",
+      "nameRef": "Noxus"
+    },
+    {
+      "description": "このユニットは1回攻撃するか、ラウンドが終了した時に力尽きる。",
+      "name": "エフェメラル",
+      "nameRef": "Ephemeral"
+    },
+    {
+      "description": " ",
+      "name": "フレヨルド",
+      "nameRef": "Freljord"
+    },
+    {
+      "description": "ユニットが力尽きる時、効果が発動する。",
+      "name": "ラストブレス",
+      "nameRef": "LastBreath"
+    },
+    {
+      "description": "敵ユニットを選んでブロックさせることができる。",
+      "name": "チャレンジャー",
+      "nameRef": "Challenger"
+    },
+    {
+      "description": "あなたがスペルを解決する時、効果を発動する。",
+      "name": "インビュー",
+      "nameRef": "Imbue"
+    },
+    {
+      "description": "攻撃力が2以下の敵にはブロックされない。",
+      "name": "フィアサム",
+      "nameRef": "Fearsome"
+    },
+    {
+      "description": " ",
+      "name": "ブロック不可",
+      "nameRef": "CantBlock"
+    }
+  ],
+  "regions": [
+    {
+      "abbreviation": "NX",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/ja_jp/img/regions/icon-noxus.png",
+      "name": "ノクサス",
+      "nameRef": "Noxus"
+    },
+    {
+      "abbreviation": "DE",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/ja_jp/img/regions/icon-demacia.png",
+      "name": "デマーシア",
+      "nameRef": "Demacia"
+    },
+    {
+      "abbreviation": "FR",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/ja_jp/img/regions/icon-freljord.png",
+      "name": "フレヨルド",
+      "nameRef": "Freljord"
+    },
+    {
+      "abbreviation": "SI",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/ja_jp/img/regions/icon-shadowisles.png",
+      "name": "シャドウアイル",
+      "nameRef": "ShadowIsles"
+    },
+    {
+      "abbreviation": "IO",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/ja_jp/img/regions/icon-ionia.png",
+      "name": "アイオニア",
+      "nameRef": "Ionia"
+    },
+    {
+      "abbreviation": "PZ",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/ja_jp/img/regions/icon-piltoverzaun.png",
+      "name": "ピルトーヴァー & ゾウン",
+      "nameRef": "PiltoverZaun"
+    }
+  ],
+  "spellSpeeds": [
+    {
+      "name": "スロウ",
+      "nameRef": "Slow"
+    },
+    {
+      "name": "バースト",
+      "nameRef": "Burst"
+    },
+    {
+      "name": "ファスト",
+      "nameRef": "Fast"
+    }
+  ],
+  "rarities": [
+    {
+      "name": "コモン",
+      "nameRef": "Common"
+    },
+    {
+      "name": "レア",
+      "nameRef": "Rare"
+    },
+    {
+      "name": "エピック",
+      "nameRef": "Epic"
+    },
+    {
+      "name": "チャンピオン",
+      "nameRef": "Champion"
+    },
+    {
+      "name": "なし",
+      "nameRef": "None"
+    }
+  ]
+}

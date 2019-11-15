@@ -1,0 +1,253 @@
+{
+  "keywords": [
+    {
+      "description": "Eliminado por completo del juego. No activa su Último aliento ni puede revivir.",
+      "name": "Destruir",
+      "nameRef": "Obliterate"
+    },
+    {
+      "description": "Un efecto parecido a un hechizo creado y lanzado por una unidad.",
+      "name": "Habilidad",
+      "nameRef": "Skill"
+    },
+    {
+      "description": "Al atacar, golpea antes y al mismo tiempo que la unidad que bloquea.",
+      "name": "Ataque doble",
+      "nameRef": "DoubleStrike"
+    },
+    {
+      "description": "La unidad con menos poder; si el nivel de poder es el mismo, se tendrá en cuenta la vida más baja y, si no, el coste más bajo.",
+      "name": "Más débil",
+      "nameRef": "Weakest"
+    },
+    {
+      "description": "Solo se puede bloquear con una unidad que tenga elusión.",
+      "name": "Elusión",
+      "nameRef": "Elusive"
+    },
+    {
+      "description": "Cura al nexo la misma cantidad que daño infligido",
+      "name": "Drenar",
+      "nameRef": "Drain"
+    },
+    {
+      "description": "Elimina una unidad del combate. No puede atacar ni bloquear durante la ronda.",
+      "name": "Aturdir",
+      "nameRef": "Stun"
+    },
+    {
+      "description": "Se adhiere a otra carta y la atrapa. Al robar la carta atrapada, activa su efecto.",
+      "name": "Trampa",
+      "nameRef": "Autoplay"
+    },
+    {
+      "description": "",
+      "name": "Piltover y Zaun",
+      "nameRef": "PiltoverZaun"
+    },
+    {
+      "description": "",
+      "name": "Demacia",
+      "nameRef": "Demacia"
+    },
+    {
+      "description": "",
+      "name": "Islas de la Sombra",
+      "nameRef": "ShadowIsles"
+    },
+    {
+      "description": "Inflige al nexo enemigo más daño del que mataría a los objetivos.",
+      "name": "Abrumar",
+      "nameRef": "SpellOverwhelm"
+    },
+    {
+      "description": "Evita la siguiente cantidad de daño que reciba la unidad. Dura una ronda.",
+      "name": "Barrera",
+      "nameRef": "Barrier"
+    },
+    {
+      "description": "Elimina una carta capturada y la devuelve cuando la unidad captora abandona la partida.",
+      "name": "Capturar",
+      "nameRef": "Capture"
+    },
+    {
+      "description": "Reduce el poder de una unidad a 0 durante esta ronda. Puede modificarse más adelante.",
+      "name": "Escarchar",
+      "nameRef": "Frostbite"
+    },
+    {
+      "description": "Las ráfagas de hechizos se ejecutan instantáneamente. El enemigo no puede actuar antes de que finalicen.",
+      "name": "Ráfaga",
+      "nameRef": "Burst"
+    },
+    {
+      "description": "Las cartas fugaces se descartan de la mano al final de la ronda.",
+      "name": "Fugaz",
+      "nameRef": "Fleeting"
+    },
+    {
+      "description": "Los hechizos veloces se pueden lanzar en cualquier momento, pero permitirán a tu rival reaccionar.",
+      "name": "Veloz",
+      "nameRef": "Fast"
+    },
+    {
+      "description": "El daño extra que inflijo al bloqueador lo recibe el nexo enemigo.",
+      "name": "Abrumar",
+      "nameRef": "Overwhelm"
+    },
+    {
+      "description": "A la hora de atacar, golpea antes que su bloqueador.",
+      "name": "Ataque rápido",
+      "nameRef": "QuickStrike"
+    },
+    {
+      "description": "Recibe 1 menos de daño de todas las fuentes.",
+      "name": "Aguante",
+      "nameRef": "Tough"
+    },
+    {
+      "description": "La unidad regresa a la mano y todos los efectos que la afectan desaparecen.",
+      "name": "Retirada",
+      "nameRef": "Recall"
+    },
+    {
+      "description": "",
+      "name": "Jonia",
+      "nameRef": "Ionia"
+    },
+    {
+      "description": "Recupera toda la vida al comienzo de cada ronda.",
+      "name": "Regeneración",
+      "nameRef": "Regeneration"
+    },
+    {
+      "description": "Cura al nexo la misma cantidad de daño que inflige.",
+      "name": "Robo de vida",
+      "nameRef": "Lifesteal"
+    },
+    {
+      "description": "Cuando tienes 10 de maná máximo, cuentas con iluminación.",
+      "name": "Iluminación",
+      "nameRef": "Enlightened"
+    },
+    {
+      "description": "Puedes lanzar hechizos lentos aunque no estés combatiendo ni lanzando nada, pero el enemigo puede responder.",
+      "name": "Lento",
+      "nameRef": "Slow"
+    },
+    {
+      "description": "",
+      "name": "Noxus",
+      "nameRef": "Noxus"
+    },
+    {
+      "description": "Esta unidad muere al atacar o al acabar la ronda.",
+      "name": "Endeble",
+      "nameRef": "Ephemeral"
+    },
+    {
+      "description": "",
+      "name": "Freljord",
+      "nameRef": "Freljord"
+    },
+    {
+      "description": "Estas habilidades surten efecto cuando la unidad muere.",
+      "name": "Último aliento",
+      "nameRef": "LastBreath"
+    },
+    {
+      "description": "Puede elegir la unidad enemiga que bloquea.",
+      "name": "Aspirante",
+      "nameRef": "Challenger"
+    },
+    {
+      "description": "Estas habilidades se activan al ejecutar un hechizo.",
+      "name": "Infundir",
+      "nameRef": "Imbue"
+    },
+    {
+      "description": "Solo se puede bloquear con enemigos de 3 o más de poder.",
+      "name": "Temible",
+      "nameRef": "Fearsome"
+    },
+    {
+      "description": "",
+      "name": "No puede bloquear",
+      "nameRef": "CantBlock"
+    }
+  ],
+  "regions": [
+    {
+      "abbreviation": "NX",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-noxus.png",
+      "name": "Noxus",
+      "nameRef": "Noxus"
+    },
+    {
+      "abbreviation": "DE",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-demacia.png",
+      "name": "Demacia",
+      "nameRef": "Demacia"
+    },
+    {
+      "abbreviation": "FR",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-freljord.png",
+      "name": "Freljord",
+      "nameRef": "Freljord"
+    },
+    {
+      "abbreviation": "SI",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-shadowisles.png",
+      "name": "Islas de la Sombra",
+      "nameRef": "ShadowIsles"
+    },
+    {
+      "abbreviation": "IO",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-ionia.png",
+      "name": "Jonia",
+      "nameRef": "Ionia"
+    },
+    {
+      "abbreviation": "PZ",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-piltoverzaun.png",
+      "name": "Piltover y Zaun",
+      "nameRef": "PiltoverZaun"
+    }
+  ],
+  "spellSpeeds": [
+    {
+      "name": "Lento",
+      "nameRef": "Slow"
+    },
+    {
+      "name": "Ráfaga",
+      "nameRef": "Burst"
+    },
+    {
+      "name": "Veloz",
+      "nameRef": "Fast"
+    }
+  ],
+  "rarities": [
+    {
+      "name": "Común",
+      "nameRef": "Common"
+    },
+    {
+      "name": "Rara",
+      "nameRef": "Rare"
+    },
+    {
+      "name": "Épica",
+      "nameRef": "Epic"
+    },
+    {
+      "name": "Campeón",
+      "nameRef": "Champion"
+    },
+    {
+      "name": "Ninguna",
+      "nameRef": "None"
+    }
+  ]
+}

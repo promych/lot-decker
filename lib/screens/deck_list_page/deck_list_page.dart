@@ -3,7 +3,6 @@ import 'dart:math' show pi;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:lor_deck_coder/lor_deck_coder.dart';
-import 'package:lor_decker/screens/deck_page/deck_page.dart';
 import 'package:provider/provider.dart';
 
 import '../../data/db_bloc.dart';
@@ -12,6 +11,7 @@ import '../../managers/locale_manager.dart';
 import '../../models/deck.dart';
 import '../../ui/fake_card_img.dart';
 import '../../ui/sliver_container.dart';
+import '../deck_page/deck_page.dart';
 import 'deck_list_tile.dart';
 
 class DeckListPage extends StatefulWidget {

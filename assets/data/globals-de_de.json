@@ -12,8 +12,8 @@
     },
     {
       "description": "Beim Angriff wird der erste Schlag VOR der Abwehr und der zweite ZEITGLEICH mit ihr ausgeführt.",
-      "name": "Doppelschlag",
-      "nameRef": "Double Strike"
+      "name": "Doppelangriff",
+      "nameRef": "DoubleStrike"
     },
     {
       "description": "Niedrigster Angriffswert, bei gleichen Werten entscheidet das niedrigste Leben, dann die niedrigsten Kosten.",
@@ -71,7 +71,7 @@
       "nameRef": "Capture"
     },
     {
-      "description": "Der Stärke einer Einheit wird in dieser Runde auf 0 gesetzt (kann danach geändert werden).",
+      "description": "Setzt die Stärke einer Einheit in dieser Runde auf 0. Danach kann sie geändert werden.",
       "name": "Einfrieren",
       "nameRef": "Frostbite"
     },
@@ -97,8 +97,8 @@
     },
     {
       "description": "Schlägt bei ihrem Angriff vor der Abwehr zu.",
-      "name": "Direktschlag",
-      "nameRef": "Quick Strike"
+      "name": "Direktangriff",
+      "nameRef": "QuickStrike"
     },
     {
       "description": "Erleidet 1 weniger Schaden aus allen Quellen.",
@@ -153,7 +153,7 @@
     {
       "description": "Diese Fähigkeiten werden wirksam, wenn die Einheit stirbt.",
       "name": "Letzter Wunsch",
-      "nameRef": "Last Breath"
+      "nameRef": "LastBreath"
     },
     {
       "description": "Kann wählen, welche gegnerische Einheit abwehrt.",
@@ -177,12 +177,6 @@
     }
   ],
   "regions": [
-    {
-      "abbreviation": "NE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/de_de/img/regions/icon-neutral.png",
-      "name": "Neutral",
-      "nameRef": "Neutral"
-    },
     {
       "abbreviation": "NX",
       "iconAbsolutePath": "http://dd.b.pvp.net/core/de_de/img/regions/icon-noxus.png",

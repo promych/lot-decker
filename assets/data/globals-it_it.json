@@ -1,0 +1,253 @@
+{
+  "keywords": [
+    {
+      "description": "Rimossa completamente dal gioco. Non provoca Ultimo respiro e non può essere rianimata.",
+      "name": "Annientare",
+      "nameRef": "Obliterate"
+    },
+    {
+      "description": "Un effetto simile a un incantesimo creato e lanciato da un'unità.",
+      "name": "Abilità",
+      "nameRef": "Skill"
+    },
+    {
+      "description": "Quando attacca, colpisce prima E contemporaneamente alla sua unità bloccante.",
+      "name": "Attacco doppio",
+      "nameRef": "DoubleStrike"
+    },
+    {
+      "description": "Potere più basso, spareggio con la Salute più bassa e poi con il Costo più basso.",
+      "name": "Più debole",
+      "nameRef": "Weakest"
+    },
+    {
+      "description": "Può essere bloccata solo da un'altra unità Elusiva.",
+      "name": "Elusione",
+      "nameRef": "Elusive"
+    },
+    {
+      "description": "Cura il nostro Nexus per la quantità di danni inflitti",
+      "name": "Assorbimento",
+      "nameRef": "Drain"
+    },
+    {
+      "description": "Rimuovi un'unità dal combattimento. Non può attaccare o bloccare per il resto del turno.",
+      "name": "Stordimento",
+      "nameRef": "Stun"
+    },
+    {
+      "description": "Si lega a un'altra carta, piazzando una trappola. Quando la carta con la trappola viene pescata, esegui l'effetto.",
+      "name": "Trappola",
+      "nameRef": "Autoplay"
+    },
+    {
+      "description": "",
+      "name": "Piltover e Zaun",
+      "nameRef": "PiltoverZaun"
+    },
+    {
+      "description": "",
+      "name": "Demacia",
+      "nameRef": "Demacia"
+    },
+    {
+      "description": "",
+      "name": "Isole Ombra",
+      "nameRef": "ShadowIsles"
+    },
+    {
+      "description": "Infliggi al Nexus nemico i danni in eccesso all'uccisione del bersaglio o dei bersagli.",
+      "name": "Sopraffare",
+      "nameRef": "SpellOverwhelm"
+    },
+    {
+      "description": "Nega i danni successivi che l'unità subirebbe. Dura un turno.",
+      "name": "Barriera",
+      "nameRef": "Barrier"
+    },
+    {
+      "description": "Una carta sequestrata viene rimossa dal gioco. Torna quando l'unità che sequestra lascia il gioco.",
+      "name": "Sequestro",
+      "nameRef": "Capture"
+    },
+    {
+      "description": "Imposta il Potere di un'unità a 0 per questo turno. Può essere cambiato in seguito.",
+      "name": "Congelamento",
+      "nameRef": "Frostbite"
+    },
+    {
+      "description": "Gli incantesimi con Raffica si risolvono all'istante. Il nemico non può agire prima della loro fine.",
+      "name": "Raffica",
+      "nameRef": "Burst"
+    },
+    {
+      "description": "Le carte Fugaci vengono scartate quando il turno finisce.",
+      "name": "Fugace",
+      "nameRef": "Fleeting"
+    },
+    {
+      "description": "Gli incantesimi Veloci possono essere giocati in qualunque momento, ma danno all'avversario la possibilità di rispondere.",
+      "name": "Veloce",
+      "nameRef": "Fast"
+    },
+    {
+      "description": "I danni in eccesso inflitti al mio bloccante vengono inflitti al Nexus nemico.",
+      "name": "Sopraffare",
+      "nameRef": "Overwhelm"
+    },
+    {
+      "description": "Durante gli attacchi, colpisce prima del suo bloccante.",
+      "name": "Attacco rapido",
+      "nameRef": "QuickStrike"
+    },
+    {
+      "description": "Subisce un danno in meno da tutte le fonti.",
+      "name": "Tenacia",
+      "nameRef": "Tough"
+    },
+    {
+      "description": "Ritorna un'unità in mano e rimuove gli effetti applicati ad essa.",
+      "name": "Richiamo",
+      "nameRef": "Recall"
+    },
+    {
+      "description": "",
+      "name": "Ionia",
+      "nameRef": "Ionia"
+    },
+    {
+      "description": "Guarisce completamente all'inizio di ogni turno.",
+      "name": "Rigenerazione",
+      "nameRef": "Regeneration"
+    },
+    {
+      "description": "I danni inflitti da questa unità curano il suo Nexus di quella quantità.",
+      "name": "Rubavita",
+      "nameRef": "Lifesteal"
+    },
+    {
+      "description": "Sei Illuminato quando possiedi 10 di mana massimo.",
+      "name": "Illuminato",
+      "nameRef": "Enlightened"
+    },
+    {
+      "description": "Gli incantesimi Lenti possono essere lanciati fuori dai combattimenti e dagli altri lanci. Il nemico può rispondere.",
+      "name": "Lento",
+      "nameRef": "Slow"
+    },
+    {
+      "description": "",
+      "name": "Noxus",
+      "nameRef": "Noxus"
+    },
+    {
+      "description": "Questa unità muore quando colpisce o alla fine del turno.",
+      "name": "Effimero",
+      "nameRef": "Ephemeral"
+    },
+    {
+      "description": "",
+      "name": "Freljord",
+      "nameRef": "Freljord"
+    },
+    {
+      "description": "Queste abilità hanno effetto quando l'unità muore.",
+      "name": "Ultimo respiro",
+      "nameRef": "LastBreath"
+    },
+    {
+      "description": "Puoi scegliere quale unità nemica bloccherà.",
+      "name": "Sfidante",
+      "nameRef": "Challenger"
+    },
+    {
+      "description": "Queste abilità si attivano quando risolvi un incantesimo.",
+      "name": "Ispirazione",
+      "nameRef": "Imbue"
+    },
+    {
+      "description": "Può essere bloccata solo dalle unità con 3 o più di attacco.",
+      "name": "Temibile",
+      "nameRef": "Fearsome"
+    },
+    {
+      "description": "",
+      "name": "Non può bloccare",
+      "nameRef": "CantBlock"
+    }
+  ],
+  "regions": [
+    {
+      "abbreviation": "NX",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/it_it/img/regions/icon-noxus.png",
+      "name": "Noxus",
+      "nameRef": "Noxus"
+    },
+    {
+      "abbreviation": "DE",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/it_it/img/regions/icon-demacia.png",
+      "name": "Demacia",
+      "nameRef": "Demacia"
+    },
+    {
+      "abbreviation": "FR",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/it_it/img/regions/icon-freljord.png",
+      "name": "Freljord",
+      "nameRef": "Freljord"
+    },
+    {
+      "abbreviation": "SI",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/it_it/img/regions/icon-shadowisles.png",
+      "name": "Isole Ombra",
+      "nameRef": "ShadowIsles"
+    },
+    {
+      "abbreviation": "IO",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/it_it/img/regions/icon-ionia.png",
+      "name": "Ionia",
+      "nameRef": "Ionia"
+    },
+    {
+      "abbreviation": "PZ",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/it_it/img/regions/icon-piltoverzaun.png",
+      "name": "Piltover e Zaun",
+      "nameRef": "PiltoverZaun"
+    }
+  ],
+  "spellSpeeds": [
+    {
+      "name": "Lento",
+      "nameRef": "Slow"
+    },
+    {
+      "name": "Raffica",
+      "nameRef": "Burst"
+    },
+    {
+      "name": "Veloce",
+      "nameRef": "Fast"
+    }
+  ],
+  "rarities": [
+    {
+      "name": "Comune",
+      "nameRef": "Common"
+    },
+    {
+      "name": "Rara",
+      "nameRef": "Rare"
+    },
+    {
+      "name": "Epico",
+      "nameRef": "Epic"
+    },
+    {
+      "name": "Campione",
+      "nameRef": "Champion"
+    },
+    {
+      "name": "Nessuno",
+      "nameRef": "None"
+    }
+  ]
+}

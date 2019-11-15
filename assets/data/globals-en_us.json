@@ -13,7 +13,7 @@
     {
       "description": "While attacking, it strikes both before AND at the same time as its blocker.",
       "name": "Double Attack",
-      "nameRef": "Double Strike"
+      "nameRef": "DoubleStrike"
     },
     {
       "description": "Lowest Power, with ties broken by lowest Health then lowest Cost",
@@ -71,7 +71,7 @@
       "nameRef": "Capture"
     },
     {
-      "description": "Set a unit's Power to 0 this round (it can be changed after).",
+      "description": "Set a unit's Power to 0 this round. It can be changed after.",
       "name": "Frostbite",
       "nameRef": "Frostbite"
     },
@@ -98,7 +98,7 @@
     {
       "description": "While attacking, strikes before its blocker.",
       "name": "Quick Attack",
-      "nameRef": "Quick Strike"
+      "nameRef": "QuickStrike"
     },
     {
       "description": "Takes 1 less damage from all sources.",
@@ -153,7 +153,7 @@
     {
       "description": "These abilities take effect when the unit dies.",
       "name": "Last Breath",
-      "nameRef": "Last Breath"
+      "nameRef": "LastBreath"
     },
     {
       "description": "Can choose which enemy unit blocks.",
@@ -177,12 +177,6 @@
     }
   ],
   "regions": [
-    {
-      "abbreviation": "NE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/en_us/img/regions/icon-neutral.png",
-      "name": "Neutral",
-      "nameRef": "Neutral"
-    },
     {
       "abbreviation": "NX",
       "iconAbsolutePath": "http://dd.b.pvp.net/core/en_us/img/regions/icon-noxus.png",
