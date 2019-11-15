@@ -20,14 +20,15 @@ class DeckPage extends StatefulWidget {
 
   DeckPage({Key key, @required this.bloc}) : super(key: key);
 
-  static Future<Widget> create(BuildContext context) async {
+  static Future<Widget> create(
+      BuildContext context, Map<String, int> cardCodes) async {
     final currentDeck = await Provider.of<DbBloc>(context).currentDeck;
 
     return Provider<DeckPageBloc>(
       builder: (_) => DeckPageBloc(
         cards: Provider.of<AppManager>(context).cardsCollectible,
         deck: currentDeck,
-      )..load(),
+      )..load(cardCodes),
       dispose: (_, bloc) => bloc.dispose(),
       child: Consumer<DeckPageBloc>(
         builder: (context, bloc, _) => DeckPage(bloc: bloc),
@@ -41,7 +42,7 @@ class DeckPage extends StatefulWidget {
 
 class _DeckPageState extends State<DeckPage> {
   TextEditingController _deckNameEditingController;
-  // String _name;
+  TextEditingController _deckCodeContoller;
 
   Future<void> _saveDeck(BuildContext context) async {
     await widget.bloc.saveDeck(_deckNameEditingController.text != ''
@@ -80,7 +81,7 @@ class _DeckPageState extends State<DeckPage> {
                       : null,
                 ),
               ),
-              actions: <Widget>[
+              actions: [
                 FlatButton(
                   child: Text('OK'),
                   onPressed: deckName.hasError
@@ -98,8 +99,26 @@ class _DeckPageState extends State<DeckPage> {
     );
   }
 
-  Future<void> _getDeckCode() async {
-    await widget.bloc.deckCode();
+  Future<void> _getDeckCode(BuildContext context) async {
+    _deckCodeContoller.text = await widget.bloc.deckCode();
+    showDialog(
+        context: context,
+        builder: (context) {
+          return AlertDialog(
+            backgroundColor: Styles.layerColor,
+            title: Text(LocaleManager.of(context).translate('deck code')),
+            content: TextField(controller: _deckCodeContoller),
+            actions: [
+              FlatButton(
+                child: Text('OK'),
+                onPressed: () {
+                  _deckCodeContoller.clear();
+                  Navigator.of(context).pop();
+                },
+              )
+            ],
+          );
+        });
   }
 
   Widget _buildDeckName(BuildContext context) {
@@ -149,7 +168,7 @@ class _DeckPageState extends State<DeckPage> {
               _deleteDeck(context);
               break;
             case 'Deck code':
-              _getDeckCode();
+              _getDeckCode(context);
               break;
           }
         },
@@ -179,11 +198,13 @@ class _DeckPageState extends State<DeckPage> {
   void initState() {
     super.initState();
     _deckNameEditingController = TextEditingController();
+    _deckCodeContoller = TextEditingController();
   }
 
   @override
   void dispose() {
     _deckNameEditingController.dispose();
+    _deckCodeContoller.dispose();
     super.dispose();
   }
 

@@ -25,5 +25,6 @@ const Map<String, Locale> kAppLocales = {
 const kMaxRegionsInDeck = 2;
 const kMaxSameCardsInDeck = 3;
 const kMaxChampionsInDeck = 6;
+const kMaxCardsInDeck = 40;
 
 const kIconSize = 24.0;

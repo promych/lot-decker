@@ -21,6 +21,9 @@ dependencies:
   shared_preferences: ^0.5.3+5
   cupertino_icons: ^0.1.2
 
+  lor_deck_coder:
+    path: ../lor_deck_coder/
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

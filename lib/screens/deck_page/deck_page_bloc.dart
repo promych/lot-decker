@@ -1,6 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
+import 'package:flutter/services.dart';
+import 'package:lor_deck_coder/lor_deck_coder.dart';
 
 import '../../data/persistent_database.dart';
 import '../../helpers/constants.dart';
@@ -79,7 +81,12 @@ class DeckPageBloc {
         card.cardCode,
         _selectedCards.where((c) => c.cardCode == card.cardCode).length)));
     print(cardCodes);
-    return await Future.microtask(() => 'asd');
+    // return await Future.microtask(() => 'asd');
+    try {
+      return await LorDeckCoder.encodeToCode(cardCodes);
+    } on PlatformException catch (e) {
+      return e.message;
+    }
   }
 
   // cards and mana cost
@@ -97,7 +104,9 @@ class DeckPageBloc {
   Stream<Map<String, int>> get $manaCost => _manaCostController.stream;
 
   void selectCard(CardModel selectedCard) {
-    if (sameCardsInDeckNum(selectedCard) >= kMaxSameCardsInDeck) return;
+    if (sameCardsInDeckNum(selectedCard) >= kMaxSameCardsInDeck ||
+        _selectedCards.length == kMaxCardsInDeck) return;
+
     if (selectedCard.cardType == 'Champion' &&
         _selectedCards
                 .where((c) => c.cardType == selectedCard.cardType)
@@ -169,7 +178,7 @@ class DeckPageBloc {
         .toList();
   }
 
-  void load() {
+  void load([Map<String, int> cardCodes]) {
     final tr = StreamTransformer<List<CardModel>, List<CardModel>>.fromHandlers(
         handleData: (value, sink) => sink.add(filterCards(value)));
 
@@ -207,6 +216,26 @@ class DeckPageBloc {
               (card) => card.cardCode == cardCode,
               orElse: () => null))
           .toList();
+    }
+
+    if (cardCodes != null && cardCodes.isNotEmpty) {
+      // print(cardCodes.toString());
+      _selectedCards.clear();
+      cardCodes.entries.forEach((e) {
+        for (var i = 1; i <= e.value; i++) {
+          try {
+            final card = cards.singleWhere((card) => card.cardCode == e.key);
+            _selectedCards.add(card);
+            _manaCost.update(
+              card.cost < 7 ? card.cost.toString() : '7',
+              (v) => v + 1,
+              ifAbsent: () => 1,
+            );
+          } on StateError {
+            continue;
+          }
+        }
+      });
     }
 
     _editingController.sink.add(_isEditing);

@@ -1,6 +1,9 @@
 import 'dart:math' show pi;
 
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:lor_deck_coder/lor_deck_coder.dart';
+import 'package:lor_decker/screens/deck_page/deck_page.dart';
 import 'package:provider/provider.dart';
 
 import '../../data/db_bloc.dart';
@@ -11,27 +14,64 @@ import '../../ui/fake_card_img.dart';
 import '../../ui/sliver_container.dart';
 import 'deck_list_tile.dart';
 
-class DeckListPage extends StatelessWidget {
+class DeckListPage extends StatefulWidget {
   final Function onTap;
 
   const DeckListPage({Key key, @required this.onTap}) : super(key: key);
 
+  @override
+  _DeckListPageState createState() => _DeckListPageState();
+}
+
+class _DeckListPageState extends State<DeckListPage> {
+  TextEditingController _codeController;
+
   Future<void> _codeToDeck(BuildContext context) async {
     showDialog(
-        context: context,
-        builder: (context) {
-          return AlertDialog(
-            backgroundColor: Styles.layerColor,
-            title: Text(LocaleManager.of(context).translate('paste code')),
-            content: TextField(),
-            actions: [
-              FlatButton(
-                child: Text('OK'),
-                onPressed: () {},
-              )
-            ],
-          );
-        });
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          backgroundColor: Styles.layerColor,
+          title: Text(LocaleManager.of(context).translate('paste code')),
+          content: TextField(
+            controller: _codeController,
+          ),
+          actions: [
+            FlatButton(
+              child: Text('OK'),
+              onPressed: () async {
+                try {
+                  if (_codeController.text.isEmpty) return;
+                  final cardsInDeck =
+                      await LorDeckCoder.decodeToDeck(_codeController.text);
+                  final deckPage = await DeckPage.create(
+                      context, Map<String, int>.from(cardsInDeck));
+                  Navigator.of(context).pop();
+                  _codeController.clear();
+                  Navigator.of(context).push(MaterialPageRoute(
+                    builder: (context) => deckPage,
+                  ));
+                } on PlatformException catch (e) {
+                  print(e.message);
+                }
+              },
+            )
+          ],
+        );
+      },
+    );
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    _codeController = TextEditingController();
+  }
+
+  @override
+  void dispose() {
+    _codeController.dispose();
+    super.dispose();
   }
 
   @override
@@ -56,7 +96,7 @@ class DeckListPage extends StatelessWidget {
               horizontal: 16.0,
               vertical: 10.0,
             ),
-            sliver: _DeckList(onEdit: onTap),
+            sliver: _DeckList(onEdit: widget.onTap),
           )
         ],
       ),

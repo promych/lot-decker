@@ -21,7 +21,7 @@ class _HomePageState extends State<HomePage> {
   PageStorageBucket _bucket;
 
   Future<void> _editDeck(BuildContext context) async {
-    final deckPage = await DeckPage.create(context);
+    final deckPage = await DeckPage.create(context, null);
     Navigator.of(context).push(MaterialPageRoute(
       builder: (context) => deckPage,
     ));
