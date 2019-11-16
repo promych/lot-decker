@@ -6,8 +6,8 @@ const Map<String, Locale> kAppLocales = {
   'ES': const Locale('es', 'ES'),
   'FR': const Locale('fr', 'FR'),
   'IT': const Locale('it', 'IT'),
-  'JP': const Locale('ja', 'JP'),
-  'KR': const Locale('ko', 'KR'),
+  // 'JP': const Locale('ja', 'JP'),
+  // 'KR': const Locale('ko', 'KR'),
 };
 
 const kMaxRegionsInDeck = 2;
