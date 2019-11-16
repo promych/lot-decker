@@ -35,6 +35,7 @@ flutter:
    - assets/lang/
    - assets/data/
    - assets/img/regions/
+   - assets/img/champions/
    - assets/img/cards/
    - assets/img/types/
    - assets/img/rarities/
