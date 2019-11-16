@@ -80,8 +80,9 @@ class CardModel extends Equatable {
     );
   }
 
-  String get cardType =>
-      supertype.isNotEmpty ? supertype : (type != 'Trap' ? type : 'Spell');
+  String get cardType => supertype.isNotEmpty
+      ? supertype
+      : (!['Trap', 'Ability'].contains(type) ? type : 'Spell');
 
   @override
   List<Object> get props => [cardCode];

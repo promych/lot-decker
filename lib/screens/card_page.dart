@@ -68,7 +68,12 @@ class _CardPageState extends State<CardPage> {
   void didChangeDependencies() {
     final _associatedCards = Provider.of<AppManager>(context)
         .associatedCards(widget.card.associatedCardRefs);
-    if (_associatedCards.length != 0) _cardList.addAll(_associatedCards);
+    if (_associatedCards.length != 0) {
+      _cardList.addAll(
+        _associatedCards..sort((a, b) => b.supertype.compareTo(a.supertype)),
+      );
+    }
+
     super.didChangeDependencies();
   }
 
@@ -132,7 +137,8 @@ class _CardInfo extends StatelessWidget {
                     Text.rich(
                       TextSpan(
                         children: <InlineSpan>[
-                          if (keyword.nameRef != 'Autoplay')
+                          if (!['Autoplay', 'Fleeting', 'Skill']
+                              .contains(keyword.nameRef))
                             WidgetSpan(
                               alignment: PlaceholderAlignment.middle,
                               baseline: TextBaseline.alphabetic,
