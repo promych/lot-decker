@@ -12,7 +12,6 @@ dependencies:
   flutter_localizations:
     sdk: flutter
 
-  # auto_size_text: ^2.1.0
   badges: ^1.1.0
   equatable: ^0.6.1
   provider: ^3.1.0+1
@@ -27,6 +26,15 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_native_splash: ^0.1.9
+  flutter_launcher_icons: ^0.7.4
+  
+flutter_native_splash:
+  color: "171e28"
+flutter_icons:
+  android: "launcher_icon" 
+  ios: false
+  image_path: "assets/icon/icon.png"
 
 flutter:
   uses-material-design: true
@@ -40,6 +48,7 @@ flutter:
    - assets/img/types/
    - assets/img/rarities/
    - assets/img/keywords/
+   - assets/icon/
 
   fonts:
     - family: Alegreya
