@@ -161,6 +161,17 @@ class _EmptyDecksContainer extends StatelessWidget {
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
+        Text(
+          LocaleManager.of(context).translate('no decks'),
+          style: Styles.defaultText20,
+          textAlign: TextAlign.center,
+        ),
+        Text(
+          LocaleManager.of(context).translate('no decks hint'),
+          style: Styles.defaultText16,
+          textAlign: TextAlign.center,
+        ),
+        SizedBox(height: 50.0),
         Stack(
           children: [
             Transform(
@@ -184,16 +195,6 @@ class _EmptyDecksContainer extends StatelessWidget {
               child: FakeCardImg(),
             ),
           ],
-        ),
-        Text(
-          LocaleManager.of(context).translate('no decks'),
-          style: Styles.defaultText20,
-          textAlign: TextAlign.center,
-        ),
-        Text(
-          LocaleManager.of(context).translate('no decks hint'),
-          style: Styles.defaultText16,
-          textAlign: TextAlign.center,
         ),
       ],
     );
