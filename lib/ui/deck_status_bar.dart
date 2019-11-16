@@ -24,7 +24,7 @@ class DeckStatusBar extends StatelessWidget {
     final globals = Provider.of<AppManager>(context).globals;
 
     int spellsNum = 0;
-    int championsNum = 0;
+    // int championsNum = 0;
     int unitsNum = 0;
     int total = 0;
     Set<String> factions = {};
@@ -36,8 +36,8 @@ class DeckStatusBar extends StatelessWidget {
     if (cardsInDeck != null && cardsInDeck.isNotEmpty) {
       spellsNum =
           cardsInDeck.where((card) => card.spellSpeedRef.isNotEmpty).length;
-      championsNum =
-          cardsInDeck.where((card) => card.supertype.isNotEmpty).length;
+      // championsNum =
+      //     cardsInDeck.where((card) => card.supertype.isNotEmpty).length;
       unitsNum =
           cardsInDeck.where((card) => card.cardType == unitLocaleName).length;
       factions =
@@ -54,11 +54,21 @@ class DeckStatusBar extends StatelessWidget {
 
     return Row(
       children: [
-        _IconBadge(
-          child:
-              Image.asset('assets/img/types/Champion.png', height: _iconSize),
-          cardNum: championsNum,
-        ),
+        // _IconBadge(
+        //   child:
+        //       Image.asset('assets/img/types/Champion.png', height: _iconSize),
+        //   cardNum: championsNum,
+        // ),
+        for (var card
+            in cardsInDeck.where((card) => card.supertype.isNotEmpty).toSet())
+          _IconBadge(
+            child: CircleAvatar(
+              radius: _iconSize / 2,
+              backgroundImage:
+                  AssetImage('assets/img/champions/${card.name}.webp'),
+            ),
+            cardNum: cardsInDeck.where((c) => c.name == card.name).length,
+          ),
         _IconBadge(
           child: Image.asset('assets/img/types/Unit.png', height: _iconSize),
           cardNum: unitsNum,
