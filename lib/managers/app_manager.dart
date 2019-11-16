@@ -130,7 +130,7 @@ class AppManager implements FilterBloc {
     _filteredCards = _filter.isNotEmpty
         ? cardsCollectible
             .where((card) => _filter.containsKey('regions')
-                ? _filter['regions'].contains(card.regionRef)
+                ? _filter['regions'].contains(card.region)
                 : true)
             .where((card) => _filter.containsKey('cost')
                 ? _filter['cost'].contains(card.cost)
