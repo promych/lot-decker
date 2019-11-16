@@ -80,8 +80,7 @@ class DeckPageBloc {
     cardCodes.addEntries(_selectedCards.map((card) => MapEntry<String, int>(
         card.cardCode,
         _selectedCards.where((c) => c.cardCode == card.cardCode).length)));
-    print(cardCodes);
-    // return await Future.microtask(() => 'asd');
+
     try {
       return await LorDeckCoder.encodeToCode(cardCodes);
     } on PlatformException catch (e) {

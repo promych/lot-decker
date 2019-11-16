@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 import '../../data/db_bloc.dart';
@@ -101,19 +102,38 @@ class _DeckPageState extends State<DeckPage> {
 
   Future<void> _getDeckCode(BuildContext context) async {
     _deckCodeContoller.text = await widget.bloc.deckCode();
+    _deckCodeContoller.selection = TextSelection(
+      baseOffset: 0,
+      extentOffset: _deckCodeContoller.text.length,
+    );
     showDialog(
         context: context,
         builder: (context) {
           return AlertDialog(
             backgroundColor: Styles.layerColor,
             title: Text(LocaleManager.of(context).translate('deck code')),
-            content: TextField(controller: _deckCodeContoller),
+            content: TextField(
+              controller: _deckCodeContoller,
+            ),
             actions: [
               FlatButton(
                 child: Text('OK'),
-                onPressed: () {
-                  _deckCodeContoller.clear();
-                  Navigator.of(context).pop();
+                onPressed: () async {
+                  await Clipboard.setData(
+                    ClipboardData(text: _deckCodeContoller.text),
+                  ).then((res) {
+                    // Scaffold.of(context).showSnackBar(
+                    //   SnackBar(
+                    //     content: Text('Copied to Clipboard'),
+                    //     action: SnackBarAction(
+                    //       label: 'Undo',
+                    //       onPressed: () {},
+                    //     ),
+                    //   ),
+                    // );
+                    _deckCodeContoller.clear();
+                    Navigator.of(context).pop();
+                  });
                 },
               )
             ],
