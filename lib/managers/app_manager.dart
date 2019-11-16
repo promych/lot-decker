@@ -157,7 +157,7 @@ class AppManager implements FilterBloc {
       ifAbsent: () => [entry.value],
     );
     if (newValue.isEmpty) _filter.remove(entry.key);
-    print(_filter);
+    // print(_filter);
     _filterController.sink.add(_filter);
     _applyFilter();
   }

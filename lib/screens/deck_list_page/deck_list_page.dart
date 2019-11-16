@@ -38,6 +38,10 @@ class _DeckListPageState extends State<DeckListPage> {
           ),
           actions: [
             FlatButton(
+              child: Text(LocaleManager.of(context).translate('cancel')),
+              onPressed: () => Navigator.of(context).pop(),
+            ),
+            FlatButton(
               child: Text('OK'),
               onPressed: () async {
                 try {

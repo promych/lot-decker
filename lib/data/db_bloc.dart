@@ -35,7 +35,7 @@ class DbBloc {
         ? _favoritedCards.remove(cardCode)
         : _favoritedCards.add(cardCode);
     _favoritedCardsController.sink.add(_favoritedCards);
-    print(_favoritedCards);
+    // print(_favoritedCards);
   }
 
   // load

@@ -84,6 +84,10 @@ class _DeckPageState extends State<DeckPage> {
               ),
               actions: [
                 FlatButton(
+                  child: Text(LocaleManager.of(context).translate('cancel')),
+                  onPressed: () => Navigator.of(context).pop(),
+                ),
+                FlatButton(
                   child: Text('OK'),
                   onPressed: deckName.hasError
                       ? null
@@ -116,6 +120,10 @@ class _DeckPageState extends State<DeckPage> {
               controller: _deckCodeContoller,
             ),
             actions: [
+              FlatButton(
+                child: Text(LocaleManager.of(context).translate('cancel')),
+                onPressed: () => Navigator.of(context).pop(),
+              ),
               FlatButton(
                 child: Text('OK'),
                 onPressed: () async {
