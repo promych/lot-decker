@@ -11,6 +11,31 @@ const Map<String, Map<String, String>> _kTypes = {
     'Spell': 'Zauber',
     'Unit': 'Einheit',
   },
+  'es': {
+    'Champion': 'Campeón',
+    'Spell': 'Hechizo',
+    'Unit': 'Unidad',
+  },
+  'fr': {
+    'Champion': 'Champion',
+    'Spell': 'Sort',
+    'Unit': 'Unité',
+  },
+  'it': {
+    'Champion': 'Campione',
+    'Spell': 'Incantesimo',
+    'Unit': 'Unità',
+  },
+  'ja': {
+    'Champion': 'チャンピオン',
+    'Spell': 'スペル',
+    'Unit': 'ユニット',
+  },
+  'ko': {
+    'Champion': '챔피언',
+    'Spell': '주문',
+    'Unit': '유닛',
+  },
 };
 
 abstract class Referable {
