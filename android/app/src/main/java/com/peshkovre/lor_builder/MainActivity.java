@@ -1,4 +1,4 @@
-package com.example.lor_decker;
+package com.peshkovre.lor_builder;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
