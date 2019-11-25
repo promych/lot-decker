@@ -132,9 +132,14 @@ class AppManager implements FilterBloc {
             .where((card) => _filter.containsKey('regions')
                 ? _filter['regions'].contains(card.region)
                 : true)
-            .where((card) => _filter.containsKey('cost')
-                ? _filter['cost'].contains(card.cost)
-                : true)
+            .where((card) {
+              if (!_filter.containsKey('cost')) {
+                return true;
+              } else if (_filter['cost'].contains(7)) {
+                return (_filter['cost'].contains(card.cost) || card.cost > 7);
+              }
+              return _filter['cost'].contains(card.cost);
+            })
             .where((card) => _filter.containsKey('types')
                 ? _filter['types'].contains(card.cardType)
                 : true)

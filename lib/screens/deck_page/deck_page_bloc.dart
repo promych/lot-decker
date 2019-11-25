@@ -164,13 +164,18 @@ class DeckPageBloc {
 
   // load
 
-  List<CardModel> filterCards(cards) {
+  List<CardModel> filterCards(List<CardModel> cards) {
     final selectedFactions =
         _selectedCards.map((card) => card.regionRef).toSet();
     return cards
-        .where((card) => _selectedManaCostBar != null
-            ? card.cost == _selectedManaCostBar
-            : true)
+        .where((card) {
+          if (_selectedManaCostBar == null) {
+            return true;
+          } else if (_selectedManaCostBar == 7) {
+            return (card.cost >= _selectedManaCostBar);
+          }
+          return (card.cost == _selectedManaCostBar);
+        })
         .where((card) => selectedFactions.length >= kMaxRegionsInDeck
             ? selectedFactions.contains(card.regionRef)
             : true)
