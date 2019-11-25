@@ -197,10 +197,11 @@ class DeckPageBloc {
 
     $searchText.listen((text) {
       if (text != null && text != '') {
-        _filteredCardsController.sink.add(cards
+        _filteredCards = cards
             .where(
                 (card) => card.name.toLowerCase().contains(text.toLowerCase()))
-            .toList());
+            .toList();
+        _filteredCardsController.sink.add(_filteredCards);
       } else {
         _filteredCardsController.sink.add(cards);
       }
