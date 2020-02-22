@@ -8,7 +8,7 @@ import '../models/globals.dart';
 import 'faction_image.dart';
 
 class FilterCardsDrawer extends StatelessWidget {
-  static const _kIconSize = 32.0;
+  // static const _kIconSize = 32.0;
 
   Widget _buildManaCostFilter(BuildContext context) {
     final manaList = List<Widget>.generate(

@@ -15,6 +15,7 @@ import 'helpers/constants.dart';
 import 'screens/home_page/home_page.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle.light);
   SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
@@ -41,11 +42,11 @@ class App extends StatelessWidget {
     return MultiProvider(
       providers: [
         Provider<DbBloc>(
-          builder: (_) => DbBloc()..load(),
+          create: (_) => DbBloc()..load(),
           dispose: (_, bloc) => bloc.dispose(),
         ),
         Provider<AppManager>(
-          builder: (_) => AppManager()..load(),
+          create: (_) => AppManager()..load(),
           dispose: (_, bloc) => bloc.dispose(),
         ),
       ],

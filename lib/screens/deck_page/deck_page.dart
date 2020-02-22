@@ -23,10 +23,10 @@ class DeckPage extends StatefulWidget {
 
   static Future<Widget> create(
       BuildContext context, Map<String, int> cardCodes) async {
-    final currentDeck = await Provider.of<DbBloc>(context).currentDeck;
+    final currentDeck = await Provider.of<DbBloc>(context, listen: false).currentDeck;
 
     return Provider<DeckPageBloc>(
-      builder: (_) => DeckPageBloc(
+      create: (_) => DeckPageBloc(
         cards: Provider.of<AppManager>(context).cardsCollectible,
         deck: currentDeck,
       )..load(cardCodes),
