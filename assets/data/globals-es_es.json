@@ -1,12 +1,12 @@
 {
   "keywords": [
     {
-      "description": "Eliminado por completo del juego. No activa su Último aliento ni puede revivir.",
+      "description": "Eliminado por completo de la partida. No activa su Último aliento ni puede revivir.",
       "name": "Destruir",
       "nameRef": "Obliterate"
     },
     {
-      "description": "Un efecto parecido a un hechizo creado y lanzado por una unidad.",
+      "description": "Un efecto parecido a un hechizo de una unidad que permite reaccionar al enemigo.",
       "name": "Habilidad",
       "nameRef": "Skill"
     },
@@ -19,6 +19,11 @@
       "description": "La unidad con menos poder; si el nivel de poder es el mismo, se tendrá en cuenta la vida más baja y, si no, el coste más bajo.",
       "name": "Más débil",
       "nameRef": "Weakest"
+    },
+    {
+      "description": "Consigue este efecto cuando esta unidad ataca.",
+      "name": "Atacar",
+      "nameRef": "AttackSkillMark"
     },
     {
       "description": "Solo se puede bloquear con una unidad que tenga elusión.",
@@ -96,6 +101,11 @@
       "nameRef": "Overwhelm"
     },
     {
+      "description": "Consigue este efecto cuando juegas la unidad desde la mano.",
+      "name": "Jugar",
+      "nameRef": "PlaySkillMark"
+    },
+    {
       "description": "A la hora de atacar, golpea antes que su bloqueador.",
       "name": "Ataque rápido",
       "nameRef": "QuickStrike"
@@ -121,6 +131,11 @@
       "nameRef": "Regeneration"
     },
     {
+      "description": "Elimina el texto y todas las palabras clave de una unidad.",
+      "name": "Silenciada.",
+      "nameRef": "Silenced"
+    },
+    {
       "description": "Cura al nexo la misma cantidad de daño que inflige.",
       "name": "Robo de vida",
       "nameRef": "Lifesteal"
@@ -129,6 +144,11 @@
       "description": "Cuando tienes 10 de maná máximo, cuentas con iluminación.",
       "name": "Iluminación",
       "nameRef": "Enlightened"
+    },
+    {
+      "description": "Los campeones suben de nivel cuando se cumple la condición, ya sea en la mano o en el mazo.",
+      "name": "Subir de nivel",
+      "nameRef": "LevelUp"
     },
     {
       "description": "Puedes lanzar hechizos lentos aunque no estés combatiendo ni lanzando nada, pero el enemigo puede responder.",
@@ -141,7 +161,7 @@
       "nameRef": "Noxus"
     },
     {
-      "description": "Esta unidad muere al atacar o al acabar la ronda.",
+      "description": "Esta unidad muere al golpear o al acabar la ronda.",
       "name": "Endeble",
       "nameRef": "Ephemeral"
     },
@@ -157,7 +177,7 @@
     },
     {
       "description": "Puede elegir la unidad enemiga que bloquea.",
-      "name": "Aspirante",
+      "name": "Contendiente",
       "nameRef": "Challenger"
     },
     {
@@ -179,37 +199,37 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-shadowisles.png",
       "name": "Islas de la Sombra",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-ionia.png",
       "name": "Jonia",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/es_es/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-piltoverzaun.png",
       "name": "Piltover y Zaun",
       "nameRef": "PiltoverZaun"
     }

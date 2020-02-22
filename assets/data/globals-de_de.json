@@ -6,7 +6,7 @@
       "nameRef": "Obliterate"
     },
     {
-      "description": "Ein zauberähnlicher Effekt, der von einer Einheit erschaffen und gewirkt wird.",
+      "description": "Ein zauberähnlicher Effekt einer Einheit, auf den der Gegner reagieren kann.",
       "name": "Fertigkeit",
       "nameRef": "Skill"
     },
@@ -19,6 +19,11 @@
       "description": "Niedrigster Angriffswert, bei gleichen Werten entscheidet das niedrigste Leben, dann die niedrigsten Kosten.",
       "name": "Schwächste",
       "nameRef": "Weakest"
+    },
+    {
+      "description": "Der Effekt wird aktiviert, wenn diese Einheit angreift.",
+      "name": "Angriff",
+      "nameRef": "AttackSkillMark"
     },
     {
       "description": "Kann nur von einer ungreifbaren Einheit abgewehrt werden.",
@@ -36,7 +41,7 @@
       "nameRef": "Stun"
     },
     {
-      "description": "Hängt sich an eine andere Karte. Wenn die gefangene Karte gezogen wird, wird der Effekt ausgelöst.",
+      "description": "Hängt sich an eine andere Karte. Wenn die betroffene Karte gezogen wird, wird der Effekt ausgelöst.",
       "name": "Falle",
       "nameRef": "Autoplay"
     },
@@ -66,7 +71,7 @@
       "nameRef": "Barrier"
     },
     {
-      "description": "Eine festgehaltene Karte wird aus dem Spiel entfernt. Sie kehrt zurück, wenn die festhaltende Einheit das Spiel verlässt.",
+      "description": "Eine festgehaltene Karte wird aus dem Spiel entfernt. Sie kehrt zurück, wenn die festhaltende Einheit das Spielfeld verlässt.",
       "name": "Festhalten",
       "nameRef": "Capture"
     },
@@ -96,7 +101,12 @@
       "nameRef": "Overwhelm"
     },
     {
-      "description": "Schlägt bei ihrem Angriff vor der Abwehr zu.",
+      "description": "Der Effekt wird aktiviert, wenn diese Einheit von der Hand ausgespielt wird.",
+      "name": "Ausspielen",
+      "nameRef": "PlaySkillMark"
+    },
+    {
+      "description": "Schlägt beim Angriff vor der Abwehr zu.",
       "name": "Direktangriff",
       "nameRef": "QuickStrike"
     },
@@ -121,6 +131,11 @@
       "nameRef": "Regeneration"
     },
     {
+      "description": "Entfernt jeglichen Text und die Schlüsselwörter einer Einheit.",
+      "name": "Verstummt",
+      "nameRef": "Silenced"
+    },
+    {
       "description": "Der verursachte Schaden dieser Einheit heilt den Nexus um die entsprechende Menge.",
       "name": "Lebensraub",
       "nameRef": "Lifesteal"
@@ -131,7 +146,12 @@
       "nameRef": "Enlightened"
     },
     {
-      "description": "Langsame Zauber können unabhängig von Kämpfen und anderen Zaubern gewirkt werden. Der Gegner kann reagieren.",
+      "description": "Ein Champion steigt auf, sobald diese Bedingung erfüllt ist, sogar auf der Hand oder im Deck.",
+      "name": "Stufenaufstieg",
+      "nameRef": "LevelUp"
+    },
+    {
+      "description": "Langsame Zauber können außerhalb von Kämpfen und anderen Zaubern gewirkt werden. Der Gegner kann reagieren.",
       "name": "Langsam",
       "nameRef": "Slow"
     },
@@ -179,37 +199,37 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/de_de/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/de_de/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/de_de/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/de_de/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-shadowisles.png",
       "name": "Schatteninseln",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/de_de/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-ionia.png",
       "name": "Ionia",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/core/de_de/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-piltoverzaun.png",
       "name": "Piltover & Zhaun",
       "nameRef": "PiltoverZaun"
     }
