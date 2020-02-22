@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lor_builder/ui/filter_icon_button.dart';
 import 'package:provider/provider.dart';
 
 import '../../helpers/theme.dart';
@@ -18,11 +19,16 @@ class DeckPageCardsSelection extends StatelessWidget {
         child: CustomScrollView(
           slivers: [
             SliverAppBar(
-              title: SearchField(onChanged: bloc.updateSearch),
+              title: SearchField(
+                onChanged: bloc.updateSearch,
+                textStream: bloc.$searchText,
+                backgroundColor: Styles.layerColor,
+              ),
               floating: true,
               backgroundColor: Styles.scaffoldBackgroundColor,
               automaticallyImplyLeading: false,
               centerTitle: false,
+              actions: [FilterIconButton(bloc: bloc)],
             ),
             StreamBuilder<List<CardModel>>(
               stream: bloc.$filteredCards,

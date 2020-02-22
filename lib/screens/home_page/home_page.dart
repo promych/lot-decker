@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 
 import '../../data/db_bloc.dart';
 import '../../helpers/theme.dart';
+import '../../managers/app_manager.dart';
 import '../../managers/locale_manager.dart';
 import '../../ui/filter_cards_drawer.dart';
 import '../card_list_page.dart';
@@ -78,7 +79,12 @@ class _HomePageState extends State<HomePage> {
     ];
 
     return Scaffold(
-      endDrawer: _selectedIndex == 1 ? FilterCardsDrawer() : null,
+      endDrawer: _selectedIndex == 1
+          ? FilterCardsDrawer(
+              key: ValueKey('app-filter-drawer'),
+              filterBloc: Provider.of<AppManager>(context, listen: false),
+            )
+          : null,
       bottomNavigationBar: _bottomNavigationBar(_selectedIndex),
       body: PageStorage(
         child: pages[_selectedIndex],
@@ -89,7 +95,8 @@ class _HomePageState extends State<HomePage> {
               child: Icon(Icons.add, color: Colors.white),
               backgroundColor: Styles.cyanColor,
               onPressed: () {
-                Provider.of<DbBloc>(context, listen: false).selectedDeckId = null;
+                Provider.of<DbBloc>(context, listen: false).selectedDeckId =
+                    null;
                 _editDeck(context);
               },
             )

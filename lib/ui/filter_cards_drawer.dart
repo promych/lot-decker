@@ -8,7 +8,10 @@ import '../models/globals.dart';
 import 'faction_image.dart';
 
 class FilterCardsDrawer extends StatelessWidget {
-  // static const _kIconSize = 32.0;
+  final FilterBloc filterBloc;
+
+  const FilterCardsDrawer({Key key, @required this.filterBloc})
+      : super(key: key);
 
   Widget _buildManaCostFilter(BuildContext context) {
     final manaList = List<Widget>.generate(
@@ -18,14 +21,14 @@ class FilterCardsDrawer extends StatelessWidget {
         return GestureDetector(
           child: Container(
             child: CircleAvatar(
-              backgroundColor: Provider.of<AppManager>(context).inFilter(entry)
+              backgroundColor: filterBloc.inFilter(entry)
                   ? Styles.lightGrey
                   : Styles.layerColor,
               child: Text(i == 7 ? '7+' : i.toString()),
               radius: 20.0,
             ),
           ),
-          onTap: () => Provider.of<AppManager>(context).updateFilter(entry),
+          onTap: () => filterBloc.updateFilter(entry),
         );
       },
     );
@@ -40,28 +43,27 @@ class FilterCardsDrawer extends StatelessWidget {
     return Column(
       children: [
         Divider(),
-        _FilterSection(category: 'regions'),
+        _FilterSection(category: 'regions', filterBloc: filterBloc),
         Divider(),
         _buildManaCostFilter(context),
         Divider(),
-        _FilterSection(category: 'types'),
+        _FilterSection(category: 'types', filterBloc: filterBloc),
         Divider(),
-        _FilterSection(category: 'rarities'),
+        _FilterSection(category: 'rarities', filterBloc: filterBloc),
       ],
     );
   }
 
   @override
   Widget build(BuildContext context) {
-    final app = Provider.of<AppManager>(context);
     return Drawer(
       child: Container(
         color: Styles.scaffoldBackgroundColor,
         child: SafeArea(
           child: SingleChildScrollView(
             child: StreamBuilder<Map<String, List<dynamic>>>(
-              initialData: app.filter,
-              stream: app.$filter,
+              initialData: filterBloc.filter,
+              stream: filterBloc.$filter,
               builder: (context, filter) {
                 return Column(
                   children: [
@@ -72,9 +74,7 @@ class FilterCardsDrawer extends StatelessWidget {
                           ? [
                               IconButton(
                                 icon: Icon(Icons.cancel),
-                                onPressed: () =>
-                                    Provider.of<AppManager>(context)
-                                        .clearFilter(),
+                                onPressed: () => filterBloc.clearFilter(),
                               ),
                             ]
                           : [Container()],
@@ -119,14 +119,18 @@ List<Widget> _buildSelectionList(List<Widget> list, int elementsPerRow) {
 
 class _FilterSection extends StatelessWidget {
   final String category;
+  final FilterBloc filterBloc;
 
-  const _FilterSection({Key key, @required this.category}) : super(key: key);
+  const _FilterSection(
+      {Key key, @required this.category, @required this.filterBloc})
+      : super(key: key);
 
   static const _kIconSize = 32.0;
 
   @override
   Widget build(BuildContext context) {
     final app = Provider.of<AppManager>(context);
+
     var values = [];
     switch (category) {
       case 'regions':
@@ -148,7 +152,7 @@ class _FilterSection extends StatelessWidget {
       final entry = MapEntry(category, item.name);
       return Container(
         margin: const EdgeInsets.all(4.0),
-        color: app.inFilter(entry)
+        color: filterBloc.inFilter(entry)
             ? Styles.layerColor
             : Styles.scaffoldBackgroundColor,
         child: ListTile(
@@ -163,7 +167,7 @@ class _FilterSection extends StatelessWidget {
             item.name,
             style: Styles.defaultText16,
           ),
-          onTap: () => app.updateFilter(entry),
+          onTap: () => filterBloc.updateFilter(entry),
         ),
       );
     }).toList();

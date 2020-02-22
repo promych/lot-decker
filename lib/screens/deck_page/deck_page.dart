@@ -11,6 +11,7 @@ import '../../managers/app_manager.dart';
 import '../../managers/locale_manager.dart';
 import '../../models/card.dart';
 import '../../ui/deck_status_bar.dart';
+import '../../ui/filter_cards_drawer.dart';
 import 'deck_cards_selection.dart';
 import 'deck_cards_view.dart';
 import 'deck_mana_cost_bar.dart';
@@ -23,7 +24,8 @@ class DeckPage extends StatefulWidget {
 
   static Future<Widget> create(
       BuildContext context, Map<String, int> cardCodes) async {
-    final currentDeck = await Provider.of<DbBloc>(context, listen: false).currentDeck;
+    final currentDeck =
+        await Provider.of<DbBloc>(context, listen: false).currentDeck;
 
     return Provider<DeckPageBloc>(
       create: (_) => DeckPageBloc(
@@ -242,37 +244,67 @@ class _DeckPageState extends State<DeckPage> {
       stream: widget.bloc.$isEditing,
       initialData: widget.bloc.isEditing,
       builder: (context, isEditing) {
-        return Scaffold(
-          appBar: AppBar(
-            title: _buildDeckName(context),
-            backgroundColor: Styles.layerColor,
-            actions: _appBarActions(context),
-          ),
-          body: StreamBuilder<List<CardModel>>(
-            stream: widget.bloc.$selectedCards,
-            initialData: widget.bloc.selectedCards,
-            builder: (context, selectedCards) {
-              return Column(
-                children: <Widget>[
-                  SizedBox(height: 10.0),
-                  DeckPageManaCostBar(),
-                  Padding(
-                    padding: const EdgeInsets.symmetric(
-                      vertical: 10.0,
-                      horizontal: 16.0,
+        return WillPopScope(
+          onWillPop: () => _onExit(context, isEditing.data),
+          child: Scaffold(
+            endDrawer: FilterCardsDrawer(
+              key: ValueKey('deck-filter-drawer'),
+              filterBloc: Provider.of<DeckPageBloc>(context, listen: false),
+            ),
+            appBar: AppBar(
+              title: _buildDeckName(context),
+              backgroundColor: Styles.layerColor,
+              actions: _appBarActions(context),
+            ),
+            body: StreamBuilder<List<CardModel>>(
+              stream: widget.bloc.$selectedCards,
+              initialData: widget.bloc.selectedCards,
+              builder: (context, selectedCards) {
+                return Column(
+                  children: <Widget>[
+                    SizedBox(height: 10.0),
+                    DeckPageManaCostBar(),
+                    Padding(
+                      padding: const EdgeInsets.symmetric(
+                        vertical: 10.0,
+                        horizontal: 16.0,
+                      ),
+                      child: DeckStatusBar(
+                        cardsInDeck: selectedCards.data,
+                        withFactions: true,
+                      ),
                     ),
-                    child: DeckStatusBar(
-                      cardsInDeck: selectedCards.data,
-                      withFactions: true,
-                    ),
-                  ),
-                  isEditing.data ? DeckPageCardsSelection() : DeckViewCards(),
-                ],
-              );
-            },
+                    isEditing.data ? DeckPageCardsSelection() : DeckViewCards(),
+                  ],
+                );
+              },
+            ),
           ),
         );
       },
     );
+  }
+
+  Future<bool> _onExit(BuildContext context, bool isEditing) {
+    if (Provider.of<DeckPageBloc>(context, listen: false).selectedCards.isEmpty || !isEditing)
+      return Future.value(true);
+    return showDialog(
+          context: context,
+          child: AlertDialog(
+            backgroundColor: Styles.layerColor,
+            title: Text(LocaleManager.of(context).translate('unsaved data warning')),
+            actions: <Widget>[
+              FlatButton(
+                onPressed: () => Navigator.of(context).pop(false),
+                child: Text(LocaleManager.of(context).translate('cancel')),
+              ),
+              FlatButton(
+                onPressed: () => Navigator.of(context).pop(true),
+                child: Text(LocaleManager.of(context).translate('yes')),
+              ),
+            ],
+          ),
+        ) ??
+        false;
   }
 }

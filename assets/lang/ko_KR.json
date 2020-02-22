@@ -23,5 +23,7 @@
   "no fav hint": "카드 목록에서 위시리스트에 카드 추가 시작",
   "no decks": "아직 저장된 데크가 없습니다",
   "no decks hint": "데크 만들기 시작 또는 데크 코드 입력",
-  "paste code": "데크 코드 입력"
+  "paste code": "데크 코드 입력",
+  "yes": "예",
+  "unsaved data warning": "저장하지 않고 종료 하시겠습니까?"
 }

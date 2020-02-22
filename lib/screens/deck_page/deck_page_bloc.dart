@@ -6,10 +6,11 @@ import 'package:lor_deck_coder/lor_deck_coder.dart';
 
 import '../../data/persistent_database.dart';
 import '../../helpers/constants.dart';
+import '../../managers/app_manager.dart';
 import '../../models/card.dart';
 import '../../models/deck.dart';
 
-class DeckPageBloc {
+class DeckPageBloc implements FilterBloc {
   final Deck deck;
   final List<CardModel> cards;
 
@@ -118,20 +119,23 @@ class DeckPageBloc {
         !_selectedFactions.contains(selectedCard.regionRef)) return;
 
     _selectedCards.add(selectedCard);
-    _manaCost.update(selectedCard.cost.toString(), (i) => i + 1);
+    _manaCost.update(selectedCard.cost > 7 ? '7' : selectedCard.cost.toString(),
+        (i) => i + 1);
     _manaCostController.sink.add(_manaCost);
     _selectedCardsController.sink.add(_selectedCards);
   }
 
   void unselectCard(CardModel selectedCard) {
     if (_selectedCards.remove(selectedCard)) {
-      _manaCost.update(selectedCard.cost.toString(), (i) => i - 1);
+      _manaCost.update(
+          selectedCard.cost > 7 ? '7' : selectedCard.cost.toString(),
+          (i) => i - 1);
       _manaCostController.sink.add(_manaCost);
       _selectedCardsController.sink.add(_selectedCards);
     }
   }
 
-  // filter
+  // filter // TODO refactor this mostly duplicated code in app_manager.dart
 
   List<CardModel> _filteredCards;
   List<CardModel> get filteredCards => _filteredCards;
@@ -139,6 +143,65 @@ class DeckPageBloc {
   final _filteredCardsController =
       StreamController<List<CardModel>>.broadcast();
   Stream<List<CardModel>> $filteredCards;
+
+  var _filter = Map<String, List<dynamic>>();
+  Map<String, List<dynamic>> get filter => _filter;
+
+  final _filterController =
+      StreamController<Map<String, List<dynamic>>>.broadcast();
+  Stream<Map<String, List<dynamic>>> get $filter => _filterController.stream;
+
+  bool inFilter(MapEntry<String, dynamic> entry) {
+    return _filter.containsKey(entry.key) &&
+        _filter[entry.key].contains(entry.value);
+  }
+
+  void updateFilter(MapEntry<String, dynamic> entry) {
+    final newValue = _filter.update(
+      entry.key,
+      (value) {
+        return value.contains(entry.value)
+            ? (value..remove(entry.value))
+            : (value..add(entry.value));
+      },
+      ifAbsent: () => [entry.value],
+    );
+    if (newValue.isEmpty) _filter.remove(entry.key);
+    // print(_filter);
+    _filterController.sink.add(_filter);
+    _applyFilter();
+  }
+
+  void clearFilter() {
+    _filter.clear();
+    _applyFilter();
+    _filterController.sink.add(_filter);
+  }
+
+  void _applyFilter() {
+    _filteredCards = _filter.isNotEmpty
+        ? cards
+            .where((card) => _filter.containsKey('regions')
+                ? _filter['regions'].contains(card.region)
+                : true)
+            .where((card) {
+              if (!_filter.containsKey('cost')) {
+                return true;
+              } else if (_filter['cost'].contains(7)) {
+                return (_filter['cost'].contains(card.cost) || card.cost > 7);
+              }
+              return _filter['cost'].contains(card.cost);
+            })
+            .where((card) => _filter.containsKey('types')
+                ? _filter['types'].contains(card.cardType)
+                : true)
+            .where((card) => _filter.containsKey('rarities')
+                ? _filter['rarities'].contains(card.rarity)
+                : true)
+            .toList()
+        : cards;
+    _filteredCardsController.sink.add(_filteredCards);
+  }
 
   // selected bar
   int _selectedManaCostBar;
@@ -159,7 +222,7 @@ class DeckPageBloc {
   Stream<String> get $searchText => _searchController.stream;
 
   void updateSearch(String text) {
-    if (text != null && text != '') _searchController.sink.add(text);
+    if (text != null) _searchController.sink.add(text);
   }
 
   // load
@@ -249,6 +312,7 @@ class DeckPageBloc {
   }
 
   void dispose() {
+    _filterController.close();
     _editingController.close();
     _deckNameController.close();
     _deckNameToShow.close();

@@ -1,37 +1,36 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:lor_builder/ui/filter_icon_button.dart';
 import 'package:provider/provider.dart';
 
 import '../data/db_bloc.dart';
 import '../helpers/theme.dart';
 import '../managers/app_manager.dart';
-import '../managers/locale_manager.dart';
 import '../models/card.dart';
 import '../ui/card_tile_favorite.dart';
+import '../ui/search_field.dart';
 
 class CardListPage extends StatelessWidget {
   const CardListPage({Key key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
+    final bloc = Provider.of<AppManager>(context);
+
     return Scrollbar(
       child: CustomScrollView(
         slivers: [
           SliverAppBar(
-            title: _SearchBar(
-              onChanged: Provider.of<AppManager>(context).updateSearch,
+            title: SearchField(
+              onChanged: bloc.updateSearch,
+              textStream: bloc.$searchText,
             ),
             backgroundColor: Styles.layerColor,
             automaticallyImplyLeading: false,
             centerTitle: false,
             forceElevated: true,
             floating: true,
-            actions: [
-              IconButton(
-                icon: Icon(Icons.filter_list),
-                onPressed: () => Scaffold.of(context).openEndDrawer(),
-              )
-            ],
+            actions: [FilterIconButton(bloc: bloc)],
           ),
           SliverPadding(
             padding: const EdgeInsets.symmetric(
@@ -46,25 +45,26 @@ class CardListPage extends StatelessWidget {
   }
 }
 
-class _SearchBar extends StatelessWidget {
-  final Function onChanged;
+// class _SearchBar extends StatelessWidget {
+//   final Function onChanged;
 
-  const _SearchBar({Key key, @required this.onChanged}) : super(key: key);
+//   const _SearchBar({Key key, @required this.onChanged}) : super(key: key);
 
-  @override
-  Widget build(BuildContext context) {
-    return CupertinoTextField(
-      onChanged: onChanged,
-      placeholder: LocaleManager.of(context).translate('search'),
-      padding: const EdgeInsets.all(8.0),
-      placeholderStyle: TextStyle(color: Styles.lightGrey),
-      decoration: BoxDecoration(
-        color: Styles.scaffoldBackgroundColor,
-        borderRadius: BorderRadius.circular(10.0),
-      ),
-    );
-  }
-}
+//   @override
+//   Widget build(BuildContext context) {
+//     return CupertinoTextField(
+//       onChanged: onChanged,
+//       style: TextStyle(color: Colors.white, decoration: TextDecoration.none),
+//       placeholder: LocaleManager.of(context).translate('search'),
+//       padding: const EdgeInsets.all(8.0),
+//       placeholderStyle: TextStyle(color: Styles.lightGrey),
+//       decoration: BoxDecoration(
+//         color: Styles.scaffoldBackgroundColor,
+//         borderRadius: BorderRadius.circular(10.0),
+//       ),
+//     );
+//   }
+// }
 
 class _CardList extends StatelessWidget {
   @override

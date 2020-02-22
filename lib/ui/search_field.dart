@@ -6,44 +6,46 @@ import '../managers/locale_manager.dart';
 
 class SearchField extends StatelessWidget {
   final Function onChanged;
-  final bool withFilter;
+  final Stream<String> textStream;
+  final Color backgroundColor;
 
   const SearchField({
     Key key,
     @required this.onChanged,
-    this.withFilter = false,
+    @required this.textStream,
+    this.backgroundColor = Styles.scaffoldBackgroundColor,
   }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return Row(
-      children: <Widget>[
-        Expanded(
-          child: CupertinoTextField(
-            onChanged: onChanged,
-            placeholder: LocaleManager.of(context).translate('search'),
-            padding: const EdgeInsets.all(8.0),
-            placeholderStyle: TextStyle(color: Styles.lightGrey),
-            decoration: BoxDecoration(
-              color: Styles.layerColor,
-              borderRadius: BorderRadius.circular(10.0),
-            ),
-            suffix: Padding(
-              padding: const EdgeInsets.only(right: 8.0),
-              child: Icon(
-                Icons.search,
-                color: Styles.lightGrey,
+    return StreamBuilder<String>(
+        stream: textStream,
+        initialData: '',
+        builder: (_, snapshot) {
+          return Row(
+            children: <Widget>[
+              Expanded(
+                child: CupertinoTextField(
+                  onChanged: onChanged,
+                  cursorColor: Styles.cyanColor,
+                  style: TextStyle(
+                      color: Colors.white, decoration: TextDecoration.none),
+                  placeholder: LocaleManager.of(context).translate('search'),
+                  padding: const EdgeInsets.all(8.0),
+                  placeholderStyle: TextStyle(color: Styles.lightGrey),
+                  decoration: BoxDecoration(
+                    color: backgroundColor,
+                    borderRadius: BorderRadius.circular(10.0),
+                  ),
+                  suffix: snapshot.data.isEmpty ? Padding(
+                    padding: const EdgeInsets.only(right: 8.0),
+                    child: Icon(Icons.search, color: Styles.lightGrey),
+                  ) : null,
+                  clearButtonMode: OverlayVisibilityMode.always,
+                ),
               ),
-            ),
-          ),
-        ),
-        if (withFilter)
-          IconButton(
-            icon: Icon(Icons.filter_list),
-            alignment: Alignment.centerRight,
-            onPressed: Scaffold.of(context).openEndDrawer,
-          )
-      ],
-    );
+            ],
+          );
+        });
   }
 }

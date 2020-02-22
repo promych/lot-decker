@@ -13,6 +13,9 @@ abstract class FilterBloc {
   void updateSearch(String text);
   void updateFilter(MapEntry<String, dynamic> entry);
   void clearFilter();
+  Map<String, List<dynamic>> get filter;
+  Stream<Map<String, List<dynamic>>> get $filter;
+  bool inFilter(MapEntry<String, dynamic> entry);
 }
 
 class AppManager implements FilterBloc {
@@ -107,7 +110,7 @@ class AppManager implements FilterBloc {
   Stream<String> get $searchText => _searchController.stream;
 
   void updateSearch(String text) {
-    if (text != null && text != '') _searchController.sink.add(text);
+    if (text != null) _searchController.sink.add(text);
   }
 
   // filter
@@ -125,6 +128,28 @@ class AppManager implements FilterBloc {
   final _filterController =
       StreamController<Map<String, List<dynamic>>>.broadcast();
   Stream<Map<String, List<dynamic>>> get $filter => _filterController.stream;
+
+  void updateFilter(MapEntry<String, dynamic> entry) {
+    final newValue = _filter.update(
+      entry.key,
+      (value) {
+        return value.contains(entry.value)
+            ? (value..remove(entry.value))
+            : (value..add(entry.value));
+      },
+      ifAbsent: () => [entry.value],
+    );
+    if (newValue.isEmpty) _filter.remove(entry.key);
+    // print(_filter);
+    _filterController.sink.add(_filter);
+    _applyFilter();
+  }
+
+  void clearFilter() {
+    _filter.clear();
+    _applyFilter();
+    _filterController.sink.add(_filter);
+  }
 
   void _applyFilter() {
     _filteredCards = _filter.isNotEmpty
@@ -149,28 +174,6 @@ class AppManager implements FilterBloc {
             .toList()
         : cardsCollectible;
     _filteredCardsController.sink.add(_filteredCards);
-  }
-
-  void updateFilter(MapEntry<String, dynamic> entry) {
-    final newValue = _filter.update(
-      entry.key,
-      (value) {
-        return value.contains(entry.value)
-            ? (value..remove(entry.value))
-            : (value..add(entry.value));
-      },
-      ifAbsent: () => [entry.value],
-    );
-    if (newValue.isEmpty) _filter.remove(entry.key);
-    // print(_filter);
-    _filterController.sink.add(_filter);
-    _applyFilter();
-  }
-
-  void clearFilter() {
-    _filter.clear();
-    _applyFilter();
-    _filterController.sink.add(_filter);
   }
 
   bool inFilter(MapEntry<String, dynamic> entry) {

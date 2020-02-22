@@ -23,5 +23,7 @@
   "no fav hint": "Beginnen Sie, Karten zur Wunschliste in der Kartenliste hinzuzufügen",
   "no decks": "Du hast noch keine Decks gespeichert",
   "no decks hint": "Beginnen Sie mit der Erstellung Ihres Decks oder geben Sie den Deck-Code ein",
-  "paste code": "Deckcode eingeben"
+  "paste code": "Deckcode eingeben",
+  "yes": "Ja",
+  "unsaved data warning": "Beenden ohne Speichern?"
 }

@@ -23,5 +23,7 @@
   "no fav hint": "Commencez à ajouter des cartes à la liste dans la liste des cartes",
   "no decks": "Vous n'avez pas encore de deck sauvegardé",
   "no decks hint": "Commencez à créer votre deck ou entrez le code du deck",
-  "paste code": "Entrez le code du pont"
+  "paste code": "Entrez le code du pont",
+  "yes": "Oui",
+  "unsaved data warning": "Quitter sans sauvegarder?"
 }

@@ -17,7 +17,7 @@ class SameCardsInDeck extends StatelessWidget {
 
     return Chip(
       label: Text('x${sameCardsNum.toString()}'),
-      backgroundColor: Styles.lightGrey,
+      backgroundColor: sameCardsNum > 0 ? Styles.cyanColor : Styles.lightGrey,
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(5.0)),
     );
   }

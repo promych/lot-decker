@@ -23,5 +23,7 @@
   "no fav hint": "Comience a agregar tarjetas a la lista de deseos en la lista de tarjetas",
   "no decks": "Aún no tienes mazos guardados",
   "no decks hint": "Comienza a crear tu mazo o ingresa el código del mazo",
-  "paste code": "Ingrese el código del mazo"
+  "paste code": "Ingrese el código del mazo",
+  "yes": "Si",
+  "unsaved data warning": "¿Salir sin guardar?"
 }
