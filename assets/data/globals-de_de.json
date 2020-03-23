@@ -46,17 +46,17 @@
       "nameRef": "Autoplay"
     },
     {
-      "description": "",
+      "description": " ",
       "name": "Piltover & Zhaun",
       "nameRef": "PiltoverZaun"
     },
     {
-      "description": "",
+      "description": " ",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
-      "description": "",
+      "description": " ",
       "name": "Schatteninseln",
       "nameRef": "ShadowIsles"
     },
@@ -121,7 +121,7 @@
       "nameRef": "Recall"
     },
     {
-      "description": "",
+      "description": " ",
       "name": "Ionia",
       "nameRef": "Ionia"
     },
@@ -156,7 +156,7 @@
       "nameRef": "Slow"
     },
     {
-      "description": "",
+      "description": " ",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
@@ -166,7 +166,7 @@
       "nameRef": "Ephemeral"
     },
     {
-      "description": "",
+      "description": " ",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
@@ -191,7 +191,7 @@
       "nameRef": "Fearsome"
     },
     {
-      "description": "",
+      "description": " ",
       "name": "Abwehrunfähig",
       "nameRef": "CantBlock"
     }
@@ -199,37 +199,37 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/de_de/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/de_de/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/de_de/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/de_de/img/regions/icon-shadowisles.png",
       "name": "Schatteninseln",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/de_de/img/regions/icon-ionia.png",
       "name": "Ionia",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/de_de/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/de_de/img/regions/icon-piltoverzaun.png",
       "name": "Piltover & Zhaun",
       "nameRef": "PiltoverZaun"
     }

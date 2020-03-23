@@ -41,7 +41,7 @@
       "nameRef": "Stun"
     },
     {
-      "description": "Parasite une autre carte. Lorsque la carte piégée est tirée, l'effet est résolu.",
+      "description": "Parasite une autre carte. Lorsque la carte piégée est tirée, l'effet est lancé.",
       "name": "Piège",
       "nameRef": "Autoplay"
     },
@@ -81,7 +81,7 @@
       "nameRef": "Frostbite"
     },
     {
-      "description": "Les sorts instantanés sont joués immédiatement. L'ennemi ne peut pas agir avant leur résolution.",
+      "description": "Les sorts instantanés sont joués immédiatement. L'ennemi ne peut pas agir avant la fin de l'efffet.",
       "name": "Instantané",
       "nameRef": "Burst"
     },
@@ -199,37 +199,37 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/fr_fr/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/fr_fr/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/fr_fr/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/fr_fr/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-shadowisles.png",
       "name": "Îles obscures",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/fr_fr/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-ionia.png",
       "name": "Ionia",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/fr_fr/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-piltoverzaun.png",
       "name": "Piltover & Zaun",
       "nameRef": "PiltoverZaun"
     }

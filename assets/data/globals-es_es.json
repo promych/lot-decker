@@ -31,7 +31,7 @@
       "nameRef": "Elusive"
     },
     {
-      "description": "Cura al nexo la misma cantidad que daño infligido",
+      "description": "Cura al nexo aliado la misma cantidad que daño infligido.",
       "name": "Drenar",
       "nameRef": "Drain"
     },
@@ -132,16 +132,16 @@
     },
     {
       "description": "Elimina el texto y todas las palabras clave de una unidad.",
-      "name": "Silenciada.",
+      "name": "Silenciada",
       "nameRef": "Silenced"
     },
     {
-      "description": "Cura al nexo la misma cantidad de daño que inflige.",
+      "description": "Cura al nexo aliado la misma cantidad de daño que inflige.",
       "name": "Robo de vida",
       "nameRef": "Lifesteal"
     },
     {
-      "description": "Cuando tienes 10 de maná máximo, cuentas con iluminación.",
+      "description": "Cuando tienes 10 de maná máximo, cuentas con Iluminación.",
       "name": "Iluminación",
       "nameRef": "Enlightened"
     },
@@ -199,37 +199,37 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-shadowisles.png",
       "name": "Islas de la Sombra",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-ionia.png",
       "name": "Jonia",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_0_0/core/es_es/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-piltoverzaun.png",
       "name": "Piltover y Zaun",
       "nameRef": "PiltoverZaun"
     }
