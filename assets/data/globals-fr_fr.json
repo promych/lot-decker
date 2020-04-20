@@ -1,4 +1,66 @@
 {
+  "vocabTerms": [
+    {
+      "description": "Lorsque vous invoquez cette carte, elle obtient un bonus d'allégeance si la première carte de votre deck correspond à sa région.",
+      "name": "Allégeance",
+      "nameRef": "Allegiance"
+    },
+    {
+      "description": "En attaquant avec une unité de support, l'unité à sa droite reçoit un buff.",
+      "name": "Support",
+      "nameRef": "Support"
+    },
+    {
+      "description": "Puissance la plus élevée, départagée par les PV les plus élevés, puis par le coût le plus élevé.",
+      "name": "Plus fort",
+      "nameRef": "Strongest"
+    },
+    {
+      "description": "L'effet se déclenche à la fin du round.",
+      "name": "Fin du round",
+      "nameRef": "RoundEnd"
+    },
+    {
+      "description": "L'effet se déclenche lorsque l'unité attaque.",
+      "name": "Attaque",
+      "nameRef": "Attack"
+    },
+    {
+      "description": "Obtenez cet effet quand une unité tente d'infliger des dégâts avec sa puissance, à la fin du combat ou grâce aux sorts. Les unités avec une puissance de 0 ne peuvent pas frapper.",
+      "name": "Frappe",
+      "nameRef": "Strike"
+    },
+    {
+      "description": "Effet déclenché lorsque l'unité frappe le Nexus ennemi.",
+      "name": "Frappe du Nexus",
+      "nameRef": "NexusStrike"
+    },
+    {
+      "description": "L'effet se déclenche au début du round.",
+      "name": "Début du round",
+      "nameRef": "RoundStart"
+    },
+    {
+      "description": "Vous activez cet effet lorsque vous jouez cette unité depuis votre main.",
+      "name": "Immédiat",
+      "nameRef": "Play"
+    },
+    {
+      "description": "En jeu, dans la main, dans le deck, dans la défausse et même si la carte est créée/invoquée plus tard.",
+      "name": "Où qu'ils soient",
+      "nameRef": "Everywhere"
+    },
+    {
+      "description": "Si vous n'en avez pas, recevez un jeton d'attaque. Vous pouvez attaquer pendant ce round.",
+      "name": "Ralliement",
+      "nameRef": "Rally"
+    },
+    {
+      "description": "Supprimez tous les mots-clés, compétences et effets en cours. N'affecte pas les dégâts ou le sous-type.",
+      "name": "Silence",
+      "nameRef": "Silence"
+    }
+  ],
   "keywords": [
     {
       "description": "L'unité est complètement retirée de la partie. Dernier souffle n'est pas activé et elle ne peut pas être ranimée.",
@@ -199,37 +261,37 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-shadowisles.png",
       "name": "Îles obscures",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-ionia.png",
       "name": "Ionia",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/fr_fr/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-piltoverzaun.png",
       "name": "Piltover & Zaun",
       "nameRef": "PiltoverZaun"
     }

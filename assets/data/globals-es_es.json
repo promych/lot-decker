@@ -1,4 +1,66 @@
 {
+  "vocabTerms": [
+    {
+      "description": "Tras invocar esta unidad, obtiene su bonificación de alianza si la primera carta de tu mazo es de la misma región.",
+      "name": "Alianza",
+      "nameRef": "Allegiance"
+    },
+    {
+      "description": "Al atacar con una unidad de apoyo, se potencia la unidad a su derecha.",
+      "name": "Apoyo",
+      "nameRef": "Support"
+    },
+    {
+      "description": "La unidad con mayor poder; si el nivel de poder es el mismo, se tendrá en cuenta la vida más alta y, si no, el coste más alto.",
+      "name": "Más fuerte",
+      "nameRef": "Strongest"
+    },
+    {
+      "description": "Consigue este efecto cuando termina la ronda.",
+      "name": "Final de ronda",
+      "nameRef": "RoundEnd"
+    },
+    {
+      "description": "Consigue este efecto cuando esta unidad ataca.",
+      "name": "Atacar",
+      "nameRef": "Attack"
+    },
+    {
+      "description": "Consigue este efecto cuando una unidad intenta infligir daño con su poder, ya sea al final del combate o con hechizos. Las unidades con 0 de poder no pueden golpear.",
+      "name": "Golpear",
+      "nameRef": "Strike"
+    },
+    {
+      "description": "Surte efecto cuando una unidad golpea el nexo enemigo.",
+      "name": "Golpe al nexo",
+      "nameRef": "NexusStrike"
+    },
+    {
+      "description": "Consigue este efecto cuando comienza la ronda.",
+      "name": "Comienzo de ronda",
+      "nameRef": "RoundStart"
+    },
+    {
+      "description": "Consigue este efecto cuando juegas la unidad desde la mano.",
+      "name": "Jugar",
+      "nameRef": "Play"
+    },
+    {
+      "description": "En juego, en la mano, en el mazo, descartadas o incluso creadas o invocadas más tarde.",
+      "name": "En todas partes",
+      "nameRef": "Everywhere"
+    },
+    {
+      "description": "Si no la tienes, ¡obtienes la ficha de ataque! (Puedes atacar esta ronda).",
+      "name": "Al ataque",
+      "nameRef": "Rally"
+    },
+    {
+      "description": "Elimina todas las palabras clave, habilidades y efectos activos. No afecta al daño ni al subtipo.",
+      "name": "Silencio",
+      "nameRef": "Silence"
+    }
+  ],
   "keywords": [
     {
       "description": "Eliminado por completo de la partida. No activa su Último aliento ni puede revivir.",
@@ -199,37 +261,37 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-shadowisles.png",
       "name": "Islas de la Sombra",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-ionia.png",
       "name": "Jonia",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/es_es/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-piltoverzaun.png",
       "name": "Piltover y Zaun",
       "nameRef": "PiltoverZaun"
     }

@@ -1,4 +1,66 @@
 {
+  "vocabTerms": [
+    {
+      "description": "When you summon this, it gets its allegiance bonus if the top card of your deck matches its region.",
+      "name": "Allegiance",
+      "nameRef": "Allegiance"
+    },
+    {
+      "description": "Attacking with a support unit will buff the unit to its right.",
+      "name": "Support",
+      "nameRef": "Support"
+    },
+    {
+      "description": "Highest Power, with ties broken by highest Health then highest Cost.",
+      "name": "Strongest",
+      "nameRef": "Strongest"
+    },
+    {
+      "description": "Get this effect when the round ends.",
+      "name": "Round End",
+      "nameRef": "RoundEnd"
+    },
+    {
+      "description": "Get this effect when this unit attacks.",
+      "name": "Attack",
+      "nameRef": "Attack"
+    },
+    {
+      "description": "Get this effect when a unit attempts to deal damage using its Power, either at the end of battle or with spells. Units with 0 Power can't strike.",
+      "name": "Strike",
+      "nameRef": "Strike"
+    },
+    {
+      "description": "Effect when unit Strikes the enemy Nexus.",
+      "name": "Nexus Strike",
+      "nameRef": "NexusStrike"
+    },
+    {
+      "description": "Get this effect when the round starts.",
+      "name": "Round Start",
+      "nameRef": "RoundStart"
+    },
+    {
+      "description": "Get this effect when you play this unit from hand.",
+      "name": "Play",
+      "nameRef": "Play"
+    },
+    {
+      "description": "In play, in hand, in deck, in discard, and even if created/summoned later.",
+      "name": "Everywhere",
+      "nameRef": "Everywhere"
+    },
+    {
+      "description": "If you don't have one, gain the attack token. (You can attack this round.)",
+      "name": "Rally",
+      "nameRef": "Rally"
+    },
+    {
+      "description": "Remove all keywords, abilities, and ongoing effects. Doesn't affect damage or subtype.",
+      "name": "Silence",
+      "nameRef": "Silence"
+    }
+  ],
   "keywords": [
     {
       "description": "Completely removed from the game. Doesn't cause Last Breath and can't be revived.",
@@ -199,37 +261,37 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/en_us/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/en_us/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/en_us/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/en_us/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/en_us/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/en_us/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/en_us/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/en_us/img/regions/icon-shadowisles.png",
       "name": "Shadow Isles",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/en_us/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/en_us/img/regions/icon-ionia.png",
       "name": "Ionia",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_2_0/core/en_us/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/en_us/img/regions/icon-piltoverzaun.png",
       "name": "Piltover & Zaun",
       "nameRef": "PiltoverZaun"
     }
