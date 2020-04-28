@@ -3,6 +3,7 @@ import 'dart:ui' show Locale;
 
 import 'package:flutter/services.dart';
 
+import '../helpers/constants.dart';
 import '../models/card.dart';
 import '../models/globals.dart';
 import 'api_path.dart';
@@ -10,11 +11,17 @@ import 'api_path.dart';
 class LocalStorage {
   static Future<List<CardModel>> fetchCards(Locale locale) async {
     print('cards load with ${locale.countryCode}');
-    String data = await rootBundle.loadString(APIPath.cards(locale));
-    List<Map<String, dynamic>> cardsJson = List.from(json.decode(data));
-    return cardsJson
-        .map((json) => CardModel.fromMap(json, lang: locale.toString()))
-        .toList();
+    final List<CardModel> cards = [];
+
+    for (var i = 1; i <= kSetsNumber; i++) {
+      String data = await rootBundle.loadString(APIPath.cards(locale, i));
+      List<Map<String, dynamic>> cardsJson = List.from(json.decode(data));
+      cards.addAll(cardsJson
+          .map((json) => CardModel.fromMap(json, lang: locale.toString()))
+          .toList());
+    }
+
+    return cards;
   }
 
   static Future<Globals> fetchGlobals(Locale locale) async {

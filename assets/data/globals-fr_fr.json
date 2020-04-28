@@ -16,6 +16,11 @@
       "nameRef": "Strongest"
     },
     {
+      "description": "Oblitérez X non-champions du dessous de votre deck.",
+      "name": "Jeter",
+      "nameRef": "Toss"
+    },
+    {
       "description": "L'effet se déclenche à la fin du round.",
       "name": "Fin du round",
       "nameRef": "RoundEnd"
@@ -59,6 +64,11 @@
       "description": "Supprimez tous les mots-clés, compétences et effets en cours. N'affecte pas les dégâts ou le sous-type.",
       "name": "Silence",
       "nameRef": "Silence"
+    },
+    {
+      "description": "Une carte déclenche sa compétence de Pillage quand elle est jouée, si vous avez endommagé le Nexus ennemi pendant ce round.",
+      "name": "Pillage",
+      "nameRef": "Plunder"
     }
   ],
   "keywords": [
@@ -69,7 +79,7 @@
     },
     {
       "description": "Effet d'une unité similaire à un sort. L'ennemi peut réagir aux compétences.",
-      "name": "Talent",
+      "name": "Compétence",
       "nameRef": "Skill"
     },
     {
@@ -81,6 +91,11 @@
       "description": "Plus faible puissance, départagée par les plus faibles PV, puis par le plus faible coût.",
       "name": "Plus faible",
       "nameRef": "Weakest"
+    },
+    {
+      "description": "L'ennemi peut défier cette unité et la forcer à bloquer.",
+      "name": "Vulnérable",
+      "nameRef": "Vulnerable"
     },
     {
       "description": "L'effet se déclenche lorsque l'unité attaque.",
@@ -128,9 +143,19 @@
       "nameRef": "SpellOverwhelm"
     },
     {
+      "description": "Quand je suis invoqué, regagnez 1 gemme.",
+      "name": "Unisson",
+      "nameRef": "Attune"
+    },
+    {
       "description": "Annule les prochains dégâts que l'unité devrait subir. Dure un round.",
       "name": "Barrière",
       "nameRef": "Barrier"
+    },
+    {
+      "description": "Attaque et blocage impossibles.",
+      "name": "Immobile",
+      "nameRef": "Immobile"
     },
     {
       "description": "Une carte capturée est retirée de la partie. Elle revient quand l'unité qui l'a capturée quitte le jeu.",
@@ -223,6 +248,11 @@
       "nameRef": "Noxus"
     },
     {
+      "description": "La première fois que les éclaireurs attaquent seuls à chaque round, préparez votre attaque.",
+      "name": "Éclaireur",
+      "nameRef": "Scout"
+    },
+    {
       "description": "Cette unité meurt lorsqu'elle frappe ou à la fin du round.",
       "name": "Éphémère",
       "nameRef": "Ephemeral"
@@ -236,6 +266,11 @@
       "description": "Ces compétences prennent effet lorsque l'unité meurt.",
       "name": "Dernier souffle",
       "nameRef": "LastBreath"
+    },
+    {
+      "description": "",
+      "name": "Bilgewater",
+      "nameRef": "Bilgewater"
     },
     {
       "description": "Peut choisir l'unité ennemie qui va la bloquer.",
@@ -256,42 +291,53 @@
       "description": "",
       "name": "Blocage impossible",
       "nameRef": "CantBlock"
+    },
+    {
+      "description": "",
+      "name": "Profondeurs",
+      "nameRef": "Deep"
     }
   ],
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/fr_fr/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/fr_fr/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/fr_fr/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/fr_fr/img/regions/icon-shadowisles.png",
       "name": "Îles obscures",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/fr_fr/img/regions/icon-ionia.png",
       "name": "Ionia",
       "nameRef": "Ionia"
     },
     {
+      "abbreviation": "BW",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/fr_fr/img/regions/icon-bilgewater.png",
+      "name": "Bilgewater",
+      "nameRef": "Bilgewater"
+    },
+    {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/fr_fr/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/fr_fr/img/regions/icon-piltoverzaun.png",
       "name": "Piltover & Zaun",
       "nameRef": "PiltoverZaun"
     }
@@ -312,15 +358,15 @@
   ],
   "rarities": [
     {
-      "name": "Commun",
+      "name": "COMMUN",
       "nameRef": "Common"
     },
     {
-      "name": "Rare",
+      "name": "RARE",
       "nameRef": "Rare"
     },
     {
-      "name": "Épique",
+      "name": "ÉPIQUE",
       "nameRef": "Epic"
     },
     {
