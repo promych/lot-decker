@@ -16,6 +16,11 @@
       "nameRef": "Strongest"
     },
     {
+      "description": "Destruye X cartas (no campeones) de la parte inferior del mazo.",
+      "name": "Desechar",
+      "nameRef": "Toss"
+    },
+    {
       "description": "Consigue este efecto cuando termina la ronda.",
       "name": "Final de ronda",
       "nameRef": "RoundEnd"
@@ -59,6 +64,11 @@
       "description": "Elimina todas las palabras clave, habilidades y efectos activos. No afecta al daño ni al subtipo.",
       "name": "Silencio",
       "nameRef": "Silence"
+    },
+    {
+      "description": "Una carta activa su habilidad de Asalto al jugarla si has infligido daño al nexo enemigo esta ronda.",
+      "name": "Asalto",
+      "nameRef": "Plunder"
     }
   ],
   "keywords": [
@@ -81,6 +91,11 @@
       "description": "La unidad con menos poder; si el nivel de poder es el mismo, se tendrá en cuenta la vida más baja y, si no, el coste más bajo.",
       "name": "Más débil",
       "nameRef": "Weakest"
+    },
+    {
+      "description": "El enemigo puede desafiar a esta unidad y obligarla a bloquear.",
+      "name": "Vulnerable",
+      "nameRef": "Vulnerable"
     },
     {
       "description": "Consigue este efecto cuando esta unidad ataca.",
@@ -128,9 +143,19 @@
       "nameRef": "SpellOverwhelm"
     },
     {
+      "description": "Cuando se me invoca, recuperas 1 de maná de hechizos.",
+      "name": "Armonía",
+      "nameRef": "Attune"
+    },
+    {
       "description": "Evita la siguiente cantidad de daño que reciba la unidad. Dura una ronda.",
       "name": "Barrera",
       "nameRef": "Barrier"
+    },
+    {
+      "description": "No puede atacar ni bloquear.",
+      "name": "Inmóvil",
+      "nameRef": "Immobile"
     },
     {
       "description": "Elimina una carta capturada y la devuelve cuando la unidad captora abandona la partida.",
@@ -223,6 +248,11 @@
       "nameRef": "Noxus"
     },
     {
+      "description": "La primera vez que solo atacan unidades Vigía en cada ronda, prepara el ataque.",
+      "name": "Vigía",
+      "nameRef": "Scout"
+    },
+    {
       "description": "Esta unidad muere al golpear o al acabar la ronda.",
       "name": "Endeble",
       "nameRef": "Ephemeral"
@@ -236,6 +266,11 @@
       "description": "Estas habilidades surten efecto cuando la unidad muere.",
       "name": "Último aliento",
       "nameRef": "LastBreath"
+    },
+    {
+      "description": "",
+      "name": "Aguas Estancadas",
+      "nameRef": "Bilgewater"
     },
     {
       "description": "Puede elegir la unidad enemiga que bloquea.",
@@ -256,42 +291,53 @@
       "description": "",
       "name": "No puede bloquear",
       "nameRef": "CantBlock"
+    },
+    {
+      "description": "",
+      "name": "En apuros",
+      "nameRef": "Deep"
     }
   ],
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/es_es/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/es_es/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/es_es/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/es_es/img/regions/icon-shadowisles.png",
       "name": "Islas de la Sombra",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/es_es/img/regions/icon-ionia.png",
       "name": "Jonia",
       "nameRef": "Ionia"
     },
     {
+      "abbreviation": "BW",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/es_es/img/regions/icon-bilgewater.png",
+      "name": "Aguas Estancadas",
+      "nameRef": "Bilgewater"
+    },
+    {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/es_es/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/es_es/img/regions/icon-piltoverzaun.png",
       "name": "Piltover y Zaun",
       "nameRef": "PiltoverZaun"
     }
@@ -312,15 +358,15 @@
   ],
   "rarities": [
     {
-      "name": "Común",
+      "name": "COMÚN",
       "nameRef": "Common"
     },
     {
-      "name": "Rara",
+      "name": "RARA",
       "nameRef": "Rare"
     },
     {
-      "name": "Épica",
+      "name": "ÉPICA",
       "nameRef": "Epic"
     },
     {

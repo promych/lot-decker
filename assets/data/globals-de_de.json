@@ -16,6 +16,11 @@
       "nameRef": "Strongest"
     },
     {
+      "description": "Vernichte X Karten, die keine Champions sind, vom Ende deines Decks.",
+      "name": "Entsorgen",
+      "nameRef": "Toss"
+    },
+    {
       "description": "Der Effekt wird aktiviert, wenn die Runde endet.",
       "name": "Rundenende",
       "nameRef": "RoundEnd"
@@ -59,6 +64,11 @@
       "description": "Entfernt alle Schlüsselwörter, Fähigkeiten und aktive Effekte. Hat keinen Einfluss auf Schaden oder Kartenart.",
       "name": "Verstummen",
       "nameRef": "Silence"
+    },
+    {
+      "description": "Eine Karte aktiviert ihre Plündern-Fähigkeit beim Ausspielen, wenn du in dieser Runde Schaden am gegnerischen Nexus verursacht hast.",
+      "name": "Plündern",
+      "nameRef": "Plunder"
     }
   ],
   "keywords": [
@@ -81,6 +91,11 @@
       "description": "Niedrigster Angriffswert, bei gleichen Werten entscheidet das niedrigste Leben, dann die niedrigsten Kosten.",
       "name": "Schwächste",
       "nameRef": "Weakest"
+    },
+    {
+      "description": "Diese Einheit kann herausgefordert und zum Blocken gezwungen werden.",
+      "name": "Verletzlich",
+      "nameRef": "Vulnerable"
     },
     {
       "description": "Der Effekt wird aktiviert, wenn diese Einheit angreift.",
@@ -128,9 +143,19 @@
       "nameRef": "SpellOverwhelm"
     },
     {
+      "description": "Wenn ich beschworen werde, fülle 1 Zaubermana wieder auf.",
+      "name": "Einstimmen",
+      "nameRef": "Attune"
+    },
+    {
       "description": "Verhindert den nächsten Schaden, den die Einheit erleiden würde. Hält eine Runde an.",
       "name": "Barriere",
       "nameRef": "Barrier"
+    },
+    {
+      "description": "Ist angriffsunfähig und abwehrunfähig.",
+      "name": "Unbeweglich",
+      "nameRef": "Immobile"
     },
     {
       "description": "Eine festgehaltene Karte wird aus dem Spiel entfernt. Sie kehrt zurück, wenn die festhaltende Einheit das Spielfeld verlässt.",
@@ -223,6 +248,11 @@
       "nameRef": "Noxus"
     },
     {
+      "description": "Wenn zum ersten Mal in einer Runde nur Späher-Einheiten angreifen, bereite deinen Angriff vor.",
+      "name": "Späher",
+      "nameRef": "Scout"
+    },
+    {
       "description": "Diese Einheit stirbt, wenn sie zuschlägt oder die Runde endet.",
       "name": "Vergänglich",
       "nameRef": "Ephemeral"
@@ -236,6 +266,11 @@
       "description": "Diese Fähigkeiten werden wirksam, wenn die Einheit stirbt.",
       "name": "Letzter Wunsch",
       "nameRef": "LastBreath"
+    },
+    {
+      "description": "EMPTY STRING",
+      "name": "Bilgewasser",
+      "nameRef": "Bilgewater"
     },
     {
       "description": "Kann wählen, welche gegnerische Einheit abwehrt.",
@@ -256,42 +291,53 @@
       "description": " ",
       "name": "Abwehrunfähig",
       "nameRef": "CantBlock"
+    },
+    {
+      "description": "",
+      "name": "Tiefe",
+      "nameRef": "Deep"
     }
   ],
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/de_de/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/de_de/img/regions/icon-noxus.png",
       "name": "Noxus",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/de_de/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/de_de/img/regions/icon-demacia.png",
       "name": "Demacia",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/de_de/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/de_de/img/regions/icon-freljord.png",
       "name": "Freljord",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/de_de/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/de_de/img/regions/icon-shadowisles.png",
       "name": "Schatteninseln",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/de_de/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/de_de/img/regions/icon-ionia.png",
       "name": "Ionia",
       "nameRef": "Ionia"
     },
     {
+      "abbreviation": "BW",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/de_de/img/regions/icon-bilgewater.png",
+      "name": "Bilgewasser",
+      "nameRef": "Bilgewater"
+    },
+    {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/0_9_4_0/core/de_de/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_0_0/core/de_de/img/regions/icon-piltoverzaun.png",
       "name": "Piltover & Zhaun",
       "nameRef": "PiltoverZaun"
     }
@@ -312,15 +358,15 @@
   ],
   "rarities": [
     {
-      "name": "Gewöhnlich",
+      "name": "GEWÖHNLICH",
       "nameRef": "Common"
     },
     {
-      "name": "Selten",
+      "name": "SELTEN",
       "nameRef": "Rare"
     },
     {
-      "name": "Episch",
+      "name": "EPISCH",
       "nameRef": "Epic"
     },
     {

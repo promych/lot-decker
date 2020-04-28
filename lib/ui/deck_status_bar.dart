@@ -65,7 +65,7 @@ class DeckStatusBar extends StatelessWidget {
             child: CircleAvatar(
               radius: _iconSize / 2,
               backgroundImage:
-                  AssetImage('assets/img/champions/${card.name}.webp'),
+                  AssetImage('assets/img/champions/${card.name.replaceAll(' ', '')}.webp'),
             ),
             cardNum: cardsInDeck.where((c) => c.name == card.name).length,
           ),
