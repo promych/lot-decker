@@ -4,8 +4,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ001-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -42,8 +42,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW040-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -80,8 +80,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR009-full.png"
       }
     ],
     "region": "Freljord",
@@ -118,8 +118,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ010-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -154,8 +154,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX001-full.png"
       }
     ],
     "region": "Noxus",
@@ -192,8 +192,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW057-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -232,13 +232,13 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE003-full.png"
       }
     ],
     "region": "Demacia",
     "regionRef": "Demacia",
-    "attack": 4,
+    "attack": 3,
     "cost": 3,
     "health": 4,
     "description": "",
@@ -266,8 +266,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI005-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -309,8 +309,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -347,8 +347,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW041-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -390,8 +390,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032T2-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -428,8 +428,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ006-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -466,8 +466,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW013-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -506,8 +506,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI010-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -544,8 +544,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW034T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW034T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW034T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW034T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -584,8 +584,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW056T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW056T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW056T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -622,8 +622,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW061.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW061-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW061.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW061-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -662,8 +662,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW060.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW060-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW060-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -699,8 +699,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX007T2-full.png"
       }
     ],
     "region": "Noxus",
@@ -740,8 +740,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022T3-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -749,8 +749,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Inflige 1 de daño a tres<br>enemigos aleatorios distintos.\r\nAñade 1 <link=card.level1><style=AssociatedCard>Miss Fortune</style></link> a tu mazo.",
-    "descriptionRaw": "Inflige 1 de daño a tresenemigos aleatorios distintos.\r\nAñade 1 Miss Fortune a tu mazo.",
+    "description": "Inflige 1 de daño a tres enemigos diferentes seleccionados aleatoriamente, incluyendo al nexo enemigo.\r\nAñade 1 <link=card.level1><style=AssociatedCard>Miss Fortune</style></link> al mazo.",
+    "descriptionRaw": "Inflige 1 de daño a tres enemigos diferentes seleccionados aleatoriamente, incluyendo al nexo enemigo.\r\nAñade 1 Miss Fortune al mazo.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"¡Armas al rojo vivo!\". - Miss Fortune",
@@ -780,8 +780,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW011-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -789,8 +789,8 @@
     "attack": 3,
     "cost": 4,
     "health": 3,
-    "description": "Cuando se me invoca, se crea 1 <link=card.create><style=AssociatedCard>Disparo de advertencia</style></link> en la mano.\r\n<link=vocab.Allegiance><style=Vocab>Alianza</style></link>: Roba 1 carta del mazo del rival.",
-    "descriptionRaw": "Cuando se me invoca, se crea 1 Disparo de advertencia en la mano.\r\nAlianza: Roba 1 carta del mazo del rival.",
+    "description": "Cuando se me invoca, se crea 1 <link=card.create><style=AssociatedCard>Disparo de advertencia</style></link> en la mano.\r\n<link=vocab.Allegiance><style=Vocab>Alianza</style></link>: Roba 1 carta del mazo del rival que no sea un campeón.",
+    "descriptionRaw": "Cuando se me invoca, se crea 1 Disparo de advertencia en la mano.\r\nAlianza: Roba 1 carta del mazo del rival que no sea un campeón.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Ya sabes, a los amigos les encanta ayudarse entre ellos. ¿Y a ti? Me encanta cómo te brilla la mirada. Y esa espada que llevas... es muy bonita, la verdad\".",
@@ -819,8 +819,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -853,8 +853,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030T2-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -893,8 +893,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR004-full.png"
       }
     ],
     "region": "Freljord",
@@ -902,8 +902,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Concede <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Escarchar</style></link> y <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> a una unidad enemiga esta ronda.",
-    "descriptionRaw": "Concede Escarchar y Vulnerable a una unidad enemiga esta ronda.",
+    "description": "Concede <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Escarchar</style></link> y <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> a un enemigo esta ronda.",
+    "descriptionRaw": "Concede Escarchar y Vulnerable a un enemigo esta ronda.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Estos sangrecaliente no durarían ni un solo día en Freljord\".<br>- Sejuani",
@@ -931,8 +931,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW019-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -971,8 +971,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW007-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1002,11 +1002,13 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [],
+    "associatedCardRefs": [
+      "02PZ004"
+    ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ004-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -1043,8 +1045,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW014-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1081,8 +1083,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX006-full.png"
       }
     ],
     "region": "Noxus",
@@ -1115,13 +1117,13 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE008-full.png"
       }
     ],
     "region": "Demacia",
     "regionRef": "Demacia",
-    "attack": 4,
+    "attack": 5,
     "cost": 5,
     "health": 5,
     "description": "",
@@ -1153,8 +1155,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO008T1-full.png"
       }
     ],
     "region": "Jonia",
@@ -1193,8 +1195,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW024-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1231,8 +1233,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW062-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1240,8 +1242,8 @@
     "attack": 2,
     "cost": 4,
     "health": 4,
-    "description": "Cuando se me invoca, crea una unidad aleatoria de coste 1 de cualquier región y le otorga <link=keyword.Scout><sprite name=Scout><style=Keyword>Vigía</style></link>.",
-    "descriptionRaw": "Cuando se me invoca, crea una unidad aleatoria de coste 1 de cualquier región y le otorga Vigía.",
+    "description": "Cuando se me invoca, invoca a un adepto aleatorio de coste 1 que recibe <link=keyword.Scout><sprite name=Scout><style=Keyword>Vigía</style></link>.",
+    "descriptionRaw": "Cuando se me invoca, invoca a un adepto aleatorio de coste 1 que recibe Vigía.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Asciende la luz de la Madre Serpiente.\nSube a los cielos, desde la corriente.\nEl cielo con ojos grises sosiega el alma.\nEl reflejo de su mirada en calma.\nSonríe, está en paz...\".\n- Oración a Nagakabouros",
@@ -1269,8 +1271,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW055-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1303,8 +1305,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI008T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI008T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI008T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI008T3-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -1345,8 +1347,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO005T1-full.png"
       }
     ],
     "region": "Jonia",
@@ -1366,8 +1368,8 @@
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "COMÚN",
-    "rarityRef": "Common",
+    "rarity": "Ninguna",
+    "rarityRef": "None",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
@@ -1379,8 +1381,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE004-full.png"
       }
     ],
     "region": "Demacia",
@@ -1426,8 +1428,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1470,8 +1472,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE006T3-full.png"
       }
     ],
     "region": "Demacia",
@@ -1508,8 +1510,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI007-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -1546,8 +1548,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW003-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1555,8 +1557,8 @@
     "attack": 0,
     "cost": 6,
     "health": 0,
-    "description": "<link=vocab.Plunder><style=Vocab>Asalto</style></link>: Coloca un adepto que esté en juego en tu mano.",
-    "descriptionRaw": "Asalto: Coloca un adepto que esté en juego en tu mano.",
+    "description": "<link=vocab.Plunder><style=Vocab>Asalto</style></link>: Coloca a un adepto que esté en juego en tu mano.",
+    "descriptionRaw": "Asalto: Coloca a un adepto que esté en juego en tu mano.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"¡Ahora trabajas para nosotros!\". - Suboficial",
@@ -1584,8 +1586,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW017-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1618,8 +1620,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI003-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -1627,8 +1629,8 @@
     "attack": 6,
     "cost": 8,
     "health": 5,
-    "description": "<link=vocab.Attack><style=Vocab>Atacar</style></link>: Concede a los enemigos<br>-2|-0 esta ronda.\r\nLos Monstruos marinos aliados tienen <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Temible</style></link>.\r\n<style=Variable></style>",
-    "descriptionRaw": "Atacar: Concede a los enemigos-2|-0 esta ronda.\r\nLos Monstruos marinos aliados tienen Temible.\r\n",
+    "description": "Los Monstruos marinos aliados tienen <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Temible</style></link>. \r\n<link=vocab.Attack><style=Vocab>Atacar</style></link>: Concede a los enemigos -2|-0 esta ronda.\r\n<style=Variable></style>",
+    "descriptionRaw": "Los Monstruos marinos aliados tienen Temible. \r\nAtacar: Concede a los enemigos -2|-0 esta ronda.\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Se percataron del peligro cuando ya era demasiado tarde. La titánica bestia abrió sus enormes fauces y fue a por ellos. Los cazadores no pudieron sino aguardar la muerte que les sobrevenía a medida que el barco crujía entre infinitos dientes.",
@@ -1661,8 +1663,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX007T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -1703,8 +1705,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022T2-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1743,8 +1745,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO002T1-full.png"
       }
     ],
     "region": "Jonia",
@@ -1781,8 +1783,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ007-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -1817,8 +1819,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW056.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW056-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW056-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1862,8 +1864,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW046T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW046T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW046T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW046T3-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1896,8 +1898,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE006T2-full.png"
       }
     ],
     "region": "Demacia",
@@ -1938,8 +1940,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW025-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -1976,8 +1978,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022T4-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2016,13 +2018,13 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE009-full.png"
       }
     ],
     "region": "Demacia",
     "regionRef": "Demacia",
-    "attack": 4,
+    "attack": 3,
     "cost": 4,
     "health": 1,
     "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Último aliento</style></link>: Invoca 1 <link=card.summon><style=AssociatedCard>Oso tejón leal</style></link>.",
@@ -2060,8 +2062,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO006-full.png"
       }
     ],
     "region": "Jonia",
@@ -2098,8 +2100,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW038-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2138,8 +2140,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW021-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2176,8 +2178,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW022T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW022T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2214,8 +2216,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI001-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -2248,8 +2250,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T5-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2286,8 +2288,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2326,8 +2328,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ002-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -2335,8 +2337,8 @@
     "attack": 5,
     "cost": 6,
     "health": 6,
-    "description": "Cuando robas una carta, recibe <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> y crea una copia de ella.",
-    "descriptionRaw": "Cuando robas una carta, recibe Fugaz y crea una copia de ella.",
+    "description": "Cuando robas una carta, recibe <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> y crea una copia exacta de ella.",
+    "descriptionRaw": "Cuando robas una carta, recibe Fugaz y crea una copia exacta de ella.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "A los cinco años, construyó el primer cuchillo sónico multifrecuencia. Aunque no resultaba demasiado práctico (solo lo usaba para hacer bocadillos), crearlo fue el primer paso que la conduciría al departamento de armas de élite de los guardianes.",
@@ -2362,8 +2364,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW012-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2404,8 +2406,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI008T1-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -2442,8 +2444,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX002-full.png"
       }
     ],
     "region": "Noxus",
@@ -2476,8 +2478,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE005-full.png"
       }
     ],
     "region": "Demacia",
@@ -2514,8 +2516,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW035-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2558,8 +2560,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI002-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -2592,8 +2594,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO004-full.png"
       }
     ],
     "region": "Jonia",
@@ -2630,8 +2632,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW058-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2663,15 +2665,15 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "02BW026T2",
-      "02BW026T5",
       "02BW026T4",
+      "02BW026T5",
       "02BW026",
       "02BW026T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T3-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2708,8 +2710,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW028T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW028T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW028T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW028T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2746,8 +2748,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW018-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2784,8 +2786,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW037-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2828,8 +2830,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO003T1-full.png"
       }
     ],
     "region": "Jonia",
@@ -2855,8 +2857,8 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "COMÚN",
-    "rarityRef": "Common",
+    "rarity": "Ninguna",
+    "rarityRef": "None",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
@@ -2871,8 +2873,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR002-full.png"
       }
     ],
     "region": "Freljord",
@@ -2909,8 +2911,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW048-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2947,8 +2949,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW043-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -2985,8 +2987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR001-full.png"
       }
     ],
     "region": "Freljord",
@@ -3016,11 +3018,13 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [],
+    "associatedCardRefs": [
+      "02BW032T1"
+    ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW008T02.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW008T02-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW008T02.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW008T02-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3028,20 +3032,20 @@
     "attack": 3,
     "cost": 3,
     "health": 1,
-    "description": "<link=vocab.Play><style=Vocab>Jugar:</style></link> Invoca a un aliado aleatorio de coste 1 de cualquier facción.",
-    "descriptionRaw": "Jugar: Invoca a un aliado aleatorio de coste 1 de cualquier facción.",
+    "description": "<link=vocab.Play><style=Vocab>Jugar:</style></link> Invoca a un aliado aleatorio de coste 1 de cualquier región.",
+    "descriptionRaw": "Jugar: Invoca a un aliado aleatorio de coste 1 de cualquier región.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "",
+    "flavorText": "Pronto aprendió que no había mejor forma de motivar a los marineros que con la ayuda de una espoleta ardiendo.",
     "artistName": "SIXMOREVODKA",
-    "name": "Suboficial B",
+    "name": "Suboficial",
     "cardCode": "02BW008T02",
     "keywords": [],
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "COMÚN",
-    "rarityRef": "Common",
+    "rarity": "RARA",
+    "rarityRef": "Rare",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
@@ -3055,8 +3059,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW008T01.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW008T01-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW008T01.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW008T01-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3068,16 +3072,16 @@
     "descriptionRaw": "Jugar: Invoca 1 Barril de pólvora.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "",
+    "flavorText": "Pronto aprendió que no había mejor forma de motivar a los marineros que con la ayuda de una espoleta ardiendo.",
     "artistName": "SIXMOREVODKA",
-    "name": "Suboficial A",
+    "name": "Suboficial",
     "cardCode": "02BW008T01",
     "keywords": [],
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "COMÚN",
-    "rarityRef": "Common",
+    "rarity": "RARA",
+    "rarityRef": "Rare",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
@@ -3089,8 +3093,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW051-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3129,8 +3133,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW054.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW054-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW054-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3169,8 +3173,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI004-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -3207,8 +3211,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO006T1-full.png"
       }
     ],
     "region": "Jonia",
@@ -3248,8 +3252,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3288,8 +3292,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO003-full.png"
       }
     ],
     "region": "Jonia",
@@ -3330,8 +3334,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW053T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW053T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW053T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW053T2-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3368,8 +3372,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO001-full.png"
       }
     ],
     "region": "Jonia",
@@ -3406,8 +3410,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI008-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -3439,19 +3443,20 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "02PZ008T2",
+      "02PZ004",
       "02PZ008T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ008-full.png"
       }
     ],
     "region": "Piltover y Zaun",
     "regionRef": "PiltoverZaun",
     "attack": 2,
     "cost": 5,
-    "health": 5,
+    "health": 4,
     "description": "Si esta carta está en juego o en la mano, obtiene +1|+0 cuando juegas otra carta <style=Parentheses>(máx. de +8|+0)</style>.<style=Variable></style>",
     "descriptionRaw": "Si esta carta está en juego o en la mano, obtiene +1|+0 cuando juegas otra carta (máx. de +8|+0).",
     "levelupDescription": "Cuando <link=vocab.Strike><style=Vocab>golpeo</style></link> e inflijo 10 o más de daño.",
@@ -3483,8 +3488,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI006-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -3517,8 +3522,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW047-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3551,8 +3556,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX009-full.png"
       }
     ],
     "region": "Noxus",
@@ -3591,8 +3596,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW008-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3600,8 +3605,8 @@
     "attack": 3,
     "cost": 3,
     "health": 1,
-    "description": "<link=vocab.Play><style=Vocab>Jugar:</style></link> Invoca 1 <link=card.summon><style=AssociatedCard>Barril de pólvora</style></link> o a un aliado aleatorio de coste 1 de cualquier facción.",
-    "descriptionRaw": "Jugar: Invoca 1 Barril de pólvora o a un aliado aleatorio de coste 1 de cualquier facción.",
+    "description": "<link=vocab.Play><style=Vocab>Jugar:</style></link> Invoca a 1 <link=card.summon><style=AssociatedCard>Barril de pólvora</style></link> o a un aliado aleatorio de coste 1 de cualquier región.",
+    "descriptionRaw": "Jugar: Invoca a 1 Barril de pólvora o a un aliado aleatorio de coste 1 de cualquier región.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Pronto aprendió que no había mejor forma de motivar a los marineros que con la ayuda de una espoleta ardiendo.",
@@ -3628,8 +3633,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX007-full.png"
       }
     ],
     "region": "Noxus",
@@ -3669,8 +3674,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW053.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW053-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW053-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3711,8 +3716,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR005T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -3754,8 +3759,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032T3-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3792,8 +3797,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR010-full.png"
       }
     ],
     "region": "Freljord",
@@ -3832,8 +3837,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW004-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3868,8 +3873,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW002-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3877,8 +3882,8 @@
     "attack": 4,
     "cost": 9,
     "health": 8,
-    "description": "<link=vocab.Play><style=Vocab>Jugar</style></link>: Roba a <link=card.champ1><style=AssociatedCard>Gangplank</style></link>.\r\nDuplica todo el daño de los aliados.",
-    "descriptionRaw": "Jugar: Roba a Gangplank.\r\nDuplica todo el daño de los aliados.",
+    "description": "Duplica todo el daño infligido por tus habilidades, hechizos y aliados.\r\n<link=vocab.Play><style=Vocab>Jugar</style></link>: Roba a <link=card.champ1><style=AssociatedCard>Gangplank</style></link>.",
+    "descriptionRaw": "Duplica todo el daño infligido por tus habilidades, hechizos y aliados.\r\nJugar: Roba a Gangplank.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"¡Ah, despedíos y levad anclas,\npues el Heraldo de la muerte está al caer!\n¡Hacia las profundidades, donde aguardan los cadáveres,\npues el Heraldo de la muerte está al caer!\". - \"El Heraldo de la muerte está al caer\"",
@@ -3906,8 +3911,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -3948,8 +3953,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO005-full.png"
       }
     ],
     "region": "Jonia",
@@ -3988,8 +3993,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX004-full.png"
       }
     ],
     "region": "Noxus",
@@ -3997,8 +4002,8 @@
     "attack": 2,
     "cost": 2,
     "health": 3,
-    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>Jugar</style></link>: Inflige 1 de daño a una unidad aliada para infligir 2 al nexo enemigo.",
-    "descriptionRaw": "Jugar: Inflige 1 de daño a una unidad aliada para infligir 2 al nexo enemigo.",
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>Jugar</style></link>: Inflige 1 de daño a un aliado para infligir 2 al nexo enemigo.",
+    "descriptionRaw": "Jugar: Inflige 1 de daño a un aliado para infligir 2 al nexo enemigo.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Rápida y silenciosa hasta que explota\".",
@@ -4022,15 +4027,15 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW016-full.png"
       }
     ],
     "region": "Aguas Estancadas",
     "regionRef": "Bilgewater",
-    "attack": 0,
+    "attack": 1,
     "cost": 3,
-    "health": 3,
+    "health": 4,
     "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Consigo +0|+1 por cada carta que hayas robado en la última ronda. Después, baraja mis estadísticas.\r\n<style=Variable></style>",
     "descriptionRaw": "Comienzo de ronda: Consigo +0|+1 por cada carta que hayas robado en la última ronda. Después, baraja mis estadísticas.\r\n",
     "levelupDescription": "",
@@ -4056,8 +4061,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030T4-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -4100,8 +4105,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE002-full.png"
       }
     ],
     "region": "Demacia",
@@ -4138,8 +4143,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX003-full.png"
       }
     ],
     "region": "Noxus",
@@ -4147,8 +4152,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Inflige 3 de daño a una unidad aliada para infligir 3 a cualquier unidad o estructura.",
-    "descriptionRaw": "Inflige 3 de daño a una unidad aliada para infligir 3 a cualquier unidad o estructura.",
+    "description": "Inflige 3 de daño a un aliado para infligir 3 a cualquier unidad o estructura.",
+    "descriptionRaw": "Inflige 3 de daño a un aliado para infligir 3 a cualquier unidad o estructura.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Los sacrificios son necesarios\". - Jericho Swain",
@@ -4179,8 +4184,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR008-full.png"
       }
     ],
     "region": "Freljord",
@@ -4216,8 +4221,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR002T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4254,8 +4259,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO006T3-full.png"
       }
     ],
     "region": "Jonia",
@@ -4263,8 +4268,8 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "Un aliado lanza a un enemigo contra su nexo, lo que los <link=vocab.Strike><style=Vocab>golpea</style></link><br>a ambos.\r\nSi el enemigo sobrevive, se <link=keyword.Recall><style=Keyword>retira</style></link>.",
-    "descriptionRaw": "Un aliado lanza a un enemigo contra su nexo, lo que los golpeaa ambos.\r\nSi el enemigo sobrevive, se retira.",
+    "description": "Un aliado lanza a un enemigo contra el nexo enemigo, lo que los <link=vocab.Strike><style=Vocab>golpea</style></link> a ambos.\r\nSi el enemigo sobrevive, se <link=keyword.Recall><style=Keyword>retira</style></link>.",
+    "descriptionRaw": "Un aliado lanza a un enemigo contra el nexo enemigo, lo que los golpea a ambos.\r\nSi el enemigo sobrevive, se retira.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Si no libero al dragón, acabará por consumirme\". - Lee Sin",
@@ -4279,8 +4284,8 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "COMÚN",
-    "rarityRef": "Common",
+    "rarity": "Ninguna",
+    "rarityRef": "None",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
@@ -4292,8 +4297,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ009-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -4330,8 +4335,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE010-full.png"
       }
     ],
     "region": "Demacia",
@@ -4372,8 +4377,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO002-full.png"
       }
     ],
     "region": "Jonia",
@@ -4405,15 +4410,15 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "02BW026T2",
-      "02BW026T5",
       "02BW026T4",
+      "02BW026T5",
       "02BW026T3",
       "02BW026T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -4452,8 +4457,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW027-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -4489,8 +4494,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR002T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR002T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR002T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR002T3-full.png"
       }
     ],
     "region": "Freljord",
@@ -4529,8 +4534,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO010-full.png"
       }
     ],
     "region": "Jonia",
@@ -4567,8 +4572,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW042-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -4605,8 +4610,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE007-full.png"
       }
     ],
     "region": "Demacia",
@@ -4643,8 +4648,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW059-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -4681,8 +4686,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR007-full.png"
       }
     ],
     "region": "Freljord",
@@ -4721,8 +4726,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW032T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW032T4-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -4746,8 +4751,8 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "COMÚN",
-    "rarityRef": "Common",
+    "rarity": "Ninguna",
+    "rarityRef": "None",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
@@ -4759,8 +4764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW050-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -4801,8 +4806,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE006T1-full.png"
       }
     ],
     "region": "Demacia",
@@ -4841,8 +4846,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW028-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -4850,8 +4855,8 @@
     "attack": 7,
     "cost": 8,
     "health": 4,
-    "description": "<link=vocab.Plunder><style=Vocab>Asalto</style></link>: Lanza <link=card.cast><style=AssociatedCard>Andanada de cañón</style></link> 7 veces sobre enemigos aleatorios.",
-    "descriptionRaw": "Asalto: Lanza Andanada de cañón 7 veces sobre enemigos aleatorios.",
+    "description": "<link=vocab.Plunder><style=Vocab>Asalto</style></link>: Lanza <link=card.cast><style=AssociatedCard>Andanada de cañón</style></link> 7 veces contra enemigos seleccionados aleatoriamente.",
+    "descriptionRaw": "Asalto: Lanza Andanada de cañón 7 veces contra enemigos seleccionados aleatoriamente.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Navega más allá de marineros, más allá de los restos del naufragio.\nLa batalla ya ha terminado.\nYa no queda humo; el capitán se ha enfrentado a Rex\ny su barco no es más que un montón de astillas\". - \"En casa contigo, Sally\"",
@@ -4875,8 +4880,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW023-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -4915,8 +4920,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI009-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -4953,8 +4958,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ003-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -4991,8 +4996,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW031-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5000,8 +5005,8 @@
     "attack": 0,
     "cost": 6,
     "health": 0,
-    "description": "Inflige 2 de daño a una unidad enemiga.\r\nSi resulta letal, inflige 4 de daño al nexo enemigo.",
-    "descriptionRaw": "Inflige 2 de daño a una unidad enemiga.\r\nSi resulta letal, inflige 4 de daño al nexo enemigo.",
+    "description": "Inflige 2 de daño a un enemigo.\r\nSi resulta letal, inflige 4 de daño al nexo enemigo.",
+    "descriptionRaw": "Inflige 2 de daño a un enemigo.\r\nSi resulta letal, inflige 4 de daño al nexo enemigo.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Yo siempre disparo primero\". - Miss Fortune",
@@ -5031,15 +5036,15 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW034.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW034-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW034-full.png"
       }
     ],
     "region": "Aguas Estancadas",
     "regionRef": "Bilgewater",
     "attack": 0,
     "cost": 3,
-    "health": 4,
+    "health": 5,
     "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Recibo 2 de daño e invoca 1 <link=card.create><style=AssociatedCard>Mono de la pólvora</style></link>.",
     "descriptionRaw": "Comienzo de ronda: Recibo 2 de daño e invoca 1 Mono de la pólvora.",
     "levelupDescription": "",
@@ -5073,8 +5078,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02SI008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02SI008T2-full.png"
       }
     ],
     "region": "Islas de la Sombra",
@@ -5111,8 +5116,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX010-full.png"
       }
     ],
     "region": "Noxus",
@@ -5120,8 +5125,8 @@
     "attack": 6,
     "cost": 6,
     "health": 5,
-    "description": "No puedo recibir daño por parte de unidades enemigas a no ser que tengan 5 o más de poder.",
-    "descriptionRaw": "No puedo recibir daño por parte de unidades enemigas a no ser que tengan 5 o más de poder.",
+    "description": "Todos los enemigos con 4 o menos de poder no pueden hacerme daño.",
+    "descriptionRaw": "Todos los enemigos con 4 o menos de poder no pueden hacerme daño.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Una vez que se pone en marcha, nada frena a una bestia de guerra. Lo mejor es apartarse de su camino\". - Jinete de basiliscos",
@@ -5149,8 +5154,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE001-full.png"
       }
     ],
     "region": "Demacia",
@@ -5158,8 +5163,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "Elige a un enemigo y dos<br>aliados le <link=vocab.Strike><style=Vocab>golpean</style></link>.",
-    "descriptionRaw": "Elige a un enemigo y dosaliados le golpean.",
+    "description": "Elige a un enemigo y dos aliados le <link=vocab.Strike><style=Vocab>golpean</style></link>.",
+    "descriptionRaw": "Elige a un enemigo y dos aliados le golpean.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"¡Conmigo, todos juntos!\". - Guardabosques",
@@ -5187,8 +5192,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO007-full.png"
       }
     ],
     "region": "Jonia",
@@ -5196,8 +5201,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "Un aliado lanza a un enemigo contra su nexo, lo que los <link=vocab.Strike><style=Vocab>golpea</style></link><br>a ambos.\r\nSi el enemigo sobrevive, se <link=keyword.Recall><style=Keyword>retira</style></link>.",
-    "descriptionRaw": "Un aliado lanza a un enemigo contra su nexo, lo que los golpeaa ambos.\r\nSi el enemigo sobrevive, se retira.",
+    "description": "Un aliado lanza a un enemigo contra el nexo enemigo, lo que los <link=vocab.Strike><style=Vocab>golpea</style></link> a ambos.\r\nSi el enemigo sobrevive, se <link=keyword.Recall><style=Keyword>retira</style></link>.",
+    "descriptionRaw": "Un aliado lanza a un enemigo contra el nexo enemigo, lo que los golpea a ambos.\r\nSi el enemigo sobrevive, se retira.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Si no libero al dragón, acabará por consumirme\". - Lee Sin",
@@ -5225,8 +5230,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW029-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5265,8 +5270,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW015-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5303,8 +5308,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW010-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5339,8 +5344,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW009-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5348,8 +5353,8 @@
     "attack": 1,
     "cost": 1,
     "health": 2,
-    "description": "Cuando se me invoca, roba una carta con <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> la próxima ronda.",
-    "descriptionRaw": "Cuando se me invoca, roba una carta con Fugaz la próxima ronda.",
+    "description": "Cuando se me invoca, roba 1 carta con <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en el siguiente <link=vocab.RoundStart><style=Vocab>comienzo de ronda</style></link>.",
+    "descriptionRaw": "Cuando se me invoca, roba 1 carta con Fugaz en el siguiente comienzo de ronda.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"No lo entiendo, la verdad. Lo estaba clavando, pero esa última... No hubo manera. Supongo que hoy no es mi día\".<br>- Corredora de apuestas",
@@ -5373,8 +5378,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW005-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5412,8 +5417,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW046-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5421,8 +5426,8 @@
     "attack": 2,
     "cost": 1,
     "health": 1,
-    "description": "Cuando lanzas un hechizo, consigo <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Elusión</style></link> y dejo de ser objetivo de cualquier habilidad o hechizo enemigos.",
-    "descriptionRaw": "Cuando lanzas un hechizo, consigo Elusión y dejo de ser objetivo de cualquier habilidad o hechizo enemigos.",
+    "description": "Cuando lanzas un hechizo, dejo de ser objetivo de cualquier habilidad o hechizo enemigos y consigo <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Elusión</style></link> en esta ronda.",
+    "descriptionRaw": "Cuando lanzas un hechizo, dejo de ser objetivo de cualquier habilidad o hechizo enemigos y consigo Elusión en esta ronda.",
     "levelupDescription": "Has lanzado 6 hechizos o más<style=Variable></style>.",
     "levelupDescriptionRaw": "Has lanzado 6 hechizos o más.",
     "flavorText": "De todas las leyendas de Aguas Estancadas, Fizz es la más volátil. Los hay que lo maldicen y lo culpan de los brutales naufragios que adornan la costa...",
@@ -5446,8 +5451,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW049-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5455,8 +5460,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Roba una carta del mazo enemigo.\r\n<link=vocab.Plunder><style=Vocab>Asalto</style></link>: Roba 1 más.",
-    "descriptionRaw": "Roba una carta del mazo enemigo.\r\nAsalto: Roba 1 más.",
+    "description": "Roba una carta del mazo enemigo que no sea un campeón.\r\n<link=vocab.Plunder><style=Vocab>Asalto</style></link>: Roba 1 más.",
+    "descriptionRaw": "Roba una carta del mazo enemigo que no sea un campeón.\r\nAsalto: Roba 1 más.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Lo mío es mío, y lo tuyo... mío también.",
@@ -5486,8 +5491,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR005-full.png"
       }
     ],
     "region": "Freljord",
@@ -5520,8 +5525,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW039-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5560,8 +5565,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW030T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW030T3-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5600,8 +5605,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW006-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5634,15 +5639,15 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW046T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW046T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW046T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW046T2-full.png"
       }
     ],
     "region": "Aguas Estancadas",
     "regionRef": "Bilgewater",
     "attack": 5,
     "cost": 4,
-    "health": 1,
+    "health": 2,
     "description": "",
     "descriptionRaw": "",
     "levelupDescription": "",
@@ -5675,15 +5680,15 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ008T2-full.png"
       }
     ],
     "region": "Piltover y Zaun",
     "regionRef": "PiltoverZaun",
     "attack": 10,
     "cost": 5,
-    "health": 6,
+    "health": 5,
     "description": "Cuando <link=vocab.Strike><style=Vocab>golpeo</style></link> a una unidad al atacar, inflijo 5 de daño al nexo enemigo.",
     "descriptionRaw": "Cuando golpeo a una unidad al atacar, inflijo 5 de daño al nexo enemigo.",
     "levelupDescription": "",
@@ -5715,8 +5720,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T2-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5757,8 +5762,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02DE006-full.png"
       }
     ],
     "region": "Demacia",
@@ -5795,8 +5800,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW001-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5836,8 +5841,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO006T2-full.png"
       }
     ],
     "region": "Jonia",
@@ -5845,8 +5850,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "Un aliado lanza a un enemigo contra su nexo, lo que los <link=vocab.Strike><style=Vocab>golpea</style></link> a ambos.\r\nSi el enemigo sobrevive, se <link=keyword.Recall><style=Keyword>retira</style></link>.\r\nAñade 1 <link=card.level1><style=AssociatedCard>Lee Sin</style></link> a tu mazo.",
-    "descriptionRaw": "Un aliado lanza a un enemigo contra su nexo, lo que los golpea a ambos.\r\nSi el enemigo sobrevive, se retira.\r\nAñade 1 Lee Sin a tu mazo.",
+    "description": "Un aliado lanza a un enemigo contra el nexo enemigo, lo que los <link=vocab.Strike><style=Vocab>golpea</style></link> a ambos.\r\nSi el enemigo sobrevive, se <link=keyword.Recall><style=Keyword>retira</style></link>.\r\nAñade 1 <link=card.level1><style=AssociatedCard>Lee Sin</style></link> a tu mazo.",
+    "descriptionRaw": "Un aliado lanza a un enemigo contra el nexo enemigo, lo que los golpea a ambos.\r\nSi el enemigo sobrevive, se retira.\r\nAñade 1 Lee Sin a tu mazo.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Si no libero al dragón, acabará por consumirme\". - Lee Sin",
@@ -5874,8 +5879,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO010T1-full.png"
       }
     ],
     "region": "Jonia",
@@ -5914,8 +5919,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW026T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW026T4-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -5952,14 +5957,14 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO009-full.png"
       }
     ],
     "region": "Jonia",
     "regionRef": "Ionia",
     "attack": 0,
-    "cost": 4,
+    "cost": 5,
     "health": 0,
     "description": "Cuesta 2 menos si has lanzado 2 hechizos o más en la última ronda.\r\nRoba 2 hechizos más.\r\n",
     "descriptionRaw": "Cuesta 2 menos si has lanzado 2 hechizos o más en la última ronda.\r\nRoba 2 hechizos más.\r\n",
@@ -5990,8 +5995,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW063.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW063-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW063-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -6028,8 +6033,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW036-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -6068,8 +6073,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW045-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -6077,8 +6082,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Inflige 1 de daño a tres<br>enemigos aleatorios distintos.",
-    "descriptionRaw": "Inflige 1 de daño a tresenemigos aleatorios distintos.",
+    "description": "Inflige 1 de daño a tres enemigos diferentes seleccionados aleatoriamente, incluyendo al nexo enemigo.",
+    "descriptionRaw": "Inflige 1 de daño a tres enemigos diferentes seleccionados aleatoriamente, incluyendo al nexo enemigo.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"¡Armas al rojo vivo!\". - Miss Fortune",
@@ -6106,8 +6111,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW033-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW033-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -6115,8 +6120,8 @@
     "attack": 2,
     "cost": 2,
     "health": 2,
-    "description": "Cuando robas una carta enemiga, su coste se reduce en 1.\r\n<link=vocab.Plunder><style=Vocab>Asalto</style></link>: Roba una carta del mazo del rival.",
-    "descriptionRaw": "Cuando robas una carta enemiga, su coste se reduce en 1.\r\nAsalto: Roba una carta del mazo del rival.",
+    "description": "Cuando robas una carta enemiga, su coste se reduce en 1.\r\n<link=vocab.Plunder><style=Vocab>Asalto</style></link>: Roba una carta del mazo del rival que no sea un campeón.",
+    "descriptionRaw": "Cuando robas una carta enemiga, su coste se reduce en 1.\r\nAsalto: Roba una carta del mazo del rival que no sea un campeón.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"¡Tengo todo lo que buscas! Incluso mercancías 'especiales'... Pero si te preguntan, yo no he sido\".",
@@ -6140,8 +6145,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX004T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -6149,8 +6154,8 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "Inflige 1 de daño a una unidad aliada para infligir 2 al nexo enemigo.",
-    "descriptionRaw": "Inflige 1 de daño a una unidad aliada para infligir 2 al nexo enemigo.",
+    "description": "Inflige 1 de daño a un aliado para infligir 2 al nexo enemigo.",
+    "descriptionRaw": "Inflige 1 de daño a un aliado para infligir 2 al nexo enemigo.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Los riesgos de recurrir a la pólvora negra no son nada en comparación con la ventaja táctica que proporciona.",
@@ -6178,8 +6183,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW060T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW060T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW060T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW060T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -6215,12 +6220,13 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "02PZ008",
-      "02PZ008T2"
+      "02PZ008T2",
+      "02PZ004"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ008T1-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -6257,8 +6263,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW020-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -6295,8 +6301,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX008-full.png"
       }
     ],
     "region": "Noxus",
@@ -6304,8 +6310,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Inflige 2 de daño a una unidad enemiga y 1 a su nexo.",
-    "descriptionRaw": "Inflige 2 de daño a una unidad enemiga y 1 a su nexo.",
+    "description": "Inflige 2 a un enemigo y 1 al nexo enemigo.",
+    "descriptionRaw": "Inflige 2 a un enemigo y 1 al nexo enemigo.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Intenta morir con dignidad\". - Swain",
@@ -6333,8 +6339,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02PZ005-full.png"
       }
     ],
     "region": "Piltover y Zaun",
@@ -6367,8 +6373,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02NX005-full.png"
       }
     ],
     "region": "Noxus",
@@ -6405,8 +6411,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR006-full.png"
       }
     ],
     "region": "Freljord",
@@ -6448,8 +6454,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW046T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW046T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW046T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW046T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -6489,8 +6495,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW053T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW053T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW053T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW053T1-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -6529,8 +6535,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02BW044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02BW044-full.png"
       }
     ],
     "region": "Aguas Estancadas",
@@ -6569,8 +6575,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02IO008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02IO008-full.png"
       }
     ],
     "region": "Jonia",
@@ -6609,8 +6615,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_1_0/set2/es_es/img/cards/02FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_2_0/set2/es_es/img/cards/02FR003-full.png"
       }
     ],
     "region": "Freljord",
@@ -6618,8 +6624,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "Crea 2 poros aleatorios de cualquier región y 2 <link=card.snaxRef><style=AssociatedCard>Snack para poros</style></link>.",
-    "descriptionRaw": "Crea 2 poros aleatorios de cualquier región y 2 Snack para poros.",
+    "description": "Crea 2 poros aleatorios y 2 <link=card.snaxRef><style=AssociatedCard>Snack para poros</style></link> en la mano.",
+    "descriptionRaw": "Crea 2 poros aleatorios y 2 Snack para poros en la mano.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Si le pides un deseo a un poro\ny contemplas la noche estrellada,\nverás el aperitivo en el firmamento\ny sentirás un brillo en tu mirada\". - Ingvar el Joven",
