@@ -1,4 +1,5 @@
 import 'package:flutter/foundation.dart';
+import 'package:sembast/sembast.dart';
 
 class Deck {
   final String name;
@@ -14,6 +15,12 @@ class Deck {
   });
 
   Deck.fromMap(MapEntry<int, Map<String, dynamic>> data)
+      : this.id = data.key,
+        this.name = data.value['name'],
+        this.cardCodes = List<String>.from(data.value['cardCodes']),
+        this.manaCost = Map<String, int>.from(data.value['manaCost']);
+
+  Deck.fromDatabase(RecordSnapshot<int, Map<String, dynamic>> data)
       : this.id = data.key,
         this.name = data.value['name'],
         this.cardCodes = List<String>.from(data.value['cardCodes']),

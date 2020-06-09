@@ -52,11 +52,13 @@ class DeckListTile extends StatelessWidget {
               return Padding(
                 padding: const EdgeInsets.all(10.0),
                 child: snapshot.hasData && snapshot.data.isNotEmpty
-                    ? DeckStatusBar(
-                        cardsInDeck: deck.cardCodes
-                            .map(cardsStorage.cardByCode)
-                            .toList(),
-                      )
+                    ? AbsorbPointer(
+                      child: DeckStatusBar(
+                          cardsInDeck: deck.cardCodes
+                              .map(cardsStorage.cardByCode)
+                              .toList(),
+                        ),
+                    )
                     : Container(),
               );
             })

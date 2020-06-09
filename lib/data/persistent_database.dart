@@ -9,6 +9,7 @@ import 'package:sembast/sembast_io.dart';
 import '../models/deck.dart';
 
 abstract class PersistentDatabase {
+  Stream<List<Deck>> get decks$;
   Future<List<Deck>> decks();
   Future<void> saveDeck(Deck deck);
   Future<void> deleteDeck(int id);
@@ -17,7 +18,9 @@ abstract class PersistentDatabase {
 }
 
 class SembastDatabase implements PersistentDatabase {
-  final _service = SembastService.instance;
+  static final _service = SembastService.instance;
+
+  Stream<List<Deck>> get decks$ => _service.decks$().asBroadcastStream();
 
   @override
   Future<List<Deck>> decks() async {
@@ -74,8 +77,27 @@ class SembastService {
 
   // decks
 
+  final transformer = StreamTransformer<
+      List<RecordSnapshot<int, Map<String, dynamic>>>, List<Deck>>.fromHandlers(
+    handleData: (snapshotList, sink) {
+      List<Deck> res = [];
+      snapshotList.forEach((element) {
+        var deck = Deck.fromDatabase(element);
+        res.add(deck);
+      });
+      sink.add(res);
+    },
+  );
+
+  Stream<List<Deck>> decks$() {
+    // if (_db == null) return Stream<List<Deck>>.fromFuture(decks());
+    return _deckStore
+        .query(finder: Finder(sortOrders: [SortOrder('id')]))
+        .onSnapshots(_db)
+        .transform(transformer);
+  }
+
   Future<List<Deck>> decks() async {
-    // final finder = Finder(sortOrders: [SortOrder('classId')]);
     final records = await _deckStore.find(await database);
     return records
         .map((record) => Deck.fromMap(MapEntry(record.key, record.value)))

@@ -272,6 +272,7 @@ class _DeckPageState extends State<DeckPage> {
                       child: DeckStatusBar(
                         cardsInDeck: selectedCards.data,
                         withFactions: true,
+                        isEditing: isEditing.data,
                       ),
                     ),
                     isEditing.data ? DeckPageCardsSelection() : DeckViewCards(),

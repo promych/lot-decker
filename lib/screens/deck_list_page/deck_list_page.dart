@@ -118,7 +118,7 @@ class _DeckList extends StatelessWidget {
     final bloc = Provider.of<DbBloc>(context);
 
     return StreamBuilder(
-      stream: bloc.$decksStream,
+      stream: bloc.decks$,
       initialData: <Deck>[],
       builder: (context, AsyncSnapshot<List<Deck>> snapshot) {
         if (snapshot.hasError) {

@@ -14,7 +14,9 @@ import 'data/db_bloc.dart';
 import 'helpers/constants.dart';
 import 'screens/home_page/home_page.dart';
 
-void main() {
+final dbBloc = DbBloc();
+
+Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle.light);
   SystemChrome.setPreferredOrientations([
@@ -25,6 +27,8 @@ void main() {
   ErrorWidget.builder = (FlutterErrorDetails details) {
     return kReleaseMode ? Container() : ErrorWidget(details.exception);
   };
+
+  await dbBloc.load();
 
   runApp(App());
 }
@@ -42,8 +46,8 @@ class App extends StatelessWidget {
     return MultiProvider(
       providers: [
         Provider<DbBloc>(
-          create: (_) => DbBloc()..load(),
-          dispose: (_, bloc) => bloc.dispose(),
+          create: (_) => dbBloc,
+          // dispose: (_, bloc) => bloc.dispose(),
         ),
         Provider<AppManager>(
           create: (_) => AppManager()..load(),

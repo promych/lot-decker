@@ -4,13 +4,13 @@ import '../models/deck.dart';
 import 'persistent_database.dart';
 
 class DbBloc {
-  PersistentDatabase get _db => SembastDatabase();
+  PersistentDatabase _db;
 
   // decks
 
   int selectedDeckId;
 
-  Stream<List<Deck>> get $decksStream => _db.decks().asStream();
+  Stream<List<Deck>> get decks$ => _db.decks$;
 
   Future<Deck> get currentDeck async {
     final decks = await _db.decks();
@@ -41,6 +41,7 @@ class DbBloc {
   // load
 
   Future<void> load() async {
+    _db = SembastDatabase();
     _favoritedCards = await _db.favoritedCards();
     _favoritedCardsController.sink.add(_favoritedCards);
   }
