@@ -31,6 +31,11 @@ const Map<String, Map<String, String>> _kTypes = {
     'Spell': 'Заклинание',
     'Unit': 'Боец',
   },
+  'tr': {
+    'Champion': 'Şampiyon',
+    'Spell': 'Büyü',
+    'Unit': 'Birim',
+  },
   'ja': {
     'Champion': 'チャンピオン',
     'Spell': 'スペル',
