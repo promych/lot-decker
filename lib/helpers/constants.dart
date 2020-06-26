@@ -7,6 +7,7 @@ const Map<String, Locale> kAppLocales = {
   'FR': const Locale('fr', 'FR'),
   'IT': const Locale('it', 'IT'),
   'RU': const Locale('ru', 'RU'),
+  'TR': const Locale('tr', 'TR'),
   // 'JP': const Locale('ja', 'JP'),
   // 'KR': const Locale('ko', 'KR'),
 };
