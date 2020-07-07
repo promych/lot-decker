@@ -1,5 +1,7 @@
 import 'package:badges/badges.dart';
 import 'package:flutter/material.dart';
+import 'package:lor_builder/helpers/constants.dart';
+import 'package:lor_builder/managers/locale_manager.dart';
 import 'package:lor_builder/models/globals.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 import 'package:provider/provider.dart';
@@ -30,6 +32,7 @@ class DeckStatusBar extends StatefulWidget {
 }
 
 class _DeckStatusBarState extends State<DeckStatusBar> {
+  Locale locale;
   static Globals globals;
   var statusBarMode = StatusBarMode.Types;
 
@@ -42,6 +45,7 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
   void initState() {
     super.initState();
     globals = context.read<AppManager>().globals;
+    locale = context.read<AppManager>().locale;
   }
 
   @override
@@ -112,8 +116,11 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
         _IconBadge(
           child: CircleAvatar(
             radius: _iconSize / 2,
-            backgroundImage: AssetImage(
-                'assets/img/champions/${card.name.replaceAll(' ', '')}.webp'),
+            backgroundImage: (locale == kAppLocales['RU'])
+                ? AssetImage(
+                    'assets/img/champions/${kChampionsNamesRU[card.name].replaceAll(' ', '')}.webp')
+                : AssetImage(
+                    'assets/img/champions/${card.name.replaceAll(' ', '')}.webp'),
           ),
           cardNum: widget.cardsInDeck.where((c) => c.name == card.name).length,
         ),

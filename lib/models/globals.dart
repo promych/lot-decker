@@ -31,6 +31,11 @@ const Map<String, Map<String, String>> _kTypes = {
     'Spell': 'Заклинание',
     'Unit': 'Боец',
   },
+  'tr': {
+    'Champion': 'Şampiyon',
+    'Spell': 'Büyü',
+    'Unit': 'Birim',
+  },
   'ja': {
     'Champion': 'チャンピオン',
     'Spell': 'スペル',
@@ -41,6 +46,44 @@ const Map<String, Map<String, String>> _kTypes = {
     'Spell': '주문',
     'Unit': '유닛',
   },
+};
+
+const kChampionsNamesRU = {
+  'Анивия': 'Anivia',
+  'Эш': 'Ashe',
+  'Дариус': 'Darius',
+  'Браум': 'Braum',
+  'Дрейвен': 'Draven',
+  'Элиза': 'Elise',
+  'Эзреаль': 'Ezreal',
+  'Фиора': 'Fiora',
+  'Физз': 'Fizz',
+  'Гангпланк': 'Gangplank',
+  'Гарен': 'Garen',
+  'Гекарим': 'Hecarim',
+  'Хеймердингер': 'Heimerdinger',
+  'Джинкс': 'Jinx',
+  'Калиста': 'Kalista',
+  'Карма': 'Karma',
+  'Катарина': 'Katarina',
+  'Ли Син': 'LeeSin',
+  'Люциан': 'Lucian',
+  'Люкс': 'Lux',
+  'Маокай': 'Maokai',
+  'Мисс Фортуна': 'MissFortune',
+  'Наутилус': 'Nautilus',
+  'Квинн': 'Quinn',
+  'Седжуани': 'Sejuani',
+  'Шен': 'Shen',
+  'Свейн': 'Swain',
+  'Тимо': 'Teemo',
+  'Треш': 'Thresh',
+  'Триндамир': 'Tryndamere',
+  'Твистед Фэйт': 'TwistedFate',
+  'Вай': 'Vi',
+  'Владимир': 'Vladimir',
+  'Ясуо': 'Yasuo',
+  'Зед': 'Zed'
 };
 
 abstract class Referable {
