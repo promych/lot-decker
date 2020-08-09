@@ -1,7 +1,7 @@
 name: lor_builder
 description: LoR project.
 
-version: 1.2.4+15
+version: 1.2.4+16
 
 environment:
   sdk: ">=2.2.2 <3.0.0"
