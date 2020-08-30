@@ -32,8 +32,9 @@ class AppManager implements FilterBloc {
     $searchText.listen((text) {
       if (text != null && text != '') {
         _filteredCardsController.sink.add(_filteredCards
-            .where(
-                (card) => card.name.toLowerCase().contains(text.toLowerCase()))
+            .where((card) =>
+                card.name.toLowerCase().contains(text.toLowerCase()) ||
+                card.description.toLowerCase().contains(text.toLowerCase()))
             .toList());
       } else {
         _applyFilter();

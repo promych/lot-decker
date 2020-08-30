@@ -261,8 +261,9 @@ class DeckPageBloc implements FilterBloc {
     $searchText.listen((text) {
       if (text != null && text != '') {
         _filteredCards = cards
-            .where(
-                (card) => card.name.toLowerCase().contains(text.toLowerCase()))
+            .where((card) =>
+                card.name.toLowerCase().contains(text.toLowerCase()) ||
+                card.description.toLowerCase().contains(text.toLowerCase()))
             .toList();
         _filteredCardsController.sink.add(_filteredCards);
       } else {

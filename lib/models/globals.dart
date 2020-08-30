@@ -50,9 +50,11 @@ const Map<String, Map<String, String>> _kTypes = {
 
 const kChampionsNamesRU = {
   'Анивия': 'Anivia',
+  'Аурелион Сол': 'AurelionSol',
   'Эш': 'Ashe',
   'Дариус': 'Darius',
   'Браум': 'Braum',
+  'Диана': 'Diana',
   'Дрейвен': 'Draven',
   'Элиза': 'Elise',
   'Эзреаль': 'Ezreal',
@@ -66,6 +68,7 @@ const kChampionsNamesRU = {
   'Калиста': 'Kalista',
   'Карма': 'Karma',
   'Катарина': 'Katarina',
+  'Леона': 'Leona',
   'Ли Син': 'LeeSin',
   'Люциан': 'Lucian',
   'Люкс': 'Lux',
@@ -76,6 +79,7 @@ const kChampionsNamesRU = {
   'Седжуани': 'Sejuani',
   'Шен': 'Shen',
   'Свейн': 'Swain',
+  'Тарик': 'Taric',
   'Тимо': 'Teemo',
   'Треш': 'Thresh',
   'Триндамир': 'Tryndamere',

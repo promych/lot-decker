@@ -1,0 +1,5391 @@
+[
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03BW006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03BW006-full.png"
+      }
+    ],
+    "region": "Билджвотер",
+    "regionRef": "Bilgewater",
+    "attack": 5,
+    "cost": 5,
+    "health": 6,
+    "description": "<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: создайте в руке <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>мимолетную</style></link> карту <link=card.create><style=AssociatedCard>Корм для рыб</style></link>.",
+    "descriptionRaw": "Начало раунда: создайте в руке мимолетную карту Корм для рыб.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Долгие годы на ринге стали для Джека школой жизни. Он узнал, как тесно связаны возможность пустить кровь и заставить себя бояться. Он научился подавлять волю одним взглядом. А еще – познал силу, которую дает неограниченная жестокость.",
+    "artistName": "JiHun Lee",
+    "name": "Джек Победитель",
+    "cardCode": "03BW006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI004-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Выберите сторонника среди 4 верхних карт в своей колоде.\r\nВытяните его, замешайте остальные карты в колоду, а затем создайте в руке <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>эфемерную</style></link> копию этого союзника.",
+    "descriptionRaw": "Выберите сторонника среди 4 верхних карт в своей колоде.\r\nВытяните его, замешайте остальные карты в колоду, а затем создайте в руке эфемерную копию этого союзника.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Ступайте… окружите их\". – Ноктюрн",
+    "artistName": "Kudos Productions",
+    "name": "Крадущиеся тени",
+    "cardCode": "03SI004",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT018-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "Призвав меня, вытяните 1 карту.",
+    "descriptionRaw": "Призвав меня, вытяните 1 карту.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Когда на голых ветвях распускаются листья, Владычица весны отправляет Гонца, чтобы уведомить Повелителя зимы о смене сезонов. Своим лаем Гонец распугивает звезды, и они разбегаются, занимая новые места на небосклоне, тогда как верное сердце Гонца согревает землю\".\n– Песнь о временах года",
+    "artistName": "Kudos Productions",
+    "name": "Гонец",
+    "cardCode": "03MT018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT034-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 0,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Во время первого равноденствия жители Горы попытались заключить перемирие. Однако когда их предводители уже сложили оружие, один из них вскрикнул от боли. Солдаты вновь схватились за копья, и надежды на примирение рухнули. Воины и не догадывались, что предателем был спрятавшийся в траве змей, который с тех пор считается предвестником бед.\n– Таргонское сказание",
+    "artistName": "Kudos Productions",
+    "name": "Змей",
+    "cardCode": "03MT034",
+    "keywords": [
+      "Выбор противника"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI012-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Obliterate><style=Keyword>Уничтожьте</style></link> всех бойцов, которые были призваны, но не разыграны в этом раунде.",
+    "descriptionRaw": "Уничтожьте всех бойцов, которые были призваны, но не разыграны в этом раунде.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Разумеется, мы видим смерть и в Демасии. Она забирает наших любимых, а когда-нибудь неизбежно придет и за нами. Но на этих островах… я с каждым вздохом ощущаю ее вкус и запах. Я слышу, как она шепчет мне на ухо. Это не абстрактное понятие. Она сидит рядом со мной. И заберет нас всех\".\n– Записки Дженса Томмена, историка",
+    "artistName": "Kudos Productions",
+    "name": "Без права прохода",
+    "cardCode": "03SI012",
+    "keywords": [
+      "Быстрое"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Быстрое",
+    "spellSpeedRef": "Fast",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI014-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Даруйте ВСЕМ союзникам в руке и в колоде +2|+2 и <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Эфемерность</style></link>.",
+    "descriptionRaw": "Даруйте ВСЕМ союзникам в руке и в колоде +2|+2 и Эфемерность.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Боюсь, что кошмары Сумрачных островов рано или поздно сломят и тело, и душу – и тогда навеки воцарится безумие\".\n– Записки Дженса Томмена, историка",
+    "artistName": "Kudos Productions",
+    "name": "Подступающий сумрак",
+    "cardCode": "03SI014",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI007-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Дайте следующему союзнику, которого вы призовете в этом раунде, +1|+0 и <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Щит от магии</style></link> до конца раунда.",
+    "descriptionRaw": "Дайте следующему союзнику, которого вы призовете в этом раунде, +1|+0 и Щит от магии до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Выйдешь за дверь 'Зуба' – и сразу их почувствуешь. Прикосновение пальцев на загривке, легче летнего дождика… Они от тебя не отпрянут, не жди. Эти твари не боятся ни огня, ни железа. Вообще ничего. Жуткие создания\". – Мародер из \"Китового зуба\"",
+    "artistName": "Kudos Productions",
+    "name": "Покров тьмы",
+    "cardCode": "03SI007",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01SI014"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI013-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Призовите карту <link=card.summon><style=AssociatedCard>Туманный дух</style></link>.",
+    "descriptionRaw": "Призовите карту Туманный дух.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Туманные духи передвигаются незримо, появляются без предупреждения и причиняют страдания всем, кто их встретит.",
+    "artistName": "Kudos Productions",
+    "name": "Восставший туман",
+    "cardCode": "03SI013",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO017-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>Поддержка</style></link>: до конца раунда дайте +2|+1 союзнику, которого я поддерживаю.",
+    "descriptionRaw": "Поддержка: до конца раунда дайте +2|+1 союзнику, которого я поддерживаю.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Пикс замечательный! Такой маленький, а уже личность!\nБольше всего на свете он любит опоссумов и делать так: хрм-хрм-хрм!\" – Лулу",
+    "artistName": "Dao Le",
+    "name": "Пикс!",
+    "cardCode": "03IO017",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI005T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI005T3-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Истощите любую цель на 1 ед. здоровья. Замешайте в свою колоду карту <link=card.level1><style=AssociatedCard>Ноктюрн</style></link>.\r\n<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: создайте в руке случайную <link=keyword.Nightfall><style=Keyword>ночную</style></link> карту.",
+    "descriptionRaw": "Истощите любую цель на 1 ед. здоровья. Замешайте в свою колоду карту Ноктюрн.\r\nНочь: создайте в руке случайную ночную карту.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"С каждым днем силы тают, пропадает тот запал, что помог отыскать это место. В 'Китовом зубе' полно сломленных людей, утративших ко всему интерес. Боюсь, что стану таким же, если здесь задержусь\".\n– Записки Дженса Томмена, историка",
+    "artistName": "Kudos Productions",
+    "name": "Невыразимый ужас Ноктюрна",
+    "cardCode": "03SI005T3",
+    "keywords": [
+      "Быстрое"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Быстрое",
+    "spellSpeedRef": "Fast",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT073T1-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Снизьте на 1 стоимость следующего <link=keyword.Nightfall><style=Keyword>ночного</style></link> бойца, которого вы разыграете в этом раунде.",
+    "descriptionRaw": "Снизьте на 1 стоимость следующего ночного бойца, которого вы разыграете в этом раунде.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Благоухание луноцвета ни с чем не спутаешь: оно сладкое, будоражащее и неуловимое, как сам лунный свет.",
+    "artistName": "Kudos Productions",
+    "name": "Пыльца цветка заката",
+    "cardCode": "03MT073T1",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI006-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Nightfall><style=Keyword>Ночь</style></link>: Истощите вражеский нексус на 2 ед. здоровья.",
+    "descriptionRaw": "Ночь: Истощите вражеский нексус на 2 ед. здоровья.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "С каждой ночью путники теряют все больше сил: они ворочаются во сне, мучимые яркими грезами. Сон больше не приносит отдыха – напротив, он изнуряет и тело, и разум.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Служитель рока",
+    "cardCode": "03SI006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT083.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT083-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 8,
+    "health": 5,
+    "description": "Призвав меня, даруйте мне +1|+0 за каждое разыгранное вами творение небес. <style=Variable></style>\r\nВместо того чтобы в первый раз умереть, я полностью восстанавливаю здоровье.",
+    "descriptionRaw": "Призвав меня, даруйте мне +1|+0 за каждое разыгранное вами творение небес. \r\nВместо того чтобы в первый раз умереть, я полностью восстанавливаю здоровье.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Долгие века Бессмертный Огонь парил в небе в одиночестве. Но вот однажды он приметил птицу с золотистыми крыльями – совсем как у него. Бессмертный Огонь возрадовался, ведь до сих пор он не встречал никого, подобного себе. Прошли годы. Птица состарилась, затем угасла. Бессмертный Огонь опечалился, ведь он впервые увидел смерть. Его слезы стали искрами, вздохи – пламенем, и тогда птица возродилась в новом теле, но отягощенная бременем знания\". – Шуримское предание",
+    "artistName": "Kudos Productions",
+    "name": "Бессмертный Огонь",
+    "cardCode": "03MT083",
+    "keywords": [
+      "Изворотливость",
+      "Предсмертный вздох"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT004-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Снизьте стоимость карты в руке на 1.",
+    "descriptionRaw": "Снизьте стоимость карты в руке на 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Полная луна окутывает мир серебристым сиянием, указывая нехоженые тропы и нерассказанные истории\". – Жрица Лунари",
+    "artistName": "Kudos Productions",
+    "name": "Лунное серебро",
+    "cardCode": "03MT004",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT037-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "Призвав меня, даруйте мне +1|+0 за каждое разыгранное вами творение небес. <style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>Атака</style></link>: дайте другим союзникам +2|+2 и <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Пробивание</style></link> до конца раунда.",
+    "descriptionRaw": "Призвав меня, даруйте мне +1|+0 за каждое разыгранное вами творение небес. \r\nАтака: дайте другим союзникам +2|+2 и Пробивание до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "В легендах говорится о том, что до поры до времени Бич Небес остается скрытым среди самых дальних небесных сфер. Когда наступит конец света, он подчинит себе силу звезд и разрушит основы мироздания.",
+    "artistName": "Kudos Productions",
+    "name": "Бич Небес",
+    "cardCode": "03MT037",
+    "keywords": [
+      "Выбор противника"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT060-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 7,
+    "description": "<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: восстановите 3 ед. здоровья своему нексусу. Нанесите мне урон, равный восстановленному здоровью.",
+    "descriptionRaw": "Начало раунда: восстановите 3 ед. здоровья своему нексусу. Нанесите мне урон, равный восстановленному здоровью.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Никто не знает тропы Таргона лучше меня, поэтому мне доверяют самых, так сказать, самостоятельных звезднорогов. Хорошо, что у них есть я!\" ",
+    "artistName": "SIXMOREVODKA",
+    "name": "Крепкий защитник",
+    "cardCode": "03MT060",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT033-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: даруйте союзнику +0|+4.",
+    "descriptionRaw": "Разыгрывая карту: даруйте союзнику +0|+4.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Слышишь, Осу? Звон колокольчиков! Дедушка вернулся!\" – Илли, Пастушка звезд",
+    "artistName": "Polar Engine",
+    "name": "Дедушка Румул",
+    "cardCode": "03MT033",
+    "keywords": [
+      "Пробивание",
+      "Щит от магии"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03DE006-full.png"
+      }
+    ],
+    "region": "Демасия",
+    "regionRef": "Demacia",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Любая тварь яростно защищает свое потомство, но мало кто делает это так же эффективно, как дракон.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Кричащий дракон",
+    "cardCode": "03DE006",
+    "keywords": [
+      "Выбор противника",
+      "Ярость"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "ДРАКОН",
+    "subtypes": [
+      "ДРАКОН"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR007-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 1,
+    "cost": 2,
+    "health": 3,
+    "description": "Если, когда меня призывают, вы <link=vocab.Behold><style=Vocab>владеете</style></link> картой стоимостью 8+, даруйте мне +3|+0.",
+    "descriptionRaw": "Если, когда меня призывают, вы владеете картой стоимостью 8+, даруйте мне +3|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Разведчик склонился над торчавшим из снега куском ткани, который пах человеческим потом и дымом от костра.\nПотянув за оборванный край, разведчик вытащил и лоскут, и кое-что еще: талисман, матово блеснувший под грозовым небом. Талисман племени аваросан.",
+    "artistName": "Wild Blue Studio",
+    "name": "Тролль-следопыт",
+    "cardCode": "03FR007",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO008T1-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Магическая вспышка опрокинула его навзничь… внезапно обострившимся слухом он уловил затихающий смех йордла, а когда посмотрел вниз, то увидел мохнатые лапки на мохнатых ножках…",
+    "artistName": "Dao Le",
+    "name": "Белка",
+    "cardCode": "03IO008T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT021-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: выберите 2 врагов.\r\n<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>оглушите</style></link> их.",
+    "descriptionRaw": "Разыгрывая карту: выберите 2 врагов.\r\nНачало раунда: оглушите их.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Говорят, что путники, взглянувшие этому существу в глаза, постигли нечто столь значимое и вместе с тем пугающее, что их разум не выдержал и помутился.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Раскалывающие разум",
+    "cardCode": "03MT021",
+    "keywords": [
+      "Ярость"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "ДРАКОН",
+    "subtypes": [
+      "ДРАКОН"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT059-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "Призвав меня, призовите карту <link=card.create><style=AssociatedCard>Серебряная сестра</style></link>.",
+    "descriptionRaw": "Призвав меня, призовите карту Серебряная сестра.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Из блеска сфер, из звездой пыли\nДве девы в этот мир спустились.\nОдна – в сиянье серебра,\nВ огне златом ее сестра…\"\n– Песнь о времени суток",
+    "artistName": "Kudos Productions",
+    "name": "Золотая сестра",
+    "cardCode": "03MT059",
+    "keywords": [
+      "Вампиризм"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT056T1-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>Ночь</style></link> или срабатывание другого <link=keyword.Nightfall><style=Keyword>ночного</style></link> эффекта: дайте мне +2|+0 и <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Выбор противника</style></link> до конца раунда.",
+    "descriptionRaw": "Ночь или срабатывание другого ночного эффекта: дайте мне +2|+0 и Выбор противника до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Усыпанная пыльцой цветка заката и с обнаженным мечом в руке, Диана спешила вниз по склону горы. Она знала, что Леона ее найдет. Рассчитывала на это. Сердце часто билось от предвкушения, и Диана перевела дыхание, чтобы унять его. Она встретится со старой подругой лицом к лицу, но у нее будет преимущество.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Диана",
+    "cardCode": "03MT056T1",
+    "keywords": [
+      "Быстрая атака"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT092.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT092-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Strike><style=Vocab>Удар</style></link>: создайте в руке карту <link=card.create><style=AssociatedCard>Самоцвет</style></link>.",
+    "descriptionRaw": "Удар: создайте в руке карту Самоцвет.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Таргонские козы опасней своих обычных сородичей, поскольку их рога состоят из кристаллов, которые при ударе откалываются и могут сильно поранить противника. ",
+    "artistName": "Polar Engine",
+    "name": "Горный козел",
+    "cardCode": "03MT092",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO001-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "Когда меня поддерживают, даруйте мне +2|+0.",
+    "descriptionRaw": "Когда меня поддерживают, даруйте мне +2|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Всем хочется иметь фамилиара, но мало кому хочется с ним возиться, ведь его надо выгуливать, следить за правильным питанием, приучать к дому… в общем, это большая ответственность!",
+    "artistName": "SIXMOREVODKA",
+    "name": "Лисичка с цветочком",
+    "cardCode": "03IO001",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI005T1-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 6,
+    "cost": 4,
+    "health": 4,
+    "description": "Другие союзники получают <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Устрашение</style></link>.\r\nРазыгрывая бойца, дайте врагам <nobr>-1|-0</nobr> до конца раунда.",
+    "descriptionRaw": "Другие союзники получают Устрашение.\r\nРазыгрывая бойца, дайте врагам -1|-0 до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Сны становятся все ярче. Каждую ночь я вижу порождение чистого зла, которое ждет во тьме, тянется ко мне. Моя командировка должна продлиться еще неделю, но сегодня я не выдержал и оплатил проезд до земель Фоссиана. Я физически не могу здесь больше находиться\".\n– Записки Дженса Томмена, историка",
+    "artistName": "SIXMOREVODKA",
+    "name": "Ноктюрн",
+    "cardCode": "03SI005T1",
+    "keywords": [
+      "Устрашение"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT048-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "Когда меня призывают, создайте в руке карту <link=card.create><style=AssociatedCard>Самоцвет</style></link>.",
+    "descriptionRaw": "Когда меня призывают, создайте в руке карту Самоцвет.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Говорят, сам Заступник благословил эти самоцветы. Носи их – и почувствуешь его присутствие\".",
+    "artistName": "SIXMOREVODKA",
+    "name": "Дарительница",
+    "cardCode": "03MT048",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR004-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "Покажите противнику бойца из своей руки. Восстановите своему нексусу столько единиц здоровья, сколько силы у этого бойца.\r\n<link=keyword.Enlightened><style=Keyword>Просветление:</style></link> стоимость этого бойца равна 0.",
+    "descriptionRaw": "Покажите противнику бойца из своей руки. Восстановите своему нексусу столько единиц здоровья, сколько силы у этого бойца.\r\nПросветление: стоимость этого бойца равна 0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"У взрослых троллей толстая кожа и крепкие кости, а раны на них быстро заживают. По этой причине тролли выносливы и очень опасны. Нужно убивать их сразу, пока они не восстановились и не напали снова\". – Стрелок племени аваросан",
+    "artistName": "Kudos Productions",
+    "name": "Бодрящий рык",
+    "cardCode": "03FR004",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT063-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: используйте <link=keyword.Invoke><style=Keyword>Зов</style></link>.",
+    "descriptionRaw": "Разыгрывая карту: используйте Зов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Погляди на наших друзей на звездном небе! Видишь эту большую и яркую звезду? Это Гонец смотрит на нас блестящим глазом. А вон то туманное скопление? Это Ловкач прячется за тучами. А вон те яркие точки… КУЛУН! Ты не поймаешь их лапой!\"",
+    "artistName": "Aron Elekes",
+    "name": "Лунная сновидица",
+    "cardCode": "03MT063",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "02BW034T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03BW014-full.png"
+      }
+    ],
+    "region": "Билджвотер",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Призовите карту <link=card.summon><style=AssociatedCard>Пороховая обезьяна</style></link>.\r\n<link=vocab.Plunder><style=Vocab>Разграбление</style></link>: в следующем раунде призовите еще одну карту <link=card.summon><style=AssociatedCard>Пороховая обезьяна</style></link>.",
+    "descriptionRaw": "Призовите карту Пороховая обезьяна.\r\nРазграбление: в следующем раунде призовите еще одну карту Пороховая обезьяна.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Ах, вы считаете их милыми? Так вот: это НЕ ТАК. Они всюду лезут. Грязи от них больше, чем от курьера с морской болезнью. И они вообще НЕ ЗАТЫКАЮТСЯ. БОЛЬШЕ НИКАКИХ ОБЕЗЬЯН НА КОРАБЛЕ! Это не обсуждается!\" – Младший офицер",
+    "artistName": "Kudos Productions",
+    "name": "Обезьянничанье",
+    "cardCode": "03BW014",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT006-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 6,
+    "health": 6,
+    "description": "В каждом раунде, когда союзник с <link=keyword.Fury><sprite name=Fury><style=Keyword>Яростью</style></link> впервые убивает врага, создайте в руке случайного дракона.",
+    "descriptionRaw": "В каждом раунде, когда союзник с Яростью впервые убивает врага, создайте в руке случайного дракона.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Подними голову к небу и узри то, что вижу я. Сначала – сигнал, ибо ночью они сияют. Затем – ярость, ибо днем все полыхает. Ты увидишь! Все увидят!\" – Драконья вестница",
+    "artistName": "SIXMOREVODKA",
+    "name": "Инвиолус Вокс",
+    "cardCode": "03MT006",
+    "keywords": [
+      "Ярость"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "ДРАКОН",
+    "subtypes": [
+      "ДРАКОН"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO019-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "Выберите союзника. <link=keyword.Recall><style=Keyword>Верните</style></link> ВСЕХ остальных бойцов.",
+    "descriptionRaw": "Выберите союзника. Верните ВСЕХ остальных бойцов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Я выбрала путь одиночки.\" – Монашка-отшельница",
+    "artistName": "Kudos Productions",
+    "name": "Сила воли",
+    "cardCode": "03IO019",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT053-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Даруйте союзнику +0|+2 и <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Щит от магии</style></link>.",
+    "descriptionRaw": "Даруйте союзнику +0|+2 и Щит от магии.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Искупайтесь в ласковом свете Луны и получите ее благословение\". – Жрица Лунари",
+    "artistName": "Kudos Productions",
+    "name": "Лунный свет",
+    "cardCode": "03MT053",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR017-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 6,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: если вы <link=vocab.Behold><style=Vocab>владеете</style></link> картой стоимостью 8+, даруйте союзнику <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Пробивание</style></link> и <link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Восстановление</style></link>.",
+    "descriptionRaw": "Разыгрывая карту: если вы владеете картой стоимостью 8+, даруйте союзнику Пробивание и Восстановление.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Говорят, что тролли обучают заклинаниям древних лишь избранных – зато те, кто их знает, способны взывать к предкам и наделять своих соплеменников необычайной силой.",
+    "artistName": "Kudos Productions",
+    "name": "Пророчица древних",
+    "cardCode": "03FR017",
+    "keywords": [
+      "Пробивание",
+      "Восстановление"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054",
+      "03MT054T1",
+      "03MT054"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT054T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT054T2-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Дайте союзникам +2|+2 до конца раунда. Замешайте в свою колоду карту <link=card.level1><style=AssociatedCard>Леона</style></link>.\r\n<link=keyword.Daybreak><style=Keyword>День</style></link>: активируйте все <link=keyword.Daybreak><style=Keyword>дневные</style></link> эффекты союзников одновременно.",
+    "descriptionRaw": "Дайте союзникам +2|+2 до конца раунда. Замешайте в свою колоду карту Леона.\r\nДень: активируйте все дневные эффекты союзников одновременно.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Она – наш бесстрашный лидер на небесах, она – слепящая вспышка клинков под полуденным солнцем, она – неугасимый огонь, что пылает в наших сердцах\".\n– Жрица Солари",
+    "artistName": "Kudos Productions",
+    "name": "Утренний свет Леоны",
+    "cardCode": "03MT054T2",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT014-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "Стоимость союзных драконов снижается на 1.",
+    "descriptionRaw": "Стоимость союзных драконов снижается на 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Облака заклубились вокруг их могучих тел, и небо вздрогнуло от пронзительных криков. Она знала, что грядет, но не чувствовала страха, готовясь отдаться в объятия судьбы.",
+    "artistName": "Polar Engine",
+    "name": "Драконья вестница",
+    "cardCode": "03MT014",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT058-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Support><style=Vocab>Поддержка</style></link>: я и союзник, которого я поддерживаю, получаем <link=keyword.Tough><sprite name=Tough><style=Keyword>Стойкость</style></link> до конца раунда. Последнее заклинание, примененное ко мне в этом раунде, применяется и к этому союзнику <style=Parentheses>(повторное применение невозможно)</style>.",
+    "descriptionRaw": "Поддержка: я и союзник, которого я поддерживаю, получаем Стойкость до конца раунда. Последнее заклинание, примененное ко мне в этом раунде, применяется и к этому союзнику (повторное применение невозможно).",
+    "levelupDescription": "На моих глазах вы выбрали целью или <link=vocab.Support><style=Vocab>поддержали</style></link> союзников 7+ раз<style=Variable></style>",
+    "levelupDescriptionRaw": "На моих глазах вы выбрали целью или поддержали союзников 7+ раз",
+    "flavorText": "\"Ласковая доброта Тарика позволяет каждому, кто его встретит, найти тепло в собственной душе – а оно поддержит даже в самую холодную ночь\". – Горный гадатель",
+    "artistName": "SIXMOREVODKA",
+    "name": "Тарик",
+    "cardCode": "03MT058",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT032-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Вытяните карту чемпиона. Снизьте его стоимость на 1 и даруйте ему +2|+2.",
+    "descriptionRaw": "Вытяните карту чемпиона. Снизьте его стоимость на 1 и даруйте ему +2|+2.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Простор ночного неба пропастью лежит между миром смертных и миром божеств. Однако среди смертных есть те, кто руководствуется высшей целью. Если Гора сочтет их достойными, они смогут совершить восхождение и войти в семью звезд\". – Горный гадатель",
+    "artistName": "Kudos Productions",
+    "name": "Рисунок созвездий",
+    "cardCode": "03MT032",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT098-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Даруйте союзнику +0|+2.",
+    "descriptionRaw": "Даруйте союзнику +0|+2.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Наш щит – это наша решимость, убежденность и вера в свет!\" – Щитоносец Солари",
+    "artistName": "Kudos Productions",
+    "name": "Солнечная бодрость",
+    "cardCode": "03MT098",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT024-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 9,
+    "health": 0,
+    "description": "Если вы <link=vocab.Behold><style=Vocab>владеете</style></link> творением небес, <link=keyword.Obliterate><style=Keyword>уничтожьте</style></link> 2 врагов.",
+    "descriptionRaw": "Если вы владеете творением небес, уничтожьте 2 врагов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Умирая, звезда взрывается так ярко, что легко затмевает свет других, живых звезд.  ",
+    "artistName": "Kudos Productions",
+    "name": "Сверхновая",
+    "cardCode": "03MT024",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT066.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT066-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "Если вы <link=vocab.Behold><style=Vocab>владеете</style></link> творением небес, даруйте +2|+2 союзникам <link=vocab.Everywhere><style=Vocab>везде</style></link>. Восполните свою ману заклинаний.",
+    "descriptionRaw": "Если вы владеете творением небес, даруйте +2|+2 союзникам везде. Восполните свою ману заклинаний.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Посмотри на ночное небо. Пусть звездный свет наполнит тебя своей целебной силой\". – Сорака",
+    "artistName": "Kudos Productions",
+    "name": "Космическое вдохновение",
+    "cardCode": "03MT066",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT085"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT085.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT085-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Примените к бойцу <link=vocab.Silence><style=Vocab>Безмолвие</style></link> до конца раунда. Создайте в руке <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>мимолетную</style></link> карту <link=card.me><style=AssociatedCard>Тишина</style></link>.",
+    "descriptionRaw": "Примените к бойцу Безмолвие до конца раунда. Создайте в руке мимолетную карту Тишина.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Я несу безмятежность\". – Сорака",
+    "artistName": "Kudos Productions",
+    "name": "Тишина",
+    "cardCode": "03MT085",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT054-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>День</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>оглушите</style></link> <link=vocab.Strongest><style=Vocab>сильнейшего</style></link> врага.",
+    "descriptionRaw": "День: оглушите сильнейшего врага.",
+    "levelupDescription": "Вы использовали навык <link=keyword.Daybreak><style=Keyword>День</style></link> 4+ раза<style=Variable></style>.",
+    "levelupDescriptionRaw": "Вы использовали навык День 4+ раза.",
+    "flavorText": "Перед боем она стояла в своем ало-золотом облачении, и глаза ее горели, как раскаленные угли. Восходящее солнце увенчало ее своими лучами, и присутствовавшие при этом Солари потупили взор – не от стыда, а от выражения величайшего почтения своей сияющей предводительнице.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Леона",
+    "cardCode": "03MT054",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR006T2-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 5,
+    "health": 7,
+    "description": "Когда меня призывают, создайте в руке карту <link=card.create><style=AssociatedCard>Ледяной столп</style></link>.\r\n<link=vocab.Attack><style=Vocab>Атака</style></link>: даруйте мне +1|+0 за каждую карту стоимостью 8+, которой вы <link=vocab.Behold><style=Vocab>владеете</style></link>.",
+    "descriptionRaw": "Когда меня призывают, создайте в руке карту Ледяной столп.\r\nАтака: даруйте мне +1|+0 за каждую карту стоимостью 8+, которой вы владеете.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Племя аваросан решило сопротивляться. Тогда по сигналу Трандла тролли ринулись в долину аваросан со скоростью сошедшей лавины и еще долго не могли остановиться, без разбору круша и ломая все на своем пути.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Трандл",
+    "cardCode": "03FR006T2",
+    "keywords": [
+      "Пробивание",
+      "Восстановление"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT075-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: используйте <link=keyword.Invoke><style=Keyword>Зов</style></link>.",
+    "descriptionRaw": "Ночь: используйте Зов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"О звезды подобные пилигримам, что держат путь по глади небосвода. Побудьте с нами еще немного. Расскажите обо всем, что вам встретилось\". – Вечерняя песнь",
+    "artistName": "Kudos Productions",
+    "name": "Жрица Лунари",
+    "cardCode": "03MT075",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO002T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO002T4-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Дайте <link=keyword.Barrier><sprite name=Barrier><style=Keyword>Щит</style></link> союзнику или <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Уязвимость</style></link> врагу до конца раунда.\r\nНельзя применять в бою или в ответ на заклинание.",
+    "descriptionRaw": "Дайте Щит союзнику или Уязвимость врагу до конца раунда.\r\nНельзя применять в бою или в ответ на заклинание.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Пикс защищает… или Пикс атакует? ",
+    "artistName": "Kudos Productions",
+    "name": "Помоги, Пикс!",
+    "cardCode": "03IO002T4",
+    "keywords": [
+      "Взрывное",
+      "Мимолетность"
+    ],
+    "keywordRefs": [
+      "Burst",
+      "Fleeting"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT020-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: восстановите союзнику и своему нексусу по<br>3 ед. здоровья.",
+    "descriptionRaw": "Разыгрывая карту: восстановите союзнику и своему нексусу по3 ед. здоровья.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Видишь ту звездочку, что движется по ночному небу? Это взрослый звезднорог. Их детеныши дарят нам свою целебную магию, пока мы не возвращаем их на небосклон, а взрослые могут пользоваться ею сами. Увидеть звезднорога и понять, кого именно увидел, – великая удача. Еще большая удача – заботиться о таком существе\". – Лидари, Пастырь звезд",
+    "artistName": "SIXMOREVODKA",
+    "name": "Великолепный звезднорог",
+    "cardCode": "03MT020",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT071.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT071-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Support><style=Vocab>Поддержка</style></link>: даруйте союзнику, которого я поддерживаю, +0|+2.",
+    "descriptionRaw": "Поддержка: даруйте союзнику, которого я поддерживаю, +0|+2.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Отправляясь в дорогу, доверься ей, и она неизбежно изменит тебя. Ты возьмешь в путь что-то новое… и оставишь позади что-то, принадлежавшее тебе-прежнему. ",
+    "artistName": "SIXMOREVODKA",
+    "name": "Пилигрим Тиари",
+    "cardCode": "03MT071",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01NX038"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03NX018-full.png"
+      }
+    ],
+    "region": "Ноксус",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Оглушите</style></link> врага.\r\nЕсли у вас есть чемпион <link=card.champ1><style=AssociatedCard>Дариус</style></link>, используйте <link=vocab.Rally><style=Vocab>Рвение</style></link>.",
+    "descriptionRaw": "Оглушите врага.\r\nЕсли у вас есть чемпион Дариус, используйте Рвение.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Я справлюсь сам\". – Дариус",
+    "artistName": "Kudos Productions",
+    "name": "Задержание",
+    "cardCode": "03NX018",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR008-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "Дайте ВСЕМ бойцам -3|-0 до конца раунда. Нанесите 3 ед. урона ВСЕМ бойцам.",
+    "descriptionRaw": "Дайте ВСЕМ бойцам -3|-0 до конца раунда. Нанесите 3 ед. урона ВСЕМ бойцам.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Похороним их заживо!\" – Трандл",
+    "artistName": "Kudos Productions",
+    "name": "Льдотрясение",
+    "cardCode": "03FR008",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT077-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "Заполните свою руку случайными <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>мимолетными</style></link> творениями небес. Восполните свою ману.",
+    "descriptionRaw": "Заполните свою руку случайными мимолетными творениями небес. Восполните свою ману.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"По преданиям, некоторые созвездия раньше были смертными, которых высшие силы вознесли на небо в награду за подвиги\". – Горный гадатель",
+    "artistName": "Kudos Productions",
+    "name": "Живые легенды",
+    "cardCode": "03MT077",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT002-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "Нанесите 15 ед. урона всем врагам.\r\nМоя стоимость уменьшается на 2 за каждого союзного дракона или творение небес, которые у вас есть.",
+    "descriptionRaw": "Нанесите 15 ед. урона всем врагам.\r\nМоя стоимость уменьшается на 2 за каждого союзного дракона или творение небес, которые у вас есть.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Придет время, и я покараю Рунтерру в назидание другим. Быть может, буду носить ее тлеющую оболочку с собой, как игрушку… сломанную и никому не нужную. Пока не знаю, до конца еще не обдумал\". – Аурелион Сол",
+    "artistName": "Kudos Productions",
+    "name": "Небо рушится на землю",
+    "cardCode": "03MT002",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO008-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Превратите сторонника в карту <link=card.summon><style=AssociatedCard>Белка</style></link> с 1|1 и примените к нему <link=vocab.Silence><style=Vocab>Безмолвие</style></link> до конца раунда.",
+    "descriptionRaw": "Превратите сторонника в карту Белка с 1|1 и примените к нему Безмолвие до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Обожатикус!\" – Лулу",
+    "artistName": "Kudos Productions",
+    "name": "Причуда",
+    "cardCode": "03IO008",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT010-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 7,
+    "cost": 7,
+    "health": 7,
+    "description": "Призвав меня, даруйте мне +1|+0 за каждое разыгранное вами творение небес. <style=Variable></style>",
+    "descriptionRaw": "Призвав меня, даруйте мне +1|+0 за каждое разыгранное вами творение небес. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Простор между небом и землей охраняет рогатый страж, живущий среди звезд над горами. Быстрый и выносливый, он парит по ночному небу, высматривая незваных гостей. Если же он их находит, то прогоняет их таким мощным ударом, что дрожит и земля, и небо\". – Из минотаврских хроник",
+    "artistName": "Kudos Productions",
+    "name": "Разрушитель",
+    "cardCode": "03MT010",
+    "keywords": [
+      "Пробивание",
+      "Щит от магии"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT086.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT086-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: сбросьте карту, чтобы <link=keyword.Invoke><style=Keyword>позвать</style></link> творение небес стоимостью 3 или менее.",
+    "descriptionRaw": "Разыгрывая карту: сбросьте карту, чтобы позвать творение небес стоимостью 3 или менее.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Это мое любимое созвездие! Я зову его \"Метафизическая сущность самопознания\". Хотя, если склонить голову вот так, оно больше похоже на пару ложек\".",
+    "artistName": "Dao Le",
+    "name": "Художница-чудачка",
+    "cardCode": "03MT086",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT087T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT087T1-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 11,
+    "cost": 10,
+    "health": 11,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: <link=keyword.Invoke><style=Keyword>позовите</style></link> творение небес стоимостью 7 или более.\r\n<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: создайте в руке случайное творение небес.\r\nВаши творения небес стоят 0.",
+    "descriptionRaw": "Разыгрывая карту: позовите творение небес стоимостью 7 или более.\r\nНачало раунда: создайте в руке случайное творение небес.\r\nВаши творения небес стоят 0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Аурелион Сол очень красивый. И величественный. И очень, очень умный.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Аурелион Сол",
+    "cardCode": "03MT087T1",
+    "keywords": [
+      "Ярость",
+      "Щит от магии"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ДРАКОН",
+    "subtypes": [
+      "ДРАКОН"
+    ],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT070-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: используйте <link=keyword.Invoke><style=Keyword>Зов</style></link>.",
+    "descriptionRaw": "Разыгрывая карту: используйте Зов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Мы всегда были единым целым. Между нами лежала только Гора, долгий путь и море звезд\".",
+    "artistName": "Kudos Productions",
+    "name": "Пилигрим",
+    "cardCode": "03MT070",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT019-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Дайте союзнику <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Щит от магии</style></link> до конца раунда.",
+    "descriptionRaw": "Дайте союзнику Щит от магии до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"За честь Горы\". – Тарик",
+    "artistName": "Kudos Productions",
+    "name": "Бастион",
+    "cardCode": "03MT019",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T1",
+      "03IO002T5",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO002-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 2,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Support><style=Vocab>Поддержка</style></link>: В этом раунде союзник, которого я поддерживаю, усиливается до 4|4.",
+    "descriptionRaw": "Поддержка: В этом раунде союзник, которого я поддерживаю, усиливается до 4|4.",
+    "levelupDescription": "Наши союзники трижды получали <link=vocab.Support><style=Vocab>поддержку</style></link><style=Variable></style>.",
+    "levelupDescriptionRaw": "Наши союзники трижды получали поддержку.",
+    "flavorText": "\"Не волнуйся, Пикс! Когда мы выйдем с Поляны, мы применим \"Обожатикус\" КО ВСЕМУ! Ты готов?\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Лулу",
+    "cardCode": "03IO002",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO011-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Strike><style=Vocab>Удар</style></link>: удвойте мою силу.",
+    "descriptionRaw": "Удар: удвойте мою силу.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Секрет ее силы – коктейли из молотых желудей четыре раза в день.",
+    "artistName": "Dao Le",
+    "name": "Белка-боксер",
+    "cardCode": "03IO011",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO009-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 4,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Энергетическая ценность: 104 кДж (25 ккал). Углеводы: 5,88 г, из них сахар: 3,53 г, растительные волокна: 3 г, жиры: 0,18 г, белки: 0,98 г, вода: 92 г…",
+    "artistName": "Dao Le",
+    "name": "Вкусное создание",
+    "cardCode": "03IO009",
+    "keywords": [
+      "Вампиризм"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT023-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Нанесите бойцу 6 ед. урона\r\n<link=keyword.Daybreak><style=Keyword>День</style></link>: вместо этого примените к нему <link=vocab.Silence><style=Vocab>Безмолвие</style></link> до конца раунда и нанесите ему 6 ед. урона.",
+    "descriptionRaw": "Нанесите бойцу 6 ед. урона\r\nДень: вместо этого примените к нему Безмолвие до конца раунда и нанесите ему 6 ед. урона.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Мало что выживает под пристальным взглядом Солнца.",
+    "artistName": "Kudos Productions",
+    "name": "Солнечная вспышка",
+    "cardCode": "03MT023",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO003-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: даруйте союзнику <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Изворотливость</style></link>.",
+    "descriptionRaw": "Разыгрывая карту: даруйте союзнику Изворотливость.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Тс-с! Сюда! После бродячего домика на дереве надо резко забрать влево, а потом пойдем прямо мимо говорящих цветов. Лу, ты меня слушаешь? Лу? ЛУ!!! Не надо. Их. Кормить. Ни в коем случае!\"",
+    "artistName": "Dao Le",
+    "name": "Проводник с Поляны",
+    "cardCode": "03IO003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT096-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>День</style></link>: <link=keyword.Invoke><style=Keyword>позовите</style></link> творение небес стоимостью 4–6.\r\n",
+    "descriptionRaw": "День: позовите творение небес стоимостью 4–6.\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Солари не меньше других таргонцев полагаются на звезды. Превыше всего они почитают Солнце, а оно – тоже звезда.",
+    "artistName": "Grafit Studio",
+    "name": "Жрица Солари",
+    "cardCode": "03MT096",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03BW006T1-full.png"
+      }
+    ],
+    "region": "Билджвотер",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Нанесите союзнику 2 ед. урона, чтобы нанести 2 ед. урона вражескому нексусу.",
+    "descriptionRaw": "Нанесите союзнику 2 ед. урона, чтобы нанести 2 ед. урона вражескому нексусу.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Вымажьте их кровью и выпустите акул\". – Джек Победитель",
+    "artistName": "Kudos Productions",
+    "name": "Корм для рыб",
+    "cardCode": "03BW006T1",
+    "keywords": [
+      "Медленное",
+      "Мимолетность"
+    ],
+    "keywordRefs": [
+      "Slow",
+      "Fleeting"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT049-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Нанесите 4 ед. урона одному врагу и 1 ед. урона другому.",
+    "descriptionRaw": "Нанесите 4 ед. урона одному врагу и 1 ед. урона другому.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"По правде говоря, создание звезд – наука неточная. Никогда не знаешь, куда полетят эти камешки. Мне очень жаль, если один из них упадет тебе на голову. И сплющит тебя. С огромной силой\". – Аурелион Сол",
+    "artistName": "Kudos Productions",
+    "name": "Метеоритный дождь",
+    "cardCode": "03MT049",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1",
+      "03IO002",
+      "03IO002T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO002T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO002T5-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Превратите сторонника в карту <link=card.summon><style=AssociatedCard>Белка</style></link> с 1|1 и примените к нему <link=vocab.Silence><style=Vocab>Безмолвие</style></link> до конца раунда. Замешайте в свою колоду карту <link=card.level1><style=AssociatedCard>Лулу</style></link>.",
+    "descriptionRaw": "Превратите сторонника в карту Белка с 1|1 и примените к нему Безмолвие до конца раунда. Замешайте в свою колоду карту Лулу.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Обожатикус!\" – Лулу",
+    "artistName": "Kudos Productions",
+    "name": "Причуда Лулу",
+    "cardCode": "03IO002T5",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT044-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "<link=keyword.Daybreak><style=Keyword>День</style></link>: дайте мне +4|+4 до конца раунда.",
+    "descriptionRaw": "День: дайте мне +4|+4 до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Сияющий страж, твой гнев обжигает, как полуденное солнце. Приди и покарай тех, кто посмел вторгнуться в это священное место\". – Надпись на постаменте Солнечного защитника",
+    "artistName": "SIXMOREVODKA",
+    "name": "Солнечный защитник",
+    "cardCode": "03MT044",
+    "keywords": [
+      "Пробивание"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR002-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Дайте союзнику +0|+2, чтобы дать врагу -2|-0 до конца раунда.",
+    "descriptionRaw": "Дайте союзнику +0|+2, чтобы дать врагу -2|-0 до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Заклинания одного племени троллей могут быть непонятны в другом: настолько они различаются. В одном они совпадают: обряды, для которых они используются, – всегда жуткое зрелище. ",
+    "artistName": "Kudos Productions",
+    "name": "Тролльский напев",
+    "cardCode": "03FR002",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03NX016-full.png"
+      }
+    ],
+    "region": "Ноксус",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "4 раза нанесите союзнику и врагу 1 ед. урона.",
+    "descriptionRaw": "4 раза нанесите союзнику и врагу 1 ед. урона.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Берегись не острых когтей, а голодного зверя, который их отрастил\". – Дрессировщик василисков",
+    "artistName": "Kudos Productions",
+    "name": "Зарубка",
+    "cardCode": "03NX016",
+    "keywords": [
+      "Способность"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Способность",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO010-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>Поддержка</style></link>: до конца раунда дайте <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Быструю атаку</style></link> и +1|+0 союзнику, которого я поддерживаю.",
+    "descriptionRaw": "Поддержка: до конца раунда дайте Быструю атаку и +1|+0 союзнику, которого я поддерживаю.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Мсье Квандрант Монтегю вышел из дома в надежде совершить какой-нибудь подвиг или оказать услугу знатному дому и снискать его милость. Однако судьба завела его в бандловый лес, где юная Бри живо превратила мсье Квадранта в лягушку и потащила на поиски приключений. Бедный Кван!",
+    "artistName": "Dao Le",
+    "name": "Юная ведьмочка",
+    "cardCode": "03IO010",
+    "keywords": [
+      "Изворотливость"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT041-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>Поддержка</style></link>: даруйте союзнику, которого я поддерживаю, +2|+2.\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Предсмертный вздох</style></link>: создайте в руке 3 <link=card.create><style=AssociatedCard>Самоцвета</style></link>.",
+    "descriptionRaw": "Поддержка: даруйте союзнику, которого я поддерживаю, +2|+2.\r\nПредсмертный вздох: создайте в руке 3 Самоцвета.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Вы поняли хоть слово из того, что он наговорил?\"\n\"Нет, но он показался нам дружелюбным\".\nЭмир и Хейли, скалолазы",
+    "artistName": "SIXMOREVODKA",
+    "name": "Самоцветный мудрец",
+    "cardCode": "03MT041",
+    "keywords": [
+      "Предсмертный вздох"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT043-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "<link=keyword.Obliterate><style=Keyword>Уничтожьте</style></link> врага.",
+    "descriptionRaw": "Уничтожьте врага.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Я сделаю так, что звезды прокатятся по этому невыносимому месту огненными шарами. Это будет ВОСХИТИТЕЛЬНО\". – Аурелион Сол",
+    "artistName": "Kudos Productions",
+    "name": "Падающая комета",
+    "cardCode": "03MT043",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT028-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>День</style></link>: дайте мне +0|+4 до конца раунда.",
+    "descriptionRaw": "День: дайте мне +0|+4 до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Что ж ты не явилась под покровом ночи? Как глупо. – Щитоносец выпрямилась. – Сложи оружие и сдавайся\".\nЛунари молча пригнулась к земле, держа наготове изогнутые клинки.\nПусть будет так.\nСолари тоже приготовилась к бою и подняла щит, в котором отразились лучи восходящего солнца. ",
+    "artistName": "Kudos Productions",
+    "name": "Щитоносец Солари",
+    "cardCode": "03MT028",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT022-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 9,
+    "health": 8,
+    "description": "Призвав меня, даруйте мне +1|+0 за каждое разыгранное вами творение небес. <style=Variable></style>\r\nЯ дракон.",
+    "descriptionRaw": "Призвав меня, даруйте мне +1|+0 за каждое разыгранное вами творение небес. \r\nЯ дракон.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"О да, мое любимое созвездие. Мне нравится представлять, как оно первым обрушится на склон этой проклятой горы\". – Аурелион Сол",
+    "artistName": "Kudos Productions",
+    "name": "Пожиратель миров",
+    "cardCode": "03MT022",
+    "keywords": [
+      "Изворотливость",
+      "Ярость",
+      "Щит от магии"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС",
+      "ДРАКОН"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT072.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT072-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Храбрецов, совершающих восхождение на Таргон, поджидает множество испытаний. Бесконечный подъем постепенно подтачивает силы, но вокруг есть и более осязаемые опасности.",
+    "artistName": "Jihun Lee",
+    "name": "Огнедышащий исполин",
+    "cardCode": "03MT072",
+    "keywords": [
+      "Ярость",
+      "Щит от магии"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "ДРАКОН",
+    "subtypes": [
+      "ДРАКОН"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT025-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Заполните свою руку картами <link=card.create><style=AssociatedCard>Самоцвета</style></link>.",
+    "descriptionRaw": "Заполните свою руку картами Самоцвета.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Поверни драгоценный камень к свету, и он засияет. Так и в жизни смертных есть свой внутренний огонь\".",
+    "artistName": "Kudos Productions",
+    "name": "Осколки Горы",
+    "cardCode": "03MT025",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT018"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT017-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Замешайте в свою колоду 5 <link=card.shuffle><style=AssociatedCard>Гонцов</style></link>.",
+    "descriptionRaw": "Замешайте в свою колоду 5 Гонцов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Идет время, рисунок звезд меняется. Змей уходит, и его место занимает Гонец. Нас ждет сезон изобилия…\" – Жрица Лунари",
+    "artistName": "Max Grecke",
+    "name": "Знак Гонца",
+    "cardCode": "03MT017",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT051-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Восстановите союзнику или своему нексусу 2 ед. здоровья. Вытяните 1 карту.",
+    "descriptionRaw": "Восстановите союзнику или своему нексусу 2 ед. здоровья. Вытяните 1 карту.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Звезднороги светят ярче, когда им хорошо.",
+    "artistName": "Kudos Productions",
+    "name": "Напутственное касание",
+    "cardCode": "03MT051",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT012-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 10,
+    "health": 6,
+    "description": "Моя стоимость уменьшается на 1 каждый раз, когда вы поддерживаете или выбираете целью союзника.",
+    "descriptionRaw": "Моя стоимость уменьшается на 1 каждый раз, когда вы поддерживаете или выбираете целью союзника.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Судия вершины – это последнее испытание, которое предлагает Гора, ведь только страж может видеть не только поступки паломника, но и порывы его души.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Судия вершины",
+    "cardCode": "03MT012",
+    "keywords": [
+      "Пробивание"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR011-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 7,
+    "cost": 8,
+    "health": 7,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Сначала они почувствовали, как под ногами дрожит земля, а скоро услышали и гром, который становится все громче.\nМейрик с круглыми от страха глазами вскинул голову и прислушался.\n\"Что это такое?\" – встревоженно прошептала Анья, натягивая тетиву лука, но Мейрик уже несся обратно к тропе.\n\"БЕГИ!\"",
+    "artistName": "MAR Studio",
+    "name": "Узгар Древний",
+    "cardCode": "03FR011",
+    "keywords": [
+      "Выбор противника",
+      "Восстановление"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT094-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: даруйте мне <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Изворотливость</style></link>.",
+    "descriptionRaw": "Ночь: даруйте мне Изворотливость.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Обратим глаза к небесам, к солнцу, к нашей госпоже… Постойте, что это… что это такое?\" – Жрица Солари",
+    "artistName": "Kudos Productions",
+    "name": "Разведчица Лунари",
+    "cardCode": "03MT094",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT054T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT054T3-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Оглушите</style></link> <link=vocab.Strongest><style=Vocab>сильнейшего</style></link> врага.",
+    "descriptionRaw": "Оглушите сильнейшего врага.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Чем больше они тянутся к небесам, тем сильнее их опалит Солнце\". – Леона\n",
+    "artistName": "Kudos Production",
+    "name": "Солнечная вспышка",
+    "cardCode": "03MT054T3",
+    "keywords": [
+      "Способность"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Способность",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT076-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 3,
+    "description": "Стоимость ваших творений небес снижается на 1.\r\n<link=vocab.Allegiance><style=Vocab>Верность</style></link>: используйте <link=keyword.Invoke><style=Keyword>Зов</style></link>.",
+    "descriptionRaw": "Стоимость ваших творений небес снижается на 1.\r\nВерность: используйте Зов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"У звезд можно многому научиться. Они – незыблемый ориентир, позволяющий проложить путь\".",
+    "artistName": "SIXMOREVODKA",
+    "name": "Горный гадатель",
+    "cardCode": "03MT076",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR005-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "Если, когда меня призывают, вы <link=vocab.Behold><style=Vocab>владеете</style></link> картой стоимостью 8+, даруйте мне <link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Восстановление</style></link>.",
+    "descriptionRaw": "Если, когда меня призывают, вы владеете картой стоимостью 8+, даруйте мне Восстановление.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Добравшись до хижин племени аваросан, они позвали Хгар. Смеясь, она подняла Снегогром, намереваясь разнести деревянные постройки в щепу.",
+    "artistName": "MAR Studio",
+    "name": "Тролль-опустошитель",
+    "cardCode": "03FR005",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI005-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 5,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: даруйте врагу <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Уязвимость</style></link> и до конца раунда дайте врагам <nobr>-1|-0</nobr>.",
+    "descriptionRaw": "Ночь: даруйте врагу Уязвимость и до конца раунда дайте врагам -1|-0.",
+    "levelupDescription": "Вы отправили в атаку 5+ <link=keyword.Nightfall><style=Keyword>ночных</style></link> союзников<style=Variable></style>.",
+    "levelupDescriptionRaw": "Вы отправили в атаку 5+ ночных союзников.",
+    "flavorText": "\"Похоже, что чудовище может вторгнуться в наш мир, если поработит достаточно душ. Отправить его восвояси могла бы надежда, но надежда давно умерла – с последним вздохом королевы, с бесконечным криком короля\".\n– Записки Дженса Томмена, историка",
+    "artistName": "SIXMOREVODKA",
+    "name": "Ноктюрн",
+    "cardCode": "03SI005",
+    "keywords": [
+      "Устрашение"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T5",
+      "03IO002",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO002T1-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: создайте в руке <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>мимолетную</style></link> карту <link=card.create><style=AssociatedCard>Помоги, Пикс!</style></link>.\r\n<link=vocab.Support><style=Vocab>Поддержка</style></link>: в этом раунде союзник, которого я поддерживаю, усиливается до 5|5.",
+    "descriptionRaw": "Начало раунда: создайте в руке мимолетную карту Помоги, Пикс!.\r\nПоддержка: в этом раунде союзник, которого я поддерживаю, усиливается до 5|5.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Смотри, Пикс! Там целый новый мир! Давай раскрасим его еще ярче!\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Лулу",
+    "cardCode": "03IO002T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR018-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Просмотрите 4 верхние карты своей колоды и вытяните каждого элнука, йети и поро. Остальные карты замешайте в колоду.",
+    "descriptionRaw": "Просмотрите 4 верхние карты своей колоды и вытяните каждого элнука, йети и поро. Остальные карты замешайте в колоду.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"…а потом из леса как выбежит ОГРОМНЫЙ самец элнука с крохотулечкой-поро на спине, а за ними – ДРУЖЕЛЮБНЫЙ ЙЕТИ, который просто хотел поиграть с друзьями. Они носились по горному склону и рычали: А-Р-Р-Р! А потом…\" – Ингвар младший",
+    "artistName": "Kudos Productions",
+    "name": "Зов природы",
+    "cardCode": "03FR018",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT087.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT087-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: <link=keyword.Invoke><style=Keyword>позовите</style></link> творение небес стоимостью 7 или более.\r\n<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: создайте в руке случайное творение небес.",
+    "descriptionRaw": "Разыгрывая карту: позовите творение небес стоимостью 7 или более.\r\nНачало раунда: создайте в руке случайное творение небес.",
+    "levelupDescription": "<link=vocab.RoundEnd><style=Vocab>Конец раунда</style></link>: У ваших союзников в сумме 20+ силы<style=Variable></style>.",
+    "levelupDescriptionRaw": "Конец раунда: У ваших союзников в сумме 20+ силы.",
+    "flavorText": "\"Мне безразлично, что ты обо мне напишешь, жалкое создание! Только обязательно укажи, что я красивый. И величественный. И очень, очень умный. Ты знаешь, как пишется 'величественный'?\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Аурелион Сол",
+    "cardCode": "03MT087",
+    "keywords": [
+      "Ярость",
+      "Щит от магии"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "ДРАКОН",
+    "subtypes": [
+      "ДРАКОН"
+    ],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT058T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT058T1-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>Поддержка</style></link>: я и союзник, которого я поддерживаю, не получаем урон и не умираем до конца раунда. Последнее заклинание, которое вы применили ко мне в этом раунде, применяется и к этому союзнику <style=Parentheses>(повторное применение невозможно)</style>.",
+    "descriptionRaw": "Поддержка: я и союзник, которого я поддерживаю, не получаем урон и не умираем до конца раунда. Последнее заклинание, которое вы применили ко мне в этом раунде, применяется и к этому союзнику (повторное применение невозможно).",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Почему Тарик так добр к другим людям? Потому что он сам пришел к подножию Таргона сломленным и совершил восхождение, чтобы искупить свою вину… и это ему удалось. Никто не знает лучше Тарика, что сломанное можно снова сделать прекрасным\". – Горный гадатель",
+    "artistName": "SIXMOREVODKA",
+    "name": "Тарик",
+    "cardCode": "03MT058T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT029-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 3,
+    "description": "Исцеляя раненого союзника, даруйте мне +2|+0.",
+    "descriptionRaw": "Исцеляя раненого союзника, даруйте мне +2|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Я полюбила звезднорогов с тех самых пор, как впервые увидела падающую звезду. Кто бы мне тогда сказал, что их в моей жизни будет так много!\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Пастушка звезд",
+    "cardCode": "03MT029",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR010-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: если вы <link=vocab.Behold><style=Vocab>владеете</style></link> картой стоимостью 8+, получите дополнительный кристалл маны в этом раунде.",
+    "descriptionRaw": "Начало раунда: если вы владеете картой стоимостью 8+, получите дополнительный кристалл маны в этом раунде.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Встаньте, древние, проснитесь!/Правьте льдом, сломайте небо.\nВстаньте, древние, проснитесь!/Дайте сил нам и победу!\"\n– Заклинание троллей",
+    "artistName": "Wild Blue Studio",
+    "name": "Лица предков",
+    "cardCode": "03FR010",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT078.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT078-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "Если вы <link=vocab.Behold><style=Vocab>владеете</style></link> творением небес, <link=keyword.Obliterate><style=Keyword>уничтожьте</style></link> всех врагов с силой не более 3.",
+    "descriptionRaw": "Если вы владеете творением небес, уничтожьте всех врагов с силой не более 3.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "В предначальной тьме вспыхнула искра творения, и по вселенной словно прокатилась рябь. Нам не суждено узнать, какой звук она издала, каким светом озарила космос, ведь не было еще ни слов, дабы описать ее, ни глаз и ни ушей, дабы воспринять ее. ",
+    "artistName": "Kudos Productions",
+    "name": "Космические лучи",
+    "cardCode": "03MT078",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT092T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT092T1-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Восстановите союзнику 1 ед. здоровья и даруйте ему +1|+0.\r\nНельзя применять в бою или в ответ на заклинание.",
+    "descriptionRaw": "Восстановите союзнику 1 ед. здоровья и даруйте ему +1|+0.\r\nНельзя применять в бою или в ответ на заклинание.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Не нужно видеть, чтобы верить\". – Пилигрим Тиари",
+    "artistName": "Kudos Productions",
+    "name": "Самоцвет",
+    "cardCode": "03MT092T1",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT062-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: если вы <link=vocab.Behold><style=Vocab>владеете</style></link> творением небес, даруйте союзнику +1|+1 и <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Щит от магии</style></link>.",
+    "descriptionRaw": "Разыгрывая карту: если вы владеете творением небес, даруйте союзнику +1|+1 и Щит от магии.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"…а светульки похожи на звездную пыль, только они умеют взлетать обратно в небо, а вообще они ужасно хорошенькие, и я видела одного прошлой ночью – ой, я проголодалась – так вот, он взлетел к самым ЗВЕЗДАМ, а потом…\"",
+    "artistName": "Dao Le",
+    "name": "Сияющая хохотушка",
+    "cardCode": "03MT062",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT082-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Дайте союзникам +2|+2 до конца раунда.\r\n<link=keyword.Daybreak><style=Keyword>День</style></link>: активируйте все <link=keyword.Daybreak><style=Keyword>дневные</style></link> эффекты союзников одновременно.",
+    "descriptionRaw": "Дайте союзникам +2|+2 до конца раунда.\r\nДень: активируйте все дневные эффекты союзников одновременно.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Мы встаем на заре и идем на свет!\" – Леона",
+    "artistName": "Kudos Productions",
+    "name": "Утренний свет",
+    "cardCode": "03MT082",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT065.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT065-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Примените к стороннику <link=vocab.Silence><style=Vocab>Безмолвие</style></link>.",
+    "descriptionRaw": "Примените к стороннику Безмолвие.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Межзвездное пространство заполнено беззвучием.",
+    "artistName": "Max Grecke",
+    "name": "Равноденствие",
+    "cardCode": "03MT065",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT047-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 2,
+    "description": "<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: дайте мне и союзнику <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Изворотливость</style></link> до конца раунда.",
+    "descriptionRaw": "Ночь: дайте мне и союзнику Изворотливость до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Лунари дождались наступления сумерек, обещавших безопасность. Казалось, что впереди на тропе никого нет, но Сигнус знал, что лагерь Солари совсем рядом. По его жесту остальные тихо последовали за ним.",
+    "artistName": "JiHun Lee",
+    "name": "Сигнус, лунный следопыт",
+    "cardCode": "03MT047",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT038-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Юных, более покладистых драконов в стародавние времена приручили таргонские ребятишки. Возможно, молодые драконы почувствовали невинное любопытство детей и не тронули их, а напротив, начали опекать. ",
+    "artistName": "Aron Elekes",
+    "name": "Защитник белого пламени",
+    "cardCode": "03MT038",
+    "keywords": [
+      "Ярость"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "ДРАКОН",
+    "subtypes": [
+      "ДРАКОН"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT050-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Говорят, на ночном небе нет никого сильнее Воина. Это древнее создание, которое считается бессмертным, время от времени спускается на землю, чтобы доказать свое превосходство в бою. Его еще никому не удавалось победить, но все истории однажды заканчиваются, и все звезды умирают.",
+    "artistName": "Kudos Productions",
+    "name": "Воин",
+    "cardCode": "03MT050",
+    "keywords": [
+      "Выбор противника"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087",
+      "03MT087T1",
+      "03MT087"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT087T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT087T2-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "Нанесите 15 ед. урона всем врагам.\r\nМоя стоимость уменьшается на 2 за каждого союзного дракона или творение небес, которые у вас есть.\r\nЗамешайте в свою колоду карту <link=card.level1><style=AssociatedCard>Аурелион Сол</style></link>.",
+    "descriptionRaw": "Нанесите 15 ед. урона всем врагам.\r\nМоя стоимость уменьшается на 2 за каждого союзного дракона или творение небес, которые у вас есть.\r\nЗамешайте в свою колоду карту Аурелион Сол.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Придет время, и я покараю Рунтерру в назидание другим. Быть может, буду носить ее тлеющую оболочку с собой, как игрушку… сломанную и никому не нужную. Пока не знаю, до конца еще не обдумал\". – Аурелион Сол",
+    "artistName": "Kudos Productions",
+    "name": "Небо рушится на землю Аурелиона Сола",
+    "cardCode": "03MT087T2",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT081-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>Поддержка</style></link>: даруйте союзнику, которого я поддерживаю, +2|+2. Если у него тоже есть навык <link=vocab.Support><style=Vocab>Поддержка</style></link>, даруйте союзнику, которого он поддерживает, +2|+2, и так по цепочке.",
+    "descriptionRaw": "Поддержка: даруйте союзнику, которого я поддерживаю, +2|+2. Если у него тоже есть навык Поддержка, даруйте союзнику, которого он поддерживает, +2|+2, и так по цепочке.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Восхождение на Таргон предпринимают по разным причинам: одни хотят что-то доказать окружающим, другие – самим себе.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Скалолазы",
+    "cardCode": "03MT081",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03PZ017-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Нанесите бойцу 1 ед. урона. Призовите случайного бойца стоимостью <style=Variable>1</style>. Пока я в руке, увеличьте оба показателя на 1, сыграв карту стоимостью 3.",
+    "descriptionRaw": "Нанесите бойцу 1 ед. урона. Призовите случайного бойца стоимостью 1. Пока я в руке, увеличьте оба показателя на 1, сыграв карту стоимостью 3.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"На счет 'три'! Ой… Батюшки! Еще один непредвиденный результат?\" – Хеймердингер",
+    "artistName": "Kudos Productions",
+    "name": "Трехлучевой невероятор",
+    "cardCode": "03PZ017",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT007-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Детенышам звезднорогов, как и всем птенцам, нужно совершить первый полет. Если крылышки не выдерживают, малыши падают с неба, как обычные звездочки. К счастью, мы всегда готовы поймать их и вернуть на небо, когда они немного подрастут\". – Лидари, Пастырь звезд",
+    "artistName": "SIXMOREVODKA",
+    "name": "Малыш-звезднорог",
+    "cardCode": "03MT007",
+    "keywords": [
+      "Вампиризм",
+      "Щит от магии"
+    ],
+    "keywordRefs": [
+      "Lifesteal",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT015-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Invoke><style=Keyword>Зов</style></link>",
+    "descriptionRaw": "Зов",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Над тобой распростерлось небо – необъятный черный гобелен с мерцающими звездами, на фоне которого ты кажешься себе маленьким и тусклым. Куда ты обратишь взор в первую очередь?",
+    "artistName": "Kudos Productions",
+    "name": "Узрите бесконечность",
+    "cardCode": "03MT015",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI006T1-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Истощите вражеский нексус на 2 ед. здоровья.",
+    "descriptionRaw": "Истощите вражеский нексус на 2 ед. здоровья.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Что знает вас лучше, чем ваш собственный разум? Что станет более изящной пыткой, чем собственные сны?",
+    "artistName": "Kudos Productions",
+    "name": "Мучения",
+    "cardCode": "03SI006T1",
+    "keywords": [
+      "Способность"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Способность",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058",
+      "03MT058T1",
+      "03MT058"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT058T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT058T2-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Даруйте союзнику +3|+3.\r\nЗамешайте в свою колоду карту <link=card.level1><style=AssociatedCard>Тарик</style></link>.",
+    "descriptionRaw": "Даруйте союзнику +3|+3.\r\nЗамешайте в свою колоду карту Тарик.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Подарочек с Таргона\". – Тарик",
+    "artistName": "Max Grecke",
+    "name": "Благословение Таргона Тарика",
+    "cardCode": "03MT058T2",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR006-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 4,
+    "cost": 5,
+    "health": 6,
+    "description": "Когда меня призывают, создайте в руке карту <link=card.create><style=AssociatedCard>Ледяной столп</style></link>.",
+    "descriptionRaw": "Когда меня призывают, создайте в руке карту Ледяной столп.",
+    "levelupDescription": "На моих глазах вы разыграли карту <link=card.create><style=AssociatedCard>Ледяной столп</style></link>.",
+    "levelupDescriptionRaw": "На моих глазах вы разыграли карту Ледяной столп.",
+    "flavorText": "Вдоль тропы один за другим зажигались факелы, выхватывая из мрака силуэты сотен троллей – массивных, угрюмых и смертельно опасных.\n\"Спрашиваю в последний раз, – прорычал Трандл, вскидывая на плечо Костелом. – Сами сдадитесь или придется ломать вам черепа?\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Трандл",
+    "cardCode": "03FR006",
+    "keywords": [
+      "Восстановление"
+    ],
+    "keywordRefs": [
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT054T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT054T1-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 6,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>День</style></link> или использование другой <link=keyword.Daybreak><style=Keyword>дневной</style></link> карты: <link=keyword.Stun><sprite name=Stunned><style=Keyword>оглушите</style></link> <link=vocab.Strongest><style=Vocab>сильнейшего</style></link> врага.",
+    "descriptionRaw": "День или использование другой дневной карты: оглушите сильнейшего врага.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Леона долго ждала этого момента. Она зала, что на рассвете Диана будет вынуждена отступить вниз по склону Горы. Леона глубоко вздохнула, чтобы унять бешено бьющееся сердце и наполнить его решимостью. Она встретится со старой подругой лицом к лицу, но на сей раз у нее будет преимущество.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Леона",
+    "cardCode": "03MT054T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI003-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: дайте мне +2|+0 и <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Устрашение</style></link> до конца раунда.",
+    "descriptionRaw": "Ночь: дайте мне +2|+0 и Устрашение до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Когда солнце растворяется в черной смоле ночи, пробуждаются живущие здесь кошмары. Они наблюдают… и выжидают.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Жуткий наблюдатель",
+    "cardCode": "03SI003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03NX016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03NX017-full.png"
+      }
+    ],
+    "region": "Ноксус",
+    "regionRef": "Noxus",
+    "attack": 7,
+    "cost": 7,
+    "health": 4,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>Разыгрывая карту</style></link>: 4 раза нанесите союзнику и врагу 1 ед. урона.",
+    "descriptionRaw": "Разыгрывая карту: 4 раза нанесите союзнику и врагу 1 ед. урона.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "За несколько дней до сражения дрессировщики перестают давать василискам живой корм. Когда зверей наконец спускают на противника, они становятся совершенно неуправляемы и уже не разбирают, где свой, где чужой.",
+    "artistName": "Kudos Productions",
+    "name": "Кровожадный василиск",
+    "cardCode": "03NX017",
+    "keywords": [
+      "Пробивание"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT026-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Daybreak><style=Keyword>День</style></link>: создайте в руке случайную <link=keyword.Daybreak><style=Keyword>дневную</style></link> карту.\r\nДля нас всегда день.",
+    "descriptionRaw": "День: создайте в руке случайную дневную карту.\r\nДля нас всегда день.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Держись своей веры, Ра-Хорак, и наш свет никогда не померкнет!\"",
+    "artistName": "JiHun Lee",
+    "name": "Рахвун, Копье полудня",
+    "cardCode": "03MT026",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI002-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Истощите любую цель на 1 ед. здоровья.\r\n<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: создайте в руке случайную <link=keyword.Nightfall><style=Keyword>ночную</style></link> карту.",
+    "descriptionRaw": "Истощите любую цель на 1 ед. здоровья.\r\nНочь: создайте в руке случайную ночную карту.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"С каждым днем силы тают, пропадает тот запал, что помог отыскать это место. В 'Китовом зубе' полно сломленных людей, утративших ко всему интерес. Боюсь, что стану таким же, если здесь задержусь\".\n– Записки Дженса Томмена, историка",
+    "artistName": "Kudos Productions",
+    "name": "Невыразимый ужас",
+    "cardCode": "03SI002",
+    "keywords": [
+      "Быстрое"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Быстрое",
+    "spellSpeedRef": "Fast",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ020"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03PZ018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03PZ018-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Чтобы сыграть, сбросьте 1 карту.\r\nСоздайте в руке 2 <link=card.create><style=AssociatedCard>Отважных поро</style></link>.",
+    "descriptionRaw": "Чтобы сыграть, сбросьте 1 карту.\r\nСоздайте в руке 2 Отважных поро.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Два пушистых существа взмыли над восторженной толпой и плавно пролетели мимо, оставив после себя облачко пуха и едва уловимый запах свежих булочек.",
+    "artistName": "Kudos Productions",
+    "name": "Поропушка",
+    "cardCode": "03PZ018",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT003-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Вытяните 2 разных драконов или даруйте союзным драконам +1|+1.",
+    "descriptionRaw": "Вытяните 2 разных драконов или даруйте союзным драконам +1|+1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Их крик похож на хриплый кошачий ор. Если услышите его – скорее бегите и приведите стражу. Ясно? Ведь где драконьи яйца, там и драконы\". – Таргонский добытчик",
+    "artistName": "Kudos Productions",
+    "name": "Драконье гнездо",
+    "cardCode": "03MT003",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT011-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Оглушите</style></link> 2 врагов.",
+    "descriptionRaw": "Оглушите 2 врагов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Свет луны тоже может ослеплять\". – Диана\n\n",
+    "artistName": "Kudos Productions",
+    "name": "Удар полумесяца",
+    "cardCode": "03MT011",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT088.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT088-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>День</style></link>: дайте мне +1|+1 до конца раунда.",
+    "descriptionRaw": "День: дайте мне +1|+1 до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Греясь в лучах солнца, он сторожил пленную еретичку, не обращая внимания на доносившиеся из камеры тихие мольбы, которые вскоре сменились озлобленным молчанием.",
+    "artistName": "Wild Blue Studio",
+    "name": "Воин Солари",
+    "cardCode": "03MT088",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT089-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: даруйте мне +2|+0.",
+    "descriptionRaw": "Ночь: даруйте мне +2|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Надежный страж, пусть лунный луч восстановит твои силы ласковым касанием. Пробудись и защити нас от тех, кто дерзнет вторгнутся в наше святилище\". – Надпись на постаменте Стража полумесяца",
+    "artistName": "Aron Elekes",
+    "name": "Страж полумесяца",
+    "cardCode": "03MT089",
+    "keywords": [
+      "Пробивание"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01DE016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03DE012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03DE012-full.png"
+      }
+    ],
+    "region": "Демасия",
+    "regionRef": "Demacia",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "Моя стоимость снижается на 1, когда вы призываете элитного бойца.\r\nЗа каждого союзника, погибшего в этом раунде, призовите карту <link=card.summon><style=AssociatedCard>Воин Бесстрашного авангарда</style></link>.",
+    "descriptionRaw": "Моя стоимость снижается на 1, когда вы призываете элитного бойца.\r\nЗа каждого союзника, погибшего в этом раунде, призовите карту Воин Бесстрашного авангарда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Если один воин погибнет – пусть другой займет его место. Наш стяг не должен опуститься!\" – Гарен",
+    "artistName": "Kudos Productions",
+    "name": "Во имя павших",
+    "cardCode": "03DE012",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ЭПИЧЕСКИЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT056-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: дайте мне <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Выбор противника</style></link> до конца раунда.",
+    "descriptionRaw": "Ночь: дайте мне Выбор противника до конца раунда.",
+    "levelupDescription": "Вы использовали навык <link=keyword.Nightfall><style=Keyword>Ночь</style></link> 4+ раза<style=Variable></style>.",
+    "levelupDescriptionRaw": "Вы использовали навык Ночь 4+ раза.",
+    "flavorText": "Перед боем она стояла в своем сине-серебряном облачении, и глаза ее сияли, как звезды. Восходящая луна озарила ее, и присутствовавшие при этом Лунари прикрыли глаза, мысленно произнося слова благодарности и молясь о том, чтобы ей была дарована защита.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Диана",
+    "cardCode": "03MT056",
+    "keywords": [
+      "Быстрая атака"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT073T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT073-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "Когда меня призывают, создайте в руке карту <link=card.create><style=AssociatedCard>Пыльца цветка заката</style></link>.",
+    "descriptionRaw": "Когда меня призывают, создайте в руке карту Пыльца цветка заката.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Луноцвет распускается только ночью, при свете полной луны. Мы, Лунари, с гордостью носим его изображение, ведь мы веками собирали его пыльцу – и никто, кроме нас, не умеет делать это без вреда для себя\".",
+    "artistName": "JiHun Lee",
+    "name": "Лунари – вестница заката",
+    "cardCode": "03MT073",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR006T3-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "Дайте ВСЕМ бойцам -3|-0 до конца раунда. Нанесите 3 ед. урона ВСЕМ бойцам.\r\nЗамешайте в колоду карту <link=card.level1><style=AssociatedCard>Трандл</style></link>.",
+    "descriptionRaw": "Дайте ВСЕМ бойцам -3|-0 до конца раунда. Нанесите 3 ед. урона ВСЕМ бойцам.\r\nЗамешайте в колоду карту Трандл.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Похороним их заживо!\" – Трандл",
+    "artistName": "Kudos Productions",
+    "name": "Льдотрясение Трандла",
+    "cardCode": "03FR006T3",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT095.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT095-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Стою я, значит, никого не трогаю, и тут идет этот франт – ей-ей кошелек на ножках. Легкая добыча! Ну, я свое дело знаю: улыбку поширше, а цену повыше. Только когда стал выручку в кошель убирать, понял, что этот плутишка заплатил мне моей же собственной монетой! Да, Ловкач той ночью стоял в зените!\" – Йордл-жулик",
+    "artistName": "Kudos Productions",
+    "name": "Ловкач",
+    "cardCode": "03MT095",
+    "keywords": [
+      "Изворотливость"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT027-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Даруйте союзнику +1|+2 и <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Пробивание</style></link>.\r\n<link=keyword.Daybreak><style=Keyword>День</style></link>: вытяните карту <link=card.me><style=AssociatedCard>Клинок зенита</style></link>.",
+    "descriptionRaw": "Даруйте союзнику +1|+2 и Пробивание.\r\nДень: вытяните карту Клинок зенита.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Пусть солнце наделит тебя своей силой!\" – Жрица Солари",
+    "artistName": "Kudos Productions",
+    "name": "Клинок зенита",
+    "cardCode": "03MT027",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT084.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT084-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Invoke><style=Keyword>Позовите</style></link> творение небес стоимостью 7 или более, затем восстановите своему союзнику или нексусу 5 ед. здоровья.",
+    "descriptionRaw": "Позовите творение небес стоимостью 7 или более, затем восстановите своему союзнику или нексусу 5 ед. здоровья.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Посмотри на звезды. Если повезет, встретишь мой взгляд\". – Аурелион Сол",
+    "artistName": "Kudos Productions",
+    "name": "Сотворение звезд",
+    "cardCode": "03MT084",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT016-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Топотун! Думаешь, ты такой большой, что не пролезешь в этот портальчик? Ну ничего, сейчас я тебя… ХА-ХА-ХА! Шучу. ВПЕРЕД!\" – Зои",
+    "artistName": "SIXMOREVODKA",
+    "name": "Трогательный топотун",
+    "cardCode": "03MT016",
+    "keywords": [
+      "Пробивание"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03FR006T1-full.png"
+      }
+    ],
+    "region": "Фрельйорд",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: восполните<br>8 ед. маны.\r\n<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link> и <link=vocab.RoundStart><style=Vocab>в начале раунда</style></link>: сделайте <link=vocab.Strongest><style=Vocab>сильнейшего</style></link> врага <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>уязвимым</style></link> до конца раунда.",
+    "descriptionRaw": "Разыгрывая карту: восполните8 ед. маны.\r\nРазыгрывая карту и в начале раунда: сделайте сильнейшего врага уязвимым до конца раунда.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Ха-ха! Такого вы не ожидали!\" – Трандл",
+    "artistName": "Kudos Productions",
+    "name": "Ледяной столп",
+    "cardCode": "03FR006T1",
+    "keywords": [
+      "Уязвимость"
+    ],
+    "keywordRefs": [
+      "Vulnerable"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT059T1-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"…И пусть во всем они похожи,\nИх схожесть только ссоры множит.\nЧтоб каждой делать что захочет,\nОтмежевали день от ночи\".\n– Песнь о времени суток",
+    "artistName": "Kudos Productions",
+    "name": "Серебряная сестра",
+    "cardCode": "03MT059T1",
+    "keywords": [
+      "Изворотливость"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056",
+      "03MT056T1",
+      "03MT056"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT056T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT056T2-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Дайте союзнику +2|+1 до конца раунда. Замешайте в свою колоду карту <link=card.level1><style=AssociatedCard>Диана</style></link>.\r\n<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: вытяните 1 карту.",
+    "descriptionRaw": "Дайте союзнику +2|+1 до конца раунда. Замешайте в свою колоду карту Диана.\r\nНочь: вытяните 1 карту.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Под покровом ночи, под присмотром бледной луны\". <nobr>– Диана</nobr>",
+    "artistName": "Kudos Productions",
+    "name": "Бледный каскад Дианы",
+    "cardCode": "03MT056T2",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT035-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Дайте союзнику +2|+1 до конца раунда.\r\n<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: вытяните 1 карту.",
+    "descriptionRaw": "Дайте союзнику +2|+1 до конца раунда.\r\nНочь: вытяните 1 карту.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Под покровом ночи, под присмотром бледной луны\". <nobr>– Диана</nobr>",
+    "artistName": "Kudos Productions",
+    "name": "Бледный каскад",
+    "cardCode": "03MT035",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03IO018-full.png"
+      }
+    ],
+    "region": "Иония",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "Когда меня поддерживают, дайте мне +0|+3 до конца раунда.\r\n<link=vocab.Support><style=Vocab>Поддержка</style></link>: до конца раунда дайте +3|+0 союзнику, которого я поддерживаю.",
+    "descriptionRaw": "Когда меня поддерживают, дайте мне +0|+3 до конца раунда.\r\nПоддержка: до конца раунда дайте +3|+0 союзнику, которого я поддерживаю.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Эти лиловые создания очень милые. Все, кому они встретятся, их оберегают. Ну, или почти все…",
+    "artistName": "Dao Le",
+    "name": "Заботливый пушистик",
+    "cardCode": "03IO018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT003T1-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Вытяните 2 разных драконов.",
+    "descriptionRaw": "Вытяните 2 разных драконов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Драконье яйцо (Кричащий дракон Draco Murmurationis)\nПримечания: при переворачивании яйца стало заметно, что скорлупа истончилась. Внутри замечено движение. Трещины только на поверхности?\nПриписка: ЯЙЦО ПРОКЛЕВЫВАЕТСЯ!\n– Из заметок Андена Майна, яйцеголового ученого",
+    "artistName": "Kudos Productions",
+    "name": "Проклюнувшееся яйцо",
+    "cardCode": "03MT003T1",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT090-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Золото солнца блестит на его рогах, солнечный жар горит в его сердце. Так пусть наши щиты грохочут, как его копыта, когда он несется по небосклону!\" – Молитва Солари перед боем",
+    "artistName": "Kudos Productions",
+    "name": "Тур",
+    "cardCode": "03MT090",
+    "keywords": [
+      "Пробивание"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "ТВОРЕНИЕ НЕБЕС",
+    "subtypes": [
+      "ТВОРЕНИЕ НЕБЕС"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03SI010-full.png"
+      }
+    ],
+    "region": "Сумрачные острова",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Nightfall><style=Keyword>Ночь</style></link>: даруйте мне +1|+0 за каждый раз, когда вы использовали навык <link=keyword.Nightfall><style=Keyword>Ночь</style></link> в этой игре. <style=Variable></style>",
+    "descriptionRaw": "Ночь: даруйте мне +1|+0 за каждый раз, когда вы использовали навык Ночь в этой игре. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "На закате ночь расправляет темные крылья, поглощая последние лучи надежды.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Сумрачный скакун",
+    "cardCode": "03SI010",
+    "keywords": [
+      "Устрашение"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT036-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Даруйте союзнику +3|+3.",
+    "descriptionRaw": "Даруйте союзнику +3|+3.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Подарочек с Таргона\". – Тарик",
+    "artistName": "Max Grecke",
+    "name": "Благословение Таргона",
+    "cardCode": "03MT036",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "РЕДКИЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT003T2-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Даруйте союзным драконам +1|+1.",
+    "descriptionRaw": "Даруйте союзным драконам +1|+1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Драконье яйцо (Кричащий дракон Draco Murmurationis)\nПримечания: при переворачивании яйца стало заметно, что скорлупа истончилась. Внутри замечено движение. Трещины только на поверхности?\nПриписка: ЯЙЦО ПРОКЛЕВЫВАЕТСЯ!\n– Из заметок Андена Майна, яйцеголового ученого",
+    "artistName": "Kudos Productions",
+    "name": "Разбитое яйцо",
+    "cardCode": "03MT003T2",
+    "keywords": [
+      "Взрывное"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ru_ru/img/cards/03MT039-full.png"
+      }
+    ],
+    "region": "Таргон",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "В космосе никто не услышит, как ты пищишь.",
+    "artistName": "Dao Le",
+    "name": "Летучий поро",
+    "cardCode": "03MT039",
+    "keywords": [
+      "Щит от магии"
+    ],
+    "keywordRefs": [
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНЫЕ",
+    "rarityRef": "Common",
+    "subtype": "ПОРО",
+    "subtypes": [
+      "ПОРО"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set3"
+  }
+]
