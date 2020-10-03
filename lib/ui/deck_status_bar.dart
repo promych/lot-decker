@@ -1,7 +1,6 @@
 import 'package:badges/badges.dart';
 import 'package:flutter/material.dart';
 import 'package:lor_builder/helpers/constants.dart';
-import 'package:lor_builder/managers/locale_manager.dart';
 import 'package:lor_builder/models/globals.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 import 'package:provider/provider.dart';
