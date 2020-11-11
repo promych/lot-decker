@@ -38,22 +38,22 @@ class _HomePageState extends State<HomePage> {
       items: <BottomNavigationBarItem>[
         BottomNavigationBarItem(
           icon: Icon(Icons.view_list),
-          title: Text(LocaleManager.of(context).translate('decks')),
+          label: LocaleManager.of(context).translate('decks'),
           backgroundColor: Styles.layerColor,
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.view_module),
-          title: Text(LocaleManager.of(context).translate('cards')),
+          label: LocaleManager.of(context).translate('cards'),
           backgroundColor: Styles.layerColor,
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.star),
-          title: Text(LocaleManager.of(context).translate('favorites')),
+          label: LocaleManager.of(context).translate('favorites'),
           backgroundColor: Styles.layerColor,
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.settings),
-          title: Text(LocaleManager.of(context).translate('settings')),
+          label: LocaleManager.of(context).translate('settings'),
           backgroundColor: Styles.layerColor,
         ),
       ],

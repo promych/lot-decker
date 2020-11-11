@@ -177,7 +177,7 @@ class _IconBadge extends StatelessWidget {
       child: Badge(
         child: child,
         badgeContent: Text(cardNum.toString()),
-        position: BadgePosition.bottomRight(),
+        position: BadgePosition.bottomEnd(),
         badgeColor: Styles.lightGrey,
         animationType: BadgeAnimationType.fade,
       ),
