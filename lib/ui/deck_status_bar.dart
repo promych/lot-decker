@@ -37,6 +37,7 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
 
   int spellsNum = 0;
   int unitsNum = 0;
+  int landmarksNum = 0;
   int total = 0;
   Set<String> factions = {};
 
@@ -51,6 +52,10 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
   Widget build(BuildContext context) {
     final unitLocaleName = globals.cardTypes
         .singleWhere((t) => t.nameRef == 'Unit', orElse: () => null)
+        ?.name;
+
+    final landmarkLocaleName = globals.cardTypes
+        .singleWhere((t) => t.nameRef == 'Landmark', orElse: () => null)
         ?.name;
 
     int _cardsByFaction(String fAbbr) {
@@ -68,6 +73,9 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
           .length;
       unitsNum = widget.cardsInDeck
           .where((card) => card.cardType == unitLocaleName)
+          .length;
+      landmarksNum = widget.cardsInDeck
+          .where((card) => card.cardType == landmarkLocaleName)
           .length;
       factions = widget.cardsInDeck
           .map((card) => card.cardCode.substring(2, 4))
@@ -130,6 +138,10 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
       _IconBadge(
         child: Image.asset('assets/img/types/Spell.png', height: _iconSize),
         cardNum: spellsNum,
+      ),
+      _IconBadge(
+        child: Image.asset('assets/img/types/Landmark.png', height: _iconSize),
+        cardNum: landmarksNum,
       ),
     ]);
   }

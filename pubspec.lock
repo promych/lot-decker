@@ -28,7 +28,7 @@ packages:
       name: badges
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.4"
+    version: "1.2.0"
   boolean_selector:
     dependency: transitive
     description:
@@ -64,13 +64,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.15.0-nullsafety.3"
-  color:
-    dependency: transitive
-    description:
-      name: color
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "2.1.1"
   convert:
     dependency: transitive
     description:
@@ -98,7 +91,7 @@ packages:
       name: equatable
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.2.5"
+    version: "1.2.6"
   fake_async:
     dependency: transitive
     description:
@@ -143,7 +136,7 @@ packages:
       name: flutter_native_splash
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.9"
+    version: "0.3.2"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -160,7 +153,7 @@ packages:
       name: image
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.12"
+    version: "2.1.19"
   intl:
     dependency: transitive
     description:
@@ -209,7 +202,7 @@ packages:
       name: path_provider
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.6.24"
+    version: "1.6.27"
   path_provider_linux:
     dependency: transitive
     description:
@@ -244,14 +237,14 @@ packages:
       name: percent_indicator
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.8"
+    version: "2.1.9+1"
   petitparser:
     dependency: transitive
     description:
       name: petitparser
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.4.0"
+    version: "3.1.0"
   platform:
     dependency: transitive
     description:
@@ -279,14 +272,14 @@ packages:
       name: provider
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.3.2+2"
+    version: "4.3.3"
   sembast:
     dependency: "direct main"
     description:
       name: sembast
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.4.8"
+    version: "2.4.10+4"
   shared_preferences:
     dependency: "direct main"
     description:
@@ -417,14 +410,14 @@ packages:
       name: xml
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.6.1"
+    version: "4.5.1"
   yaml:
     dependency: transitive
     description:
       name: yaml
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.2.0"
+    version: "2.2.1"
 sdks:
   dart: ">=2.10.0-110 <2.11.0"
   flutter: ">=1.16.0 <2.0.0"
