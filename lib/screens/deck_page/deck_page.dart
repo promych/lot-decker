@@ -85,11 +85,11 @@ class _DeckPageState extends State<DeckPage> {
                 ),
               ),
               actions: [
-                FlatButton(
+                TextButton(
                   child: Text(LocaleManager.of(context).translate('cancel')),
                   onPressed: () => Navigator.of(context).pop(),
                 ),
-                FlatButton(
+                TextButton(
                   child: Text('OK'),
                   onPressed: deckName.hasError
                       ? null
@@ -122,11 +122,11 @@ class _DeckPageState extends State<DeckPage> {
               controller: _deckCodeContoller,
             ),
             actions: [
-              FlatButton(
+              TextButton(
                 child: Text(LocaleManager.of(context).translate('cancel')),
                 onPressed: () => Navigator.of(context).pop(),
               ),
-              FlatButton(
+              TextButton(
                 child: Text('OK'),
                 onPressed: () async {
                   await Clipboard.setData(
@@ -287,19 +287,22 @@ class _DeckPageState extends State<DeckPage> {
   }
 
   Future<bool> _onExit(BuildContext context, bool isEditing) {
-    if (Provider.of<DeckPageBloc>(context, listen: false).selectedCards.isEmpty || !isEditing)
-      return Future.value(true);
+    if (Provider.of<DeckPageBloc>(context, listen: false)
+            .selectedCards
+            .isEmpty ||
+        !isEditing) return Future.value(true);
     return showDialog(
           context: context,
-          child: AlertDialog(
+          builder: (context) => AlertDialog(
             backgroundColor: Styles.layerColor,
-            title: Text(LocaleManager.of(context).translate('unsaved data warning')),
+            title: Text(
+                LocaleManager.of(context).translate('unsaved data warning')),
             actions: <Widget>[
-              FlatButton(
+              TextButton(
                 onPressed: () => Navigator.of(context).pop(false),
                 child: Text(LocaleManager.of(context).translate('cancel')),
               ),
-              FlatButton(
+              TextButton(
                 onPressed: () => Navigator.of(context).pop(true),
                 child: Text(LocaleManager.of(context).translate('yes')),
               ),

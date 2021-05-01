@@ -37,11 +37,11 @@ class _DeckListPageState extends State<DeckListPage> {
             controller: _codeController,
           ),
           actions: [
-            FlatButton(
+            TextButton(
               child: Text(LocaleManager.of(context).translate('cancel')),
               onPressed: () => Navigator.of(context).pop(),
             ),
-            FlatButton(
+            TextButton(
               child: Text('OK'),
               onPressed: () async {
                 try {
@@ -88,7 +88,7 @@ class _DeckListPageState extends State<DeckListPage> {
             backgroundColor: Styles.layerColor,
             forceElevated: true,
             actions: [
-              FlatButton.icon(
+              TextButton.icon(
                 icon: Icon(Icons.library_add),
                 label: Text('Code'),
                 onPressed: () => _codeToDeck(context),
