@@ -9,6 +9,7 @@ import 'package:flutter/material.dart';
 final appMaterialTheme = ThemeData.dark().copyWith(
   scaffoldBackgroundColor: Styles.scaffoldBackgroundColor,
   primaryColor: CupertinoColors.white,
+  buttonColor: Styles.cyanColor,
 );
 
 abstract class Styles {

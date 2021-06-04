@@ -89,8 +89,8 @@ class _DeckListPageState extends State<DeckListPage> {
             forceElevated: true,
             actions: [
               TextButton.icon(
-                icon: Icon(Icons.library_add),
-                label: Text('Code'),
+                icon: Icon(Icons.library_add, color: Styles.cyanColor),
+                label: Text('Code', style: TextStyle(color: Styles.cyanColor)),
                 onPressed: () => _codeToDeck(context),
               )
             ],

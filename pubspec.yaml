@@ -1,7 +1,7 @@
 name: lor_builder
 description: LoR project.
 publish_to: 'none'
-version: 1.5.0+27
+version: 1.6.0+28
 
 environment:
   sdk: ">=2.2.2 <3.0.0"
@@ -15,7 +15,7 @@ dependencies:
   badges: 1.2.0
   cupertino_icons: 1.0.0
   equatable: 1.2.6
-  path_provider: 1.6.27
+  path_provider: 1.6.28
   percent_indicator: 2.1.9+1
   provider: 4.3.3
   sembast: 2.4.10+4
