@@ -125,9 +125,9 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
             radius: _iconSize / 2,
             backgroundImage: (locale == kAppLocales['RU'])
                 ? AssetImage(
-                    'assets/img/champions/${kChampionsNamesRU[card.name].replaceAll(' ', '')}.webp')
+                    'assets/img/champions/${kChampionsNamesRU[card.name].replaceAll(' ', '').replaceAll("'", '')}.webp')
                 : AssetImage(
-                    'assets/img/champions/${card.name.replaceAll(' ', '')}.webp'),
+                    'assets/img/champions/${card.name.replaceAll(' ', '').replaceAll("'", '')}.webp'),
           ),
           cardNum: widget.cardsInDeck.where((c) => c.name == card.name).length,
         ),
