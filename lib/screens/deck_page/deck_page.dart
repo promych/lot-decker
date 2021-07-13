@@ -255,6 +255,11 @@ class _DeckPageState extends State<DeckPage> {
               title: _buildDeckName(context),
               backgroundColor: Styles.layerColor,
               actions: _appBarActions(context),
+              leading: GestureDetector(
+                behavior: HitTestBehavior.translucent,
+                child: Icon(Icons.arrow_back),
+                onTap: Navigator.of(context).pop,
+              ),
             ),
             body: StreamBuilder<List<CardModel>>(
               stream: widget.bloc.$selectedCards,

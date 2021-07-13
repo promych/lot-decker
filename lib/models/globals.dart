@@ -122,6 +122,8 @@ const kChampionsNamesRU = {
   'Экко': 'Ekko',
   'Пайк': 'Pyke',
   'Рек’Сай': 'Rek’sai',
+  'Виего': 'Viego',
+  'Акшан': 'Akshan',
 };
 
 abstract class Referable {
