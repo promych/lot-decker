@@ -1,5 +1,5 @@
 MAJ=2
-MIN=12
+MIN=14
 DDIR="G:/runeterra/runeterra_archives"
 NAMES=(
 	"core-en_us"
@@ -37,6 +37,13 @@ NAMES=(
 	"set4-lite-it_it"
 	"set4-lite-ru_ru"
 	"set4-lite-tr_tr"
+	"set5-lite-en_us"
+	"set5-lite-es_es"
+	"set5-lite-de_de"
+	"set5-lite-fr_fr"
+	"set5-lite-it_it"
+	"set5-lite-ru_ru"
+	"set5-lite-tr_tr"
 	)
 rm -r $DDIR
 mkdir $DDIR

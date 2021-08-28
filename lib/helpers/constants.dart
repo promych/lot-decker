@@ -10,7 +10,7 @@ const Map<String, Locale> kAppLocales = {
   'TR': const Locale('tr', 'TR'),
 };
 
-const kSetsNumber = 4; // TODO change this when new set is added to game
+const kSetsNumber = 5; // TODO change this when new set is added to game
 
 const kMaxRegionsInDeck = 2;
 const kMaxSameCardsInDeck = 3;

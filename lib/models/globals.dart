@@ -124,6 +124,15 @@ const kChampionsNamesRU = {
   'Рек’Сай': 'Rek’sai',
   'Виего': 'Viego',
   'Акшан': 'Akshan',
+  'Нами': 'Nami',
+  'Тристана': 'Tristana',
+  'Зиггс': 'Ziggs',
+  'Поппи': 'Poppy',
+  'Вейгар': 'Veigar',
+  'Кейтлин': 'Caitlyn',
+  'Сенна': 'Senna',
+  'Сион': 'Sion',
+  'Зерат': 'Xerath',
 };
 
 abstract class Referable {
