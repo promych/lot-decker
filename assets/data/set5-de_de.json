@@ -9,8 +9,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014-full.png"
       }
     ],
     "region": "Shurima",
@@ -26,8 +26,8 @@
     "health": 3,
     "description": "Wenn ein verbündetes Wahrzeichen zerstört wird, verursache 1 Schaden am <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner. ",
     "descriptionRaw": "Wenn ein verbündetes Wahrzeichen zerstört wird, verursache 1 Schaden am schwächsten Gegner. ",
-    "levelupDescription": "Du hast in diesem Spiel 4 verbündete Wahrzeichen zerstört.<style=Variable></style>",
-    "levelupDescriptionRaw": "Du hast in diesem Spiel 4 verbündete Wahrzeichen zerstört.",
+    "levelupDescription": "Du hast in diesem Spiel 4+ verbündete Wahrzeichen zerstört.<style=Variable></style>",
+    "levelupDescriptionRaw": "Du hast in diesem Spiel 4+ verbündete Wahrzeichen zerstört.",
     "flavorText": "„Einst waren die beiden Freunde, doch die Zeit und ihre gegenseitige Zuneigung ließ sie zu Brüdern werden. Ohne Xerath an seiner Seite wäre Azir niemals dort, wo er heute ist.“\n– Schriftgelehrter Kah’nir, Geschichte des Heers der Aufgestiegenen",
     "artistName": "SIXMOREVODKA",
     "name": "Xerath",
@@ -57,8 +57,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -107,8 +107,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T4-full.png"
       }
     ],
     "region": "Shurima",
@@ -157,8 +157,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T5-full.png"
       }
     ],
     "region": "Shurima",
@@ -207,8 +207,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -255,8 +255,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH014T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -298,8 +298,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH017-full.png"
       }
     ],
     "region": "Shurima",
@@ -342,8 +342,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH011-full.png"
       }
     ],
     "region": "Shurima",
@@ -387,8 +387,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH011T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH011T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH011T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH011T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -434,8 +434,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH011T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH011T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH011T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH011T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -481,8 +481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH003-full.png"
       }
     ],
     "region": "Shurima",
@@ -528,8 +528,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH016-full.png"
       }
     ],
     "region": "Shurima",
@@ -575,8 +575,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH018-full.png"
       }
     ],
     "region": "Shurima",
@@ -622,8 +622,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH012-full.png"
       }
     ],
     "region": "Shurima",
@@ -646,10 +646,12 @@
     "name": "Erhobener Altar",
     "cardCode": "05SH012",
     "keywords": [
-      "Countdown"
+      "Countdown",
+      "Wahrzeichen"
     ],
     "keywordRefs": [
-      "Countdown"
+      "Countdown",
+      "LandmarkVisualOnly"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
@@ -667,8 +669,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH012T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -717,8 +719,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH020-full.png"
       }
     ],
     "region": "Shurima",
@@ -762,8 +764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH015-full.png"
       }
     ],
     "region": "Shurima",
@@ -807,8 +809,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH004-full.png"
       }
     ],
     "region": "Shurima",
@@ -852,8 +854,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH004T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -897,8 +899,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH004T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -942,8 +944,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH002-full.png"
       }
     ],
     "region": "Shurima",
@@ -987,8 +989,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH007-full.png"
       }
     ],
     "region": "Shurima",
@@ -1032,8 +1034,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH007T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -1077,8 +1079,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SH007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SH007T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -1124,8 +1126,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC010-full.png"
       }
     ],
     "region": "Bandle",
@@ -1173,8 +1175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC102-full.png"
       }
     ],
     "region": "Bandle",
@@ -1216,8 +1218,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC010T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -1261,8 +1263,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC099-full.png"
       }
     ],
     "region": "Bandle",
@@ -1307,8 +1309,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC133.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC133-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC133.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC133-full.png"
       }
     ],
     "region": "Bandle",
@@ -1357,8 +1359,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC202.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC202-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC202.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC202-full.png"
       }
     ],
     "region": "Bandle",
@@ -1372,8 +1374,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "Kostet 2 weniger, wenn du eine <link=card.level1><style=AssociatedCard>Tristana</style></link> hast oder in diesem Spiel Karten aus 4+ Regionen beschworen oder ausgespielt hast.\r\nVerursache 3 Schaden an einer Einheit.\r\nErschaffe eine <link=card.level1><style=AssociatedCard>Tristana</style></link> in deinem Deck. <style=Variable></style>",
-    "descriptionRaw": "Kostet 2 weniger, wenn du eine Tristana hast oder in diesem Spiel Karten aus 4+ Regionen beschworen oder ausgespielt hast.\r\nVerursache 3 Schaden an einer Einheit.\r\nErschaffe eine Tristana in deinem Deck. ",
+    "description": "Kostet 2 weniger, wenn du eine <link=card.level1><style=AssociatedCard>Tristana</style></link> hast oder in diesem Spiel Karten aus 4+ Regionen beschworen oder gewirkt hast.\r\nVerursache 3 Schaden an einer Einheit.\r\nErschaffe eine <link=card.level1><style=AssociatedCard>Tristana</style></link> in deinem Deck. <style=Variable></style>",
+    "descriptionRaw": "Kostet 2 weniger, wenn du eine Tristana hast oder in diesem Spiel Karten aus 4+ Regionen beschworen oder gewirkt hast.\r\nVerursache 3 Schaden an einer Einheit.\r\nErschaffe eine Tristana in deinem Deck. ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "In jedem Peng ist ein Bumm, das darauf wartet, geboren zu werden.",
@@ -1405,8 +1407,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC133T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC133T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC133T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC133T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -1454,8 +1456,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC073-full.png"
       }
     ],
     "region": "Bandle",
@@ -1497,8 +1499,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC039-full.png"
       }
     ],
     "region": "Bandle",
@@ -1544,8 +1546,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC148.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC148-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC148.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC148-full.png"
       }
     ],
     "region": "Bandle",
@@ -1597,8 +1599,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC093-full.png"
       }
     ],
     "region": "Bandle",
@@ -1645,8 +1647,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC093T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC093T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC093T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC093T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -1694,8 +1696,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC093T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC093T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC093T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC093T2-full.png"
       }
     ],
     "region": "Bandle",
@@ -1711,8 +1713,8 @@
     "attack": 2,
     "cost": 4,
     "health": 5,
-    "description": "Wenn ich beschworen werde und <link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=card.create><style=AssociatedCard>Finsternis</style></link> auf der Hand, wenn du keine hast. <link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gewähre deiner <link=card.create><style=AssociatedCard>Finsternis</style></link> <link=vocab.Everywhere><style=Vocab>überall</style></link> 1 zusätzlichen Schaden.\r\nDeine <link=card.create><style=AssociatedCard>Finsternis</style></link> kann ein beliebiges Ziel anvisieren.",
-    "descriptionRaw": "Wenn ich beschworen werde und Rundenbeginn: Erschaffe 1 Finsternis auf der Hand, wenn du keine hast. Rundenbeginn: Gewähre deiner Finsternis überall 1 zusätzlichen Schaden.\r\nDeine Finsternis kann ein beliebiges Ziel anvisieren.",
+    "description": "Wenn ich beschworen werde und <link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=card.create><style=AssociatedCard>Finsternis</style></link> auf der Hand, wenn du keine hast. <link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gewähre deiner <link=card.create><style=AssociatedCard>Finsternis</style></link> <link=vocab.Everywhere><style=Vocab>überall</style></link> 1 zusätzlichen Schaden.\r\nWenn du eine <link=card.create><style=AssociatedCard>Finsternis</style></link> wirkst, kann sie ein beliebiges Ziel anvisieren.",
+    "descriptionRaw": "Wenn ich beschworen werde und Rundenbeginn: Erschaffe 1 Finsternis auf der Hand, wenn du keine hast. Rundenbeginn: Gewähre deiner Finsternis überall 1 zusätzlichen Schaden.\r\nWenn du eine Finsternis wirkst, kann sie ein beliebiges Ziel anvisieren.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Aha. Muaha. Ahahaha. AHAHA. AHAHAHAHAHA! MUAHAHAHA! MUAHAHAHAHAHAHAHA!“\n– Auszug aus Kapitel 12 von „Das Einmaleins des Superschurken“ von Fürst Veigar",
@@ -1739,8 +1741,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC007-full.png"
       }
     ],
     "region": "Bandle",
@@ -1788,8 +1790,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC185.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC185-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC185.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC185-full.png"
       }
     ],
     "region": "Bandle",
@@ -1835,8 +1837,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC096.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC096-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC096-full.png"
       }
     ],
     "region": "Bandle",
@@ -1884,8 +1886,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC096T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC096T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC096T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC096T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -1933,8 +1935,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC042-full.png"
       }
     ],
     "region": "Bandle",
@@ -1978,8 +1980,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC205.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC205-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC205.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC205-full.png"
       }
     ],
     "region": "Bandle",
@@ -2025,8 +2027,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC223.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC223-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC223.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC223-full.png"
       }
     ],
     "region": "Bandle",
@@ -2040,8 +2042,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Wähle 1 von 3 Einheiten oder Zaubern aus dem gegnerischen Deck und verstecke 3 <link=card.puffcap><style=AssociatedCard>Giftige Poffpilze</style></link> auf allen Kopien davon.",
-    "descriptionRaw": "Wähle 1 von 3 Einheiten oder Zaubern aus dem gegnerischen Deck und verstecke 3 Giftige Poffpilze auf allen Kopien davon.",
+    "description": "Wähle 1 von 3 Einheiten oder Zaubern aus dem gegnerischen Deck und verstecke 3 je <link=card.puffcap><style=AssociatedCard>Giftige Poffpilze</style></link> auf allen Kopien davon.",
+    "descriptionRaw": "Wähle 1 von 3 Einheiten oder Zaubern aus dem gegnerischen Deck und verstecke 3 je Giftige Poffpilze auf allen Kopien davon.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Regel 986: Fallen sind KEIN Spielzeug … aber Spaß machen sie trotzdem!“",
@@ -2072,8 +2074,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC223T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC223T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC223T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC223T2-full.png"
       }
     ],
     "region": "Bandle",
@@ -2087,8 +2089,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Wähle 1 von 3 Zaubern aus dem gegnerischen Deck und verstecke 3 <link=card.puffcap><style=AssociatedCard>Giftige Poffpilze</style></link> auf allen Kopien davon.",
-    "descriptionRaw": "Wähle 1 von 3 Zaubern aus dem gegnerischen Deck und verstecke 3 Giftige Poffpilze auf allen Kopien davon.",
+    "description": "Wähle 1 von 3 Zaubern aus dem gegnerischen Deck und verstecke 3 je <link=card.puffcap><style=AssociatedCard>Giftige Poffpilze</style></link> auf allen Kopien davon.",
+    "descriptionRaw": "Wähle 1 von 3 Zaubern aus dem gegnerischen Deck und verstecke 3 je Giftige Poffpilze auf allen Kopien davon.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Regel 986: Fallen sind KEIN Spielzeug … aber Spaß machen sie trotzdem!“\n",
@@ -2119,8 +2121,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC223T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC223T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC223T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC223T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -2134,8 +2136,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Wähle 1 von 3 Einheiten aus dem gegnerischen Deck und verstecke 3 <link=card.puffcap><style=AssociatedCard>Giftige Poffpilze</style></link> auf allen Kopien davon.",
-    "descriptionRaw": "Wähle 1 von 3 Einheiten aus dem gegnerischen Deck und verstecke 3 Giftige Poffpilze auf allen Kopien davon.",
+    "description": "Wähle 1 von 3 Einheiten aus dem gegnerischen Deck und verstecke je 3 <link=card.puffcap><style=AssociatedCard>Giftige Poffpilze</style></link> auf allen Kopien davon.",
+    "descriptionRaw": "Wähle 1 von 3 Einheiten aus dem gegnerischen Deck und verstecke je 3 Giftige Poffpilze auf allen Kopien davon.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Regel 986: Fallen sind KEIN Spielzeug … aber Spaß machen sie trotzdem!“",
@@ -2168,8 +2170,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163-full.png"
       }
     ],
     "region": "Bandle",
@@ -2216,8 +2218,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T3-full.png"
       }
     ],
     "region": "Bandle",
@@ -2263,8 +2265,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T4-full.png"
       }
     ],
     "region": "Bandle",
@@ -2313,8 +2315,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T6-full.png"
       }
     ],
     "region": "Bandle",
@@ -2361,8 +2363,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T7-full.png"
       }
     ],
     "region": "Bandle",
@@ -2410,8 +2412,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -2457,8 +2459,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC163T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC163T5-full.png"
       }
     ],
     "region": "Bandle",
@@ -2504,8 +2506,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC151.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC151-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC151.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC151-full.png"
       }
     ],
     "region": "Bandle",
@@ -2547,8 +2549,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC027-full.png"
       }
     ],
     "region": "Bandle",
@@ -2570,8 +2572,12 @@
     "artistName": "Kudos Productions",
     "name": "Hexplosives Minenfeld",
     "cardCode": "05BC027",
-    "keywords": [],
-    "keywordRefs": [],
+    "keywords": [
+      "Wahrzeichen"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "GEWÖHNLICH",
@@ -2588,8 +2594,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC021-full.png"
       }
     ],
     "region": "Bandle",
@@ -2635,8 +2641,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC167.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC167-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC167.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC167-full.png"
       }
     ],
     "region": "Bandle",
@@ -2682,8 +2688,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC179.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC179-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC179.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC179-full.png"
       }
     ],
     "region": "Bandle",
@@ -2731,8 +2737,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC214.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC214-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC214.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC214-full.png"
       }
     ],
     "region": "Bandle",
@@ -2779,8 +2785,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC041-full.png"
       }
     ],
     "region": "Bandle",
@@ -2824,8 +2830,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC105-full.png"
       }
     ],
     "region": "Bandle",
@@ -2873,8 +2879,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC164.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC164-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC164.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC164-full.png"
       }
     ],
     "region": "Bandle",
@@ -2918,8 +2924,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC194.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC194-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC194.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC194-full.png"
       }
     ],
     "region": "Bandle",
@@ -2937,9 +2943,9 @@
     "descriptionRaw": "Rundenbeginn: Erschaffe einen Begleiter aus einer neuen Region auf der Hand. Wenn du Einheiten aus 10 Regionen beschworen hast, gewinnst du das Spiel. ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "Der Bandle-Baum erstreckt sich meilenweit in den Himmel und ist aus dem Herzen der Stadt nicht wegzudenken. Für manche Yordle sind seine dicken, knorrigen Zweige ein Hoffnungsschimmer, für andere ist der Baum ein bedrohlicher und geheimnisvoller Monolith. Doch alle sind sich einig, dass ein Blick auf den Bandle-Baum ein Blick in die Seele eines sehr alten und mächtigen Wesens ist.",
+    "flavorText": "Der Bandlebaum erstreckt sich meilenweit in den Himmel und ist aus dem Herzen der Stadt nicht wegzudenken. Für manche Yordle sind seine dicken, knorrigen Zweige ein Hoffnungsschimmer, für andere ist der Baum ein bedrohlicher und geheimnisvoller Monolith. Doch alle sind sich einig, dass ein Blick auf den Bandlebaum ein Blick in die Seele eines sehr alten und mächtigen Wesens ist.",
     "artistName": "Kudos Productions",
-    "name": "Der Bandle-Baum",
+    "name": "Der Bandlebaum",
     "cardCode": "05BC194",
     "keywords": [
       "Wahrzeichen"
@@ -2963,8 +2969,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC195.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC195-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC195.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC195-full.png"
       }
     ],
     "region": "Bandle",
@@ -3008,8 +3014,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC216.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC216-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC216.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC216-full.png"
       }
     ],
     "region": "Bandle",
@@ -3053,8 +3059,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC216T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC216T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC216T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC216T2-full.png"
       }
     ],
     "region": "Bandle",
@@ -3098,8 +3104,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC216T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC216T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC216T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC216T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -3145,8 +3151,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC212.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC212-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC212.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC212-full.png"
       }
     ],
     "region": "Bandle",
@@ -3188,8 +3194,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC212T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC212T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC212T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC212T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -3235,8 +3241,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC209.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC209-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC209.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC209-full.png"
       }
     ],
     "region": "Bandle",
@@ -3280,8 +3286,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC013-full.png"
       }
     ],
     "region": "Bandle",
@@ -3327,8 +3333,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC100.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC100-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC100.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC100-full.png"
       }
     ],
     "region": "Bandle",
@@ -3374,8 +3380,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC098-full.png"
       }
     ],
     "region": "Bandle",
@@ -3417,8 +3423,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC122.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC122-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC122.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC122-full.png"
       }
     ],
     "region": "Bandle",
@@ -3460,8 +3466,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC018-full.png"
       }
     ],
     "region": "Bandle",
@@ -3512,8 +3518,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC041T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC041T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC041T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC041T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -3564,8 +3570,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC041T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC041T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC041T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC041T3-full.png"
       }
     ],
     "region": "Bandle",
@@ -3611,8 +3617,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC132.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC132-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC132.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC132-full.png"
       }
     ],
     "region": "Bandle",
@@ -3656,8 +3662,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC198.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC198-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC198.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC198-full.png"
       }
     ],
     "region": "Bandle",
@@ -3701,8 +3707,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC160.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC160-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC160.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC160-full.png"
       }
     ],
     "region": "Bandle",
@@ -3752,8 +3758,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC005-full.png"
       }
     ],
     "region": "Bandle",
@@ -3771,7 +3777,7 @@
     "descriptionRaw": "Nexusschlag: Erschaffe 1 Streich auf der Hand.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "„Du meine Güte, ich hatte soeben den seltsamsten Traum. Gerade schlage ich mich durch die Algen und suche nach meinen Muschelhut, da höre ich eine wundervolle Melodie. Und bevor ich mich versah, sitze ich hier, den Stift in der Hand, und schreibe diese Worte. Ich erinnere mich nicht, mich für ein Nickerchen hingesetzt zu haben …“\n– Umwelttagebuch des Conchologen, Tag 22",
+    "flavorText": "„Du meine Güte, ich hatte soeben den seltsamsten Traum. Gerade schlage ich mich durch die Algen und suche nach meinem Muschelhut, da höre ich eine wundervolle Melodie. Und bevor ich mich versah, sitze ich hier, den Stift in der Hand, und schreibe diese Worte. Ich erinnere mich nicht, mich für ein Nickerchen hingesetzt zu haben …“\n– Umwelttagebuch des Conchologen, Tag 22",
     "artistName": "Kudos Productions",
     "name": "Algenschwestern",
     "cardCode": "05BC005",
@@ -3797,8 +3803,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC049-full.png"
       }
     ],
     "region": "Bandle",
@@ -3842,8 +3848,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC001-full.png"
       }
     ],
     "region": "Bandle",
@@ -3857,8 +3863,8 @@
     "attack": 0,
     "cost": 6,
     "health": 0,
-    "description": "Verwandle einen Gegner in ein <link=card.summon><style=AssociatedCard>Mini-Miniti</style></link> mit 3|3 und lasse ihn <link=vocab.Silence><style=Vocab>verstummen</style></link>.",
-    "descriptionRaw": "Verwandle einen Gegner in ein Mini-Miniti mit 3|3 und lasse ihn verstummen.",
+    "description": "Verwandle eine Einheit in ein <link=card.summon><style=AssociatedCard>Mini-Miniti</style></link> mit 3|3 und lasse sie <link=vocab.Silence><style=Vocab>verstummen</style></link>.",
+    "descriptionRaw": "Verwandle eine Einheit in ein Mini-Miniti mit 3|3 und lasse sie verstummen.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Oh-ho! Wie putzig! Wie herzallerliebst! Wie WINZIG!“<br>– Veigar",
@@ -3887,8 +3893,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC167T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC167T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC167T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC167T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -3936,8 +3942,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC026-full.png"
       }
     ],
     "region": "Bandle",
@@ -3981,8 +3987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC152.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC152-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC152.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC152-full.png"
       }
     ],
     "region": "Bandle",
@@ -3998,8 +4004,8 @@
     "attack": 3,
     "cost": 4,
     "health": 4,
-    "description": "Wenn ich beschworen werde, ziehen beide Spieler 1 Karte. Dann wirft dein Gegner seine teuerste Karte ab.",
-    "descriptionRaw": "Wenn ich beschworen werde, ziehen beide Spieler 1 Karte. Dann wirft dein Gegner seine teuerste Karte ab.",
+    "description": "Wenn ich beschworen werde, ziehen ALLE Spieler 1 Karte. Dann wirft dein Gegner seine teuerste Karte ab.",
+    "descriptionRaw": "Wenn ich beschworen werde, ziehen ALLE Spieler 1 Karte. Dann wirft dein Gegner seine teuerste Karte ab.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Schlechtester. Ausflug. Aller. Zeiten.“<br>– Elle",
@@ -4028,8 +4034,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC070-full.png"
       }
     ],
     "region": "Bandle",
@@ -4043,8 +4049,8 @@
     "attack": 4,
     "cost": 6,
     "health": 4,
-    "description": "Wenn ich beschworen werde, und <link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Verstecke 3 <link=card.puffcap><style=AssociatedCard>Giftige Poffpilze</style></link> auf zufälligen Karten im gegnerischen Deck.\r\nFallen auf gegnerischen Karten werden bei Aktivierung verdoppelt.",
-    "descriptionRaw": "Wenn ich beschworen werde, und Rundenende: Verstecke 3 Giftige Poffpilze auf zufälligen Karten im gegnerischen Deck.\r\nFallen auf gegnerischen Karten werden bei Aktivierung verdoppelt.",
+    "description": "Wenn ich beschworen werde und <link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Verstecke 3 <link=card.puffcap><style=AssociatedCard>Giftige Poffpilze</style></link> auf zufälligen Karten im gegnerischen Deck.\r\nFallen auf gegnerischen Karten werden bei Aktivierung verdoppelt.",
+    "descriptionRaw": "Wenn ich beschworen werde und Rundenende: Verstecke 3 Giftige Poffpilze auf zufälligen Karten im gegnerischen Deck.\r\nFallen auf gegnerischen Karten werden bei Aktivierung verdoppelt.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Regel 378: Ein guter Späher ist stets tapfer, stets vorbereitet und stets mutig!“",
@@ -4074,8 +4080,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC145.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC145-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC145.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC145-full.png"
       }
     ],
     "region": "Bandle",
@@ -4093,8 +4099,8 @@
     "descriptionRaw": "Ausspielen: Erschaffe 1 Winziges Pilum oder 1 Winziger Schild auf der Hand.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "„Mein Hammer gehörte auch mal einem großen Helden … ich hab Poppy ihn mal kurz halten lassen!“",
-    "artistName": "Envar Studio",
+    "flavorText": "„Mein Pilum gehörte auch mal einem großen Helden … ich hab Poppy es mal kurz halten lassen!“",
+    "artistName": "Kudos Productions",
     "name": "Yordle-Knappin",
     "cardCode": "05BC145",
     "keywords": [],
@@ -4117,8 +4123,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC140.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC140-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC140.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC140-full.png"
       }
     ],
     "region": "Bandle",
@@ -4166,8 +4172,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC129.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC129-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC129.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC129-full.png"
       }
     ],
     "region": "Bandle",
@@ -4217,8 +4223,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC004-full.png"
       }
     ],
     "region": "Bandle",
@@ -4262,8 +4268,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC073T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -4286,10 +4292,12 @@
     "name": "Behelfsbombe",
     "cardCode": "05BC073T1",
     "keywords": [
-      "Countdown"
+      "Countdown",
+      "Wahrzeichen"
     ],
     "keywordRefs": [
-      "Countdown"
+      "Countdown",
+      "LandmarkVisualOnly"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
@@ -4307,8 +4315,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC192.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC192-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC192.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC192-full.png"
       }
     ],
     "region": "Bandle",
@@ -4352,8 +4360,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC166.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC166-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC166.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC166-full.png"
       }
     ],
     "region": "Bandle",
@@ -4397,8 +4405,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC006-full.png"
       }
     ],
     "region": "Bandle",
@@ -4412,11 +4420,11 @@
     "attack": 8,
     "cost": 8,
     "health": 6,
-    "description": "Ich habe ein zufälliges Schlüsselwort für jedes verbündete Wahrzeichen, das du in diesem Spiel zerstört hast.",
-    "descriptionRaw": "Ich habe ein zufälliges Schlüsselwort für jedes verbündete Wahrzeichen, das du in diesem Spiel zerstört hast.",
+    "description": "Wenn ich beschworen werde, gewähre mir ein zufälliges Schlüsselwort für jedes verbündete Wahrzeichen, das du in diesem Spiel zerstört hast. <style=Variable></style>\r\nWenn du ein verbündetes Wahrzeichen zerstörst, gewähre mir ein zufälliges Schlüsselwort.",
+    "descriptionRaw": "Wenn ich beschworen werde, gewähre mir ein zufälliges Schlüsselwort für jedes verbündete Wahrzeichen, das du in diesem Spiel zerstört hast. \r\nWenn du ein verbündetes Wahrzeichen zerstörst, gewähre mir ein zufälliges Schlüsselwort.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "Wo Ziggs auch hinging, folgte ihm Arnie und bildete mit seiner ruhigen Art den natürlichen Gegenpol zu Ziggs chaotischer Leidenschaft. Er kümmerte sich darum, die Munition nachzuliefern, löschte Feuer und hielt Ziggs Ohren zu, wenn dieser (unausweichlich) vergaß, seinen Hörschutz zu tragen. ",
+    "flavorText": "Wo Ziggs auch hinging, folgte ihm Arnie und bildete mit seiner ruhigen Art den natürlichen Gegenpol zu Ziggs’ chaotischer Leidenschaft. Er kümmerte sich darum, die Munition nachzuliefern, löschte Feuer und hielt Ziggs’ Ohren zu, wenn dieser (unausweichlich) vergaß, seinen Hörschutz zu tragen. ",
     "artistName": "Kudos Productions",
     "name": "Das Arsenal",
     "cardCode": "05BC006",
@@ -4442,8 +4450,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC040-full.png"
       }
     ],
     "region": "Bandle",
@@ -4487,8 +4495,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC208.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC208-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC208.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC208-full.png"
       }
     ],
     "region": "Bandle",
@@ -4532,8 +4540,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC135.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC135-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC135.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC135-full.png"
       }
     ],
     "region": "Bandle",
@@ -4579,8 +4587,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC184.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC184-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC184.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC184-full.png"
       }
     ],
     "region": "Bandle",
@@ -4622,8 +4630,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC116.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC116-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC116.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC116-full.png"
       }
     ],
     "region": "Bandle",
@@ -4669,8 +4677,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC111.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC111-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC111.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC111-full.png"
       }
     ],
     "region": "Bandle",
@@ -4714,8 +4722,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC145T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC145T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC145T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC145T2-full.png"
       }
     ],
     "region": "Bandle",
@@ -4759,8 +4767,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC145T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC145T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC145T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC145T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -4804,8 +4812,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC191.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC191-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC191.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC191-full.png"
       }
     ],
     "region": "Bandle",
@@ -4849,8 +4857,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC052.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC052-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC052.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC052-full.png"
       }
     ],
     "region": "Bandle",
@@ -4864,8 +4872,8 @@
     "attack": 0,
     "cost": 10,
     "health": 0,
-    "description": "Fülle deine Hand mit zufälligen Karten. Sie haben 0 Kosten und sind <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtig</style></link>. Du kannst in dieser Runde nur 3 weitere Karten ausspielen.",
-    "descriptionRaw": "Fülle deine Hand mit zufälligen Karten. Sie haben 0 Kosten und sind flüchtig. Du kannst in dieser Runde nur 3 weitere Karten ausspielen.",
+    "description": "Fülle deine Hand mit zufälligen Karten. Sie kosten 0 und sind <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtig</style></link>. Du kannst in dieser Runde nur 3 weitere Karten ausspielen.",
+    "descriptionRaw": "Fülle deine Hand mit zufälligen Karten. Sie kosten 0 und sind flüchtig. Du kannst in dieser Runde nur 3 weitere Karten ausspielen.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Für einen Menschen ist es Schrott, aber für einen Yordle ein riesiger Haufen Ersatzteile.\n",
@@ -4896,8 +4904,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC050-full.png"
       }
     ],
     "region": "Bandle",
@@ -4937,8 +4945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC021T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC021T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC021T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC021T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -4982,8 +4990,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC021T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC021T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC021T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC021T2-full.png"
       }
     ],
     "region": "Bandle",
@@ -5029,8 +5037,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC094.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC094-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC094-full.png"
       }
     ],
     "region": "Bandle",
@@ -5076,8 +5084,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC001T1-full.png"
       }
     ],
     "region": "Bandle",
@@ -5117,8 +5125,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC146.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC146-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC146.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC146-full.png"
       }
     ],
     "region": "Bandle",
@@ -5132,8 +5140,8 @@
     "attack": 2,
     "cost": 3,
     "health": 3,
-    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: Wirf eine Karte ab, um einen Multiregion-Begleiter auf der Hand zu erschaffen.",
-    "descriptionRaw": "Ausspielen: Wirf eine Karte ab, um einen Multiregion-Begleiter auf der Hand zu erschaffen.",
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: Wirf 1 Karte ab, um einen Multiregion-Begleiter auf der Hand zu erschaffen.",
+    "descriptionRaw": "Ausspielen: Wirf 1 Karte ab, um einen Multiregion-Begleiter auf der Hand zu erschaffen.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Als Malerin kopiert man nicht einfach, was man sieht, sondern man drückt aus, WIE man die Welt sieht. Und jetzt gerade sehe ich, dass du dich wieder bewegt hast. Halt doch bitte still!“",
@@ -5164,8 +5172,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC235.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC235-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC235.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC235-full.png"
       }
     ],
     "region": "Bandle",
@@ -5207,8 +5215,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC175.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC175-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC175.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC175-full.png"
       }
     ],
     "region": "Bandle",
@@ -5224,8 +5232,8 @@
     "attack": 2,
     "cost": 2,
     "health": 1,
-    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: <link=vocab.Manifest><style=Vocab>Manifestiere</style></link> eine zufällige himmlische Karte, die 3 oder weniger kostet, eine zufällige epische Karte oder einen zufälligen Multiregion-Begleiter.",
-    "descriptionRaw": "Ausspielen: Manifestiere eine zufällige himmlische Karte, die 3 oder weniger kostet, eine zufällige epische Karte oder einen zufälligen Multiregion-Begleiter.",
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: <link=vocab.Manifest><style=Vocab>Manifestiere</style></link> eine himmlische Karte, die 3 oder weniger kostet, eine epische Karte oder einen Multiregion-Begleiter.",
+    "descriptionRaw": "Ausspielen: Manifestiere eine himmlische Karte, die 3 oder weniger kostet, eine epische Karte oder einen Multiregion-Begleiter.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Das Seltsamste war nicht, dass das Teleskop aufstand, sich streckte und langsam herumlief, sondern, dass es darauf bestand, sich warm anzuziehen und sich einen gemütlichen Schal suchen musste.",
@@ -5254,8 +5262,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC069-full.png"
       }
     ],
     "region": "Bandle",
@@ -5299,8 +5307,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC057-full.png"
       }
     ],
     "region": "Bandle",
@@ -5342,8 +5350,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC188.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BC188-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC188.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BC188-full.png"
       }
     ],
     "region": "Bandle",
@@ -5385,8 +5393,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX009-full.png"
       }
     ],
     "region": "Noxus",
@@ -5426,8 +5434,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX006-full.png"
       }
     ],
     "region": "Noxus",
@@ -5441,8 +5449,8 @@
     "attack": 3,
     "cost": 1,
     "health": 2,
-    "description": "Wirf zum Ausspielen eine Karte ab.\r\nWenn ich abgeworfen werde, beschwöre eine exakte Kopie von mir.",
-    "descriptionRaw": "Wirf zum Ausspielen eine Karte ab.\r\nWenn ich abgeworfen werde, beschwöre eine exakte Kopie von mir.",
+    "description": "Wirf zum Ausspielen 1 Karte ab.\r\nWenn ich abgeworfen werde, beschwöre eine exakte Kopie von mir.",
+    "descriptionRaw": "Wirf zum Ausspielen 1 Karte ab.\r\nWenn ich abgeworfen werde, beschwöre eine exakte Kopie von mir.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„In unserer Mitte befindet sich eine Unregelmäßigkeit. Obwohl die meisten ihre Rückkehr ins Leben verabscheuen, scheint dieses Exemplar nicht nur sein Schicksal zu verstehen, sondern sich auch über die sich daraus ergebenden Gelegenheiten zu freuen. Faszinierend.“\n– Notizen von Dr. Esslanger",
@@ -5471,8 +5479,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX017-full.png"
       }
     ],
     "region": "Noxus",
@@ -5518,8 +5526,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX005-full.png"
       }
     ],
     "region": "Noxus",
@@ -5537,7 +5545,7 @@
     "descriptionRaw": "Wenn ich abgeworfen werde, gewähre deinem stärksten Verbündeten +2|+0.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "Als die Macht von Lady Noradi wuchs, fragte sie sich, ob sich diese Macht auch in den Leichen der ältesten Grüften von Noxus manifestieren würde. In den Hüllen fand sie ein schwaches Flackern des Lebenslichts, aber in diesen matten Flammen tanzten immer noch die Schatten des Krieges.",
+    "flavorText": "Als die Macht von Fürstin Noradi wuchs, fragte sie sich, ob sich diese Macht auch in den Leichen der ältesten Grüften von Noxus manifestieren würde. In den Hüllen fand sie ein schwaches Flackern des Lebenslichts, aber in diesen matten Flammen tanzten immer noch die Schatten des Krieges.",
     "artistName": "Kudos Productions",
     "name": "Uralter Kriegstreiber",
     "cardCode": "05NX005",
@@ -5567,8 +5575,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX001-full.png"
       }
     ],
     "region": "Noxus",
@@ -5614,8 +5622,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX003-full.png"
       }
     ],
     "region": "Noxus",
@@ -5661,8 +5669,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX015-full.png"
       }
     ],
     "region": "Noxus",
@@ -5710,8 +5718,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX013-full.png"
       }
     ],
     "region": "Noxus",
@@ -5755,8 +5763,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX018-full.png"
       }
     ],
     "region": "Noxus",
@@ -5804,8 +5812,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX001T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -5855,8 +5863,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX001T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX001T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX001T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX001T3-full.png"
       }
     ],
     "region": "Noxus",
@@ -5906,8 +5914,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX001T2-full.png"
       }
     ],
     "region": "Noxus",
@@ -5921,8 +5929,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Wirf zum Ausspielen eine Karte ab. Töte den <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner.\r\nErschaffe einen <link=card.level1><style=AssociatedCard>Sion</style></link> in deinem Deck.",
-    "descriptionRaw": "Wirf zum Ausspielen eine Karte ab. Töte den schwächsten Gegner.\r\nErschaffe einen Sion in deinem Deck.",
+    "description": "Wirf zum Ausspielen 1 Karte ab. Töte den <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner.\r\nErschaffe einen <link=card.level1><style=AssociatedCard>Sion</style></link> in deinem Deck.",
+    "descriptionRaw": "Wirf zum Ausspielen 1 Karte ab. Töte den schwächsten Gegner.\r\nErschaffe einen Sion in deinem Deck.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Verbündete, Gegner … Völlig egal.“<br>– Sion",
@@ -5951,8 +5959,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX012-full.png"
       }
     ],
     "region": "Noxus",
@@ -5966,8 +5974,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Wirf zum Ausspielen eine Karte ab. Töte den <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner.",
-    "descriptionRaw": "Wirf zum Ausspielen eine Karte ab. Töte den schwächsten Gegner.",
+    "description": "Wirf zum Ausspielen 1 Karte ab. Töte den <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner.",
+    "descriptionRaw": "Wirf zum Ausspielen 1 Karte ab. Töte den schwächsten Gegner.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Verbündete, Gegner … Völlig egal.“<br>– Sion",
@@ -5998,8 +6006,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX014-full.png"
       }
     ],
     "region": "Noxus",
@@ -6045,8 +6053,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX007-full.png"
       }
     ],
     "region": "Noxus",
@@ -6092,8 +6100,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX004-full.png"
       }
     ],
     "region": "Noxus",
@@ -6107,8 +6115,8 @@
     "attack": 2,
     "cost": 2,
     "health": 2,
-    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: Wirf eine Karte ab, um eine Einheit zu ziehen.",
-    "descriptionRaw": "Ausspielen: Wirf eine Karte ab, um eine Einheit zu ziehen.",
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: Wirf 1 Karte ab, um eine Einheit zu ziehen.",
+    "descriptionRaw": "Ausspielen: Wirf 1 Karte ab, um eine Einheit zu ziehen.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Dr. Esslanger war einst ein angesehener Mediziner im Ruhestand, der sich seinen Ruf durch jahrelange harte Arbeit verdient hatte. Doch erst als eine junge Adelige zu ihm gebracht wurde, deren Blut der Verrat schwarz gefärbt hatte, begann er, Noxus wahrhaftig zu dienen.",
@@ -6133,8 +6141,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX016-full.png"
       }
     ],
     "region": "Noxus",
@@ -6152,7 +6160,7 @@
     "descriptionRaw": "Wenn du eine nicht-flüchtige Einheit abwirfst, erschaffe eine flüchtige Kopie von ihr auf der Hand.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "Lady Faris Noradi führte ihre graue Legion im Schutze der Dunkelheit aus der noxianischen Hauptstadt. Nach drei harten, blutigen Wochen näherte sich die Legion schließlich dem demacianischen Außenposten, den ihre Späher entdeckt hatten. Es war Zeit für eine Demonstration.",
+    "flavorText": "Fürstin Faris Noradi führte ihre graue Legion im Schutze der Dunkelheit aus der noxianischen Hauptstadt. Nach drei harten, blutigen Wochen näherte sich die Legion schließlich dem demacianischen Außenposten, den ihre Späher entdeckt hatten. Es war Zeit für eine Demonstration.",
     "artistName": "SIXMOREVODKA",
     "name": "Die Herrin des Blutes",
     "cardCode": "05NX016",
@@ -6174,8 +6182,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05NX002-full.png"
       }
     ],
     "region": "Noxus",
@@ -6224,8 +6232,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW005-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6276,8 +6284,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW005T2-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6326,8 +6334,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW005T1-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6376,8 +6384,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW006-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6423,8 +6431,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW006T2-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6470,8 +6478,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW006T1-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6517,8 +6525,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW002-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6562,8 +6570,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW008-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6609,8 +6617,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW011-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6624,8 +6632,8 @@
     "attack": 3,
     "cost": 5,
     "health": 3,
-    "description": "Gewähre pro zwei ausgespielten Zaubern in einer Runde anderen Verbündeten +1|+1.<style=Variable></style>",
-    "descriptionRaw": "Gewähre pro zwei ausgespielten Zaubern in einer Runde anderen Verbündeten +1|+1.",
+    "description": "Gewähre pro 2 gewirkten Zaubern in einer Runde anderen Verbündeten +1|+1.<style=Variable></style>",
+    "descriptionRaw": "Gewähre pro 2 gewirkten Zaubern in einer Runde anderen Verbündeten +1|+1.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„PAFF GUT AUF, FOLDAT. ICH HAB ÜBER DREIHUNDERT FEINDE AUFM GEWISSEN UND BIN DER BEFTE ADMIRAL IN DER MARINE. WENN ICH FAGE, DU FOLLST FWIMMEN, DANN FWIMMST DU, VERFTANDEN? OKAY DANKE!“",
@@ -6634,11 +6642,13 @@
     "cardCode": "05BW011",
     "keywords": [
       "Einstimmen",
-      "Ungreifbar"
+      "Ungreifbar",
+      "Erfüllung"
     ],
     "keywordRefs": [
       "Attune",
-      "Elusive"
+      "Elusive",
+      "Imbue"
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
@@ -6659,8 +6669,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW003-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6706,8 +6716,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW003T1-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6751,8 +6761,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW003T2-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6796,8 +6806,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW004-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6841,8 +6851,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW001-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6882,8 +6892,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW010-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6897,8 +6907,8 @@
     "attack": 3,
     "cost": 4,
     "health": 3,
-    "description": "Wenn ich beschworen werde, erschaffe 5 zufällige Zauber mit 6+ Kosten in deinem Deck und senke ihre Kosten um 3.",
-    "descriptionRaw": "Wenn ich beschworen werde, erschaffe 5 zufällige Zauber mit 6+ Kosten in deinem Deck und senke ihre Kosten um 3.",
+    "description": "Wenn ich beschworen werde, erschaffe 5 zufällige Zauber mit 6+ Kosten in deinem Deck und senke ihre Kosten auf 3.",
+    "descriptionRaw": "Wenn ich beschworen werde, erschaffe 5 zufällige Zauber mit 6+ Kosten in deinem Deck und senke ihre Kosten auf 3.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Die Heimat der Marai wird vom himmlischen Licht eines Mondsteins beschützt. Alle hundert Jahre beginnt sein Licht zu schwinden und ein neuer Gezeitenrufer wird ausgesendet, einen anderen zu finden – denn ohne ihn würde das Volk der Marai in Finsternis versinken und den Schrecken zum Opfer fallen, die in den Tiefen lauern.",
@@ -6923,8 +6933,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05BW013-full.png"
       }
     ],
     "region": "Bilgewasser",
@@ -6966,8 +6976,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ015-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -6985,7 +6995,7 @@
     "descriptionRaw": "Immer wenn dein Gegner eine Karte zieht, verstecke 1 Blitzbombenfalle in den obersten 10 Karten des gegnerischen Decks. ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "„Die Ermittlerin wurde dabei beobachtet, wie sie eine Verdächtige verfolgte und sie mit hoher Geschwindigkeit in ihre Falle trieb. Nach der Festnahme zeigte sich die Ermittlerin selbst wegen Geschwindigkeitsübertretung an und bezahlte anschließend die Strafe. Sie verkündete (auf dramatische Art), dass ‚die Gerechtigkeit keine Einbahnstraße sei.‘“\n– Auszug aus dem Bericht eines Wachmeisters",
+    "flavorText": "„Die Ermittlerin wurde dabei beobachtet, wie sie eine Verdächtige verfolgte und sie mit hoher Geschwindigkeit in ihre Falle trieb. Nach der Festnahme zeigte sich die Ermittlerin selbst wegen Geschwindigkeitsübertretung an und bezahlte anschließend die Strafe. Sie verkündete (auf dramatische Art), dass ‚die Gerechtigkeit keine Einbahnstraße sei‘.“\n– Auszug aus dem Bericht eines Wachtmeisters",
     "artistName": "SIXMOREVODKA",
     "name": "Bikerin der Gerechtigkeit",
     "cardCode": "05PZ015",
@@ -7007,8 +7017,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ012-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7048,8 +7058,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ019-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7093,8 +7103,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ017-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7140,8 +7150,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ013-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7185,8 +7195,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ020-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7200,8 +7210,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Gib einer Einheit in dieser Runde +2|+0. Falls du in dieser Runde deiner Hand 2+ Karten hinzugefügt hast, gib ihr in dieser Runde <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Ungreifbar</style></link>.",
-    "descriptionRaw": "Gib einer Einheit in dieser Runde +2|+0. Falls du in dieser Runde deiner Hand 2+ Karten hinzugefügt hast, gib ihr in dieser Runde Ungreifbar.",
+    "description": "Gib einem Verbündeten in dieser Runde +2|+0. Falls du in dieser Runde deiner Hand 2+ Karten hinzugefügt hast, gib ihm in dieser Runde <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Ungreifbar</style></link>.",
+    "descriptionRaw": "Gib einem Verbündeten in dieser Runde +2|+0. Falls du in dieser Runde deiner Hand 2+ Karten hinzugefügt hast, gib ihm in dieser Runde Ungreifbar.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Wir bewegen uns im Schutz der Rauchschleudern und umstellen den Ort …“<br>– Caitlyn",
@@ -7232,8 +7242,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ010-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7281,8 +7291,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ014-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7324,8 +7334,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ014T1-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7369,8 +7379,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ014T2-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7414,8 +7424,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ002-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7429,8 +7439,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Beide Spieler ziehen 2.",
-    "descriptionRaw": "Beide Spieler ziehen 2.",
+    "description": "ALLE Spieler ziehen 2.",
+    "descriptionRaw": "ALLE Spieler ziehen 2.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Das ist ein beliebter Fall. Gerade eben erst war ein Kerl hier, der ihn sich ebenfalls angesehen hat. Viel Spaß damit!“<br>– Archivarin der Wache",
@@ -7459,8 +7469,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ008-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7508,8 +7518,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ006-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7555,8 +7565,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ004-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7598,8 +7608,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ009-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7643,8 +7653,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ016-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7690,8 +7700,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ035-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7739,8 +7749,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ006T2-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7788,8 +7798,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05PZ006T1-full.png"
       }
     ],
     "region": "Piltover & Zhaun",
@@ -7833,8 +7843,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI014-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -7856,8 +7866,12 @@
     "artistName": "Chris Kintner",
     "name": "Archiv der Reue",
     "cardCode": "05SI014",
-    "keywords": [],
-    "keywordRefs": [],
+    "keywords": [
+      "Wahrzeichen"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPISCH",
@@ -7876,8 +7890,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI013-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -7922,8 +7936,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI009-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -7967,8 +7981,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI016-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8012,8 +8026,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI004-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8055,8 +8069,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI012-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8098,8 +8112,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI008-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8143,8 +8157,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI003-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8188,8 +8202,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI029-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8235,8 +8249,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI010-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8280,8 +8294,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI009T1-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8328,8 +8342,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI009T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI009T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI009T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI009T2-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8373,8 +8387,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI011-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8394,7 +8408,7 @@
     "levelupDescriptionRaw": "",
     "flavorText": "Was der Nebel wohl sieht, wenn er Maeve erblickt? Überschwänglichkeit, Selbstsicherheit, unbändigen Optimismus? Sein Verlangen, diese herausfordernde Flamme zum Erlöschen zu bringen, muss grenzenlos sein. Denn was könnte der Tod mehr fürchten als das Leben?",
     "artistName": "Wild Blue Studio",
-    "name": "Demacianische Wächterin",
+    "name": "Aufstrebende Wächterin",
     "cardCode": "05SI011",
     "keywords": [
       "Bedrohlich"
@@ -8418,8 +8432,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05SI015-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -8463,8 +8477,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05IO025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05IO025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05IO025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05IO025-full.png"
       }
     ],
     "region": "Ionia",
@@ -8504,8 +8518,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05MT009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_14_0/set5/de_de/img/cards/05MT009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05MT009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_17_0/set5/de_de/img/cards/05MT009-full.png"
       }
     ],
     "region": "Targon",
