@@ -1,15 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-// const appCupertinoTheme = CupertinoThemeData(
-//   scaffoldBackgroundColor: Styles.scaffoldBackgroundColor,
-//   primaryColor: CupertinoColors.white,
-// );
-
 final appMaterialTheme = ThemeData.dark().copyWith(
   scaffoldBackgroundColor: Styles.scaffoldBackgroundColor,
   primaryColor: CupertinoColors.white,
-  buttonColor: Styles.cyanColor,
 );
 
 abstract class Styles {
@@ -37,14 +31,4 @@ abstract class Styles {
     color: defaultWhite,
     fontFamily: 'Alegreya',
   );
-
-  // text fields
-  // static const EdgeInsetsGeometry textFieldPadding = const EdgeInsets.all(8.0);
-
-  // static const TextStyle textFildStyle = TextStyle(color: Styles.lightGrey);
-
-  // static BoxDecoration textFieldDecoration = BoxDecoration(
-  //   color: Styles.layerColor,
-  //   borderRadius: BorderRadius.circular(10.0),
-  // );
 }
