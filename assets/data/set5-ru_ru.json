@@ -9,8 +9,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014-full.png"
       }
     ],
     "region": "Шурима",
@@ -57,8 +57,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T3-full.png"
       }
     ],
     "region": "Шурима",
@@ -72,8 +72,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Уничтожьте свой кристалл маны или союзное место силы, чтобы нанести вражескому бойцу 4 ед. урона.\r\nСоздайте в колоде карту <link=card.level1><style=AssociatedCard>Зерат</style></link>.",
-    "descriptionRaw": "Уничтожьте свой кристалл маны или союзное место силы, чтобы нанести вражескому бойцу 4 ед. урона.\r\nСоздайте в колоде карту Зерат.",
+    "description": "Уничтожьте свой кристалл маны или союзное место силы, чтобы нанести бойцу 4 ед. урона.\r\nСоздайте в колоде карту <link=card.level1><style=AssociatedCard>Зерат</style></link>.",
+    "descriptionRaw": "Уничтожьте свой кристалл маны или союзное место силы, чтобы нанести бойцу 4 ед. урона.\r\nСоздайте в колоде карту Зерат.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Малая жертва ради великой силы.\" - Зерат",
@@ -107,8 +107,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T4-full.png"
       }
     ],
     "region": "Шурима",
@@ -122,8 +122,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Уничтожьте свой кристалл маны, чтобы нанести вражескому бойцу 4 ед. урона.",
-    "descriptionRaw": "Уничтожьте свой кристалл маны, чтобы нанести вражескому бойцу 4 ед. урона.",
+    "description": "Уничтожьте свой кристалл маны, чтобы нанести бойцу 4 ед. урона.",
+    "descriptionRaw": "Уничтожьте свой кристалл маны, чтобы нанести бойцу 4 ед. урона.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Жалкая тварь\". – Зерат",
@@ -157,8 +157,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T5-full.png"
       }
     ],
     "region": "Шурима",
@@ -172,8 +172,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Уничтожьте союзное место силы, чтобы нанести вражескому бойцу 4 ед. урона.",
-    "descriptionRaw": "Уничтожьте союзное место силы, чтобы нанести вражескому бойцу 4 ед. урона.",
+    "description": "Уничтожьте союзное место силы, чтобы нанести 4 ед. урона бойцу.",
+    "descriptionRaw": "Уничтожьте союзное место силы, чтобы нанести 4 ед. урона бойцу.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Жалкая тварь\". – Зерат",
@@ -207,8 +207,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T1-full.png"
       }
     ],
     "region": "Шурима",
@@ -255,8 +255,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH014T2-full.png"
       }
     ],
     "region": "Шурима",
@@ -298,8 +298,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH017-full.png"
       }
     ],
     "region": "Шурима",
@@ -342,8 +342,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH011-full.png"
       }
     ],
     "region": "Шурима",
@@ -387,8 +387,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH011T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH011T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH011T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH011T1-full.png"
       }
     ],
     "region": "Шурима",
@@ -434,8 +434,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH011T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH011T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH011T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH011T2-full.png"
       }
     ],
     "region": "Шурима",
@@ -481,8 +481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH003-full.png"
       }
     ],
     "region": "Шурима",
@@ -528,8 +528,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH016-full.png"
       }
     ],
     "region": "Шурима",
@@ -575,8 +575,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH018-full.png"
       }
     ],
     "region": "Шурима",
@@ -622,8 +622,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH012-full.png"
       }
     ],
     "region": "Шурима",
@@ -669,8 +669,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH012T1-full.png"
       }
     ],
     "region": "Шурима",
@@ -719,8 +719,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH020-full.png"
       }
     ],
     "region": "Шурима",
@@ -764,8 +764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH015-full.png"
       }
     ],
     "region": "Шурима",
@@ -779,8 +779,8 @@
     "attack": 5,
     "cost": 5,
     "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: вытяните карту. Если вы вытянули место силы, повторите этот эффект.",
-    "descriptionRaw": "Разыгрывая карту: вытяните карту. Если вы вытянули место силы, повторите этот эффект.",
+    "description": "Призвав меня, вытяните 1 карту. Если вы вытянули место силы, повторите этот эффект.",
+    "descriptionRaw": "Призвав меня, вытяните 1 карту. Если вы вытянули место силы, повторите этот эффект.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "До самого горизонта земля пела от переполнявшей ее энергии. Там, где другие видели лишь песок и пыль, провидица различала сияющую сеть линий силы, которую можно было черпать бесконечно.",
@@ -809,8 +809,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH004-full.png"
       }
     ],
     "region": "Шурима",
@@ -854,8 +854,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH004T2-full.png"
       }
     ],
     "region": "Шурима",
@@ -899,8 +899,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH004T1-full.png"
       }
     ],
     "region": "Шурима",
@@ -944,8 +944,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH002-full.png"
       }
     ],
     "region": "Шурима",
@@ -989,8 +989,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH007-full.png"
       }
     ],
     "region": "Шурима",
@@ -1004,8 +1004,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Уничтожьте свой кристалл маны или союзное место силы, чтобы нанести вражескому бойцу 4 ед. урона.",
-    "descriptionRaw": "Уничтожьте свой кристалл маны или союзное место силы, чтобы нанести вражескому бойцу 4 ед. урона.",
+    "description": "Уничтожьте свой кристалл маны или союзное место силы, чтобы нанести бойцу 4 ед. урона.",
+    "descriptionRaw": "Уничтожьте свой кристалл маны или союзное место силы, чтобы нанести бойцу 4 ед. урона.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Малая жертва ради великой силы.\" - Зерат",
@@ -1034,8 +1034,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH007T1-full.png"
       }
     ],
     "region": "Шурима",
@@ -1049,8 +1049,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Уничтожьте союзное место силы, чтобы нанести вражескому бойцу 4 ед. урона.",
-    "descriptionRaw": "Уничтожьте союзное место силы, чтобы нанести вражескому бойцу 4 ед. урона.",
+    "description": "Уничтожьте союзное место силы, чтобы нанести 4 ед. урона бойцу.",
+    "descriptionRaw": "Уничтожьте союзное место силы, чтобы нанести 4 ед. урона бойцу.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Жалкая тварь\". – Зерат",
@@ -1079,8 +1079,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SH007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SH007T2-full.png"
       }
     ],
     "region": "Шурима",
@@ -1094,8 +1094,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Уничтожьте свой кристалл маны, чтобы нанести вражескому бойцу 4 ед. урона.",
-    "descriptionRaw": "Уничтожьте свой кристалл маны, чтобы нанести вражескому бойцу 4 ед. урона.",
+    "description": "Уничтожьте свой кристалл маны, чтобы нанести бойцу 4 ед. урона.",
+    "descriptionRaw": "Уничтожьте свой кристалл маны, чтобы нанести бойцу 4 ед. урона.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Жалкая тварь\". – Зерат",
@@ -1126,8 +1126,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC010-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1175,8 +1175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC102-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1218,8 +1218,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC010T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1263,8 +1263,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC099-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1309,8 +1309,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC133.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC133-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC133.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC133-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1359,8 +1359,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC202.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC202-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC202.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC202-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1407,8 +1407,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC133T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC133T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC133T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC133T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1456,8 +1456,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC073-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1499,8 +1499,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC039-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1546,8 +1546,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC148.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC148-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC148.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC148-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1599,8 +1599,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC093-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1647,8 +1647,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC093T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC093T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC093T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC093T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1696,8 +1696,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC093T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC093T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC093T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC093T2-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1713,8 +1713,8 @@
     "attack": 2,
     "cost": 4,
     "health": 5,
-    "description": "Призвав меня и <link=vocab.RoundStart><style=Vocab>в начале раунда</style></link>: создайте в руке карту <link=card.create><style=AssociatedCard>Тьма</style></link>, если у вас ее нет. <link=vocab.RoundStart><style=Vocab>В начале раунда</style></link>: даруйте вашему заклинанию <link=card.create><style=AssociatedCard>Тьма</style></link> <link=vocab.Everywhere><style=Vocab>везде</style></link> 1 доп. ед. урона.\r\nВаша <link=card.create><style=AssociatedCard>Тьма</style></link> может выбирать любую цель.",
-    "descriptionRaw": "Призвав меня и в начале раунда: создайте в руке карту Тьма, если у вас ее нет. В начале раунда: даруйте вашему заклинанию Тьма везде 1 доп. ед. урона.\r\nВаша Тьма может выбирать любую цель.",
+    "description": "Призвав меня или <link=vocab.RoundStart><style=Vocab>в начале раунда</style></link>: создайте в руке карту <link=card.create><style=AssociatedCard>Тьма</style></link>, если у вас ее нет. <link=vocab.RoundStart><style=Vocab>В начале раунда</style></link>: даруйте вашему заклинанию <link=card.create><style=AssociatedCard>Тьма</style></link> <link=vocab.Everywhere><style=Vocab>везде</style></link> 1 доп. ед. урона.\r\nВаша <link=card.create><style=AssociatedCard>Тьма</style></link> может выбирать любую цель.",
+    "descriptionRaw": "Призвав меня или в начале раунда: создайте в руке карту Тьма, если у вас ее нет. В начале раунда: даруйте вашему заклинанию Тьма везде 1 доп. ед. урона.\r\nВаша Тьма может выбирать любую цель.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"А-ха! Му-ха-ха! А-ХА-ХА! МУ-ХА-ХА! МУ-ХА-ХА-ХА-ХА!!!\"\n– Лорд Вейгар, \"Как стать суперзлодеем\", глава XII",
@@ -1741,8 +1741,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC007-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1788,8 +1788,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC185.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC185-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC185.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC185-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1835,8 +1835,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC096.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC096-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC096-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1884,8 +1884,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC096T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC096T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC096T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC096T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1933,8 +1933,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC042-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -1978,8 +1978,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC205.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC205-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC205.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC205-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2025,8 +2025,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC223.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC223-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC223.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC223-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2072,8 +2072,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC223T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC223T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC223T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC223T2-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2119,8 +2119,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC223T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC223T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC223T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC223T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2168,8 +2168,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2216,8 +2216,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T3-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2231,8 +2231,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Нанесите 2 ед. урона врагу или 1 ед. урона двум врагам.\r\nСоздайте в колоде карту <link=card.level1><style=AssociatedCard>Зиггс</style></link>.",
-    "descriptionRaw": "Нанесите 2 ед. урона врагу или 1 ед. урона двум врагам.\r\nСоздайте в колоде карту Зиггс.",
+    "description": "Нанесите 2 ед. урона бойцу или 1 ед. урона двум врагам.\r\nСоздайте в колоде карту <link=card.level1><style=AssociatedCard>Зиггс</style></link>.",
+    "descriptionRaw": "Нанесите 2 ед. урона бойцу или 1 ед. урона двум врагам.\r\nСоздайте в колоде карту Зиггс.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Сейчас рванет!\" – Зиггс",
@@ -2263,8 +2263,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T4-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2313,8 +2313,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T6-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2361,8 +2361,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T7-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2376,8 +2376,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Нанесите врагу 2 ед. урона.\r\nСоздайте в колоде карту <link=card.level1><style=AssociatedCard>Зиггс</style></link>.",
-    "descriptionRaw": "Нанесите врагу 2 ед. урона.\r\nСоздайте в колоде карту Зиггс.",
+    "description": "Нанесите бойцу 2 ед. урона.\r\nСоздайте в колоде карту <link=card.level1><style=AssociatedCard>Зиггс</style></link>.",
+    "descriptionRaw": "Нанесите бойцу 2 ед. урона.\r\nСоздайте в колоде карту Зиггс.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Сейчас рванет!\" – Зиггс",
@@ -2410,8 +2410,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2457,8 +2457,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC163T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC163T5-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2504,8 +2504,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC151.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC151-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC151.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC151-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2547,8 +2547,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC027-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2592,8 +2592,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC021-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2607,8 +2607,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Нанесите 2 ед. урона врагу или 1 ед. урона двум врагам.",
-    "descriptionRaw": "Нанесите 2 ед. урона врагу или 1 ед. урона двум врагам.",
+    "description": "Нанесите 2 ед. урона бойцу или 1 ед. урона двум врагам.",
+    "descriptionRaw": "Нанесите 2 ед. урона бойцу или 1 ед. урона двум врагам.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Сейчас рванет!\" – Зиггс",
@@ -2639,8 +2639,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC167.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC167-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC167.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC167-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2686,8 +2686,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC179.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC179-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC179.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC179-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2703,8 +2703,8 @@
     "attack": 5,
     "cost": 6,
     "health": 5,
-    "description": "<link=vocab.Attack><style=Vocab>Атака:</style></link> даруйте +0|+1 мне и всем союзникам, чья сила меньше или равна моей.",
-    "descriptionRaw": "Атака: даруйте +0|+1 мне и всем союзникам, чья сила меньше или равна моей.",
+    "description": "<link=vocab.Attack><style=Vocab>Атака:</style></link> даруйте +0|+1 всем союзникам, чья сила меньше или равна моей.",
+    "descriptionRaw": "Атака: даруйте +0|+1 всем союзникам, чья сила меньше или равна моей.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Поппи! Ты безупречно реализовала нашу стратегию. Как мы ее назовем? Может быть, «Лещина в лощине»?\"\n\"Да я же просто стукнула плохого парня молотом. Давай назовем эту стратегию «Молот»?\"\n\"Так мы назвали последние три штуки!\" – Кип и Поппи",
@@ -2735,8 +2735,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC214.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC214-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC214.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC214-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2783,8 +2783,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC041-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2800,8 +2800,8 @@
     "attack": 4,
     "cost": 4,
     "health": 3,
-    "description": "<link=vocab.Attack><style=Vocab>Атака:</style></link> даруйте +1|+1 мне и всем союзникам, чья сила меньше или равна моей.",
-    "descriptionRaw": "Атака: даруйте +1|+1 мне и всем союзникам, чья сила меньше или равна моей.",
+    "description": "<link=vocab.Attack><style=Vocab>Атака:</style></link> даруйте +1|+1 всем союзникам, чья сила меньше или равна моей.",
+    "descriptionRaw": "Атака: даруйте +1|+1 всем союзникам, чья сила меньше или равна моей.",
     "levelupDescription": "Я атаковала вместе с союзниками 3 раза.<style=Variable></style>",
     "levelupDescriptionRaw": "Я атаковала вместе с союзниками 3 раза.",
     "flavorText": "Скромность часто идет рука об руку с героизмом, но многие историки согласятся, что у Поппи со скромностью вышел перебор.",
@@ -2828,8 +2828,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC105-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2877,8 +2877,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC164.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC164-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC164.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC164-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2922,8 +2922,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC194.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC194-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC194.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC194-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -2967,8 +2967,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC195.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC195-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC195.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC195-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3012,8 +3012,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC216.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC216-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC216.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC216-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3057,8 +3057,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC216T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC216T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC216T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC216T2-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3102,8 +3102,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC216T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC216T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC216T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC216T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3149,8 +3149,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC212.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC212-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC212.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC212-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3192,8 +3192,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC212T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC212T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC212T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC212T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3239,8 +3239,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC209.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC209-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC209.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC209-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3284,8 +3284,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC013-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3331,8 +3331,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC100.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC100-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC100.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC100-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3378,8 +3378,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC098-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3421,8 +3421,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC122.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC122-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC122.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC122-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3464,8 +3464,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC018-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3516,8 +3516,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC041T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC041T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC041T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC041T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3533,8 +3533,8 @@
     "attack": 5,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Attack><style=Vocab>Атака:</style></link> даруйте +2|+2 и <link=keyword.Impact><sprite name=Impact><style=Keyword>Таран</style></link> мне и всем союзникам, чья сила меньше или равна моей.",
-    "descriptionRaw": "Атака: даруйте +2|+2 и Таран мне и всем союзникам, чья сила меньше или равна моей.",
+    "description": "<link=vocab.Attack><style=Vocab>Атака:</style></link> даруйте +2|+2 и <link=keyword.Impact><sprite name=Impact><style=Keyword>Таран</style></link> всем союзникам, чья сила меньше или равна моей.",
+    "descriptionRaw": "Атака: даруйте +2|+2 и Таран всем союзникам, чья сила меньше или равна моей.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Сила развращает многих, но в случае с Поппи ее влияние оказалось бессильно перед добрым сердцем и фантастически стойкой наивностью.",
@@ -3568,8 +3568,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC041T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC041T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC041T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC041T3-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3615,8 +3615,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC132.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC132-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC132.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC132-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3660,8 +3660,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC198.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC198-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC198.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC198-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3675,8 +3675,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "Нанесите врагу 1 ед. урона. Если у вас 4+ союзника, вместо этого нанесите 2 ед. урона.",
-    "descriptionRaw": "Нанесите врагу 1 ед. урона. Если у вас 4+ союзника, вместо этого нанесите 2 ед. урона.",
+    "description": "Нанесите бойцу 1 ед. урона. Если у вас 4+ союзника, вместо этого нанесите 2 ед. урона.",
+    "descriptionRaw": "Нанесите бойцу 1 ед. урона. Если у вас 4+ союзника, вместо этого нанесите 2 ед. урона.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Так, теперь для стенгазеты. На этот раз постарайтесь улыбнуться. Раз… два…три!\" – Тристана\n",
@@ -3705,8 +3705,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC160.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC160-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC160.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC160-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3756,8 +3756,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC005-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3801,8 +3801,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC049-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3846,8 +3846,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC001-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3891,8 +3891,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC167T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC167T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC167T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC167T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3940,8 +3940,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC026-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -3985,8 +3985,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC152.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC152-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC152.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC152-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4032,8 +4032,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC070-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4047,8 +4047,8 @@
     "attack": 4,
     "cost": 6,
     "health": 4,
-    "description": "Призвав меня и <link=vocab.RoundEnd><style=Vocab>в конце раунда</style></link>: прикрепите 3 <link=card.puffcap><style=AssociatedCard>Ядовитых гриба</style></link> к случайным картам в колоде противника. \r\nПри срабатывании число ловушек на картах противника удваивается.",
-    "descriptionRaw": "Призвав меня и в конце раунда: прикрепите 3 Ядовитых гриба к случайным картам в колоде противника. \r\nПри срабатывании число ловушек на картах противника удваивается.",
+    "description": "Призвав меня или <link=vocab.RoundEnd><style=Vocab>в конце раунда</style></link>: прикрепите 3 <link=card.puffcap><style=AssociatedCard>Ядовитых гриба</style></link> к случайным картам в колоде противника. \r\nПри срабатывании число ловушек на картах противника удваивается.",
+    "descriptionRaw": "Призвав меня или в конце раунда: прикрепите 3 Ядовитых гриба к случайным картам в колоде противника. \r\nПри срабатывании число ловушек на картах противника удваивается.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Правило бандлскаута №378: скаут всегда храбр, всегда готов, всегда идет на риск!\"",
@@ -4078,8 +4078,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC145.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC145-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC145.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC145-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4121,8 +4121,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC140.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC140-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC140.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC140-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4170,8 +4170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC129.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC129-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC129.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC129-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4221,8 +4221,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC004-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4266,8 +4266,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC073T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4313,8 +4313,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC192.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC192-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC192.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC192-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4358,8 +4358,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC166.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC166-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC166.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC166-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4403,8 +4403,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC006-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4448,8 +4448,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC040-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4493,8 +4493,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC208.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC208-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC208.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC208-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4538,8 +4538,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC135.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC135-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC135.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC135-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4585,8 +4585,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC184.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC184-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC184.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC184-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4628,8 +4628,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC116.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC116-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC116.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC116-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4675,8 +4675,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC111.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC111-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC111.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC111-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4720,8 +4720,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC145T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC145T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC145T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC145T2-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4765,8 +4765,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC145T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC145T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC145T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC145T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4810,8 +4810,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC191.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC191-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC191.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC191-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4855,8 +4855,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC052.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC052-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC052.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC052-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4902,8 +4902,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC050-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4943,8 +4943,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC021T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC021T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC021T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC021T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -4958,8 +4958,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Нанесите врагу 2 ед. урона",
-    "descriptionRaw": "Нанесите врагу 2 ед. урона",
+    "description": "Нанесите бойцу 2 ед. урона.",
+    "descriptionRaw": "Нанесите бойцу 2 ед. урона.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Сейчас рванет!\" – Зиггс",
@@ -4988,8 +4988,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC021T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC021T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC021T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC021T2-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -5035,8 +5035,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC094.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC094-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC094-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -5082,8 +5082,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC001T1-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -5123,8 +5123,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC146.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC146-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC146.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC146-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -5170,8 +5170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC235.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC235-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC235.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC235-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -5213,8 +5213,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC175.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC175-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC175.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC175-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -5260,8 +5260,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC069-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -5305,8 +5305,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC057-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -5348,8 +5348,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC188.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BC188-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC188.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BC188-full.png"
       }
     ],
     "region": "Бандл Сити",
@@ -5391,8 +5391,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX009-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5432,8 +5432,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX006-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5477,8 +5477,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX017-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5524,8 +5524,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX005-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5573,8 +5573,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX001-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5620,8 +5620,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX003-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5667,8 +5667,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX015-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5716,8 +5716,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX013-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5761,8 +5761,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX018-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5810,8 +5810,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX001T1-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5861,8 +5861,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX001T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX001T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX001T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX001T3-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5912,8 +5912,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX001T2-full.png"
       }
     ],
     "region": "Ноксус",
@@ -5957,8 +5957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX012-full.png"
       }
     ],
     "region": "Ноксус",
@@ -6004,8 +6004,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX014-full.png"
       }
     ],
     "region": "Ноксус",
@@ -6051,8 +6051,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX007-full.png"
       }
     ],
     "region": "Ноксус",
@@ -6098,8 +6098,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX004-full.png"
       }
     ],
     "region": "Ноксус",
@@ -6139,8 +6139,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX016-full.png"
       }
     ],
     "region": "Ноксус",
@@ -6154,8 +6154,8 @@
     "attack": 2,
     "cost": 4,
     "health": 4,
-    "description": "Сбрасывая не<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>мимолетного</style></link> бойца, создайте в руке его <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>мимолетную</style></link> копию.",
-    "descriptionRaw": "Сбрасывая немимолетного бойца, создайте в руке его мимолетную копию.",
+    "description": "Сбрасывая из руки не <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>мимолетного</style></link> союзника, создайте в руке его <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>мимолетную</style></link> копию.",
+    "descriptionRaw": "Сбрасывая из руки не мимолетного союзника, создайте в руке его мимолетную копию.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Под покровом ночи госпожа Фарис Норади вывела из столицы свой Серый легион. Через три недели, полные крови и страданий, они подошли к небольшому демасийскому форпосту, о котором сообщали разведчики. Пришла пора испытать Легион в деле.",
@@ -6180,8 +6180,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05NX002-full.png"
       }
     ],
     "region": "Ноксус",
@@ -6230,8 +6230,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW005-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6282,8 +6282,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW005T2-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6332,8 +6332,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW005T1-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6382,8 +6382,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW006-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6429,8 +6429,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW006T2-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6476,8 +6476,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW006T1-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6523,8 +6523,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW002-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6568,8 +6568,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW008-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6615,8 +6615,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW011-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6667,8 +6667,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW003-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6714,8 +6714,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW003T1-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6759,8 +6759,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW003T2-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6804,8 +6804,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW004-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6849,8 +6849,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW001-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6890,8 +6890,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW010-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6931,8 +6931,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05BW013-full.png"
       }
     ],
     "region": "Билджвотер",
@@ -6974,8 +6974,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ015-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7015,8 +7015,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ012-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7053,11 +7053,58 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ023"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ026-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Призовите 2 <link=card.summon><style=AssociatedCard>Работяг из кузницы</style></link>.",
+    "descriptionRaw": "Призовите 2 Работяг из кузницы.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Пересменка!\" – Бригадир",
+    "artistName": "Kudos Productions",
+    "name": "Конвейер",
+    "cardCode": "05PZ026",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ019-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7101,8 +7148,563 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ023-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"В общем, я помог Джейсу и остальным довести до ума эту штуковину, когда придумал технологию силообразования! Джейс говорит, мол, подаст на патент и запишет меня в соавторы. Большие шишки ценят настоящую смекалку!\"",
+    "artistName": "Envar Studio",
+    "name": "Работяга из кузницы",
+    "cardCode": "05PZ023",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ031T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ031-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 6,
+    "cost": 7,
+    "health": 5,
+    "description": "Призвав меня, вытяните карту <link=card.champ1><style=AssociatedCard>Джейс</style></link>. <link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>Атака</style></link>: нанесите 1 ед. урона вражескому нексусу. За каждое заклинание стоимостью 6+, примененное в этой игре, увеличьте это значение на 1.",
+    "descriptionRaw": "Призвав меня, вытяните карту Джейс. Атака: нанесите 1 ед. урона вражескому нексусу. За каждое заклинание стоимостью 6+, примененное в этой игре, увеличьте это значение на 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Благородный Альбус Феррос вновь привлек внимание общественности, перебив ставки кланов Кадвальдер и Джиопара на право финансировать исследования Джейса по улучшению хекстековых врат. Как говорится, хороший день для клана Феррос – хороший день для Пилтовера. А вчерашний день для клана Феррос стал просто замечательным\".\n– Из заказной статьи в \"Вечернем Пилтовере\".",
+    "artistName": "Kudos Productions",
+    "name": "Альбус Феррос",
+    "cardCode": "05PZ031",
+    "keywords": [
+      "Быстрая атака"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ЭПИЧЕСКОЕ",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ031T1-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Нанесите 1 ед. урона вражескому нексусу.",
+    "descriptionRaw": "Нанесите 1 ед. урона вражескому нексусу.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Сначала – вложения, потом – дивиденды\". – Альбус Феррос",
+    "artistName": "Kudos Productions",
+    "name": "Дивиденды Ферроса",
+    "cardCode": "05PZ031T1",
+    "keywords": [
+      "Способность"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Способность",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ027-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Нанесите 3 ед. урона вражескому бойцу или нексусу и 3 ед. урона другому бойцу.",
+    "descriptionRaw": "Нанесите 3 ед. урона вражескому бойцу или нексусу и 3 ед. урона другому бойцу.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Стреляю!\" – Джейс",
+    "artistName": "Kudos Productions",
+    "name": "Шоковый заряд",
+    "cardCode": "05PZ027",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "РЕДКОЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022T1",
+      "05PZ022T2",
+      "05PZ022T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: даруйте мне <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Быструю атаку</style></link> или <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Выбор противника</style></link>.",
+    "descriptionRaw": "Разыгрывая карту: даруйте мне Быструю атаку или Выбор противника.",
+    "levelupDescription": "Вы применили два заклинания стоимостью 6+. <style=Variable></style> Когда мой уровень повысится, создайте в руке карту <link=card.create><style=AssociatedCard>Врата ускорения</style></link>.",
+    "levelupDescriptionRaw": "Вы применили два заклинания стоимостью 6+.  Когда мой уровень повысится, создайте в руке карту Врата ускорения.",
+    "flavorText": "\"Технология силообразования изменит мир! Верно, Роза?\"\n\"Это настоящий прорыв в науке, Джейс! А как припаяны взаимостабилизаторы! Просто дух захватывает\".\n\"Да уж. Это все Аксель придумал! Верно говорю?\"\n\"Ты меня знаешь, приятель. Не люблю хвастаться…\"",
+    "artistName": "Kudos Productions",
+    "name": "Джейс",
+    "cardCode": "05PZ022",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T8-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 5,
+    "description": "В каждом раунде, впервые применив заклинание стоимостью 6+, повторите его на тех же целях.",
+    "descriptionRaw": "В каждом раунде, впервые применив заклинание стоимостью 6+, повторите его на тех же целях.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Пушка заряжена, молот наготове. Мы войдем в историю, друзья!\"",
+    "artistName": "Kudos Productions",
+    "name": "Джейс",
+    "cardCode": "05PZ022T8",
+    "keywords": [
+      "Быстрая атака"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T1-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: даруйте мне <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Быструю атаку</style></link> или <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Выбор противника</style></link>.\r\nВ каждом раунде, впервые применив заклинание стоимостью 6+, повторите его на тех же целях.",
+    "descriptionRaw": "Разыгрывая карту: даруйте мне Быструю атаку или Выбор противника.\r\nВ каждом раунде, впервые применив заклинание стоимостью 6+, повторите его на тех же целях.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Пушка заряжена, молот наготове. Мы войдем в историю, друзья!\"",
+    "artistName": "Kudos Productions",
+    "name": "Джейс",
+    "cardCode": "05PZ022T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T2-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Нанесите 3 ед. урона вражескому бойцу или нексусу и 3 ед. урона другому бойцу. Создайте в колоде карту <link=card.level1><style=AssociatedCard>Джейс</style></link>.",
+    "descriptionRaw": "Нанесите 3 ед. урона вражескому бойцу или нексусу и 3 ед. урона другому бойцу. Создайте в колоде карту Джейс.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Стреляю!\" – Джейс",
+    "artistName": "Kudos Productions",
+    "name": "Шоковый заряд Джейса",
+    "cardCode": "05PZ022T2",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022T9",
+      "05PZ022T2",
+      "05PZ022T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T7-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "Вы применили два заклинания стоимостью 6+. <style=Variable></style> Когда мой уровень повысится, создайте в руке карту <link=card.create><style=AssociatedCard>Врата ускорения</style></link>.",
+    "levelupDescriptionRaw": "Вы применили два заклинания стоимостью 6+.  Когда мой уровень повысится, создайте в руке карту Врата ускорения.",
+    "flavorText": "\"Технология силообразования изменит мир! Верно, Роза?\"\n\"Это настоящий прорыв в науке, Джейс! А как припаяны взаимостабилизаторы! Просто дух захватывает\".\n\"Да уж. Это все Аксель придумал! Верно говорю?\"\n\"Ты меня знаешь, приятель. Не люблю хвастаться…\"",
+    "artistName": "Kudos Productions",
+    "name": "Джейс",
+    "cardCode": "05PZ022T7",
+    "keywords": [
+      "Выбор противника"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022T8",
+      "05PZ022T2",
+      "05PZ022T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T6-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "Вы применили два заклинания стоимостью 6+. <style=Variable></style> Когда мой уровень повысится, создайте в руке карту <link=card.create><style=AssociatedCard>Врата ускорения</style></link>.",
+    "levelupDescriptionRaw": "Вы применили два заклинания стоимостью 6+.  Когда мой уровень повысится, создайте в руке карту Врата ускорения.",
+    "flavorText": "\"Технология силообразования изменит мир! Верно, Роза?\"\n\"Это настоящий прорыв в науке, Джейс! А как припаяны взаимостабилизаторы! Просто дух захватывает\".\n\"Да уж. Это все Аксель придумал! Верно говорю?\"\n\"Ты меня знаешь, приятель. Не люблю хвастаться…\"",
+    "artistName": "Kudos Productions",
+    "name": "Джейс",
+    "cardCode": "05PZ022T6",
+    "keywords": [
+      "Быстрая атака"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Чемпион",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T9-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 5,
+    "description": "В каждом раунде, впервые применив заклинание стоимостью 6+, повторите его на тех же целях.",
+    "descriptionRaw": "В каждом раунде, впервые применив заклинание стоимостью 6+, повторите его на тех же целях.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Пушка заряжена, молот наготове. Мы войдем в историю, друзья!\"",
+    "artistName": "Kudos Productions",
+    "name": "Джейс",
+    "cardCode": "05PZ022T9",
+    "keywords": [
+      "Выбор противника"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Чемпион",
+    "type": "Боец",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ022T3-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "До конца раунда дайте союзникам +2|+0 и <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Быструю атаку</style></link>, либо другой случайный навык, если быстрая или <link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>Двойная атака</style></link> уже есть.",
+    "descriptionRaw": "До конца раунда дайте союзникам +2|+0 и Быструю атаку, либо другой случайный навык, если быстрая или Двойная атака уже есть.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Врата открыты\". – Джейс",
+    "artistName": "Kudos Productions",
+    "name": "Врата ускорения",
+    "cardCode": "05PZ022T3",
+    "keywords": [
+      "Медленное"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Медленное",
+    "spellSpeedRef": "Slow",
+    "rarity": "Нет",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ017-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7148,8 +7750,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ013-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7163,8 +7765,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Нанесите врагу 2 ед. урона и случайным образом прикрепите 2 <link=card.shuffle><style=AssociatedCard>Световые бомбы</style></link> среди 10 верхних карт в колоде противника.",
-    "descriptionRaw": "Нанесите врагу 2 ед. урона и случайным образом прикрепите 2 Световые бомбы среди 10 верхних карт в колоде противника.",
+    "description": "Нанесите бойцу 2 ед. урона и случайным образом прикрепите 2 <link=card.shuffle><style=AssociatedCard>Световые бомбы</style></link> среди 10 верхних карт в колоде противника.",
+    "descriptionRaw": "Нанесите бойцу 2 ед. урона и случайным образом прикрепите 2 Световые бомбы среди 10 верхних карт в колоде противника.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"А вот МОЯ визитная карточка\". – Кейтлин",
@@ -7193,8 +7795,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ020-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7235,13 +7837,54 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ024-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: <link=vocab.Manifest><style=Vocab>воплотите</style></link> заклинание стоимостью 6+ из своих регионов.",
+    "descriptionRaw": "Разыгрывая карту: воплотите заклинание стоимостью 6+ из своих регионов.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Все минусы работы на деньги Ферроса искупает знакомство с Реджи. Он один из лучших профессионалов, с которыми мне когда-либо приходилось иметь дело, да и вообще отличный парень\".\n– Из записок Джейса",
+    "artistName": "Kudos Productions",
+    "name": "Финансист Ферроса",
+    "cardCode": "05PZ024",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "05PZ008"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ010-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7289,8 +7932,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ014-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7332,8 +7975,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ014T1-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7377,8 +8020,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ014T2-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7422,8 +8065,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ002-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7467,8 +8110,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ008-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7510,14 +8153,102 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "05PZ023"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ021-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Призвав меня, призовите карту <link=card.summon><style=AssociatedCard>Работяга из кузницы</style></link>. Применяя заклинание стоимостью 6+, уничтожьте меня и восполните ману заклинаний.",
+    "descriptionRaw": "Призвав меня, призовите карту Работяга из кузницы. Применяя заклинание стоимостью 6+, уничтожьте меня и восполните ману заклинаний.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Если Пилтовер – город прогресса, то кузницы можно считать двигателями этого прогресса.",
+    "artistName": "Kudos Productions",
+    "name": "Кузница завтрашнего дня",
+    "cardCode": "05PZ021",
+    "keywords": [
+      "Место силы"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКОЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Место силы",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ025-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Strike><style=Vocab>Удар</style></link>: восполните 1 ед. маны заклинаний.",
+    "descriptionRaw": "Удар: восполните 1 ед. маны заклинаний.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Чтобы воплотить чертеж в реальность, нужны две вещи: солидное финансирование и хорошая кузня – причем я говорю не только об инструментах и оборудовании. Если бригадир неумелый, идея так и останется на бумаге\".<br>– Джейс",
+    "artistName": "Kudos Productions",
+    "name": "Бригадир",
+    "cardCode": "05PZ025",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "05PZ008",
       "05PZ006T1",
       "05PZ006T2"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ006-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7563,8 +8294,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ004-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7606,8 +8337,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ009-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7651,8 +8382,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ016-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7693,13 +8424,103 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ030-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Вытягивая меня или создавая в руке, либо <link=vocab.RoundStart><style=Vocab>в начале каждого раунда</style></link>: пока я в руке, превратите меня в случайное заклинание стоимостью 6+.",
+    "descriptionRaw": "Вытягивая меня или создавая в руке, либо в начале каждого раунда: пока я в руке, превратите меня в случайное заклинание стоимостью 6+.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"…Труднее всего было стабилизировать хекстек. Хексит и кристаллы как будто нарочно не слушались и ежедневно строили мне козни. Только методом многочисленных проб и ошибок я наконец заставил все элементы работать как нужно…\"\n– Из записок Джейса",
+    "artistName": "Kudos Productions",
+    "name": "Хекстековая аномалия",
+    "cardCode": "05PZ030",
+    "keywords": [
+      "Мгновенное"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Взрывное",
+    "spellSpeedRef": "Burst",
+    "rarity": "РЕДКОЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Заклинание",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ028-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 4,
+    "description": "Впервые применив заклинание стоимостью 6+, даруйте мне +2|+0.",
+    "descriptionRaw": "Впервые применив заклинание стоимостью 6+, даруйте мне +2|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Пилтоверцы преклоняются перед интеллектом. Но что может великий ум, лишенный средств к самовыражению? Я покажу им настоящие величие! Оно вознесется над городом и затмит солнце. Под моим именем!\" – Альбус Феррос",
+    "artistName": "Kudos Productions",
+    "name": "Небоход Ферроса",
+    "cardCode": "05PZ028",
+    "keywords": [
+      "Изворотливость"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "01PZ022"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ035-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7747,8 +8568,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ006T2-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7796,8 +8617,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ006T1-full.png"
       }
     ],
     "region": "Пилтовер и Заун",
@@ -7811,8 +8632,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Нанесите врагу 2 ед. урона и случайным образом прикрепите 2 <link=card.shuffle><style=AssociatedCard>Световые бомбы</style></link> среди 10 верхних карт в колоде противника.\r\n Создайте в своей колоде карту <link=card.level1><style=AssociatedCard>Кейтлин</style></link>.",
-    "descriptionRaw": "Нанесите врагу 2 ед. урона и случайным образом прикрепите 2 Световые бомбы среди 10 верхних карт в колоде противника.\r\n Создайте в своей колоде карту Кейтлин.",
+    "description": "Нанесите бойцу 2 ед. урона и случайным образом прикрепите 2 <link=card.shuffle><style=AssociatedCard>Световые бомбы</style></link> среди 10 верхних карт в колоде противника.\r\n Создайте в своей колоде карту <link=card.level1><style=AssociatedCard>Кейтлин</style></link>.",
+    "descriptionRaw": "Нанесите бойцу 2 ед. урона и случайным образом прикрепите 2 Световые бомбы среди 10 верхних карт в колоде противника.\r\n Создайте в своей колоде карту Кейтлин.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"А вот МОЯ визитная карточка\". – Кейтлин",
@@ -7841,8 +8662,55 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05PZ029-full.png"
+      }
+    ],
+    "region": "Пилтовер и Заун",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Пилтовер и Заун"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "Впервые применив заклинание стоимостью 6+, даруйте союзной технике <link=vocab.Everywhere><style=Vocab>везде</style></link> +1|+1.",
+    "descriptionRaw": "Впервые применив заклинание стоимостью 6+, даруйте союзной технике везде +1|+1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Изначально хекстековый погрузчик был простым механизмом, доставлявшим сырье в мастерские Пилтовера. Но он полюбился местным жителям, рабочие из кузницы Джейса прозвали его Самородком, а дворовые детишки стали украшать всем, что попадется под руку.",
+    "artistName": "Kudos Productions",
+    "name": "Хекстековый погрузчик",
+    "cardCode": "05PZ029",
+    "keywords": [
+      "Быстрая атака"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "РЕДКОЕ",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [
+      "ТЕХНИКА"
+    ],
+    "supertype": "",
+    "type": "Боец",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI014-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -7888,8 +8756,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI013-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -7934,8 +8802,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI009-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -7979,8 +8847,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI016-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -7994,8 +8862,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "Убейте врага и дайте всем врагам -2|-0 до конца раунда.",
-    "descriptionRaw": "Убейте врага и дайте всем врагам -2|-0 до конца раунда.",
+    "description": "Убейте бойца и дайте всем врагам <nobr>-2|-0</nobr> до конца раунда.",
+    "descriptionRaw": "Убейте бойца и дайте всем врагам -2|-0 до конца раунда.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Нет тени без света. Нет смерти без жизни\". – Сенна",
@@ -8024,8 +8892,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI004-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8067,8 +8935,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI012-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8110,8 +8978,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI008-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8155,8 +9023,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI003-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8200,8 +9068,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI029-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8247,8 +9115,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI010-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8262,8 +9130,8 @@
     "attack": 7,
     "cost": 8,
     "health": 6,
-    "description": "Призвав меня, создайте в руке карту <link=card.create><style=AssociatedCard>Тьма</style></link>, если у вас ее нет. Ваша следующая <link=card.create><style=AssociatedCard>Тьма</style></link> в этом раунде стоит 0 и наносит урон всем врагам.",
-    "descriptionRaw": "Призвав меня, создайте в руке карту Тьма, если у вас ее нет. Ваша следующая Тьма в этом раунде стоит 0 и наносит урон всем врагам.",
+    "description": "Призвав меня, создайте в руке карту <link=card.create><style=AssociatedCard>Тьма</style></link>, если у вас ее нет. Ваша следующая <link=card.create><style=AssociatedCard>Тьма</style></link> в этом раунде стоит 0 и получает особенность \"Я наношу урон всем вражеским целям\".",
+    "descriptionRaw": "Призвав меня, создайте в руке карту Тьма, если у вас ее нет. Ваша следующая Тьма в этом раунде стоит 0 и получает особенность \"Я наношу урон всем вражеским целям\".",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Снова приснился кошмар?\"\n\"Не очень страшный. Тебя не было рядом\".\n\"Ну ты и дурочка. А что было самым страшным?\"\n\"Тебя не было рядом\".",
@@ -8292,8 +9160,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI009T1-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8340,8 +9208,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI009T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI009T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI009T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI009T2-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8355,8 +9223,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "Убейте врага и дайте всем врагам -2|-0 до конца раунда.\r\nСоздайте в колоде карту <link=card.level1><style=AssociatedCard>Сенна</style></link>.",
-    "descriptionRaw": "Убейте врага и дайте всем врагам -2|-0 до конца раунда.\r\nСоздайте в колоде карту Сенна.",
+    "description": "Убейте бойца и дайте всем врагам <nobr>-2|-0</nobr> до конца раунда.\r\nСоздайте в колоде карту <link=card.level1><style=AssociatedCard>Сенна</style></link>.",
+    "descriptionRaw": "Убейте бойца и дайте всем врагам -2|-0 до конца раунда.\r\nСоздайте в колоде карту Сенна.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Нет тени без света. Нет смерти без жизни\". – Сенна",
@@ -8385,8 +9253,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI011-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8430,8 +9298,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05SI015-full.png"
       }
     ],
     "region": "Сумрачные острова",
@@ -8475,8 +9343,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05IO025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05IO025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05IO025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05IO025-full.png"
       }
     ],
     "region": "Иония",
@@ -8516,8 +9384,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05MT009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ru_ru/img/cards/05MT009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05MT009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/ru_ru/img/cards/05MT009-full.png"
       }
     ],
     "region": "Таргон",

@@ -9,8 +9,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014-full.png"
       }
     ],
     "region": "Shurima",
@@ -57,8 +57,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -72,8 +72,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Dost bir Yer kartını ya da bir mana taşını yok ederek bir düşman birime 4 hasar verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Xerath</style></link> oluşur.",
-    "descriptionRaw": "Dost bir Yer kartını ya da bir mana taşını yok ederek bir düşman birime 4 hasar verirsin.\r\nDestende bir Xerath oluşur.",
+    "description": "Dost bir Yer kartını ya da bir mana taşını yok ederek bir birime 4 hasar verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Xerath</style></link> oluşur.",
+    "descriptionRaw": "Dost bir Yer kartını ya da bir mana taşını yok ederek bir birime 4 hasar verirsin.\r\nDestende bir Xerath oluşur.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Büyük güce kavuşmak için küçük bir fedakârlık.''<br>- Xerath",
@@ -107,8 +107,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T4-full.png"
       }
     ],
     "region": "Shurima",
@@ -122,8 +122,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Bir mana taşını yok ederek bir düşman birime 4 hasar verirsin.",
-    "descriptionRaw": "Bir mana taşını yok ederek bir düşman birime 4 hasar verirsin.",
+    "description": "Bir mana taşını yok ederek bir birime 4 hasar verirsin.",
+    "descriptionRaw": "Bir mana taşını yok ederek bir birime 4 hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Acınası.''<br>- Xerath",
@@ -157,8 +157,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T5-full.png"
       }
     ],
     "region": "Shurima",
@@ -172,8 +172,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Dost bir Yer kartını yok ederek bir düşman birime 4 hasar verirsin.",
-    "descriptionRaw": "Dost bir Yer kartını yok ederek bir düşman birime 4 hasar verirsin.",
+    "description": "Dost bir Yer kartını yok ederek bir birime 4 hasar verirsin.",
+    "descriptionRaw": "Dost bir Yer kartını yok ederek bir birime 4 hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Acınası.''<br>- Xerath",
@@ -207,8 +207,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -255,8 +255,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH014T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -298,8 +298,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH017-full.png"
       }
     ],
     "region": "Shurima",
@@ -342,8 +342,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH011-full.png"
       }
     ],
     "region": "Shurima",
@@ -387,8 +387,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH011T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH011T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH011T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH011T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -434,8 +434,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH011T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH011T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH011T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH011T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -481,8 +481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH003-full.png"
       }
     ],
     "region": "Shurima",
@@ -528,8 +528,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH016-full.png"
       }
     ],
     "region": "Shurima",
@@ -575,8 +575,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH018-full.png"
       }
     ],
     "region": "Shurima",
@@ -622,8 +622,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH012-full.png"
       }
     ],
     "region": "Shurima",
@@ -669,8 +669,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH012T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -719,8 +719,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH020-full.png"
       }
     ],
     "region": "Shurima",
@@ -764,8 +764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH015-full.png"
       }
     ],
     "region": "Shurima",
@@ -779,8 +779,8 @@
     "attack": 5,
     "cost": 5,
     "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: 1 kart çekersin. Çektiğin kart Yer kartıysa bu etkiyi tekrarlarsın.",
-    "descriptionRaw": "Oyna: 1 kart çekersin. Çektiğin kart Yer kartıysa bu etkiyi tekrarlarsın.",
+    "description": "Çağrıldığımda 1 kart çekersin. Çektiğin kart Yer kartıysa bu etkiyi tekrarlarsın.",
+    "descriptionRaw": "Çağrıldığımda 1 kart çekersin. Çektiğin kart Yer kartıysa bu etkiyi tekrarlarsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Gözleri önünde uzanan ufuk enerjiyle şakıyordu âdeta. Herkesin kum ve çamur gördüğü yerlerde o, istediği gibi kullanabileceği sihir hatlarının oluşturduğu göz kamaştırıcı ağları görüyordu.",
@@ -809,8 +809,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH004-full.png"
       }
     ],
     "region": "Shurima",
@@ -854,8 +854,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH004T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -899,8 +899,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH004T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -944,8 +944,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH002-full.png"
       }
     ],
     "region": "Shurima",
@@ -989,8 +989,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH007-full.png"
       }
     ],
     "region": "Shurima",
@@ -1004,8 +1004,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Dost bir Yer kartını ya da bir mana taşını yok ederek bir düşman birime 4 hasar verirsin.",
-    "descriptionRaw": "Dost bir Yer kartını ya da bir mana taşını yok ederek bir düşman birime 4 hasar verirsin.",
+    "description": "Dost bir Yer kartını ya da bir mana taşını yok ederek bir birime 4 hasar verirsin.",
+    "descriptionRaw": "Dost bir Yer kartını ya da bir mana taşını yok ederek bir birime 4 hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Büyük güce kavuşmak için küçük bir fedakârlık.''<br>- Xerath",
@@ -1034,8 +1034,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH007T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -1049,8 +1049,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Dost bir Yer kartını yok ederek bir düşman birime 4 hasar verirsin.",
-    "descriptionRaw": "Dost bir Yer kartını yok ederek bir düşman birime 4 hasar verirsin.",
+    "description": "Dost bir Yer kartını yok ederek bir birime 4 hasar verirsin.",
+    "descriptionRaw": "Dost bir Yer kartını yok ederek bir birime 4 hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Acınası.''<br>- Xerath",
@@ -1079,8 +1079,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SH007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SH007T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -1094,8 +1094,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Bir mana taşını yok ederek bir düşman birime 4 hasar verirsin.",
-    "descriptionRaw": "Bir mana taşını yok ederek bir düşman birime 4 hasar verirsin.",
+    "description": "Bir mana taşını yok ederek bir birime 4 hasar verirsin.",
+    "descriptionRaw": "Bir mana taşını yok ederek bir birime 4 hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Acınası.''<br>- Xerath",
@@ -1126,8 +1126,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC010-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1175,8 +1175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC102-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1218,8 +1218,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC010T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1263,8 +1263,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC099-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1309,8 +1309,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC133.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC133-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC133.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC133-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1359,8 +1359,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC202.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC202-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC202.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC202-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1407,8 +1407,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC133T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC133T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC133T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC133T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1456,8 +1456,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC073-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1499,8 +1499,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC039-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1546,8 +1546,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC148.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC148-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC148.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC148-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1599,8 +1599,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC093-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1647,8 +1647,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC093T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC093T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC093T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC093T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1696,8 +1696,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC093T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC093T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC093T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC093T2-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1713,8 +1713,8 @@
     "attack": 2,
     "cost": 4,
     "health": 5,
-    "description": "Çağrıldığımda ve <link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Elinde yoksa bir <link=card.create><style=AssociatedCard>Karanlık</style></link> oluşur. <link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: <link=vocab.Everywhere><style=Vocab>Her yerdeki</style></link> <link=card.create><style=AssociatedCard>Karanlık</style></link> kartların fazladan 1 hasar kazanır.\r\n<link=card.create><style=AssociatedCard>Karanlık</style></link> kullanıldığında, herhangi bir şeyi hedef alabilir.",
-    "descriptionRaw": "Çağrıldığımda ve Tur Başı: Elinde yoksa bir Karanlık oluşur. Tur Başı: Her yerdeki Karanlık kartların fazladan 1 hasar kazanır.\r\nKaranlık kullanıldığında, herhangi bir şeyi hedef alabilir.",
+    "description": "Çağrıldığımda ya da <link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Elinde yoksa bir <link=card.create><style=AssociatedCard>Karanlık</style></link> oluşur. <link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: <link=vocab.Everywhere><style=Vocab>Her yerdeki</style></link> <link=card.create><style=AssociatedCard>Karanlık</style></link> kartların fazladan 1 hasar kazanır.\r\n<link=card.create><style=AssociatedCard>Karanlık</style></link> kullanıldığında, herhangi bir şeyi hedef alabilir.",
+    "descriptionRaw": "Çağrıldığımda ya da Tur Başı: Elinde yoksa bir Karanlık oluşur. Tur Başı: Her yerdeki Karanlık kartların fazladan 1 hasar kazanır.\r\nKaranlık kullanıldığında, herhangi bir şeyi hedef alabilir.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Aha. Muaha. Ahahaha. AHAHA. AHAHAHAHAHA! MUAHAHAHA! MUAHAHAHAHAHAHAHA!''\n- Lord Veigar'ın ''Nasıl Süperkötü Olunur'' kitabının 12. bölümünden alıntı",
@@ -1741,8 +1741,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC007-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1788,8 +1788,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC185.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC185-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC185.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC185-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1835,8 +1835,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC096.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC096-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC096-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1884,8 +1884,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC096T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC096T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC096T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC096T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1933,8 +1933,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC042-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -1978,8 +1978,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC205.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC205-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC205.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC205-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2025,8 +2025,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC223.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC223-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC223.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC223-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2072,8 +2072,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC223T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC223T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC223T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC223T2-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2119,8 +2119,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC223T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC223T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC223T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC223T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2168,8 +2168,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2216,8 +2216,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T3-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2231,8 +2231,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Bir düşmana 2 hasar ya da iki düşmana 1 hasar verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Ziggs</style></link> oluşur.",
-    "descriptionRaw": "Bir düşmana 2 hasar ya da iki düşmana 1 hasar verirsin.\r\nDestende bir Ziggs oluşur.",
+    "description": "Bir birime 2 hasar ya da iki düşmana 1 hasar verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Ziggs</style></link> oluşur.",
+    "descriptionRaw": "Bir birime 2 hasar ya da iki düşmana 1 hasar verirsin.\r\nDestende bir Ziggs oluşur.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Bomba geliyor!''<br>- Ziggs",
@@ -2263,8 +2263,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T4-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2313,8 +2313,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T6-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2361,8 +2361,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T7-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2376,8 +2376,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Bir düşmana 2 hasar verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Ziggs</style></link> oluşur.",
-    "descriptionRaw": "Bir düşmana 2 hasar verirsin.\r\nDestende bir Ziggs oluşur.",
+    "description": "Bir birime 2 hasar verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Ziggs</style></link> oluşur.",
+    "descriptionRaw": "Bir birime 2 hasar verirsin.\r\nDestende bir Ziggs oluşur.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Bomba geliyor!''<br>- Ziggs",
@@ -2410,8 +2410,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2457,8 +2457,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC163T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC163T5-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2504,8 +2504,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC151.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC151-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC151.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC151-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2547,8 +2547,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC027-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2592,8 +2592,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC021-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2607,8 +2607,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Bir düşmana 2 hasar ya da iki düşmana 1 hasar verirsin.",
-    "descriptionRaw": "Bir düşmana 2 hasar ya da iki düşmana 1 hasar verirsin.",
+    "description": "Bir birime 2 hasar ya da iki düşmana 1 hasar verirsin.",
+    "descriptionRaw": "Bir birime 2 hasar ya da iki düşmana 1 hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Bomba geliyor!''<br>- Ziggs",
@@ -2639,8 +2639,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC167.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC167-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC167.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC167-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2686,8 +2686,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC179.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC179-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC179.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC179-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2703,8 +2703,8 @@
     "attack": 5,
     "cost": 6,
     "health": 5,
-    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Bana ve Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +0|+1 kazandırırsın.",
-    "descriptionRaw": "Saldır: Bana ve Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +0|+1 kazandırırsın.",
+    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +0|+1 kazandırırsın.",
+    "descriptionRaw": "Saldır: Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +0|+1 kazandırırsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Poppy! Yeni taktiğimizi çok iyi eyleme döktün. Sence adını 'Fıstıklı Yaprak Fırtınası' koyalım mı?''\n''Eee, ben, şey, kötü adama sadece çekicimle vurdum. Adını sadece 'Çekiç' koysak olmuyor mu?''\n''Son üç tanesinin de adını Çekiç koyduk ama!''<br>- Kip ve Poppy",
@@ -2735,8 +2735,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC214.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC214-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC214.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC214-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2783,8 +2783,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC041-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2800,8 +2800,8 @@
     "attack": 4,
     "cost": 4,
     "health": 3,
-    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Bana ve Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +1|+1 kazandırırsın.",
-    "descriptionRaw": "Saldır: Bana ve Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +1|+1 kazandırırsın.",
+    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +1|+1 kazandırırsın.",
+    "descriptionRaw": "Saldır: Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +1|+1 kazandırırsın.",
     "levelupDescription": "Dost birimlerle birlikte 3 kere saldırdığımda.<style=Variable></style>",
     "levelupDescriptionRaw": "Dost birimlerle birlikte 3 kere saldırdığımda.",
     "flavorText": "Alçakgönüllülük kahramanlık belirtisidir ama pek çok tarihçi Poppy'nin artık biraz abarttığı konusunda hemfikir.",
@@ -2828,8 +2828,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC105-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2877,8 +2877,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC164.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC164-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC164.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC164-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2922,8 +2922,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC194.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC194-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC194.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC194-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -2967,8 +2967,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC195.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC195-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC195.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC195-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3012,8 +3012,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC216.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC216-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC216.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC216-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3057,8 +3057,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC216T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC216T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC216T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC216T2-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3102,8 +3102,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC216T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC216T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC216T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC216T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3149,8 +3149,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC212.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC212-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC212.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC212-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3192,8 +3192,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC212T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC212T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC212T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC212T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3239,8 +3239,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC209.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC209-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC209.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC209-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3284,8 +3284,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC013-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3331,8 +3331,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC100.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC100-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC100.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC100-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3378,8 +3378,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC098-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3421,8 +3421,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC122.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC122-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC122.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC122-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3464,8 +3464,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC018-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3516,8 +3516,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC041T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC041T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC041T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC041T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3533,8 +3533,8 @@
     "attack": 5,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Bana ve Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +2|+2 ve <link=keyword.Impact><sprite name=Impact><style=Keyword>Ağır Darbe</style></link> kazandırırsın.",
-    "descriptionRaw": "Saldır: Bana ve Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +2|+2 ve Ağır Darbe kazandırırsın.",
+    "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +2|+2 ve <link=keyword.Impact><sprite name=Impact><style=Keyword>Ağır Darbe</style></link> kazandırırsın.",
+    "descriptionRaw": "Saldır: Güç değeri benimkiyle eşit ya da benimkinden daha az olan tüm dost birimlere +2|+2 ve Ağır Darbe kazandırırsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Gücün ahlak bozduğu herkesin malumu. Ama Poppy, iyi yürekli ve dünyadan haberi olmaması resmen için inatla direnen kişilerin bu etkiye karşı koyabileceğinin canlı kanıtı.",
@@ -3568,8 +3568,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC041T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC041T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC041T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC041T3-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3615,8 +3615,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC132.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC132-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC132.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC132-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3660,8 +3660,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC198.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC198-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC198.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC198-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3675,8 +3675,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "Bir düşmana 1 hasar verirsin. 4+ dost birimin varsa, bunun yerine 2 hasar verirsin.",
-    "descriptionRaw": "Bir düşmana 1 hasar verirsin. 4+ dost birimin varsa, bunun yerine 2 hasar verirsin.",
+    "description": "Bir birime 1 hasar verirsin. 4+ dost birimin varsa, bunun yerine 2 hasar verirsin.",
+    "descriptionRaw": "Bir birime 1 hasar verirsin. 4+ dost birimin varsa, bunun yerine 2 hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Bunu aylık bültene koyacağız. Bu sefer gülümseyin ha! Biir... ikiii... üç!''\n- Tristana",
@@ -3705,8 +3705,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC160.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC160-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC160.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC160-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3756,8 +3756,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC005-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3801,8 +3801,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC049-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3846,8 +3846,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC001-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3891,8 +3891,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC167T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC167T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC167T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC167T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3940,8 +3940,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC026-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -3985,8 +3985,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC152.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC152-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC152.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC152-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4032,8 +4032,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC070-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4047,8 +4047,8 @@
     "attack": 4,
     "cost": 6,
     "health": 4,
-    "description": "Çağrıldığımda ve <link=vocab.RoundEnd><style=Vocab>Tur Sonu</style></link>: Rakibin destesindeki rasgele kartlara 3 adet <link=card.puffcap><style=AssociatedCard>Zehirli Pofkep Mantarı</style></link> koyarsın. \r\nEtkinleştirildiğinde, rakibin kartlarındaki tuzaklar iki katına çıkar.",
-    "descriptionRaw": "Çağrıldığımda ve Tur Sonu: Rakibin destesindeki rasgele kartlara 3 adet Zehirli Pofkep Mantarı koyarsın. \r\nEtkinleştirildiğinde, rakibin kartlarındaki tuzaklar iki katına çıkar.",
+    "description": "Çağrıldığımda ya da <link=vocab.RoundEnd><style=Vocab>Tur Sonu</style></link>: Rakibin destesindeki rasgele kartlara 3 adet <link=card.puffcap><style=AssociatedCard>Zehirli Pofkep Mantarı</style></link> koyarsın. \r\nEtkinleştirildiğinde, rakibin kartlarındaki tuzaklar iki katına çıkar.",
+    "descriptionRaw": "Çağrıldığımda ya da Tur Sonu: Rakibin destesindeki rasgele kartlara 3 adet Zehirli Pofkep Mantarı koyarsın. \r\nEtkinleştirildiğinde, rakibin kartlarındaki tuzaklar iki katına çıkar.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''378. kural: İyi bir izci hep cesurdur, hep hazırlıklıdır ve hep gözüpektir!''",
@@ -4078,8 +4078,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC145.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC145-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC145.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC145-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4121,8 +4121,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC140.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC140-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC140.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC140-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4170,8 +4170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC129.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC129-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC129.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC129-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4221,8 +4221,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC004-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4266,8 +4266,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC073T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4313,8 +4313,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC192.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC192-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC192.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC192-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4358,8 +4358,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC166.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC166-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC166.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC166-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4403,8 +4403,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC006-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4448,8 +4448,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC040-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4493,8 +4493,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC208.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC208-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC208.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC208-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4538,8 +4538,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC135.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC135-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC135.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC135-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4585,8 +4585,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC184.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC184-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC184.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC184-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4628,8 +4628,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC116.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC116-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC116.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC116-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4675,8 +4675,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC111.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC111-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC111.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC111-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4720,8 +4720,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC145T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC145T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC145T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC145T2-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4765,8 +4765,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC145T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC145T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC145T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC145T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4810,8 +4810,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC191.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC191-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC191.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC191-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4855,8 +4855,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC052.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC052-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC052.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC052-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4902,8 +4902,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC050-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4943,8 +4943,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC021T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC021T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC021T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC021T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -4958,8 +4958,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Bir düşmana 2 hasar verirsin.",
-    "descriptionRaw": "Bir düşmana 2 hasar verirsin.",
+    "description": "Bir birime 2 hasar verirsin.",
+    "descriptionRaw": "Bir birime 2 hasar verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Bomba geliyor!''<br>- Ziggs",
@@ -4988,8 +4988,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC021T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC021T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC021T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC021T2-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -5035,8 +5035,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC094.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC094-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC094-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -5082,8 +5082,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC001T1-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -5123,8 +5123,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC146.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC146-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC146.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC146-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -5170,8 +5170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC235.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC235-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC235.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC235-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -5213,8 +5213,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC175.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC175-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC175.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC175-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -5260,8 +5260,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC069-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -5305,8 +5305,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC057-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -5348,8 +5348,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC188.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BC188-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC188.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BC188-full.png"
       }
     ],
     "region": "Bandle Şehri",
@@ -5391,8 +5391,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX009-full.png"
       }
     ],
     "region": "Noxus",
@@ -5432,8 +5432,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX006-full.png"
       }
     ],
     "region": "Noxus",
@@ -5477,8 +5477,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX017-full.png"
       }
     ],
     "region": "Noxus",
@@ -5524,8 +5524,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX005-full.png"
       }
     ],
     "region": "Noxus",
@@ -5573,8 +5573,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX001-full.png"
       }
     ],
     "region": "Noxus",
@@ -5620,8 +5620,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX003-full.png"
       }
     ],
     "region": "Noxus",
@@ -5667,8 +5667,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX015-full.png"
       }
     ],
     "region": "Noxus",
@@ -5716,8 +5716,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX013-full.png"
       }
     ],
     "region": "Noxus",
@@ -5761,8 +5761,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX018-full.png"
       }
     ],
     "region": "Noxus",
@@ -5810,8 +5810,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX001T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -5861,8 +5861,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX001T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX001T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX001T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX001T3-full.png"
       }
     ],
     "region": "Noxus",
@@ -5912,8 +5912,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX001T2-full.png"
       }
     ],
     "region": "Noxus",
@@ -5957,8 +5957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX012-full.png"
       }
     ],
     "region": "Noxus",
@@ -6004,8 +6004,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX014-full.png"
       }
     ],
     "region": "Noxus",
@@ -6051,8 +6051,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX007-full.png"
       }
     ],
     "region": "Noxus",
@@ -6098,8 +6098,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX004-full.png"
       }
     ],
     "region": "Noxus",
@@ -6139,8 +6139,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX016-full.png"
       }
     ],
     "region": "Noxus",
@@ -6180,8 +6180,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05NX002-full.png"
       }
     ],
     "region": "Noxus",
@@ -6230,8 +6230,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW005-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6282,8 +6282,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW005T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6332,8 +6332,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW005T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6382,8 +6382,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW006-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6429,8 +6429,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW006T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6476,8 +6476,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW006T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6523,8 +6523,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW002-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6568,8 +6568,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW008-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6615,8 +6615,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW011-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6667,8 +6667,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW003-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6714,8 +6714,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW003T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6759,8 +6759,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW003T2-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6804,8 +6804,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW004-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6849,8 +6849,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW001-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6890,8 +6890,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW010-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6931,8 +6931,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05BW013-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6974,8 +6974,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ015-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7015,8 +7015,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ012-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7053,11 +7053,58 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ023"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ026-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "2 <link=card.summon><style=AssociatedCard>Dökümhane İşçisi</style></link> çağırırsın.",
+    "descriptionRaw": "2 Dökümhane İşçisi çağırırsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Vardiya değişimi!''<br>- Dökümhane Ustabaşısı",
+    "artistName": "Kudos Productions",
+    "name": "Montaj Hattı",
+    "cardCode": "05PZ026",
+    "keywords": [
+      "Yavaş"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Yavaş",
+    "spellSpeedRef": "Slow",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ019-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7101,8 +7148,563 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ023-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Neyse işte bizim Jayce'len onun yancılarına neyin yardım ediyorum. Yeni bi'şey yapıyorlar. Güçformasyon teknolocisi diyoz. Yalan yok, Jayce dedi ki belgeleme işleri bitince beni de mucitlerinden biri diye yazacakmış. Büyükbaşlar asıl beynin kimde olduğunu biliyor haa.''",
+    "artistName": "Envar Studio",
+    "name": "Dökümhane İşçisi",
+    "cardCode": "05PZ023",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ031T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ031-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 6,
+    "cost": 7,
+    "health": 5,
+    "description": "Çağrıldığımda bir <link=card.champ1><style=AssociatedCard>Jayce</style></link> çekersin. <link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>Saldır</style></link>: Rakibin Nexus'una 1 hasar verirsin. Bu oyunda yaptığın 6+ bedelli her büyü vereceğin hasarı 1 arttırır.",
+    "descriptionRaw": "Çağrıldığımda bir Jayce çekersin. Saldır: Rakibin Nexus'una 1 hasar verirsin. Bu oyunda yaptığın 6+ bedelli her büyü vereceğin hasarı 1 arttırır.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Yüce gönüllü Albus Ferros, Jayce'in Hexgeçidi araştırmalarına sponsorluk için yapılan açık arttırmada verdiği fiyatla Cadwalder ve Giopara hanelerini açık ara geçerek gözleri bir kere daha üstüne topladı. Malum, 'Ferros Hanesi gülerse tüm Piltover güler,' derler ve dün Ferros Hanesi'nin yüzünde güller açtı.''\n- Günlük Piltover gazetesinde yayınlanan sponsorlu tam sayfa ilandan",
+    "artistName": "Kudos Productions",
+    "name": "Albus Ferros",
+    "cardCode": "05PZ031",
+    "keywords": [
+      "İlk Saldırı"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "DESTANSI",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ031T1-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Rakibin Nexus'una 1 hasar verirsin.",
+    "descriptionRaw": "Rakibin Nexus'una 1 hasar verirsin.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Önce yatırım, sonra kâr payı.''<br>- Albus Ferros",
+    "artistName": "Kudos Productions",
+    "name": "Ferrosların Kâr Payı",
+    "cardCode": "05PZ031T1",
+    "keywords": [
+      "Yetenek"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Yetenek",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ027-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Bir düşman birime ya da rakibin Nexus'una 3 hasar ve bir diğerine 3 hasar verirsin.",
+    "descriptionRaw": "Bir düşman birime ya da rakibin Nexus'una 3 hasar ve bir diğerine 3 hasar verirsin.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Ateş!''<br>- Jayce",
+    "artistName": "Kudos Productions",
+    "name": "Şok Patlaması",
+    "cardCode": "05PZ027",
+    "keywords": [
+      "Yavaş"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Yavaş",
+    "spellSpeedRef": "Slow",
+    "rarity": "ENDER",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022T1",
+      "05PZ022T2",
+      "05PZ022T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bana <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>İlk Saldırı</style></link> ya da <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link> kazandırırsın.",
+    "descriptionRaw": "Oyna: Bana İlk Saldırı ya da Rakipçeker kazandırırsın.",
+    "levelupDescription": "6+ manalık 2 büyü yaptığında<style=Variable></style>. Seviye atladığımda elinde bir <link=card.create><style=AssociatedCard>Hızlandırma Geçidi</style></link> oluşur.",
+    "levelupDescriptionRaw": "6+ manalık 2 büyü yaptığında. Seviye atladığımda elinde bir Hızlandırma Geçidi oluşur.",
+    "flavorText": "''Bildiğin üzere bu güçformasyon teknolojisi dünyayı değiştirmeyi vaat ediyor Rosa'cığım.''\n''Gerçekten de çığır açan bir çalışma Jayce. Hele o koinhiberatörlerin iç içe geçmesi soluk kesici.''\n''Öyle, öyle! Üstelik hepsi Axel'ın fikri. Çok akıllı adamsın.''\n''Beni bilirsin dostum, övünmeyi sevmem...''",
+    "artistName": "Kudos Productions",
+    "name": "Jayce",
+    "cardCode": "05PZ022",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Şampiyon",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T8-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 5,
+    "description": "Her tur ilk defa bedeli 6+ olan bir büyü yaptığında onu aynı hedeflere tekrar yaparsın.",
+    "descriptionRaw": "Her tur ilk defa bedeli 6+ olan bir büyü yaptığında onu aynı hedeflere tekrar yaparsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Top hazır, çekiç devrede. Bu kapışma tarih kitaplarına geçecek arkadaşlar.''",
+    "artistName": "Kudos Productions",
+    "name": "Jayce",
+    "cardCode": "05PZ022T8",
+    "keywords": [
+      "İlk Saldırı"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T1-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bana <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>İlk Saldırı</style></link> ya da <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link> kazandırırsın.\r\nHer tur ilk defa bedeli 6+ olan bir büyü yaptığında onu aynı hedeflere tekrar yaparsın.",
+    "descriptionRaw": "Oyna: Bana İlk Saldırı ya da Rakipçeker kazandırırsın.\r\nHer tur ilk defa bedeli 6+ olan bir büyü yaptığında onu aynı hedeflere tekrar yaparsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Top hazır, çekiç devrede. Bu kapışma tarih kitaplarına geçecek arkadaşlar.''",
+    "artistName": "Kudos Productions",
+    "name": "Jayce",
+    "cardCode": "05PZ022T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T2-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Bir düşman birime ya da rakibin Nexus'una 3 hasar ve bir diğerine 3 hasar verirsin. Destende bir <link=card.level1><style=AssociatedCard>Jayce</style></link> oluşur.",
+    "descriptionRaw": "Bir düşman birime ya da rakibin Nexus'una 3 hasar ve bir diğerine 3 hasar verirsin. Destende bir Jayce oluşur.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Ateş!''<br>- Jayce",
+    "artistName": "Kudos Productions",
+    "name": "Jayce'in Şok Patlaması",
+    "cardCode": "05PZ022T2",
+    "keywords": [
+      "Yavaş"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Yavaş",
+    "spellSpeedRef": "Slow",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022T9",
+      "05PZ022T2",
+      "05PZ022T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T7-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "6+ manalık 2 büyü yaptığında<style=Variable></style>. Seviye atladığımda elinde bir <link=card.create><style=AssociatedCard>Hızlandırma Geçidi</style></link> oluşur.",
+    "levelupDescriptionRaw": "6+ manalık 2 büyü yaptığında. Seviye atladığımda elinde bir Hızlandırma Geçidi oluşur.",
+    "flavorText": "''Bildiğin üzere bu güçformasyon teknolojisi dünyayı değiştirmeyi vaat ediyor Rosa'cığım.''\n''Gerçekten de çığır açan bir çalışma Jayce. Hele o koinhiberatörlerin iç içe geçmesi soluk kesici.''\n''Öyle, öyle! Üstelik hepsi Axel'ın fikri. Çok akıllı adamsın.''\n''Beni bilirsin dostum, övünmeyi sevmem...''",
+    "artistName": "Kudos Productions",
+    "name": "Jayce",
+    "cardCode": "05PZ022T7",
+    "keywords": [
+      "Rakipçeker"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Şampiyon",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022T8",
+      "05PZ022T2",
+      "05PZ022T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T6-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "6+ manalık 2 büyü yaptığında<style=Variable></style>. Seviye atladığımda elinde bir <link=card.create><style=AssociatedCard>Hızlandırma Geçidi</style></link> oluşur.",
+    "levelupDescriptionRaw": "6+ manalık 2 büyü yaptığında. Seviye atladığımda elinde bir Hızlandırma Geçidi oluşur.",
+    "flavorText": "''Bildiğin üzere bu güçformasyon teknolojisi dünyayı değiştirmeyi vaat ediyor Rosa'cığım.''\n''Gerçekten de çığır açan bir çalışma Jayce. Hele o koinhiberatörlerin iç içe geçmesi soluk kesici.''\n''Öyle, öyle! Üstelik hepsi Axel'ın fikri. Çok akıllı adamsın.''\n''Beni bilirsin dostum, övünmeyi sevmem...''",
+    "artistName": "Kudos Productions",
+    "name": "Jayce",
+    "cardCode": "05PZ022T6",
+    "keywords": [
+      "İlk Saldırı"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Şampiyon",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T9-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 5,
+    "description": "Her tur ilk defa bedeli 6+ olan bir büyü yaptığında onu aynı hedeflere tekrar yaparsın.",
+    "descriptionRaw": "Her tur ilk defa bedeli 6+ olan bir büyü yaptığında onu aynı hedeflere tekrar yaparsın.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Top hazır, çekiç devrede. Bu kapışma tarih kitaplarına geçecek arkadaşlar.''",
+    "artistName": "Kudos Productions",
+    "name": "Jayce",
+    "cardCode": "05PZ022T9",
+    "keywords": [
+      "Rakipçeker"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Şampiyon",
+    "type": "Birim",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ022T3-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Dost birimlere bu tur +2|+0 ve <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>İlk Saldırı</style></link> verirsin. Zaten bu bonusa veya <link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>Çifte Saldırı</style></link>'ya sahiplerse, rasgele bir tesir verirsin.",
+    "descriptionRaw": "Dost birimlere bu tur +2|+0 ve İlk Saldırı verirsin. Zaten bu bonusa veya Çifte Saldırı'ya sahiplerse, rasgele bir tesir verirsin.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Geçit hazır.''<br>-Jayce",
+    "artistName": "Kudos Productions",
+    "name": "Hızlandırma Geçidi",
+    "cardCode": "05PZ022T3",
+    "keywords": [
+      "Yavaş"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Yavaş",
+    "spellSpeedRef": "Slow",
+    "rarity": "Yok",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ017-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7148,8 +7750,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ013-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7163,8 +7765,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Bir düşmana 2 hasar verirsin ve rakibin destesinin en üstündeki 10 karta rasgele 2 tane <link=card.shuffle><style=AssociatedCard>Kör Edici Bomba Tuzağı</style></link> koyarsın.",
-    "descriptionRaw": "Bir düşmana 2 hasar verirsin ve rakibin destesinin en üstündeki 10 karta rasgele 2 tane Kör Edici Bomba Tuzağı koyarsın.",
+    "description": "Bir birime 2 hasar verirsin ve rakibin destesinin en üstündeki 10 karta rasgele 2 tane <link=card.shuffle><style=AssociatedCard>Kör Edici Bomba Tuzağı</style></link> koyarsın.",
+    "descriptionRaw": "Bir birime 2 hasar verirsin ve rakibin destesinin en üstündeki 10 karta rasgele 2 tane Kör Edici Bomba Tuzağı koyarsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Bu da kartvizitim.''<br>- Caitlyn",
@@ -7193,8 +7795,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ020-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7235,13 +7837,54 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ024-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bölgelerine ait 6+ manalık bir büyü <link=vocab.Manifest><style=Vocab>Cisimlendirirsin</style></link>.",
+    "descriptionRaw": "Oyna: Bölgelerine ait 6+ manalık bir büyü Cisimlendirirsin.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Ferrosların çalışmalarımı finanse etmesinin tek iyi tarafı Reggie ile birlikte çalışabilmek. Adam hem tanıdığım en becerikli kişilerden biri hem de harika bir insan.''\n- Jayce'in günlüğünden alıntı",
+    "artistName": "Kudos Productions",
+    "name": "Ferros Finansçısı",
+    "cardCode": "05PZ024",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "05PZ008"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ010-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7289,8 +7932,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ014-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7332,8 +7975,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ014T1-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7377,8 +8020,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ014T2-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7422,8 +8065,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ002-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7467,8 +8110,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ008-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7510,14 +8153,102 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "05PZ023"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ021-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Çağrıldığımda bir <link=card.summon><style=AssociatedCard>Dökümhane İşçisi</style></link> çağırırsın. Bedeli 6+ olan bir büyü yaptığında beni yok edersin ve büyü mananı tekrar doldurursun.",
+    "descriptionRaw": "Çağrıldığımda bir Dökümhane İşçisi çağırırsın. Bedeli 6+ olan bir büyü yaptığında beni yok edersin ve büyü mananı tekrar doldurursun.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Piltover icatlarla ileri gidiyorsa, onu ilerleten motor dökümhaneleri.",
+    "artistName": "Kudos Productions",
+    "name": "Yarınların Dökümhanesi",
+    "cardCode": "05PZ021",
+    "keywords": [
+      "Yer"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ENDER",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Yer",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ025-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Strike><style=Vocab>Vur</style></link>: 1 büyü manası doldurursun.",
+    "descriptionRaw": "Vur: 1 büyü manası doldurursun.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Sayfalara yazdığın bir fikri elinle tutabileceğin bir nesne haline getirmek için iki şey lazım. Denklemin bir yarısı para bulmak, diğeri de iyi bir dökümhane. Üstelik iş dökümhanedeki aletler ya da malzemelerle de bitmiyor, dökümhane ustabaşısı iyi değilse fikrin kâğıt üstünde kalır.''<br>- Jayce",
+    "artistName": "Kudos Productions",
+    "name": "Dökümhane Ustabaşısı",
+    "cardCode": "05PZ025",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "05PZ008",
       "05PZ006T1",
       "05PZ006T2"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ006-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7563,8 +8294,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ004-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7606,8 +8337,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ009-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7651,8 +8382,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ016-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7693,13 +8424,103 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ030-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Beni çektiğinde, elde oluştuğumda ya da her <link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Elindeyken 6+ manalık rasgele bir büyüye dönüşürüm.",
+    "descriptionRaw": "Beni çektiğinde, elde oluştuğumda ya da her Tur Başı: Elindeyken 6+ manalık rasgele bir büyüye dönüşürüm.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''...karşıma çıkan en büyük zorluksa hextech'i kararlı bir duruma getirecek konfigürasyonu bulabilmek oldu. Çoğu gece, kristaller ve heksit sanki aralarında plan yaparak beni başarısızlığa uğratmaya çalışıyorlardı. Bileşenlerin parçalarını uyum içinde çalıştırmayı ancak kapsamlı deneme ve yanılmalardan sonra başarabildim...''\n- Jayce'in günlüğünden alıntı",
+    "artistName": "Kudos Productions",
+    "name": "Hextech Anomalisi",
+    "cardCode": "05PZ030",
+    "keywords": [
+      "Odaklama"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Anlık",
+    "spellSpeedRef": "Burst",
+    "rarity": "ENDER",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Büyü",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ028-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 4,
+    "description": "Bu oyunda bedeli 6+ olan bir büyü yaptığında +2|+0 kazanırım.",
+    "descriptionRaw": "Bu oyunda bedeli 6+ olan bir büyü yaptığında +2|+0 kazanırım.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''Bu şehrin halkı 'zekânın' karşısında yerlere kapanır. Ama kendini ifade edecek olanakları olmadıkça en büyük zihinler bile ne yapabilir ki? Hayır, ben Piltover'a asıl yüceliği göstereceğim. Tepelerinden bakacak. Güneşi gölgeleyecek. Ve benim adımı taşıyacak.''<br>- Albus Ferrus",
+    "artistName": "Kudos Productions",
+    "name": "Ferros Gök Devriyesi",
+    "cardCode": "05PZ028",
+    "keywords": [
+      "Sıyrılgan"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "YAYGIN",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "01PZ022"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ035-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7747,8 +8568,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ006T2-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7796,8 +8617,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ006T1-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -7811,8 +8632,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Bir düşmana 2 hasar verirsin ve rakibin destesinin en üstündeki 10 karta rasgele 2 tane <link=card.shuffle><style=AssociatedCard>Kör Edici Bomba Tuzağı</style></link> koyarsın.\r\nElinde bir <link=card.level1><style=AssociatedCard>Caitlyn</style></link> oluşur.",
-    "descriptionRaw": "Bir düşmana 2 hasar verirsin ve rakibin destesinin en üstündeki 10 karta rasgele 2 tane Kör Edici Bomba Tuzağı koyarsın.\r\nElinde bir Caitlyn oluşur.",
+    "description": "Bir birime 2 hasar verirsin ve rakibin destesinin en üstündeki 10 karta rasgele 2 tane <link=card.shuffle><style=AssociatedCard>Kör Edici Bomba Tuzağı</style></link> koyarsın.\r\nElinde bir <link=card.level1><style=AssociatedCard>Caitlyn</style></link> oluşur.",
+    "descriptionRaw": "Bir birime 2 hasar verirsin ve rakibin destesinin en üstündeki 10 karta rasgele 2 tane Kör Edici Bomba Tuzağı koyarsın.\r\nElinde bir Caitlyn oluşur.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Bu da kartvizitim.''<br>- Caitlyn",
@@ -7841,8 +8662,55 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05PZ029-full.png"
+      }
+    ],
+    "region": "Piltover ve Zaun",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "Piltover ve Zaun"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "Bu oyunda bedeli 6+ olan bir büyü yaptığında <link=vocab.Everywhere><style=Vocab>her yerdeki</style></link> dost Teknolojik birimler +1|+1 kazanır.",
+    "descriptionRaw": "Bu oyunda bedeli 6+ olan bir büyü yaptığında her yerdeki dost Teknolojik birimler +1|+1 kazanır.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Hextech Kotarıcı aslında Piltover içinde hammade nakliyatı yapmak için üretilmişti. Ama zamanla halk nedense onu çok sevdi. Jayce'in ekibi ona Demirbaş adını taktı, söylentilere göre Piltover'lı bir lord başındaki şapkayı verdi ve yanından geçen çocuklar artık onu ellerine geçirdikleri her şeyle süslüyorlar.",
+    "artistName": "Kudos Productions",
+    "name": "Hextech Kotarıcı",
+    "cardCode": "05PZ029",
+    "keywords": [
+      "İlk Saldırı"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ENDER",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [
+      "TEKNOLOJİK"
+    ],
+    "supertype": "",
+    "type": "Birim",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI014-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -7888,8 +8756,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI013-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -7934,8 +8802,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI009-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -7979,8 +8847,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI016-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -7994,8 +8862,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "Bir düşmanı öldürürsün ve tüm düşmanlara bu tur -2|-0 verirsin.",
-    "descriptionRaw": "Bir düşmanı öldürürsün ve tüm düşmanlara bu tur -2|-0 verirsin.",
+    "description": "Bir birimi öldürürsün ve tüm düşmanlara bu tur <nobr>-2|-0</nobr> verirsin.",
+    "descriptionRaw": "Bir birimi öldürürsün ve tüm düşmanlara bu tur -2|-0 verirsin.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Gölge ışığa muhtaç, hayatsa ölüme.''<br>- Senna",
@@ -8024,8 +8892,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI004-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8067,8 +8935,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI012-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8110,8 +8978,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI008-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8155,8 +9023,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI003-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8200,8 +9068,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI029-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8247,8 +9115,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI010-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8262,8 +9130,8 @@
     "attack": 7,
     "cost": 8,
     "health": 6,
-    "description": "Çağrıldığımda, elinde yoksa bir <link=card.create><style=AssociatedCard>Karanlık</style></link> oluşur. Bu tur bir sonraki <link=card.create><style=AssociatedCard>Karanlık</style></link> kullanımının bedeli 0 olur ve tüm düşmanlara hasar verir.",
-    "descriptionRaw": "Çağrıldığımda, elinde yoksa bir Karanlık oluşur. Bu tur bir sonraki Karanlık kullanımının bedeli 0 olur ve tüm düşmanlara hasar verir.",
+    "description": "Çağrıldığımda, elinde yoksa bir <link=card.create><style=AssociatedCard>Karanlık</style></link> oluşur. Bu tur bir sonraki <link=card.create><style=AssociatedCard>Karanlık</style></link> kullanımının bedeli 0 olur ve ''Tüm düşman hedeflere hasar veririm'' kazanır.",
+    "descriptionRaw": "Çağrıldığımda, elinde yoksa bir Karanlık oluşur. Bu tur bir sonraki Karanlık kullanımının bedeli 0 olur ve ''Tüm düşman hedeflere hasar veririm'' kazanır.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Yine mi kâbus gördün?''\n''Çok da kötü değildi. Sen yoktun.''\n''Eşek. Kötü kısmı neydi?''\n''Sen yoktun.''",
@@ -8292,8 +9160,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI009T1-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8340,8 +9208,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI009T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI009T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI009T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI009T2-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8355,8 +9223,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "Bir düşmanı öldürürsün ve tüm düşmanlara bu tur -2|-0 verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Senna</style></link> oluşur.",
-    "descriptionRaw": "Bir düşmanı öldürürsün ve tüm düşmanlara bu tur -2|-0 verirsin.\r\nDestende bir Senna oluşur.",
+    "description": "Bir birimi öldürürsün ve tüm düşmanlara bu tur <nobr>-2|-0</nobr> verirsin.\r\nDestende bir <link=card.level1><style=AssociatedCard>Senna</style></link> oluşur.",
+    "descriptionRaw": "Bir birimi öldürürsün ve tüm düşmanlara bu tur -2|-0 verirsin.\r\nDestende bir Senna oluşur.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Gölge ışığa muhtaç, hayatsa ölüme.''<br>- Senna",
@@ -8385,8 +9253,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI011-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8430,8 +9298,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05SI015-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -8475,8 +9343,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05IO025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05IO025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05IO025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05IO025-full.png"
       }
     ],
     "region": "Ionia",
@@ -8516,8 +9384,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05MT009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/tr_tr/img/cards/05MT009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05MT009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_20_0/set5/tr_tr/img/cards/05MT009-full.png"
       }
     ],
     "region": "Targon",
