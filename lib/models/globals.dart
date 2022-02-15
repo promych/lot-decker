@@ -133,6 +133,15 @@ const kChampionsNamesRU = {
   'Сенна': 'Senna',
   'Сион': 'Sion',
   'Зерат': 'Xerath',
+  'Юми': 'Yuumi',
+  'Галио': 'Galio',
+  'Удир': 'Udyr',
+  'Ари': 'Ahri',
+  'Гнар': 'Gnar',
+  'Джейс': 'Jayce',
+  'Кеннен': 'Kennen',
+  'Пантеон': 'Pantheon',
+  'Рамбл': 'Rumble',
 };
 
 abstract class Referable {

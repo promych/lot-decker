@@ -63,7 +63,7 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
           .singleWhere((f) => f.abbreviation == fAbbr, orElse: () => null)
           ?.nameRef;
       return widget.cardsInDeck
-          .where((card) => card.regionRef == nameRef)
+          .where((card) => card.regionRefs.contains(nameRef))
           .length;
     }
 

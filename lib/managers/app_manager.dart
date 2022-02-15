@@ -90,7 +90,7 @@ class AppManager implements FilterBloc {
 
   // cards
 
-  List<CardModel> _cards;
+  List<CardModel> _cards = [];
   List<CardModel> get cards => _cards;
 
   final _cardsController = StreamController<List<CardModel>>.broadcast();
@@ -116,7 +116,7 @@ class AppManager implements FilterBloc {
 
   // filter
 
-  List<CardModel> _filteredCards;
+  List<CardModel> _filteredCards = [];
   List<CardModel> get filteredCards => _filteredCards;
 
   final _filteredCardsController =
@@ -141,7 +141,6 @@ class AppManager implements FilterBloc {
       ifAbsent: () => [entry.value],
     );
     if (newValue.isEmpty) _filter.remove(entry.key);
-    // print(_filter);
     _filterController.sink.add(_filter);
     _applyFilter();
   }
@@ -156,7 +155,7 @@ class AppManager implements FilterBloc {
     _filteredCards = _filter.isNotEmpty
         ? cardsCollectible
             .where((card) => _filter.containsKey('regions')
-                ? _filter['regions'].contains(card.region)
+                ? card.regions.any((e) => _filter['regions'].contains(e))
                 : true)
             .where((card) {
               if (!_filter.containsKey('cost')) {

@@ -114,9 +114,9 @@ class DeckPageBloc implements FilterBloc {
             kMaxChampionsInDeck) return;
 
     final _selectedFactions =
-        _selectedCards.map((card) => card.regionRef).toSet();
+        _selectedCards.map((card) => card.regionRefs).toSet();
     if ((_selectedFactions.length + 1 > kMaxRegionsInDeck) &&
-        !_selectedFactions.contains(selectedCard.regionRef)) return;
+        !_selectedFactions.contains(selectedCard.regionRefs)) return;
 
     _selectedCards.add(selectedCard);
     _manaCost.update(selectedCard.cost > 7 ? '7' : selectedCard.cost.toString(),
@@ -137,7 +137,7 @@ class DeckPageBloc implements FilterBloc {
 
   // filter // TODO refactor this mostly duplicated code in app_manager.dart
 
-  List<CardModel> _filteredCards;
+  List<CardModel> _filteredCards = [];
   List<CardModel> get filteredCards => _filteredCards;
 
   final _filteredCardsController =
@@ -167,7 +167,6 @@ class DeckPageBloc implements FilterBloc {
       ifAbsent: () => [entry.value],
     );
     if (newValue.isEmpty) _filter.remove(entry.key);
-    // print(_filter);
     _filterController.sink.add(_filter);
     _applyFilter();
   }
@@ -182,7 +181,7 @@ class DeckPageBloc implements FilterBloc {
     _filteredCards = _filter.isNotEmpty
         ? cards
             .where((card) => _filter.containsKey('regions')
-                ? _filter['regions'].contains(card.region)
+                ? _filter['regions'].any((e) => card.regions.contains(e))
                 : true)
             .where((card) {
               if (!_filter.containsKey('cost')) {
@@ -229,7 +228,7 @@ class DeckPageBloc implements FilterBloc {
 
   List<CardModel> filterCards(List<CardModel> cards) {
     final selectedFactions =
-        _selectedCards.map((card) => card.regionRef).toSet();
+        _selectedCards.map((card) => card.regionRefs).toSet();
     return cards
         .where((card) {
           if (_selectedManaCostBar == null) {
@@ -240,7 +239,7 @@ class DeckPageBloc implements FilterBloc {
           return (card.cost == _selectedManaCostBar);
         })
         .where((card) => selectedFactions.length >= kMaxRegionsInDeck
-            ? selectedFactions.contains(card.regionRef)
+            ? selectedFactions.contains(card.regionRefs)
             : true)
         .toList();
   }

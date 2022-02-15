@@ -4,8 +4,8 @@ import 'package:flutter/foundation.dart';
 class CardModel extends Equatable {
   final List<String> associatedCardRefs;
   final String imagePath;
-  final String region;
-  final String regionRef;
+  final List<String> regions;
+  final List<String> regionRefs;
   final int attack;
   final int cost;
   final int health;
@@ -27,8 +27,8 @@ class CardModel extends Equatable {
   CardModel({
     this.associatedCardRefs,
     @required this.imagePath,
-    @required this.region,
-    @required this.regionRef,
+    @required this.regions,
+    @required this.regionRefs,
     @required this.attack,
     @required this.cost,
     @required this.health,
@@ -55,8 +55,11 @@ class CardModel extends Equatable {
           ? []
           : List<String>.from(data['associatedCardRefs']),
       imagePath: 'assets/img/cards/${data['cardCode']}.webp',
-      region: data['region'],
-      regionRef: data['regionRef'],
+      regions:
+          data['regions'].isEmpty ? [] : List<String>.from(data['regions']),
+      regionRefs: data['regionRefs'].isEmpty
+          ? []
+          : List<String>.from(data['regionRefs']),
       attack: data['attack'],
       cost: data['cost'],
       health: data['health'],

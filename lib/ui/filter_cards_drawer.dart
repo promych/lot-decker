@@ -43,13 +43,25 @@ class FilterCardsDrawer extends StatelessWidget {
     return Column(
       children: [
         Divider(),
-        _FilterSection(category: 'regions', filterBloc: filterBloc),
+        _FilterSection(
+          category: 'regions',
+          updateBloc: filterBloc.updateFilter,
+          hasInFilter: filterBloc.inFilter,
+        ),
         Divider(),
         _buildManaCostFilter(context),
         Divider(),
-        _FilterSection(category: 'types', filterBloc: filterBloc),
+        _FilterSection(
+          category: 'types',
+          updateBloc: filterBloc.updateFilter,
+          hasInFilter: filterBloc.inFilter,
+        ),
         Divider(),
-        _FilterSection(category: 'rarities', filterBloc: filterBloc),
+        _FilterSection(
+          category: 'rarities',
+          updateBloc: filterBloc.updateFilter,
+          hasInFilter: filterBloc.inFilter,
+        ),
       ],
     );
   }
@@ -119,11 +131,15 @@ List<Widget> _buildSelectionList(List<Widget> list, int elementsPerRow) {
 
 class _FilterSection extends StatelessWidget {
   final String category;
-  final FilterBloc filterBloc;
+  final void Function(MapEntry<String, dynamic>) updateBloc;
+  final bool Function(MapEntry<String, dynamic>) hasInFilter;
 
-  const _FilterSection(
-      {Key key, @required this.category, @required this.filterBloc})
-      : super(key: key);
+  const _FilterSection({
+    Key key,
+    @required this.category,
+    @required this.updateBloc,
+    @required this.hasInFilter,
+  }) : super(key: key);
 
   static const _kIconSize = 32.0;
 
@@ -152,7 +168,7 @@ class _FilterSection extends StatelessWidget {
       final entry = MapEntry(category, item.name);
       return Container(
         margin: const EdgeInsets.all(4.0),
-        color: filterBloc.inFilter(entry)
+        color: hasInFilter(entry)
             ? Styles.layerColor
             : Styles.scaffoldBackgroundColor,
         child: ListTile(
@@ -167,7 +183,7 @@ class _FilterSection extends StatelessWidget {
             item.name,
             style: Styles.defaultText16,
           ),
-          onTap: () => filterBloc.updateFilter(entry),
+          onTap: () => updateBloc(entry),
         ),
       );
     }).toList();

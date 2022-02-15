@@ -14,19 +14,11 @@ class CardIconsBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final app = Provider.of<AppManager>(context);
-    final region = app.regionByName(card.regionRef);
 
     return Wrap(
       crossAxisAlignment: WrapCrossAlignment.center,
       children: [
-        Row(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            FactionImage(size: kIconSize, abbrName: region.abbreviation),
-            Text(card.region),
-          ],
-        ),
-        SizedBox(width: 10.0),
+        if (card.regionRefs.isNotEmpty) ..._buildRegions(card.regionRefs, app),
         if (card.rarityRef != 'None')
           Row(
             mainAxisSize: MainAxisSize.min,
@@ -51,5 +43,23 @@ class CardIconsBar extends StatelessWidget {
         )
       ],
     );
+  }
+
+  List<Widget> _buildRegions(List<String> regRefs, AppManager app) {
+    final result = <Widget>[];
+    for (final ref in card.regionRefs) {
+      final region = app.regionByName(ref);
+      result.add(
+        Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            FactionImage(size: kIconSize, abbrName: region.abbreviation),
+            Text(region.name),
+            SizedBox(width: 10.0),
+          ],
+        ),
+      );
+    }
+    return result;
   }
 }
