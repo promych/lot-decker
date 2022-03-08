@@ -113,10 +113,16 @@ class DeckPageBloc implements FilterBloc {
                 .length >=
             kMaxChampionsInDeck) return;
 
-    final _selectedFactions =
-        _selectedCards.map((card) => card.regionRefs).toSet();
+    final _selectedFactions = _selectedCards
+        .map(
+          (card) => card.regionRefs,
+        )
+        .expand((e) => e)
+        .toSet();
     if ((_selectedFactions.length + 1 > kMaxRegionsInDeck) &&
-        !_selectedFactions.contains(selectedCard.regionRefs)) return;
+        !_selectedFactions.any(
+          (e) => selectedCard.regionRefs.contains(e),
+        )) return;
 
     _selectedCards.add(selectedCard);
     _manaCost.update(selectedCard.cost > 7 ? '7' : selectedCard.cost.toString(),
@@ -227,21 +233,28 @@ class DeckPageBloc implements FilterBloc {
   // load
 
   List<CardModel> filterCards(List<CardModel> cards) {
-    final selectedFactions =
-        _selectedCards.map((card) => card.regionRefs).toSet();
-    return cards
-        .where((card) {
-          if (_selectedManaCostBar == null) {
-            return true;
-          } else if (_selectedManaCostBar == 7) {
-            return (card.cost >= _selectedManaCostBar);
-          }
-          return (card.cost == _selectedManaCostBar);
-        })
-        .where((card) => selectedFactions.length >= kMaxRegionsInDeck
-            ? selectedFactions.contains(card.regionRefs)
-            : true)
-        .toList();
+    final filteredByMana = cards.where((card) {
+      if (_selectedManaCostBar == null) {
+        return true;
+      } else if (_selectedManaCostBar == 7) {
+        return (card.cost >= _selectedManaCostBar);
+      }
+      return (card.cost == _selectedManaCostBar);
+    });
+
+    final selectedFactions = _selectedCards
+        .map(
+          (card) => card.regionRefs,
+        )
+        .expand((e) => e)
+        .toSet();
+    final filteredByFactions = filteredByMana.where(
+      (card) => selectedFactions.length >= kMaxRegionsInDeck
+          ? selectedFactions.any((e) => card.regionRefs.contains(e))
+          : true,
+    );
+
+    return filteredByFactions.toList();
   }
 
   void load([Map<String, int> cardCodes]) {
@@ -287,7 +300,6 @@ class DeckPageBloc implements FilterBloc {
     }
 
     if (cardCodes != null && cardCodes.isNotEmpty) {
-      // print(cardCodes.toString());
       _selectedCards.clear();
       cardCodes.entries.forEach((e) {
         for (var i = 1; i <= e.value; i++) {
