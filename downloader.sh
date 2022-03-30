@@ -1,5 +1,5 @@
 MAJ=3
-MIN=2
+MIN=4
 DDIR="G:/runeterra/runeterra_archives"
 NAMES=(
 	"core-en_us"
