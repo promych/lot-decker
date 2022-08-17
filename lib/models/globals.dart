@@ -176,7 +176,7 @@ class Globals {
   static Globals fromJson(Map<String, dynamic> json, {String lang = 'en'}) => Globals(
         keywords: List.from(json['keywords'].map((k) => Keyword.fromJson(k))),
         regions: List.from(json['regions'].map((k) => Region.fromJson(k)))
-          ..removeWhere((e) => ['Jhin', 'Bard'].contains(e.name)), // TODO fix 3.8 constants.dart/regions
+          ..removeWhere((e) => ['Jhin', 'Bard', 'Evelynn'].contains(e.name)), // TODO fix 3.8 constants.dart/regions
         spellSpeeds: List.from(json['spellSpeeds'].map((k) => SpellSpeed.fromJson(k))),
         rarities: List.from(json['rarities'].map((k) => Rarity.fromJson(k))),
         cardTypes: _kTypes[lang].entries.map((e) => CardType(name: e.value, nameRef: e.key)).toList(),
