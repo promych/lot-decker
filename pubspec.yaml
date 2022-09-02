@@ -1,7 +1,7 @@
 name: lor_builder
 description: LoR project.
 publish_to: 'none'
-version: 1.18.2+45
+version: 1.19.0+46
 
 environment:
   sdk: ">=2.2.2 <3.0.0"
