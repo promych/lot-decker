@@ -30,8 +30,7 @@ class DeckListTile extends StatelessWidget {
                   style: Styles.defaultText20,
                 ),
               ),
-              for (var fName in deck.factions)
-                Container(height: 40.0, child: FactionImage(abbrName: fName)),
+              for (var fName in deck.factions) Container(height: 40.0, child: FactionImage(abbrName: fName)),
             ],
           ),
         ),
@@ -53,12 +52,10 @@ class DeckListTile extends StatelessWidget {
                 padding: const EdgeInsets.all(10.0),
                 child: snapshot.hasData && snapshot.data.isNotEmpty
                     ? AbsorbPointer(
-                      child: DeckStatusBar(
-                          cardsInDeck: deck.cardCodes
-                              .map(cardsStorage.cardByCode)
-                              .toList(),
+                        child: DeckStatusBar(
+                          cardsInDeck: deck.cardCodes.map(cardsStorage.cardByCode).toList(),
                         ),
-                    )
+                      )
                     : Container(),
               );
             })

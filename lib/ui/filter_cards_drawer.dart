@@ -10,8 +10,7 @@ import 'faction_image.dart';
 class FilterCardsDrawer extends StatelessWidget {
   final FilterBloc filterBloc;
 
-  const FilterCardsDrawer({Key key, @required this.filterBloc})
-      : super(key: key);
+  const FilterCardsDrawer({Key key, @required this.filterBloc}) : super(key: key);
 
   Widget _buildManaCostFilter(BuildContext context) {
     final manaList = List<Widget>.generate(
@@ -21,9 +20,7 @@ class FilterCardsDrawer extends StatelessWidget {
         return GestureDetector(
           child: Container(
             child: CircleAvatar(
-              backgroundColor: filterBloc.inFilter(entry)
-                  ? Styles.lightGrey
-                  : Styles.layerColor,
+              backgroundColor: filterBloc.inFilter(entry) ? Styles.lightGrey : Styles.layerColor,
               child: Text(i == 7 ? '7+' : i.toString()),
               radius: 20.0,
             ),
@@ -90,8 +87,7 @@ class FilterCardsDrawer extends StatelessWidget {
                               ),
                             ]
                           : [Container()],
-                      title:
-                          Text(LocaleManager.of(context).translate('filter')),
+                      title: Text(LocaleManager.of(context).translate('filter')),
                       centerTitle: false,
                       elevation: 0.0,
                     ),
@@ -150,13 +146,10 @@ class _FilterSection extends StatelessWidget {
     var values = [];
     switch (category) {
       case 'regions':
-        values = app.globals.regions
-            .skipWhile((t) => t.abbreviation == 'NE')
-            .toList();
+        values = app.globals.regions.skipWhile((t) => t.abbreviation == 'NE').toList();
         break;
       case 'rarities':
-        values =
-            app.globals.rarities.takeWhile((t) => t.nameRef != 'None').toList();
+        values = app.globals.rarities.takeWhile((t) => t.nameRef != 'None').toList();
         break;
       case 'types':
         values = app.globals.cardTypes;
@@ -168,9 +161,7 @@ class _FilterSection extends StatelessWidget {
       final entry = MapEntry(category, item.name);
       return Container(
         margin: const EdgeInsets.all(4.0),
-        color: hasInFilter(entry)
-            ? Styles.layerColor
-            : Styles.scaffoldBackgroundColor,
+        color: hasInFilter(entry) ? Styles.layerColor : Styles.scaffoldBackgroundColor,
         child: ListTile(
           contentPadding: const EdgeInsets.all(0.0),
           leading: category == 'regions'

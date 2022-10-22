@@ -11,8 +11,7 @@ class LocaleManager {
 
   LocaleManager(this.locale);
 
-  static LocaleManager of(BuildContext context) =>
-      Localizations.of<LocaleManager>(context, LocaleManager);
+  static LocaleManager of(BuildContext context) => Localizations.of<LocaleManager>(context, LocaleManager);
 
   Map<String, dynamic> _sentences;
 
@@ -21,8 +20,7 @@ class LocaleManager {
     if (locale.languageCode == null || locale.countryCode == null) {
       locale = kAppLocales['EN'];
     }
-    data = await rootBundle.loadString(
-        'assets/lang/${locale.languageCode}_${locale.countryCode}.json');
+    data = await rootBundle.loadString('assets/lang/${locale.languageCode}_${locale.countryCode}.json');
     Map<String, dynamic> _result = json.decode(data);
 
     _sentences = new Map();
@@ -61,8 +59,7 @@ class LocaleManager {
     if (keys.length > 1) {
       for (int index = 0; index <= keys.length; index++) {
         if (obj.containsKey(keys[index]) && obj[keys[index]] is! String) {
-          return _resolve(
-              keys.sublist(index + 1, keys.length).join('.'), obj[keys[index]]);
+          return _resolve(keys.sublist(index + 1, keys.length).join('.'), obj[keys[index]]);
         }
 
         return obj[path] ?? path;
@@ -78,10 +75,7 @@ class AppLocalizationsDelegate extends LocalizationsDelegate<LocaleManager> {
 
   @override
   bool isSupported(Locale locale) =>
-      locale != null &&
-      kAppLocales.values
-          .map((l) => l.languageCode)
-          .contains(locale.languageCode);
+      locale != null && kAppLocales.values.map((l) => l.languageCode).contains(locale.languageCode);
 
   @override
   Future<LocaleManager> load(Locale locale) async {

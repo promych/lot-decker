@@ -95,8 +95,7 @@ class _HomePageState extends State<HomePage> {
               child: Icon(Icons.add, color: Colors.white),
               backgroundColor: Styles.cyanColor,
               onPressed: () {
-                Provider.of<DbBloc>(context, listen: false).selectedDeckId =
-                    null;
+                Provider.of<DbBloc>(context, listen: false).selectedDeckId = null;
                 _editDeck(context);
               },
             )

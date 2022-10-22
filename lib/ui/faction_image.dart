@@ -7,8 +7,7 @@ class FactionImage extends StatelessWidget {
   final String abbrName;
   final double size;
 
-  const FactionImage({Key key, @required this.abbrName, this.size})
-      : super(key: key);
+  const FactionImage({Key key, @required this.abbrName, this.size}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

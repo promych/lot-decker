@@ -1,8 +1,8 @@
 import 'package:badges/badges.dart';
 import 'package:flutter/material.dart';
 import 'package:lor_builder/helpers/constants.dart';
+import 'package:lor_builder/models/champs.dart';
 import 'package:lor_builder/models/globals.dart';
-import 'package:percent_indicator/percent_indicator.dart';
 import 'package:provider/provider.dart';
 
 import '../helpers/theme.dart';
@@ -38,6 +38,7 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
   int spellsNum = 0;
   int unitsNum = 0;
   int landmarksNum = 0;
+  int equipNum = 0;
   int total = 0;
   Set<String> factions = {};
 
@@ -50,36 +51,22 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
 
   @override
   Widget build(BuildContext context) {
-    final unitLocaleName = globals.cardTypes
-        .singleWhere((t) => t.nameRef == 'Unit', orElse: () => null)
-        ?.name;
-
-    final landmarkLocaleName = globals.cardTypes
-        .singleWhere((t) => t.nameRef == 'Landmark', orElse: () => null)
-        ?.name;
+    final unitLocaleName = globals.cardTypes.singleWhere((t) => t.nameRef == 'Unit', orElse: () => null)?.name;
+    final landmarkLocaleName = globals.cardTypes.singleWhere((t) => t.nameRef == 'Landmark', orElse: () => null)?.name;
+    final equipmentLocaleName =
+        globals.cardTypes.singleWhere((t) => t.nameRef == 'Equipment', orElse: () => null)?.name;
 
     int _cardsByFaction(String fAbbr) {
-      final nameRef = globals.regions
-          .singleWhere((f) => f.abbreviation == fAbbr, orElse: () => null)
-          ?.nameRef;
-      return widget.cardsInDeck
-          .where((card) => card.regionRefs.contains(nameRef))
-          .length;
+      final nameRef = globals.regions.singleWhere((f) => f.abbreviation == fAbbr, orElse: () => null)?.nameRef;
+      return widget.cardsInDeck.where((card) => card.regionRefs.contains(nameRef)).length;
     }
 
     if (widget.cardsInDeck != null && widget.cardsInDeck.isNotEmpty) {
-      spellsNum = widget.cardsInDeck
-          .where((card) => card.spellSpeedRef.isNotEmpty)
-          .length;
-      unitsNum = widget.cardsInDeck
-          .where((card) => card.cardType == unitLocaleName)
-          .length;
-      landmarksNum = widget.cardsInDeck
-          .where((card) => card.cardType == landmarkLocaleName)
-          .length;
-      factions = widget.cardsInDeck
-          .map((card) => card.cardCode.substring(2, 4))
-          .toSet();
+      spellsNum = widget.cardsInDeck.where((card) => card.spellSpeedRef.isNotEmpty).length;
+      unitsNum = widget.cardsInDeck.where((card) => card.cardType == unitLocaleName).length;
+      landmarksNum = widget.cardsInDeck.where((card) => card.cardType == landmarkLocaleName).length;
+      equipNum = widget.cardsInDeck.where((card) => card.cardType == equipmentLocaleName).length;
+      factions = widget.cardsInDeck.map((card) => card.cardCode.substring(2, 4)).toSet();
       total = widget.cardsInDeck.length;
     }
 
@@ -94,20 +81,18 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
                   child: FactionImage(abbrName: f, size: _iconSize),
                   cardNum: _cardsByFaction(f),
                 ),
-            statusBarMode == StatusBarMode.Types
-                ? _buildStatsByType()
-                : _buildStatsByRarity(),
-            Spacer(),
-            CircularPercentIndicator(
-              radius: 36,
-              animation: false,
-              lineWidth: 2.0,
-              percent: total / 40,
-              center: Text(total.toString()),
-              circularStrokeCap: CircularStrokeCap.butt,
-              backgroundColor: Styles.cyanColor.withAlpha(100),
-              progressColor: Styles.cyanColor,
-            ),
+            statusBarMode == StatusBarMode.Types ? _buildStatsByType() : _buildStatsByRarity(),
+            // Spacer(),
+            // CircularPercentIndicator(
+            //   radius: 36,
+            //   animation: false,
+            //   lineWidth: 2.0,
+            //   percent: total / 40,
+            //   center: Text(total.toString()),
+            //   circularStrokeCap: CircularStrokeCap.butt,
+            //   backgroundColor: Styles.cyanColor.withAlpha(100),
+            //   progressColor: Styles.cyanColor,
+            // ),
           ],
         ),
         onTap: _changeStatusBarMode,
@@ -117,17 +102,14 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
 
   Widget _buildStatsByType() {
     return Row(children: [
-      for (var card in widget.cardsInDeck
-          .where((card) => card.supertype.isNotEmpty)
-          .toSet())
+      for (var card in widget.cardsInDeck.where((card) => card.supertype.isNotEmpty).toSet())
         _IconBadge(
           child: CircleAvatar(
             radius: _iconSize / 2,
             backgroundImage: (locale == kAppLocales['RU'])
                 ? AssetImage(
                     'assets/img/champions/${kChampionsNamesRU[card.name].replaceAll(' ', '').replaceAll("'", '')}.webp')
-                : AssetImage(
-                    'assets/img/champions/${card.name.replaceAll(' ', '').replaceAll("'", '')}.webp'),
+                : AssetImage('assets/img/champions/${card.name.replaceAll(' ', '').replaceAll("'", '')}.webp'),
           ),
           cardNum: widget.cardsInDeck.where((c) => c.name == card.name).length,
         ),
@@ -143,23 +125,23 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
         child: Image.asset('assets/img/types/Landmark.png', height: _iconSize),
         cardNum: landmarksNum,
       ),
+      _IconBadge(
+        child: Image.asset('assets/img/types/Equipment.png', height: _iconSize),
+        cardNum: equipNum,
+      ),
     ]);
   }
 
   Widget _buildStatsByRarity() {
     return Row(children: [
-      for (var rarity
-          in globals.rarities.takeWhile((t) => t.nameRef != 'None').toSet())
+      for (var rarity in globals.rarities.takeWhile((t) => t.nameRef != 'None').toSet())
         _IconBadge(
           child: CircleAvatar(
             radius: _iconSize / 2,
             backgroundColor: Colors.transparent,
-            backgroundImage:
-                AssetImage('assets/img/rarities/${rarity.nameRef}.png'),
+            backgroundImage: AssetImage('assets/img/rarities/${rarity.nameRef}.png'),
           ),
-          cardNum: widget.cardsInDeck
-              .where((c) => c.rarityRef == rarity.nameRef)
-              .length,
+          cardNum: widget.cardsInDeck.where((c) => c.rarityRef == rarity.nameRef).length,
         ),
     ]);
   }

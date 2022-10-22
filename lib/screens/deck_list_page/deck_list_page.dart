@@ -46,10 +46,8 @@ class _DeckListPageState extends State<DeckListPage> {
               onPressed: () async {
                 try {
                   if (_codeController.text.isEmpty) return;
-                  final cardsInDeck =
-                      await LorDeckCoder.decodeToDeck(_codeController.text);
-                  final deckPage = await DeckPage.create(
-                      context, Map<String, int>.from(cardsInDeck));
+                  final cardsInDeck = await LorDeckCoder.decodeToDeck(_codeController.text);
+                  final deckPage = await DeckPage.create(context, Map<String, int>.from(cardsInDeck));
                   Navigator.of(context).pop();
                   _codeController.clear();
                   Navigator.of(context).push(MaterialPageRoute(

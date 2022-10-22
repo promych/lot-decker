@@ -29,8 +29,7 @@ class CardTileFavorite extends StatelessWidget {
       ),
       actions: CardFavoriteToggle(
         isFavorite: isFavorite,
-        onTap: () =>
-            Provider.of<DbBloc>(context, listen: false).updateFavoriteCard(card.cardCode),
+        onTap: () => Provider.of<DbBloc>(context, listen: false).updateFavoriteCard(card.cardCode),
       ),
     );
   }

@@ -66,8 +66,7 @@ class _CardPageState extends State<CardPage> {
 
   @override
   void didChangeDependencies() {
-    final _associatedCards = Provider.of<AppManager>(context)
-        .associatedCards(widget.card.associatedCardRefs);
+    final _associatedCards = Provider.of<AppManager>(context).associatedCards(widget.card.associatedCardRefs);
     if (_associatedCards.length != 0) {
       _cardList.addAll(
         _associatedCards..sort((a, b) => b.supertype.compareTo(a.supertype)),
@@ -93,8 +92,7 @@ class _CardPageState extends State<CardPage> {
             ),
             Expanded(
               flex: 2,
-              child:
-                  SingleChildScrollView(child: _CardInfo(card: _selectedCard)),
+              child: SingleChildScrollView(child: _CardInfo(card: _selectedCard)),
             ),
           ],
         ),
@@ -127,9 +125,7 @@ class _CardInfo extends StatelessWidget {
           CardIconsBar(card: card),
           SizedBox(height: 10.0),
           if (card.keywordRefs.isNotEmpty) ...[
-            for (var keyword in app.globals.keywords
-                .where((k) => card.keywordRefs.contains(k.nameRef))
-                .toList())
+            for (var keyword in app.globals.keywords.where((k) => card.keywordRefs.contains(k.nameRef)).toList())
               Align(
                 alignment: Alignment.centerLeft,
                 child: Column(
@@ -137,8 +133,7 @@ class _CardInfo extends StatelessWidget {
                     Text.rich(
                       TextSpan(
                         children: <InlineSpan>[
-                          if (!['Autoplay', 'Fleeting', 'Skill']
-                              .contains(keyword.nameRef))
+                          if (!['Autoplay', 'Fleeting', 'Skill'].contains(keyword.nameRef))
                             WidgetSpan(
                               alignment: PlaceholderAlignment.middle,
                               baseline: TextBaseline.alphabetic,
@@ -168,8 +163,7 @@ class _CardInfo extends StatelessWidget {
               ),
             SizedBox(height: 10.0),
           ],
-          if (card.description.isNotEmpty)
-            Text(card.description.replaceAll('\n', '')),
+          if (card.description.isNotEmpty) Text(card.description.replaceAll('\n', '')),
           if (card.flavor.isNotEmpty) ...[
             Divider(color: Styles.layerColor),
             Text(

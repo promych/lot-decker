@@ -9,11 +9,8 @@ import 'deck_page_bloc.dart';
 class DeckViewCards extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final cards = Provider.of<DeckPageBloc>(context)
-        .selectedCards
-        .toSet()
-        .toList()
-          ..sort((a, b) => a.cost.compareTo(b.cost));
+    final cards = Provider.of<DeckPageBloc>(context).selectedCards.toSet().toList()
+      ..sort((a, b) => a.cost.compareTo(b.cost));
 
     return Expanded(
       child: ListView.separated(

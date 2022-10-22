@@ -48,18 +48,12 @@ class CardModel extends Equatable {
     @required this.collectible,
   });
 
-  factory CardModel.fromMap(Map<String, dynamic> data,
-      {String lang = 'en_US'}) {
+  factory CardModel.fromMap(Map<String, dynamic> data, {String lang = 'en_US'}) {
     return CardModel(
-      associatedCardRefs: data['associatedCardRefs'].isEmpty
-          ? []
-          : List<String>.from(data['associatedCardRefs']),
+      associatedCardRefs: data['associatedCardRefs'].isEmpty ? [] : List<String>.from(data['associatedCardRefs']),
       imagePath: 'assets/img/cards/${data['cardCode']}.webp',
-      regions:
-          data['regions'].isEmpty ? [] : List<String>.from(data['regions']),
-      regionRefs: data['regionRefs'].isEmpty
-          ? []
-          : List<String>.from(data['regionRefs']),
+      regions: data['regions'].isEmpty ? [] : List<String>.from(data['regions']),
+      regionRefs: data['regionRefs'].isEmpty ? [] : List<String>.from(data['regionRefs']),
       attack: data['attack'],
       cost: data['cost'],
       health: data['health'],
@@ -67,11 +61,8 @@ class CardModel extends Equatable {
       flavor: data['flavorText'],
       name: data['name'],
       cardCode: data['cardCode'],
-      keywords:
-          data['keywords'].isEmpty ? [] : List<String>.from(data['keywords']),
-      keywordRefs: data['keywordRefs'].isEmpty
-          ? []
-          : List<String>.from(data['keywordRefs']),
+      keywords: data['keywords'].isEmpty ? [] : List<String>.from(data['keywords']),
+      keywordRefs: data['keywordRefs'].isEmpty ? [] : List<String>.from(data['keywordRefs']),
       spellSpeed: data['spellSpeed'],
       spellSpeedRef: data['spellSpeedRef'],
       rarity: data['rarity'],
@@ -83,9 +74,7 @@ class CardModel extends Equatable {
     );
   }
 
-  String get cardType => supertype.isNotEmpty
-      ? supertype
-      : (!['Trap', 'Ability'].contains(type) ? type : 'Spell');
+  String get cardType => supertype.isNotEmpty ? supertype : (!['Trap', 'Ability'].contains(type) ? type : 'Spell');
 
   @override
   List<Object> get props => [cardCode];

@@ -28,8 +28,7 @@ class SearchField extends StatelessWidget {
                 child: CupertinoTextField(
                   onChanged: onChanged,
                   cursorColor: Styles.cyanColor,
-                  style: TextStyle(
-                      color: Colors.white, decoration: TextDecoration.none),
+                  style: TextStyle(color: Colors.white, decoration: TextDecoration.none),
                   placeholder: LocaleManager.of(context).translate('search'),
                   padding: const EdgeInsets.all(8.0),
                   placeholderStyle: TextStyle(color: Styles.lightGrey),
@@ -37,10 +36,12 @@ class SearchField extends StatelessWidget {
                     color: backgroundColor,
                     borderRadius: BorderRadius.circular(10.0),
                   ),
-                  suffix: snapshot.data.isEmpty ? Padding(
-                    padding: const EdgeInsets.only(right: 8.0),
-                    child: Icon(Icons.search, color: Styles.lightGrey),
-                  ) : null,
+                  suffix: snapshot.data.isEmpty
+                      ? Padding(
+                          padding: const EdgeInsets.only(right: 8.0),
+                          child: Icon(Icons.search, color: Styles.lightGrey),
+                        )
+                      : null,
                   clearButtonMode: OverlayVisibilityMode.always,
                 ),
               ),

@@ -13,13 +13,17 @@ class LocalStorage {
     print('cards load with ${locale.countryCode}');
     final List<CardModel> cards = [];
 
-    for (var i = 1; i <= kSetsNumber; i++) {
-      String data = await rootBundle.loadString(APIPath.cards(locale, i));
+    Future<void> addCards(String key) async {
+      String data = await rootBundle.loadString(key);
       List<Map<String, dynamic>> cardsJson = List.from(json.decode(data));
-      cards.addAll(cardsJson
-          .map((json) => CardModel.fromMap(json, lang: locale.toString()))
-          .toList());
+      cards.addAll(cardsJson.map((json) => CardModel.fromMap(json, lang: locale.toString())).toList());
     }
+
+    for (var i = 1; i <= kSetsNumber; i++) {
+      await addCards(APIPath.cards(locale, i));
+    }
+
+    await addCards(APIPath.cardsCde(locale, 6));
 
     return cards;
   }

@@ -12,8 +12,7 @@ class SameCardsInDeck extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final sameCardsNum =
-        Provider.of<DeckPageBloc>(context).sameCardsInDeckNum(card);
+    final sameCardsNum = Provider.of<DeckPageBloc>(context).sameCardsInDeckNum(card);
 
     return Chip(
       label: Text('x${sameCardsNum.toString()}'),

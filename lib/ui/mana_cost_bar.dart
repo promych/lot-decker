@@ -54,16 +54,11 @@ class ManaCostChart extends StatelessWidget {
             Container(
               height: 80.0,
               width: 20.0,
-              color: selectedManaCostBar == cost
-                  ? Styles.lightGrey
-                  : Styles.layerColor,
+              color: selectedManaCostBar == cost ? Styles.lightGrey : Styles.layerColor,
             ),
             Column(
               children: <Widget>[
-                if (showNumbers)
-                  selectedCardsByManaCost == 0
-                      ? Container()
-                      : Text(selectedCardsByManaCost.toString()),
+                if (showNumbers) selectedCardsByManaCost == 0 ? Container() : Text(selectedCardsByManaCost.toString()),
                 Container(
                   height: 60.0 * selectedCardsByManaCost / _maxManaCost,
                   width: 20.0,
@@ -86,8 +81,7 @@ class ManaCostChart extends StatelessWidget {
         : Container(
             margin: EdgeInsets.symmetric(horizontal: 10.0),
             decoration: BoxDecoration(
-              border: Border(
-                  bottom: BorderSide(color: Styles.cyanColor, width: 1.0)),
+              border: Border(bottom: BorderSide(color: Styles.cyanColor, width: 1.0)),
             ),
             child: _buildManaCostChart(),
           );

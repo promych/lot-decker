@@ -77,8 +77,7 @@ class SembastService {
 
   // decks
 
-  final transformer = StreamTransformer<
-      List<RecordSnapshot<int, Map<String, dynamic>>>, List<Deck>>.fromHandlers(
+  final transformer = StreamTransformer<List<RecordSnapshot<int, Map<String, dynamic>>>, List<Deck>>.fromHandlers(
     handleData: (snapshotList, sink) {
       List<Deck> res = [];
       snapshotList.forEach((element) {
@@ -91,17 +90,12 @@ class SembastService {
 
   Stream<List<Deck>> decks$() {
     // if (_db == null) return Stream<List<Deck>>.fromFuture(decks());
-    return _deckStore
-        .query(finder: Finder(sortOrders: [SortOrder('id')]))
-        .onSnapshots(_db)
-        .transform(transformer);
+    return _deckStore.query(finder: Finder(sortOrders: [SortOrder('id')])).onSnapshots(_db).transform(transformer);
   }
 
   Future<List<Deck>> decks() async {
     final records = await _deckStore.find(await database);
-    return records
-        .map((record) => Deck.fromMap(MapEntry(record.key, record.value)))
-        .toList();
+    return records.map((record) => Deck.fromMap(MapEntry(record.key, record.value))).toList();
   }
 
   Future<void> saveDeck(Deck deck) async {
@@ -130,8 +124,6 @@ class SembastService {
   Future<void> updateFavoriteCard(String cardCode) async {
     final db = await database;
     final record = _favStore.record(cardCode);
-    await record.exists(db)
-        ? await record.delete(db)
-        : await record.add(db, true);
+    await record.exists(db) ? await record.delete(db) : await record.add(db, true);
   }
 }

@@ -24,8 +24,7 @@ class LocaleSelector extends StatelessWidget {
           flex: 1,
           child: Center(
             child: DropdownButton<String>(
-              value:
-                  LocaleManager.of(context).locale.languageCode.toUpperCase(),
+              value: LocaleManager.of(context).locale.languageCode.toUpperCase(),
               items: kAppLocales.keys.map<DropdownMenuItem<String>>((value) {
                 return DropdownMenuItem<String>(
                   value: value,

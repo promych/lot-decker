@@ -47,11 +47,10 @@ class AppManager implements FilterBloc {
   Globals _globals;
   Globals get globals => _globals;
 
-  Region regionByName(String name) =>
-      _globals.regions.firstWhere((r) => r.nameRef == name, orElse: () => null);
+  Region regionByName(String name) => _globals.regions.firstWhere((r) => r.nameRef == name, orElse: () => null);
 
-  Region regionByAbbrName(String name) => _globals.regions
-      .firstWhere((r) => r.abbreviation == name, orElse: () => null);
+  Region regionByAbbrName(String name) =>
+      _globals.regions.firstWhere((r) => r.abbreviation == name, orElse: () => null);
 
   // locale
 
@@ -63,11 +62,9 @@ class AppManager implements FilterBloc {
 
   Future<void> _fetchLocale() async {
     var prefs = await SharedPreferences.getInstance();
-    final newLocale = (prefs.getString('languageCode') == null ||
-            prefs.getString('countryCode') == null)
+    final newLocale = (prefs.getString('languageCode') == null || prefs.getString('countryCode') == null)
         ? kAppLocales['EN']
-        : Locale(
-            prefs.getString('languageCode'), prefs.getString('countryCode'));
+        : Locale(prefs.getString('languageCode'), prefs.getString('countryCode'));
     _locale = newLocale;
     _localeController.sink.add(newLocale);
   }
@@ -96,14 +93,12 @@ class AppManager implements FilterBloc {
   final _cardsController = StreamController<List<CardModel>>.broadcast();
   Stream<List<CardModel>> get $cards => _cardsController.stream;
 
-  List<CardModel> get cardsCollectible =>
-      _cards.where((card) => card.collectible == true).toList();
+  List<CardModel> get cardsCollectible => _cards.where((card) => card.collectible == true).toList();
 
   List<CardModel> associatedCards(List<String> cardCodes) =>
       _cards.where((card) => cardCodes.contains(card.cardCode)).toList();
 
-  CardModel cardByCode(String code) =>
-      _cards?.firstWhere((card) => card.cardCode == code, orElse: () => null);
+  CardModel cardByCode(String code) => _cards?.firstWhere((card) => card.cardCode == code, orElse: () => null);
 
   // search field
 
@@ -119,24 +114,20 @@ class AppManager implements FilterBloc {
   List<CardModel> _filteredCards = [];
   List<CardModel> get filteredCards => _filteredCards;
 
-  final _filteredCardsController =
-      StreamController<List<CardModel>>.broadcast();
+  final _filteredCardsController = StreamController<List<CardModel>>.broadcast();
   Stream<List<CardModel>> get $filteredCards => _filteredCardsController.stream;
 
   var _filter = Map<String, List<dynamic>>();
   Map<String, List<dynamic>> get filter => _filter;
 
-  final _filterController =
-      StreamController<Map<String, List<dynamic>>>.broadcast();
+  final _filterController = StreamController<Map<String, List<dynamic>>>.broadcast();
   Stream<Map<String, List<dynamic>>> get $filter => _filterController.stream;
 
   void updateFilter(MapEntry<String, dynamic> entry) {
     final newValue = _filter.update(
       entry.key,
       (value) {
-        return value.contains(entry.value)
-            ? (value..remove(entry.value))
-            : (value..add(entry.value));
+        return value.contains(entry.value) ? (value..remove(entry.value)) : (value..add(entry.value));
       },
       ifAbsent: () => [entry.value],
     );
@@ -154,9 +145,8 @@ class AppManager implements FilterBloc {
   void _applyFilter() {
     _filteredCards = _filter.isNotEmpty
         ? cardsCollectible
-            .where((card) => _filter.containsKey('regions')
-                ? card.regions.any((e) => _filter['regions'].contains(e))
-                : true)
+            .where((card) =>
+                _filter.containsKey('regions') ? card.regions.any((e) => _filter['regions'].contains(e)) : true)
             .where((card) {
               if (!_filter.containsKey('cost')) {
                 return true;
@@ -165,20 +155,15 @@ class AppManager implements FilterBloc {
               }
               return _filter['cost'].contains(card.cost);
             })
-            .where((card) => _filter.containsKey('types')
-                ? _filter['types'].contains(card.cardType)
-                : true)
-            .where((card) => _filter.containsKey('rarities')
-                ? _filter['rarities'].contains(card.rarity)
-                : true)
+            .where((card) => _filter.containsKey('types') ? _filter['types'].contains(card.cardType) : true)
+            .where((card) => _filter.containsKey('rarities') ? _filter['rarities'].contains(card.rarity) : true)
             .toList()
         : cardsCollectible;
     _filteredCardsController.sink.add(_filteredCards);
   }
 
   bool inFilter(MapEntry<String, dynamic> entry) {
-    return _filter.containsKey(entry.key) &&
-        _filter[entry.key].contains(entry.value);
+    return _filter.containsKey(entry.key) && _filter[entry.key].contains(entry.value);
   }
 
   dispose() {
