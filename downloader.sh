@@ -1,6 +1,6 @@
 MAJ=3
-MIN=17
-DDIR="G:/runeterra/runeterra_archives"
+MIN=19
+DDIR="D:/runeterra/runeterra_archives"
 NAMES=(
 	"core-en_us"
 	"core-es_es"
@@ -51,6 +51,13 @@ NAMES=(
 	"set6-lite-it_it"
 	"set6-lite-ru_ru"
 	"set6-lite-tr_tr"
+	"set6cde-lite-en_us"
+	"set6cde-lite-es_es"
+	"set6cde-lite-de_de"
+	"set6cde-lite-fr_fr"
+	"set6cde-lite-it_it"
+	"set6cde-lite-ru_ru"
+	"set6cde-lite-tr_tr"
 	)
 rm -r $DDIR
 mkdir $DDIR
@@ -59,4 +66,4 @@ do
 printf "https://dd.b.pvp.net/${MAJ}_${MIN}_0/${name}.zip\n" >> "${DDIR}/source.txt"
 done
 wget -P $DDIR -nv -i "${DDIR}/source.txt"
-cmd /k
+exit

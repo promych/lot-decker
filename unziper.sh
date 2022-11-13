@@ -1,4 +1,4 @@
-DDIR="G:/runeterra/runeterra_archives"
+DDIR="D:/runeterra/runeterra_archives"
 LNGS=(
 	"en_us"
 	"de_de"
@@ -21,4 +21,4 @@ do
 		unzip -j "${SET}" "${lng}/data/set${num}cde-${lng}.json" -d "${DDIR}"
 	done
 done
-cmd /k
+exit
