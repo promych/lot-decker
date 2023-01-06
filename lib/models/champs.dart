@@ -1,4 +1,5 @@
 /*
+'Aatrox'
 'Ahri'
 'Akshan'
 'Anivia'
@@ -37,6 +38,7 @@
 'Kalista'
 'Karma'
 'Katarina'
+'Kayle
 'Kayn'
 'Kennen'
 'Kindred'
@@ -65,6 +67,7 @@
 'Renekton'
 'Riven'
 'Rumble'
+'Ryze'
 'Sejuani'
 'Senna'
 'Shen'
@@ -98,6 +101,7 @@
 */
 
 const kChampionsNamesRU = {
+  'Атрокс': 'Aatrox',
   'Анивия': 'Anivia',
   'Афелий': 'Aphelios',
   'Аурелион Сол': 'AurelionSol',
@@ -197,4 +201,6 @@ const kChampionsNamesRU = {
   'Cерафина': 'Seraphine',
   'Варус': 'Varus',
   'Вейн': 'Vayne',
+  'Райз': 'Ryze',
+  'Кейл': 'Kayle',
 };
