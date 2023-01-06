@@ -10,7 +10,7 @@ import '../ui/card_tile_favorite.dart';
 import '../ui/search_field.dart';
 
 class CardListPage extends StatelessWidget {
-  const CardListPage({Key key}) : super(key: key);
+  const CardListPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -47,14 +47,14 @@ class CardListPage extends StatelessWidget {
 // class _SearchBar extends StatelessWidget {
 //   final Function onChanged;
 
-//   const _SearchBar({Key key, @required this.onChanged}) : super(key: key);
+//   const _SearchBar({Key? key, required this.onChanged}) : super(key: key);
 
 //   @override
 //   Widget build(BuildContext context) {
 //     return CupertinoTextField(
 //       onChanged: onChanged,
 //       style: TextStyle(color: Colors.white, decoration: TextDecoration.none),
-//       placeholder: LocaleManager.of(context).translate('search'),
+//       placeholder: context.translate('search'),
 //       padding: const EdgeInsets.all(8.0),
 //       placeholderStyle: TextStyle(color: Styles.lightGrey),
 //       decoration: BoxDecoration(
@@ -79,21 +79,23 @@ class _CardList extends StatelessWidget {
           stream: filterBloc.$filteredCards,
           initialData: filterBloc.filteredCards,
           builder: (context, filteredCards) {
-            return SliverList(
-              delegate: SliverChildBuilderDelegate(
-                (_, index) {
-                  final card = filteredCards.data[index];
-                  return Padding(
-                    padding: const EdgeInsets.only(bottom: 4.0),
-                    child: CardTileFavorite(
-                      card: card,
-                      isFavorite: favoritedCards.data.contains(card.cardCode),
+            return (!filteredCards.hasData)
+                ? const SizedBox.shrink()
+                : SliverList(
+                    delegate: SliverChildBuilderDelegate(
+                      (_, index) {
+                        final card = filteredCards.data![index];
+                        return Padding(
+                          padding: const EdgeInsets.only(bottom: 4.0),
+                          child: CardTileFavorite(
+                            card: card,
+                            isFavorite: favoritedCards.data!.contains(card.cardCode),
+                          ),
+                        );
+                      },
+                      childCount: filteredCards.data!.length,
                     ),
                   );
-                },
-                childCount: filteredCards.data.length,
-              ),
-            );
           },
         );
       },

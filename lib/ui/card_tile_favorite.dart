@@ -12,8 +12,8 @@ class CardTileFavorite extends StatelessWidget {
   final bool isFavorite;
 
   const CardTileFavorite({
-    Key key,
-    @required this.card,
+    Key? key,
+    required this.card,
     this.isFavorite = false,
   }) : super(key: key);
 

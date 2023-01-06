@@ -6,29 +6,29 @@ import '../helpers/theme.dart';
 
 class ManaCostChart extends StatelessWidget {
   final Map<String, int> manaCost;
-  final int selectedManaCostBar;
+  final int? selectedManaCostBar;
   final bool showNumbers;
-  final Function onTapManaCostBar;
+  final Function(int?)? onTapManaCostBar;
 
   const ManaCostChart({
-    Key key,
-    @required this.manaCost,
-    this.selectedManaCostBar,
+    Key? key,
+    required this.manaCost,
+    this.selectedManaCostBar = 0,
     this.showNumbers = true,
     this.onTapManaCostBar,
   }) : super(key: key);
 
   Widget _buildManaCostChart() {
-    if (manaCost == null) return Container();
+    if (manaCost.isEmpty) return Container();
     final costs = <Widget>[];
     manaCost.forEach(
       (k, v) => costs
         ..add(
           onTapManaCostBar == null
-              ? _singleManaCostBar(int.tryParse(k), v)
+              ? _singleManaCostBar(int.tryParse(k) ?? 0, v)
               : GestureDetector(
-                  child: _singleManaCostBar(int.tryParse(k), v),
-                  onTap: () => onTapManaCostBar(int.tryParse(k)),
+                  child: _singleManaCostBar(int.tryParse(k) ?? 0, v),
+                  onTap: () => onTapManaCostBar!.call(int.tryParse(k)),
                 ),
         ),
     );

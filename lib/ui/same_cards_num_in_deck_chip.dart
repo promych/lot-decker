@@ -8,7 +8,7 @@ import '../screens/deck_page/deck_page_bloc.dart';
 class SameCardsInDeck extends StatelessWidget {
   final CardModel card;
 
-  const SameCardsInDeck({Key key, @required this.card}) : super(key: key);
+  const SameCardsInDeck({Key? key, required this.card}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:ui' show Locale;
 
+import 'package:lor_builder/helpers/extensions.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../data/local_storage.dart';
@@ -21,16 +22,18 @@ abstract class FilterBloc {
 class AppManager implements FilterBloc {
   Future<void> load() async {
     await _fetchLocale().whenComplete(() async {
-      _globals = await LocalStorage.fetchGlobals(_locale);
-      _cards = await LocalStorage.fetchCards(_locale)
-        ..sort((a, b) => a.cost.compareTo(b.cost));
+      if (_locale != null) {
+        _globals = await LocalStorage.fetchGlobals(_locale!);
+        _cards = await LocalStorage.fetchCards(_locale!)
+          ..sort((a, b) => a.cost.compareTo(b.cost));
+      }
     });
 
     _cardsController.sink.add(_cards);
     clearFilter();
 
     $searchText.listen((text) {
-      if (text != null && text != '') {
+      if (text.isNotEmpty && text != '') {
         _filteredCardsController.sink.add(_filteredCards
             .where((card) =>
                 card.name.toLowerCase().contains(text.toLowerCase()) ||
@@ -44,44 +47,49 @@ class AppManager implements FilterBloc {
 
   // globals
 
-  Globals _globals;
-  Globals get globals => _globals;
+  Globals? _globals;
+  Globals? get globals => _globals;
 
-  Region regionByName(String name) => _globals.regions.firstWhere((r) => r.nameRef == name, orElse: () => null);
+  Region? regionByName(String name) => _globals?.regions.firstWhereOrNull((r) => r.nameRef == name);
 
-  Region regionByAbbrName(String name) =>
-      _globals.regions.firstWhere((r) => r.abbreviation == name, orElse: () => null);
+  Region? regionByAbbrName(String name) => _globals?.regions.firstWhereOrNull((r) => r.abbreviation == name);
 
   // locale
 
-  Locale _locale;
-  Locale get locale => _locale;
+  Locale? _locale;
+  Locale? get locale => _locale;
 
   final _localeController = StreamController<Locale>();
   Stream<Locale> get $locale => _localeController.stream;
 
   Future<void> _fetchLocale() async {
-    var prefs = await SharedPreferences.getInstance();
-    final newLocale = (prefs.getString('languageCode') == null || prefs.getString('countryCode') == null)
+    final prefs = await SharedPreferences.getInstance();
+    final langCode = prefs.getString('languageCode');
+    final newLocale = (langCode == null || prefs.getString('countryCode') == null)
         ? kAppLocales['EN']
-        : Locale(prefs.getString('languageCode'), prefs.getString('countryCode'));
-    _locale = newLocale;
-    _localeController.sink.add(newLocale);
+        : Locale(langCode, prefs.getString('countryCode'));
+    if (newLocale != null) {
+      _locale = newLocale;
+      _localeController.sink.add(newLocale);
+    }
   }
 
   Future<void> changeLocale(Locale newLocale) async {
     if (_locale == newLocale) return;
-    await SharedPreferences.getInstance()
-      ..setString('languageCode', newLocale.languageCode)
-      ..setString('countryCode', newLocale.countryCode);
-    _locale = newLocale;
-    _localeController.sink.add(newLocale);
 
-    _globals = await LocalStorage.fetchGlobals(_locale);
-    _cards = await LocalStorage.fetchCards(_locale)
+    final prefs = await SharedPreferences.getInstance()
+      ..setString('languageCode', newLocale.languageCode);
+    final cCode = newLocale.countryCode;
+    if (cCode != null) prefs.setString('countryCode', cCode);
+
+    _globals = await LocalStorage.fetchGlobals(newLocale);
+    _cards = await LocalStorage.fetchCards(newLocale)
       ..sort((a, b) => a.cost.compareTo(b.cost));
 
     _cardsController.sink.add(_cards);
+
+    _locale = newLocale;
+    _localeController.sink.add(newLocale);
     clearFilter();
   }
 
@@ -98,7 +106,7 @@ class AppManager implements FilterBloc {
   List<CardModel> associatedCards(List<String> cardCodes) =>
       _cards.where((card) => cardCodes.contains(card.cardCode)).toList();
 
-  CardModel cardByCode(String code) => _cards?.firstWhere((card) => card.cardCode == code, orElse: () => null);
+  CardModel? cardByCode(String code) => _cards.firstWhereOrNull((card) => card.cardCode == code);
 
   // search field
 
@@ -106,7 +114,7 @@ class AppManager implements FilterBloc {
   Stream<String> get $searchText => _searchController.stream;
 
   void updateSearch(String text) {
-    if (text != null) _searchController.sink.add(text);
+    _searchController.sink.add(text);
   }
 
   // filter
@@ -145,25 +153,27 @@ class AppManager implements FilterBloc {
   void _applyFilter() {
     _filteredCards = _filter.isNotEmpty
         ? cardsCollectible
-            .where((card) =>
-                _filter.containsKey('regions') ? card.regions.any((e) => _filter['regions'].contains(e)) : true)
+            .where((card) => _filter.containsKey('regions')
+                ? card.regions.any((e) => _filter['regions']?.contains(e) ?? false)
+                : true)
             .where((card) {
               if (!_filter.containsKey('cost')) {
                 return true;
-              } else if (_filter['cost'].contains(7)) {
-                return (_filter['cost'].contains(card.cost) || card.cost > 7);
+              } else if (_filter['cost']?.contains(7) ?? false) {
+                return ((_filter['cost']?.contains(card.cost) ?? false) || card.cost > 7);
               }
-              return _filter['cost'].contains(card.cost);
+              return _filter['cost']?.contains(card.cost) ?? false;
             })
-            .where((card) => _filter.containsKey('types') ? _filter['types'].contains(card.cardType) : true)
-            .where((card) => _filter.containsKey('rarities') ? _filter['rarities'].contains(card.rarity) : true)
+            .where((card) => _filter.containsKey('types') ? (_filter['types']?.contains(card.cardType) ?? false) : true)
+            .where((card) =>
+                _filter.containsKey('rarities') ? (_filter['rarities']?.contains(card.rarity) ?? false) : true)
             .toList()
         : cardsCollectible;
     _filteredCardsController.sink.add(_filteredCards);
   }
 
   bool inFilter(MapEntry<String, dynamic> entry) {
-    return _filter.containsKey(entry.key) && _filter[entry.key].contains(entry.value);
+    return _filter.containsKey(entry.key) && (_filter[entry.key]?.contains(entry.value) ?? false);
   }
 
   dispose() {

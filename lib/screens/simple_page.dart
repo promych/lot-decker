@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lor_builder/helpers/constants.dart';
 
 import '../helpers/theme.dart';
 import '../ui/custom_appbar.dart';
@@ -9,8 +10,8 @@ class SimplePage extends StatelessWidget {
   final bool showAppBar;
 
   const SimplePage({
-    @required this.title,
-    @required this.child,
+    this.title = appName,
+    required this.child,
     this.showAppBar = true,
   });
 

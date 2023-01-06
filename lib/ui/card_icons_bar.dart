@@ -9,11 +9,12 @@ import 'faction_image.dart';
 class CardIconsBar extends StatelessWidget {
   final CardModel card;
 
-  const CardIconsBar({Key key, @required this.card}) : super(key: key);
+  const CardIconsBar({Key? key, required this.card}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     final app = Provider.of<AppManager>(context);
+    final typeRef = app.globals?.cardTypeRef(card.cardType);
 
     return Wrap(
       crossAxisAlignment: WrapCrossAlignment.center,
@@ -30,17 +31,19 @@ class CardIconsBar extends StatelessWidget {
               Text(card.rarity),
             ],
           ),
-        SizedBox(width: 10.0),
-        Row(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Image.asset(
-              'assets/img/types/${app.globals.cardTypeRef(card.cardType)}.png',
-              height: kIconSize,
-            ),
-            Text(card.cardType),
-          ],
-        )
+        if (typeRef != null) ...[
+          SizedBox(width: 10.0),
+          Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Image.asset(
+                'assets/img/types/$typeRef.png',
+                height: kIconSize,
+              ),
+              Text(card.cardType),
+            ],
+          ),
+        ],
       ],
     );
   }
@@ -49,16 +52,17 @@ class CardIconsBar extends StatelessWidget {
     final result = <Widget>[];
     for (final ref in card.regionRefs) {
       final region = app.regionByName(ref);
-      result.add(
-        Row(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            FactionImage(size: kIconSize, abbrName: region.abbreviation),
-            Text(region.name),
-            SizedBox(width: 10.0),
-          ],
-        ),
-      );
+      if (region != null)
+        result.add(
+          Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              FactionImage(size: kIconSize, abbrName: region.abbreviation),
+              Text(region.name),
+              SizedBox(width: 10.0),
+            ],
+          ),
+        );
     }
     return result;
   }

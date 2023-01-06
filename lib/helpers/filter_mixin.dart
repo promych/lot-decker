@@ -3,11 +3,11 @@ import 'dart:async';
 import '../models/card.dart';
 
 mixin FilterMixin {
-  List<CardModel> _filteredCards;
+  List<CardModel> _filteredCards = [];
   List<CardModel> get filteredCards => _filteredCards;
 
   final _filteredCardsController = StreamController<List<CardModel>>.broadcast();
-  Stream<List<CardModel>> $filteredCards;
+  Stream<List<CardModel>> $filteredCards = Stream.empty();
 
   var _filter = Map<String, List<dynamic>>();
   Map<String, List<dynamic>> get filter => _filter;
@@ -16,7 +16,7 @@ mixin FilterMixin {
   Stream<Map<String, List<dynamic>>> get $filter => _filterController.stream;
 
   bool inFilter(MapEntry<String, dynamic> entry) {
-    return _filter.containsKey(entry.key) && _filter[entry.key].contains(entry.value);
+    return _filter.containsKey(entry.key) && (_filter[entry.key]?.contains(entry.value) ?? false);
   }
 
   dispose() {

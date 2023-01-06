@@ -2,12 +2,12 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:lor_builder/helpers/extensions.dart';
 import 'package:provider/provider.dart';
 
 import '../../data/db_bloc.dart';
 import '../../helpers/theme.dart';
 import '../../managers/app_manager.dart';
-import '../../managers/locale_manager.dart';
 import '../../models/card.dart';
 import '../../ui/deck_status_bar.dart';
 import '../../ui/filter_cards_drawer.dart';
@@ -19,7 +19,7 @@ import 'deck_page_bloc.dart';
 class DeckPage extends StatefulWidget {
   final DeckPageBloc bloc;
 
-  DeckPage({Key key, @required this.bloc}) : super(key: key);
+  DeckPage({Key? key, required this.bloc}) : super(key: key);
 
   static Future<Widget> create(BuildContext context, Map<String, int> cardCodes) async {
     final currentDeck = await Provider.of<DbBloc>(context, listen: false).currentDeck;
@@ -41,8 +41,8 @@ class DeckPage extends StatefulWidget {
 }
 
 class _DeckPageState extends State<DeckPage> {
-  TextEditingController _deckNameEditingController;
-  TextEditingController _deckCodeContoller;
+  late TextEditingController _deckNameEditingController;
+  late TextEditingController _deckCodeContoller;
 
   Future<void> _saveDeck(BuildContext context) async {
     await widget.bloc.saveDeck(_deckNameEditingController.text != '' ? _deckNameEditingController.text : _name);
@@ -54,8 +54,7 @@ class _DeckPageState extends State<DeckPage> {
     Navigator.of(context).pop();
   }
 
-  String get _name =>
-      widget.bloc.deck != null ? widget.bloc.deck.name : LocaleManager.of(context).translate('new deck');
+  String get _name => widget.bloc.deck != null ? widget.bloc.deck!.name : context.translate('new deck');
 
   void _editDeckName(BuildContext context) {
     _deckNameEditingController.text = _name;
@@ -68,17 +67,17 @@ class _DeckPageState extends State<DeckPage> {
           builder: (context, deckName) {
             return AlertDialog(
               backgroundColor: Styles.layerColor,
-              title: Text(LocaleManager.of(context).translate('edit name')),
+              title: Text(context.translate('edit name')),
               content: TextField(
                 controller: _deckNameEditingController,
                 onChanged: widget.bloc.onEditName,
                 decoration: InputDecoration(
-                  errorText: deckName.hasError ? LocaleManager.of(context).translate('empty field error') : null,
+                  errorText: deckName.hasError ? context.translate('empty field error') : null,
                 ),
               ),
               actions: [
                 TextButton(
-                  child: Text(LocaleManager.of(context).translate('cancel')),
+                  child: Text(context.translate('cancel')),
                   onPressed: () => Navigator.of(context).pop(),
                 ),
                 TextButton(
@@ -109,13 +108,13 @@ class _DeckPageState extends State<DeckPage> {
         builder: (context) {
           return AlertDialog(
             backgroundColor: Styles.layerColor,
-            title: Text(LocaleManager.of(context).translate('deck code')),
+            title: Text(context.translate('deck code')),
             content: TextField(
               controller: _deckCodeContoller,
             ),
             actions: [
               TextButton(
-                child: Text(LocaleManager.of(context).translate('cancel')),
+                child: Text(context.translate('cancel')),
                 onPressed: () => Navigator.of(context).pop(),
               ),
               TextButton(
@@ -147,7 +146,7 @@ class _DeckPageState extends State<DeckPage> {
     return StreamBuilder<String>(
       stream: widget.bloc.$deckNameToShow,
       initialData: _name,
-      builder: (context, deckName) => Text(deckName.hasData ? deckName.data : _name),
+      builder: (context, deckName) => Text(deckName.hasData ? deckName.data! : _name),
     );
   }
 
@@ -156,7 +155,7 @@ class _DeckPageState extends State<DeckPage> {
       stream: widget.bloc.$selectedCards,
       initialData: widget.bloc.selectedCards,
       builder: (_, selectedCards) {
-        if (!selectedCards.hasData || selectedCards.data.isEmpty) {
+        if (!selectedCards.hasData || selectedCards.data?.isEmpty == true) {
           return Container();
         }
         return IconButton(
@@ -200,11 +199,11 @@ class _DeckPageState extends State<DeckPage> {
     ];
   }
 
-  Widget _appBarPopupAction(String title) {
+  PopupMenuItem _appBarPopupAction(String title) {
     return PopupMenuItem(
       value: title,
       child: InkWell(
-        child: Text(LocaleManager.of(context).translate(title.toLowerCase())),
+        child: Text(context.translate(title.toLowerCase())),
       ),
     );
   }
@@ -230,7 +229,10 @@ class _DeckPageState extends State<DeckPage> {
       initialData: widget.bloc.isEditing,
       builder: (context, isEditing) {
         return WillPopScope(
-          onWillPop: () => _onExit(context, isEditing.data),
+          onWillPop: () async {
+            final onExit = await _onExit(context, isEditing.data ?? false);
+            return onExit ?? false;
+          },
           child: Scaffold(
             endDrawer: FilterCardsDrawer(
               key: ValueKey('deck-filter-drawer'),
@@ -250,34 +252,37 @@ class _DeckPageState extends State<DeckPage> {
               stream: widget.bloc.$selectedCards,
               initialData: widget.bloc.selectedCards,
               builder: (context, selectedCards) {
-                return Column(
-                  children: <Widget>[
-                    SizedBox(height: 10.0),
-                    DeckPageManaCostBar(),
-                    Padding(
-                      padding: const EdgeInsets.symmetric(
-                        vertical: 8.0,
-                        horizontal: 16.0,
-                      ),
-                      child: LinearProgressIndicator(
-                        value: selectedCards.data.length / 40,
-                        color: Styles.cyanColor,
-                        backgroundColor: Styles.cyanColor.withAlpha(100),
-                      ),
-                    ),
-                    Padding(
-                      padding: const EdgeInsets.symmetric(
-                        horizontal: 16.0,
-                      ),
-                      child: DeckStatusBar(
-                        cardsInDeck: selectedCards.data,
-                        withFactions: true,
-                        isEditing: isEditing.data,
-                      ),
-                    ),
-                    isEditing.data ? DeckPageCardsSelection() : DeckViewCards(),
-                  ],
-                );
+                return (!selectedCards.hasData)
+                    ? const SizedBox.shrink()
+                    : Column(
+                        children: <Widget>[
+                          SizedBox(height: 10.0),
+                          DeckPageManaCostBar(),
+                          Padding(
+                            padding: const EdgeInsets.symmetric(
+                              vertical: 8.0,
+                              horizontal: 16.0,
+                            ),
+                            child: LinearProgressIndicator(
+                              value: selectedCards.data!.length / 40,
+                              color: Styles.cyanColor,
+                              backgroundColor: Styles.cyanColor.withAlpha(100),
+                            ),
+                          ),
+                          Padding(
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 16.0,
+                            ),
+                            child: DeckStatusBar(
+                              cardsInDeck: selectedCards.data!,
+                              withFactions: true,
+                              isEditing: isEditing.data ?? false,
+                            ),
+                          ),
+                          isEditing.data ?? false ? DeckPageCardsSelection() : DeckViewCards(),
+                          // DeckPageCardsSelection()
+                        ],
+                      );
               },
             ),
           ),
@@ -286,26 +291,25 @@ class _DeckPageState extends State<DeckPage> {
     );
   }
 
-  Future<bool> _onExit(BuildContext context, bool isEditing) {
+  Future<bool?> _onExit(BuildContext context, bool isEditing) async {
     if (Provider.of<DeckPageBloc>(context, listen: false).selectedCards.isEmpty || !isEditing)
       return Future.value(true);
-    return showDialog(
-          context: context,
-          builder: (context) => AlertDialog(
-            backgroundColor: Styles.layerColor,
-            title: Text(LocaleManager.of(context).translate('unsaved data warning')),
-            actions: <Widget>[
-              TextButton(
-                onPressed: () => Navigator.of(context).pop(false),
-                child: Text(LocaleManager.of(context).translate('cancel')),
-              ),
-              TextButton(
-                onPressed: () => Navigator.of(context).pop(true),
-                child: Text(LocaleManager.of(context).translate('yes')),
-              ),
-            ],
+    return await showDialog<bool>(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: Styles.layerColor,
+        title: Text(context.translate('unsaved data warning')),
+        actions: <Widget>[
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(false),
+            child: Text(context.translate('cancel')),
           ),
-        ) ??
-        false;
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(true),
+            child: Text(context.translate('yes')),
+          ),
+        ],
+      ),
+    );
   }
 }

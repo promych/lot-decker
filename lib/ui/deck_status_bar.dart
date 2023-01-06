@@ -1,6 +1,7 @@
 import 'package:badges/badges.dart';
 import 'package:flutter/material.dart';
 import 'package:lor_builder/helpers/constants.dart';
+import 'package:lor_builder/helpers/extensions.dart';
 import 'package:lor_builder/models/champs.dart';
 import 'package:lor_builder/models/globals.dart';
 import 'package:provider/provider.dart';
@@ -20,8 +21,8 @@ class DeckStatusBar extends StatefulWidget {
   final bool isEditing;
 
   const DeckStatusBar({
-    Key key,
-    @required this.cardsInDeck,
+    Key? key,
+    required this.cardsInDeck,
     this.withFactions = false,
     this.isEditing = false,
   }) : super(key: key);
@@ -31,8 +32,8 @@ class DeckStatusBar extends StatefulWidget {
 }
 
 class _DeckStatusBarState extends State<DeckStatusBar> {
-  Locale locale;
-  static Globals globals;
+  Locale? locale;
+  Globals? globals;
   var statusBarMode = StatusBarMode.Types;
 
   int spellsNum = 0;
@@ -51,17 +52,16 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
 
   @override
   Widget build(BuildContext context) {
-    final unitLocaleName = globals.cardTypes.singleWhere((t) => t.nameRef == 'Unit', orElse: () => null)?.name;
-    final landmarkLocaleName = globals.cardTypes.singleWhere((t) => t.nameRef == 'Landmark', orElse: () => null)?.name;
-    final equipmentLocaleName =
-        globals.cardTypes.singleWhere((t) => t.nameRef == 'Equipment', orElse: () => null)?.name;
+    final unitLocaleName = globals?.cardTypes.firstWhereOrNull((t) => t.nameRef == 'Unit')?.name;
+    final landmarkLocaleName = globals?.cardTypes.firstWhereOrNull((t) => t.nameRef == 'Landmark')?.name;
+    final equipmentLocaleName = globals?.cardTypes.firstWhereOrNull((t) => t.nameRef == 'Equipment')?.name;
 
     int _cardsByFaction(String fAbbr) {
-      final nameRef = globals.regions.singleWhere((f) => f.abbreviation == fAbbr, orElse: () => null)?.nameRef;
+      final nameRef = globals?.regions.firstWhereOrNull((f) => f.abbreviation == fAbbr)?.nameRef;
       return widget.cardsInDeck.where((card) => card.regionRefs.contains(nameRef)).length;
     }
 
-    if (widget.cardsInDeck != null && widget.cardsInDeck.isNotEmpty) {
+    if (widget.cardsInDeck.isNotEmpty) {
       spellsNum = widget.cardsInDeck.where((card) => card.spellSpeedRef.isNotEmpty).length;
       unitsNum = widget.cardsInDeck.where((card) => card.cardType == unitLocaleName).length;
       landmarksNum = widget.cardsInDeck.where((card) => card.cardType == landmarkLocaleName).length;
@@ -100,19 +100,22 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
     );
   }
 
+  Widget _buildChampAvatar(CardModel card) {
+    final nameRU = kChampionsNamesRU[card.name];
+    return _IconBadge(
+      child: CircleAvatar(
+        radius: _iconSize / 2,
+        backgroundImage: (locale == kAppLocales['RU'] && nameRU != null)
+            ? AssetImage('assets/img/champions/${nameRU.replaceAll(' ', '').replaceAll("'", '')}.webp')
+            : AssetImage('assets/img/champions/${card.name.replaceAll(' ', '').replaceAll("'", '')}.webp'),
+      ),
+      cardNum: widget.cardsInDeck.where((c) => c.name == card.name).length,
+    );
+  }
+
   Widget _buildStatsByType() {
     return Row(children: [
-      for (var card in widget.cardsInDeck.where((card) => card.supertype.isNotEmpty).toSet())
-        _IconBadge(
-          child: CircleAvatar(
-            radius: _iconSize / 2,
-            backgroundImage: (locale == kAppLocales['RU'])
-                ? AssetImage(
-                    'assets/img/champions/${kChampionsNamesRU[card.name].replaceAll(' ', '').replaceAll("'", '')}.webp')
-                : AssetImage('assets/img/champions/${card.name.replaceAll(' ', '').replaceAll("'", '')}.webp'),
-          ),
-          cardNum: widget.cardsInDeck.where((c) => c.name == card.name).length,
-        ),
+      for (final card in widget.cardsInDeck.where((card) => card.supertype.isNotEmpty).toSet()) _buildChampAvatar(card),
       _IconBadge(
         child: Image.asset('assets/img/types/Unit.png', height: _iconSize),
         cardNum: unitsNum,
@@ -133,17 +136,19 @@ class _DeckStatusBarState extends State<DeckStatusBar> {
   }
 
   Widget _buildStatsByRarity() {
-    return Row(children: [
-      for (var rarity in globals.rarities.takeWhile((t) => t.nameRef != 'None').toSet())
-        _IconBadge(
-          child: CircleAvatar(
-            radius: _iconSize / 2,
-            backgroundColor: Colors.transparent,
-            backgroundImage: AssetImage('assets/img/rarities/${rarity.nameRef}.png'),
-          ),
-          cardNum: widget.cardsInDeck.where((c) => c.rarityRef == rarity.nameRef).length,
-        ),
-    ]);
+    return globals != null
+        ? Row(children: [
+            for (final rarity in globals!.rarities.takeWhile((t) => t.nameRef != 'None').toSet())
+              _IconBadge(
+                child: CircleAvatar(
+                  radius: _iconSize / 2,
+                  backgroundColor: Colors.transparent,
+                  backgroundImage: AssetImage('assets/img/rarities/${rarity.nameRef}.png'),
+                ),
+                cardNum: widget.cardsInDeck.where((c) => c.rarityRef == rarity.nameRef).length,
+              ),
+          ])
+        : const SizedBox.shrink();
   }
 
   void _changeStatusBarMode() {
@@ -159,9 +164,9 @@ class _IconBadge extends StatelessWidget {
   final Widget child;
 
   const _IconBadge({
-    Key key,
-    @required this.cardNum,
-    @required this.child,
+    Key? key,
+    required this.cardNum,
+    required this.child,
   }) : super(key: key);
 
   @override

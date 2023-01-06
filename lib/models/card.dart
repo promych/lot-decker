@@ -1,5 +1,4 @@
 import 'package:equatable/equatable.dart';
-import 'package:flutter/foundation.dart';
 
 class CardModel extends Equatable {
   final List<String> associatedCardRefs;
@@ -25,27 +24,27 @@ class CardModel extends Equatable {
   final bool collectible;
 
   CardModel({
-    this.associatedCardRefs,
-    @required this.imagePath,
-    @required this.regions,
-    @required this.regionRefs,
-    @required this.attack,
-    @required this.cost,
-    @required this.health,
-    @required this.description,
-    @required this.flavor,
-    @required this.name,
-    @required this.cardCode,
-    this.keywords,
-    this.keywordRefs,
-    this.spellSpeed,
-    this.spellSpeedRef,
-    @required this.rarity,
-    @required this.rarityRef,
-    this.subtype,
-    this.supertype,
-    @required this.type,
-    @required this.collectible,
+    this.associatedCardRefs = const [],
+    required this.imagePath,
+    required this.regions,
+    required this.regionRefs,
+    required this.attack,
+    required this.cost,
+    required this.health,
+    required this.description,
+    required this.flavor,
+    required this.name,
+    required this.cardCode,
+    this.keywords = const [],
+    this.keywordRefs = const [],
+    this.spellSpeed = '',
+    this.spellSpeedRef = '',
+    required this.rarity,
+    required this.rarityRef,
+    this.subtype = '',
+    this.supertype = '',
+    required this.type,
+    required this.collectible,
   });
 
   factory CardModel.fromMap(Map<String, dynamic> data, {String lang = 'en_US'}) {
@@ -63,12 +62,12 @@ class CardModel extends Equatable {
       cardCode: data['cardCode'],
       keywords: data['keywords'].isEmpty ? [] : List<String>.from(data['keywords']),
       keywordRefs: data['keywordRefs'].isEmpty ? [] : List<String>.from(data['keywordRefs']),
-      spellSpeed: data['spellSpeed'],
-      spellSpeedRef: data['spellSpeedRef'],
+      spellSpeed: data['spellSpeed'] ?? '',
+      spellSpeedRef: data['spellSpeedRef'] ?? '',
       rarity: data['rarity'],
       rarityRef: data['rarityRef'],
-      subtype: data['subtype'],
-      supertype: data['supertype'],
+      subtype: data['subtype'] ?? '',
+      supertype: data['supertype'] ?? '',
       type: data['type'],
       collectible: data['collectible'],
     );

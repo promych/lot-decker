@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 import 'package:sembast/sembast.dart';
 
 class Deck {
@@ -8,10 +7,10 @@ class Deck {
   final int id;
 
   const Deck({
-    @required this.id,
-    @required this.name,
-    @required this.cardCodes,
-    @required this.manaCost,
+    required this.id,
+    required this.name,
+    required this.cardCodes,
+    required this.manaCost,
   });
 
   Deck.fromMap(MapEntry<int, Map<String, dynamic>> data)

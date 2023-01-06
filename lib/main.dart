@@ -63,7 +63,7 @@ class App extends StatelessWidget {
                 return Loading();
               }
               if (snapshot.hasError) {
-                return ErrorView(message: snapshot.error);
+                return ErrorView(message: snapshot.error?.toString() ?? 'Fetch locale error');
               }
               return MaterialApp(
                 debugShowCheckedModeBanner: false,

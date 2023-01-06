@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:lor_builder/helpers/extensions.dart';
 import 'package:provider/provider.dart';
 
 import '../../data/db_bloc.dart';
 import '../../helpers/theme.dart';
 import '../../managers/app_manager.dart';
-import '../../managers/locale_manager.dart';
 import '../../ui/filter_cards_drawer.dart';
 import '../card_list_page.dart';
 import '../deck_list_page/deck_list_page.dart';
@@ -19,10 +19,10 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   int _selectedIndex = 0;
-  PageStorageBucket _bucket;
+  late PageStorageBucket _bucket;
 
   Future<void> _editDeck(BuildContext context) async {
-    final deckPage = await DeckPage.create(context, null);
+    final deckPage = await DeckPage.create(context, {});
     Navigator.of(context).push(MaterialPageRoute(
       builder: (context) => deckPage,
     ));
@@ -38,22 +38,22 @@ class _HomePageState extends State<HomePage> {
       items: <BottomNavigationBarItem>[
         BottomNavigationBarItem(
           icon: Icon(Icons.view_list),
-          label: LocaleManager.of(context).translate('decks'),
+          label: context.translate('decks'),
           backgroundColor: Styles.layerColor,
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.view_module),
-          label: LocaleManager.of(context).translate('cards'),
+          label: context.translate('cards'),
           backgroundColor: Styles.layerColor,
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.star),
-          label: LocaleManager.of(context).translate('favorites'),
+          label: context.translate('favorites'),
           backgroundColor: Styles.layerColor,
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.settings),
-          label: LocaleManager.of(context).translate('settings'),
+          label: context.translate('settings'),
           backgroundColor: Styles.layerColor,
         ),
       ],

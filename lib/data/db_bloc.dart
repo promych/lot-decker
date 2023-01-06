@@ -1,20 +1,22 @@
 import 'dart:async';
 
+import 'package:lor_builder/helpers/extensions.dart';
+
 import '../models/deck.dart';
 import 'persistent_database.dart';
 
 class DbBloc {
-  PersistentDatabase _db;
+  late PersistentDatabase _db;
 
   // decks
 
-  int selectedDeckId;
+  int? selectedDeckId;
 
   Stream<List<Deck>> get decks$ => _db.decks$;
 
-  Future<Deck> get currentDeck async {
+  Future<Deck?> get currentDeck async {
     final decks = await _db.decks();
-    return decks.firstWhere((deck) => deck.id == selectedDeckId, orElse: () => null);
+    return decks.firstWhereOrNull((deck) => deck.id == selectedDeckId);
   }
 
   // favorites

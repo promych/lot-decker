@@ -13,16 +13,16 @@ import '../ui/custom_appbar.dart';
 class CardPage extends StatefulWidget {
   final CardModel card;
 
-  const CardPage({Key key, this.card}) : super(key: key);
+  const CardPage({Key? key, required this.card}) : super(key: key);
 
   @override
   _CardPageState createState() => _CardPageState();
 }
 
 class _CardPageState extends State<CardPage> {
-  PageController _pageController;
-  List<CardModel> _cardList;
-  CardModel _selectedCard;
+  late PageController _pageController;
+  List<CardModel> _cardList = [];
+  late CardModel _selectedCard;
 
   Widget _buildAssociatedCardsView() {
     return Center(
@@ -41,7 +41,7 @@ class _CardPageState extends State<CardPage> {
       builder: (context, snapshot) {
         if (snapshot.hasData && snapshot.data != null) {
           return CardFavoriteToggle(
-            isFavorite: snapshot.data.contains(widget.card.cardCode),
+            isFavorite: snapshot.data!.contains(widget.card.cardCode),
             onTap: () => bloc.updateFavoriteCard(widget.card.cardCode),
           );
         }
@@ -57,9 +57,9 @@ class _CardPageState extends State<CardPage> {
     _cardList = [widget.card];
     _selectedCard = widget.card;
     _pageController.addListener(() {
-      if (_pageController.page.round() is int)
+      if (_pageController.page?.round() is int)
         setState(() {
-          _selectedCard = _cardList[_pageController.page.round()];
+          _selectedCard = _cardList[_pageController.page!.round()];
         });
     });
   }
@@ -110,7 +110,7 @@ class _CardPageState extends State<CardPage> {
 class _CardInfo extends StatelessWidget {
   final CardModel card;
 
-  const _CardInfo({Key key, @required this.card}) : super(key: key);
+  const _CardInfo({Key? key, required this.card}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -125,7 +125,7 @@ class _CardInfo extends StatelessWidget {
           CardIconsBar(card: card),
           SizedBox(height: 10.0),
           if (card.keywordRefs.isNotEmpty) ...[
-            for (var keyword in app.globals.keywords.where((k) => card.keywordRefs.contains(k.nameRef)).toList())
+            for (var keyword in app.globals?.keywords.where((k) => card.keywordRefs.contains(k.nameRef)).toList() ?? [])
               Align(
                 alignment: Alignment.centerLeft,
                 child: Column(

@@ -2,12 +2,12 @@ import 'dart:math' show pi;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:lor_builder/helpers/extensions.dart';
 import 'package:lor_deck_coder/lor_deck_coder.dart';
 import 'package:provider/provider.dart';
 
 import '../../data/db_bloc.dart';
 import '../../helpers/theme.dart';
-import '../../managers/locale_manager.dart';
 import '../../models/deck.dart';
 import '../../ui/fake_card_img.dart';
 import '../../ui/sliver_container.dart';
@@ -17,14 +17,14 @@ import 'deck_list_tile.dart';
 class DeckListPage extends StatefulWidget {
   final Function onTap;
 
-  const DeckListPage({Key key, @required this.onTap}) : super(key: key);
+  const DeckListPage({Key? key, required this.onTap}) : super(key: key);
 
   @override
   _DeckListPageState createState() => _DeckListPageState();
 }
 
 class _DeckListPageState extends State<DeckListPage> {
-  TextEditingController _codeController;
+  late TextEditingController _codeController;
 
   Future<void> _codeToDeck(BuildContext context) async {
     showDialog(
@@ -32,13 +32,13 @@ class _DeckListPageState extends State<DeckListPage> {
       builder: (context) {
         return AlertDialog(
           backgroundColor: Styles.layerColor,
-          title: Text(LocaleManager.of(context).translate('paste code')),
+          title: Text(context.translate('paste code')),
           content: TextField(
             controller: _codeController,
           ),
           actions: [
             TextButton(
-              child: Text(LocaleManager.of(context).translate('cancel')),
+              child: Text(context.translate('cancel')),
               onPressed: () => Navigator.of(context).pop(),
             ),
             TextButton(
@@ -82,7 +82,7 @@ class _DeckListPageState extends State<DeckListPage> {
       child: CustomScrollView(
         slivers: [
           SliverAppBar(
-            title: Text(LocaleManager.of(context).translate('decks')),
+            title: Text(context.translate('decks')),
             backgroundColor: Styles.layerColor,
             forceElevated: true,
             actions: [
@@ -109,7 +109,7 @@ class _DeckListPageState extends State<DeckListPage> {
 class _DeckList extends StatelessWidget {
   final Function onEdit;
 
-  const _DeckList({Key key, @required this.onEdit}) : super(key: key);
+  const _DeckList({Key? key, required this.onEdit}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -122,27 +122,30 @@ class _DeckList extends StatelessWidget {
         if (snapshot.hasError) {
           return SliverContainer(child: Text('${snapshot.error}'));
         }
-        if (snapshot.data.isEmpty) {
+        if (snapshot.data?.isEmpty == true) {
           return SliverContainer(child: _EmptyDecksContainer());
         }
         if (snapshot.hasData) {
           return SliverList(
-            delegate: SliverChildBuilderDelegate((_, i) {
-              return Padding(
-                padding: const EdgeInsets.only(bottom: 10.0),
-                child: GestureDetector(
-                  child: Card(
-                    elevation: 4.0,
-                    color: Styles.layerColor,
-                    child: DeckListTile(deck: snapshot.data[i]),
+            delegate: SliverChildBuilderDelegate(
+              (_, i) {
+                return Padding(
+                  padding: const EdgeInsets.only(bottom: 10.0),
+                  child: GestureDetector(
+                    child: Card(
+                      elevation: 4.0,
+                      color: Styles.layerColor,
+                      child: DeckListTile(deck: snapshot.data![i]),
+                    ),
+                    onTap: () {
+                      bloc.selectedDeckId = snapshot.data![i].id;
+                      onEdit();
+                    },
                   ),
-                  onTap: () {
-                    bloc.selectedDeckId = snapshot.data[i].id;
-                    onEdit();
-                  },
-                ),
-              );
-            }, childCount: snapshot.data.length),
+                );
+              },
+              childCount: snapshot.data!.length,
+            ),
           );
         }
         return SliverContainer(child: Text('No decks'));
@@ -164,12 +167,12 @@ class _EmptyDecksContainer extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          LocaleManager.of(context).translate('no decks'),
+          context.translate('no decks'),
           style: Styles.defaultText20,
           textAlign: TextAlign.center,
         ),
         Text(
-          LocaleManager.of(context).translate('no decks hint'),
+          context.translate('no decks hint'),
           style: Styles.defaultText16,
           textAlign: TextAlign.center,
         ),

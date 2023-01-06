@@ -1,25 +1,25 @@
 import 'dart:math' show pi;
 
 import 'package:flutter/material.dart';
+import 'package:lor_builder/helpers/extensions.dart';
 import 'package:provider/provider.dart';
 
 import '../data/db_bloc.dart';
 import '../helpers/theme.dart';
 import '../managers/app_manager.dart';
-import '../managers/locale_manager.dart';
 import '../ui/card_tile_favorite.dart';
 import '../ui/fake_card_img.dart';
 import '../ui/sliver_container.dart';
 
 class FavoritesPage extends StatelessWidget {
-  const FavoritesPage({Key key}) : super(key: key);
+  const FavoritesPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return CustomScrollView(
       slivers: [
         SliverAppBar(
-          title: Text(LocaleManager.of(context).translate('favorites')),
+          title: Text(context.translate('favorites')),
           forceElevated: true,
           backgroundColor: Styles.layerColor,
         ),
@@ -42,23 +42,25 @@ class _CardList extends StatelessWidget {
       stream: favBloc.$favoritedCards,
       initialData: favBloc.favoritedCards,
       builder: (context, snapshot) {
-        if (!snapshot.hasData || snapshot.data.isEmpty) {
+        if (!snapshot.hasData || snapshot.data?.isEmpty == true) {
           return SliverContainer(
             child: _EmptyFavContainer(),
           );
         }
-        final cardCodes = snapshot.data;
+        final cardCodes = snapshot.data ?? [];
         return SliverList(
           delegate: SliverChildBuilderDelegate(
             (_, index) {
               final card = cards.cardByCode(cardCodes[index]);
-              return Padding(
-                padding: const EdgeInsets.only(bottom: 4.0),
-                child: CardTileFavorite(
-                  card: card,
-                  isFavorite: snapshot.data.contains(card.cardCode),
-                ),
-              );
+              return (card == null)
+                  ? const SizedBox.shrink()
+                  : Padding(
+                      padding: const EdgeInsets.only(bottom: 4.0),
+                      child: CardTileFavorite(
+                        card: card,
+                        isFavorite: snapshot.data!.contains(card.cardCode),
+                      ),
+                    );
             },
             childCount: cardCodes.length,
           ),
@@ -89,12 +91,12 @@ class _EmptyFavContainer extends StatelessWidget {
           ],
         ),
         Text(
-          LocaleManager.of(context).translate('no fav'),
+          context.translate('no fav'),
           style: Styles.defaultText20,
           textAlign: TextAlign.center,
         ),
         Text(
-          LocaleManager.of(context).translate('no fav hint'),
+          context.translate('no fav hint'),
           style: Styles.defaultText16,
           textAlign: TextAlign.center,
         ),

@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
+import 'package:lor_builder/helpers/extensions.dart';
 import 'package:lor_deck_coder/lor_deck_coder.dart';
 
 import '../../data/persistent_database.dart';
@@ -11,12 +11,12 @@ import '../../models/card.dart';
 import '../../models/deck.dart';
 
 class DeckPageBloc implements FilterBloc {
-  final Deck deck;
+  final Deck? deck;
   final List<CardModel> cards;
 
   DeckPageBloc({
-    @required this.deck,
-    @required this.cards,
+    required this.deck,
+    required this.cards,
   });
 
   bool _isEditing = true;
@@ -51,7 +51,7 @@ class DeckPageBloc implements FilterBloc {
   void updateName(String name) => _deckNameToShow.sink.add(name);
 
   void onEditName(String text) {
-    if (text == null || text == '') {
+    if (text.isNotEmpty || text == '') {
       _deckNameController.sink.addError('Field can\'t be empty');
     } else {
       _deckNameController.sink.add(text);
@@ -73,7 +73,7 @@ class DeckPageBloc implements FilterBloc {
 
   Future<void> deleteDeck() async {
     if (deck == null) return;
-    await _db.deleteDeck(deck.id);
+    await _db.deleteDeck(deck!.id);
   }
 
   Future<String> deckCode() async {
@@ -84,7 +84,7 @@ class DeckPageBloc implements FilterBloc {
     try {
       return await LorDeckCoder.encodeToCode(cardCodes);
     } on PlatformException catch (e) {
-      return e.message;
+      return e.message ?? 'Error';
     }
   }
 
@@ -118,7 +118,7 @@ class DeckPageBloc implements FilterBloc {
         )) return;
 
     _selectedCards.add(selectedCard);
-    _manaCost.update(selectedCard.cost > 7 ? '7' : selectedCard.cost.toString(), (i) => i + 1);
+    _manaCost.update(selectedCard.cost > 7 ? '7' : selectedCard.cost.toString(), (i) => i + 1, ifAbsent: () => 1);
     _manaCostController.sink.add(_manaCost);
     _selectedCardsController.sink.add(_selectedCards);
   }
@@ -137,7 +137,7 @@ class DeckPageBloc implements FilterBloc {
   List<CardModel> get filteredCards => _filteredCards;
 
   final _filteredCardsController = StreamController<List<CardModel>>.broadcast();
-  Stream<List<CardModel>> $filteredCards;
+  Stream<List<CardModel>> $filteredCards = Stream.empty();
 
   var _filter = Map<String, List<dynamic>>();
   Map<String, List<dynamic>> get filter => _filter;
@@ -146,7 +146,7 @@ class DeckPageBloc implements FilterBloc {
   Stream<Map<String, List<dynamic>>> get $filter => _filterController.stream;
 
   bool inFilter(MapEntry<String, dynamic> entry) {
-    return _filter.containsKey(entry.key) && _filter[entry.key].contains(entry.value);
+    return _filter.containsKey(entry.key) && (_filter[entry.key]?.contains(entry.value) ?? false);
   }
 
   void updateFilter(MapEntry<String, dynamic> entry) {
@@ -171,32 +171,34 @@ class DeckPageBloc implements FilterBloc {
   void _applyFilter() {
     _filteredCards = _filter.isNotEmpty
         ? cards
-            .where((card) =>
-                _filter.containsKey('regions') ? _filter['regions'].any((e) => card.regions.contains(e)) : true)
+            .where((card) => _filter.containsKey('regions')
+                ? (_filter['regions']?.any((e) => card.regions.contains(e)) ?? false)
+                : true)
             .where((card) {
               if (!_filter.containsKey('cost')) {
                 return true;
-              } else if (_filter['cost'].contains(7)) {
-                return (_filter['cost'].contains(card.cost) || card.cost > 7);
+              } else if (_filter['cost']?.contains(7) ?? false) {
+                return (_filter['cost']?.contains(card.cost) ?? false || card.cost > 7);
               }
-              return _filter['cost'].contains(card.cost);
+              return _filter['cost']?.contains(card.cost) ?? false;
             })
-            .where((card) => _filter.containsKey('types') ? _filter['types'].contains(card.cardType) : true)
-            .where((card) => _filter.containsKey('rarities') ? _filter['rarities'].contains(card.rarity) : true)
+            .where((card) => _filter.containsKey('types') ? _filter['types']?.contains(card.cardType) ?? false : true)
+            .where(
+                (card) => _filter.containsKey('rarities') ? _filter['rarities']?.contains(card.rarity) ?? false : true)
             .toList()
         : cards;
     _filteredCardsController.sink.add(_filteredCards);
   }
 
   // selected bar
-  int _selectedManaCostBar;
+  int? _selectedManaCostBar;
 
   final _selectedManaCostBarController = StreamController<int>.broadcast();
   Stream<int> get $selectedManaCostBar => _selectedManaCostBarController.stream;
 
-  void selectManaCostBar(int i) {
+  void selectManaCostBar(int? i) {
     _selectedManaCostBar == i ? _selectedManaCostBar = null : _selectedManaCostBar = i;
-    _selectedManaCostBarController.sink.add(_selectedManaCostBar);
+    if (_selectedManaCostBar != null) _selectedManaCostBarController.sink.add(_selectedManaCostBar!);
   }
 
   // search field
@@ -205,7 +207,7 @@ class DeckPageBloc implements FilterBloc {
   Stream<String> get $searchText => _searchController.stream;
 
   void updateSearch(String text) {
-    if (text != null) _searchController.sink.add(text);
+    _searchController.sink.add(text);
   }
 
   // load
@@ -215,7 +217,7 @@ class DeckPageBloc implements FilterBloc {
       if (_selectedManaCostBar == null) {
         return true;
       } else if (_selectedManaCostBar == 7) {
-        return (card.cost >= _selectedManaCostBar);
+        return (card.cost >= _selectedManaCostBar!);
       }
       return (card.cost == _selectedManaCostBar);
     });
@@ -235,7 +237,7 @@ class DeckPageBloc implements FilterBloc {
     return filteredByFactions.toList();
   }
 
-  void load([Map<String, int> cardCodes]) {
+  void load([Map<String, int> cardCodes = const {}]) {
     final tr = StreamTransformer<List<CardModel>, List<CardModel>>.fromHandlers(
         handleData: (value, sink) => sink.add(filterCards(value)));
 
@@ -249,7 +251,7 @@ class DeckPageBloc implements FilterBloc {
     // });
 
     $searchText.listen((text) {
-      if (text != null && text != '') {
+      if (text.isNotEmpty && text != '') {
         _filteredCards = cards
             .where((card) =>
                 card.name.toLowerCase().contains(text.toLowerCase()) ||
@@ -267,13 +269,15 @@ class DeckPageBloc implements FilterBloc {
 
     if (deck != null) {
       _isEditing = false;
-      _manaCost = deck.manaCost;
-      _selectedCards = deck.cardCodes
-          .map((cardCode) => cards.firstWhere((card) => card.cardCode == cardCode, orElse: () => null))
-          .toList();
+      _manaCost = deck?.manaCost ?? {};
+      _selectedCards = deck?.cardCodes
+              .map((cardCode) => cards.firstWhereOrNull((card) => card.cardCode == cardCode))
+              .whereType<CardModel>()
+              .toList() ??
+          [];
     }
 
-    if (cardCodes != null && cardCodes.isNotEmpty) {
+    if (cardCodes.isNotEmpty) {
       _selectedCards.clear();
       cardCodes.entries.forEach((e) {
         for (var i = 1; i <= e.value; i++) {

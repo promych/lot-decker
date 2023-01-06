@@ -17,7 +17,7 @@ class DeckPageManaCostBar extends StatelessWidget {
           builder: (context, selectedBar) {
             return ManaCostChart(
               selectedManaCostBar: selectedBar.data,
-              manaCost: manaCost.data,
+              manaCost: manaCost.data ?? {},
               onTapManaCostBar: editorBloc.isEditing ? editorBloc.selectManaCostBar : null,
             );
           },

@@ -11,14 +11,14 @@ class LocaleManager {
 
   LocaleManager(this.locale);
 
-  static LocaleManager of(BuildContext context) => Localizations.of<LocaleManager>(context, LocaleManager);
+  static LocaleManager? of(BuildContext context) => Localizations.of<LocaleManager>(context, LocaleManager);
 
-  Map<String, dynamic> _sentences;
+  Map<String, dynamic> _sentences = {};
 
   Future<bool> load() async {
     String data;
-    if (locale.languageCode == null || locale.countryCode == null) {
-      locale = kAppLocales['EN'];
+    if (locale.countryCode == null && kAppLocales['EN'] != null) {
+      locale = kAppLocales['EN']!;
     }
     data = await rootBundle.loadString('assets/lang/${locale.languageCode}_${locale.countryCode}.json');
     Map<String, dynamic> _result = json.decode(data);
@@ -31,9 +31,9 @@ class LocaleManager {
     return true;
   }
 
-  String translate(String key, {List<String> args}) {
+  String translate(String key, {List<String> args = const []}) {
     String res = _resolve(key, _sentences);
-    if (args != null) {
+    if (args.isNotEmpty) {
       args.forEach((String str) {
         res = res.replaceFirst(RegExp(r'{}'), str);
       });
@@ -74,8 +74,7 @@ class AppLocalizationsDelegate extends LocalizationsDelegate<LocaleManager> {
   const AppLocalizationsDelegate();
 
   @override
-  bool isSupported(Locale locale) =>
-      locale != null && kAppLocales.values.map((l) => l.languageCode).contains(locale.languageCode);
+  bool isSupported(Locale locale) => kAppLocales.values.map((l) => l.languageCode).contains(locale.languageCode);
 
   @override
   Future<LocaleManager> load(Locale locale) async {

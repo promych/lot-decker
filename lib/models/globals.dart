@@ -1,4 +1,4 @@
-import 'package:flutter/foundation.dart';
+import 'package:lor_builder/helpers/extensions.dart';
 
 const Map<String, Map<String, String>> _kTypes = {
   'en': {
@@ -70,7 +70,7 @@ abstract class Referable {
   final String name;
   final String nameRef;
 
-  Referable({@required this.name, @required this.nameRef});
+  Referable({required this.name, required this.nameRef});
 }
 
 class Globals {
@@ -81,11 +81,11 @@ class Globals {
   final List<CardType> cardTypes;
 
   const Globals({
-    @required this.keywords,
-    @required this.regions,
-    @required this.spellSpeeds,
-    @required this.rarities,
-    @required this.cardTypes,
+    required this.keywords,
+    required this.regions,
+    required this.spellSpeeds,
+    required this.rarities,
+    required this.cardTypes,
   });
 
   static Globals fromJson(Map<String, dynamic> json, {String lang = 'en'}) => Globals(
@@ -97,23 +97,23 @@ class Globals {
                 'Evelynn',
                 'Jax',
                 'Kayn',
+                'Varus',
+                'Ryze',
+                'Aatrox',
               ].contains(e.name)), // TODO fix 3.8 constants.dart/regions
         spellSpeeds: List.from(json['spellSpeeds'].map((k) => SpellSpeed.fromJson(k))),
         rarities: List.from(json['rarities'].map((k) => Rarity.fromJson(k))),
-        cardTypes: _kTypes[lang].entries.map((e) => CardType(name: e.value, nameRef: e.key)).toList(),
+        cardTypes: _kTypes[lang]?.entries.map((e) => CardType(name: e.value, nameRef: e.key)).toList() ?? [],
       );
 
-  String cardTypeRef(String name) => cardTypes.singleWhere((t) => t.name == name, orElse: () {
-        print('miss card type = $name');
-        return null;
-      })?.nameRef;
+  String? cardTypeRef(String name) => cardTypes.firstWhereOrNull((t) => t.name == name)?.nameRef;
 }
 
 class CardType implements Referable {
   final String name;
   final String nameRef;
 
-  const CardType({@required this.name, @required this.nameRef});
+  const CardType({required this.name, required this.nameRef});
 }
 
 class Keyword implements Referable {
@@ -122,9 +122,9 @@ class Keyword implements Referable {
   final String nameRef;
 
   const Keyword({
-    @required this.description,
-    @required this.name,
-    @required this.nameRef,
+    required this.description,
+    required this.name,
+    required this.nameRef,
   });
 
   static Keyword fromJson(Map<String, dynamic> json) => Keyword(
@@ -140,9 +140,9 @@ class Region implements Referable {
   final String nameRef;
 
   const Region({
-    @required this.abbreviation,
-    @required this.name,
-    @required this.nameRef,
+    required this.abbreviation,
+    required this.name,
+    required this.nameRef,
   });
 
   static Region fromJson(Map<String, dynamic> json) => Region(
@@ -157,8 +157,8 @@ class SpellSpeed implements Referable {
   final String nameRef;
 
   const SpellSpeed({
-    @required this.name,
-    @required this.nameRef,
+    required this.name,
+    required this.nameRef,
   });
 
   static SpellSpeed fromJson(Map<String, dynamic> json) => SpellSpeed(
@@ -172,8 +172,8 @@ class Rarity implements Referable {
   final String nameRef;
 
   const Rarity({
-    @required this.name,
-    @required this.nameRef,
+    required this.name,
+    required this.nameRef,
   });
 
   static Rarity fromJson(Map<String, dynamic> json) => Rarity(

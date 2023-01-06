@@ -34,25 +34,27 @@ class DeckPageCardsSelection extends StatelessWidget {
               stream: bloc.$filteredCards,
               initialData: bloc.filterCards(bloc.cards),
               builder: (context, snapshot) {
-                return SliverPadding(
-                  padding: const EdgeInsets.symmetric(horizontal: 16.0),
-                  sliver: SliverList(
-                    delegate: SliverChildBuilderDelegate(
-                      (_, index) {
-                        final card = snapshot.data[index];
-                        return CardTile(
-                          card: card,
-                          selectCard: bloc.selectCard,
-                          actions: GestureDetector(
-                            child: SameCardsInDeck(card: card),
-                            onTap: () => bloc.unselectCard(card),
+                return (!snapshot.hasData)
+                    ? const SizedBox.shrink()
+                    : SliverPadding(
+                        padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                        sliver: SliverList(
+                          delegate: SliverChildBuilderDelegate(
+                            (_, index) {
+                              final card = snapshot.data![index];
+                              return CardTile(
+                                card: card,
+                                selectCard: bloc.selectCard,
+                                actions: GestureDetector(
+                                  child: SameCardsInDeck(card: card),
+                                  onTap: () => bloc.unselectCard(card),
+                                ),
+                              );
+                            },
+                            childCount: snapshot.data!.length,
                           ),
-                        );
-                      },
-                      childCount: snapshot.data.length,
-                    ),
-                  ),
-                );
+                        ),
+                      );
               },
             )
           ],

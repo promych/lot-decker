@@ -1,5 +1,7 @@
 import 'dart:ui' show Locale;
 
+const appName = 'Runeterra Deck Builder';
+
 const Map<String, Locale> kAppLocales = {
   'EN': const Locale('en', 'US'),
   'DE': const Locale('de', 'DE'),

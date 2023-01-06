@@ -4,12 +4,12 @@ import '../helpers/theme.dart';
 
 class CardFavoriteToggle extends StatelessWidget {
   final bool isFavorite;
-  final Function onTap;
+  final Function()? onTap;
 
   const CardFavoriteToggle({
-    Key key,
+    Key? key,
     this.isFavorite = false,
-    @required this.onTap,
+    this.onTap,
   }) : super(key: key);
 
   @override

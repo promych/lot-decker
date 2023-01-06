@@ -8,12 +8,12 @@ import 'card_icons_bar.dart';
 class CardTile extends StatelessWidget {
   final CardModel card;
   final Function selectCard;
-  final Widget actions;
+  final Widget? actions;
 
   const CardTile({
-    Key key,
-    @required this.card,
-    @required this.selectCard,
+    Key? key,
+    required this.card,
+    required this.selectCard,
     this.actions,
   }) : super(key: key);
 
@@ -58,12 +58,12 @@ class CardTile extends StatelessWidget {
                                     style: Styles.defaultText20,
                                   ),
                                 ),
-                                if (actions != null) actions,
+                                if (actions != null) actions!,
                               ],
                             ),
                           ],
                         ),
-                        card.description.isNotEmpty ? Expanded(child: Text(card.description)) : Spacer(),
+                        card.description.isNotEmpty ? Expanded(child: Text(card.description, maxLines: 2)) : Spacer(),
                         Expanded(
                           child: Center(
                             child: CardIconsBar(card: card),

@@ -53,12 +53,12 @@ class SembastService {
 
   static final SembastService instance = SembastService._();
 
-  static Database _db;
+  Database? _db;
 
   Future<Database> get database async {
-    if (_db != null) return _db;
+    if (_db != null) return _db!;
     _db = await _openDatabase();
-    return _db;
+    return _db!;
   }
 
   Future<Database> _openDatabase() async {
@@ -89,8 +89,9 @@ class SembastService {
   );
 
   Stream<List<Deck>> decks$() {
-    // if (_db == null) return Stream<List<Deck>>.fromFuture(decks());
-    return _deckStore.query(finder: Finder(sortOrders: [SortOrder('id')])).onSnapshots(_db).transform(transformer);
+    return (_db != null)
+        ? _deckStore.query(finder: Finder(sortOrders: [SortOrder('id')])).onSnapshots(_db!).transform(transformer)
+        : Stream.empty();
   }
 
   Future<List<Deck>> decks() async {
@@ -110,7 +111,6 @@ class SembastService {
   }
 
   Future<void> deleteDeck(int id) async {
-    if (id == null) return;
     await _deckStore.record(id).delete(await database);
   }
 

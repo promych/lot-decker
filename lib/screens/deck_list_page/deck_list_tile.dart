@@ -12,7 +12,7 @@ import '../../ui/mana_cost_bar.dart';
 class DeckListTile extends StatelessWidget {
   final Deck deck;
 
-  const DeckListTile({Key key, @required this.deck}) : super(key: key);
+  const DeckListTile({Key? key, required this.deck}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -50,10 +50,10 @@ class DeckListTile extends StatelessWidget {
             builder: (context, snapshot) {
               return Padding(
                 padding: const EdgeInsets.all(10.0),
-                child: snapshot.hasData && snapshot.data.isNotEmpty
+                child: snapshot.hasData && snapshot.data?.isNotEmpty == true
                     ? AbsorbPointer(
                         child: DeckStatusBar(
-                          cardsInDeck: deck.cardCodes.map(cardsStorage.cardByCode).toList(),
+                          cardsInDeck: deck.cardCodes.map(cardsStorage.cardByCode).whereType<CardModel>().toList(),
                         ),
                       )
                     : Container(),

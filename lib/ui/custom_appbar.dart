@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import '../helpers/theme.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
-  final Widget title;
-  final Widget trailing;
+  final Widget? title;
+  final Widget? trailing;
 
   CustomAppBar({this.title, this.trailing});
 
@@ -16,7 +16,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
       title: title ?? null,
       actions: trailing != null
           ? [
-              trailing,
+              trailing!,
               SizedBox(width: 10.0),
             ]
           : null,

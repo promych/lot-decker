@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
+import 'package:lor_builder/helpers/extensions.dart';
 import 'package:provider/provider.dart';
 
 import '../helpers/theme.dart';
 import '../managers/app_manager.dart';
-import '../managers/locale_manager.dart';
 import '../models/globals.dart';
 import 'faction_image.dart';
 
 class FilterCardsDrawer extends StatelessWidget {
   final FilterBloc filterBloc;
 
-  const FilterCardsDrawer({Key key, @required this.filterBloc}) : super(key: key);
+  const FilterCardsDrawer({Key? key, required this.filterBloc}) : super(key: key);
 
   Widget _buildManaCostFilter(BuildContext context) {
     final manaList = List<Widget>.generate(
@@ -79,7 +79,7 @@ class FilterCardsDrawer extends StatelessWidget {
                     AppBar(
                       backgroundColor: Styles.scaffoldBackgroundColor,
                       automaticallyImplyLeading: false,
-                      actions: (filter.hasData && filter.data.isNotEmpty)
+                      actions: (filter.hasData && filter.data?.isNotEmpty == true)
                           ? [
                               IconButton(
                                 icon: Icon(Icons.cancel),
@@ -87,7 +87,7 @@ class FilterCardsDrawer extends StatelessWidget {
                               ),
                             ]
                           : [Container()],
-                      title: Text(LocaleManager.of(context).translate('filter')),
+                      title: Text(context.translate('filter')),
                       centerTitle: false,
                       elevation: 0.0,
                     ),
@@ -131,10 +131,10 @@ class _FilterSection extends StatelessWidget {
   final bool Function(MapEntry<String, dynamic>) hasInFilter;
 
   const _FilterSection({
-    Key key,
-    @required this.category,
-    @required this.updateBloc,
-    @required this.hasInFilter,
+    Key? key,
+    required this.category,
+    required this.updateBloc,
+    required this.hasInFilter,
   }) : super(key: key);
 
   static const _kIconSize = 32.0;
@@ -146,13 +146,13 @@ class _FilterSection extends StatelessWidget {
     var values = [];
     switch (category) {
       case 'regions':
-        values = app.globals.regions.skipWhile((t) => t.abbreviation == 'NE').toList();
+        values = app.globals?.regions.skipWhile((t) => t.abbreviation == 'NE').toList() ?? [];
         break;
       case 'rarities':
-        values = app.globals.rarities.takeWhile((t) => t.nameRef != 'None').toList();
+        values = app.globals?.rarities.takeWhile((t) => t.nameRef != 'None').toList() ?? [];
         break;
       case 'types':
-        values = app.globals.cardTypes;
+        values = app.globals?.cardTypes ?? [];
     }
     if (values.isEmpty) return Container();
 
@@ -165,7 +165,7 @@ class _FilterSection extends StatelessWidget {
         child: ListTile(
           contentPadding: const EdgeInsets.all(0.0),
           leading: category == 'regions'
-              ? FactionImage(abbrName: item.abbreviation, size: _kIconSize)
+              ? FactionImage(abbrName: (item as Region).abbreviation, size: _kIconSize)
               : Image.asset(
                   'assets/img/$category/${item.nameRef}.png',
                   height: _kIconSize,

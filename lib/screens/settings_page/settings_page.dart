@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:lor_builder/helpers/extensions.dart';
 
 import '../../helpers/theme.dart';
-import '../../managers/locale_manager.dart';
 import 'locale_selector.dart';
 
 class SettingsPage extends StatelessWidget {
-  const SettingsPage({Key key}) : super(key: key);
+  const SettingsPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         centerTitle: false,
-        title: Text(LocaleManager.of(context).translate('settings')),
+        title: Text(context.translate('settings')),
         backgroundColor: Styles.layerColor,
       ),
       body: DefaultTextStyle(
