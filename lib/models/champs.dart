@@ -30,6 +30,7 @@
 'Illaoi'
 'Irelia'
 'JarvanIV'
+'Jack'
 'Jax'
 'Jayce'
 'Jhin'
@@ -68,8 +69,10 @@
 'Riven'
 'Rumble'
 'Ryze'
+'Samira'
 'Sejuani'
 'Senna'
+'Sett'
 'Shen'
 'Shyvana'
 'Sion'
@@ -203,4 +206,7 @@ const kChampionsNamesRU = {
   'Вейн': 'Vayne',
   'Райз': 'Ryze',
   'Кейл': 'Kayle',
+  'Джек': 'Jack', // TODO нужна картинка
+  'Сетт': 'Sett',
+  'Самира': 'Samira',
 };
