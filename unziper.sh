@@ -1,4 +1,4 @@
-DDIR="D:/runeterra/runeterra_archives"
+DDIR="E:/runeterra/runeterra_archives"
 LNGS=(
 	"en_us"
 	"de_de"

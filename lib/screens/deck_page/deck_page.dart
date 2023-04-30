@@ -176,7 +176,7 @@ class _DeckPageState extends State<DeckPage> {
               onPressed: () => widget.bloc.toggleEdit(),
             ),
       PopupMenuButton(
-        icon: Icon(Icons.more_vert),
+        icon: Icon(Icons.more_vert, color: Colors.white),
         onSelected: (value) {
           switch (value) {
             case 'Rename':

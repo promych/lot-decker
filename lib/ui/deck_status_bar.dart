@@ -1,4 +1,4 @@
-import 'package:badges/badges.dart';
+import 'package:badges/badges.dart' as badges;
 import 'package:flutter/material.dart';
 import 'package:lor_builder/helpers/constants.dart';
 import 'package:lor_builder/helpers/extensions.dart';
@@ -173,12 +173,12 @@ class _IconBadge extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.only(right: 10.0),
-      child: Badge(
+      child: badges.Badge(
         child: child,
         badgeContent: Text(cardNum.toString()),
-        position: BadgePosition.bottomEnd(),
-        badgeColor: Styles.lightGrey,
-        animationType: BadgeAnimationType.fade,
+        position: badges.BadgePosition.bottomEnd(),
+        badgeStyle: badges.BadgeStyle(badgeColor: Styles.lightGrey),
+        badgeAnimation: badges.BadgeAnimation.fade(),
       ),
     );
   }

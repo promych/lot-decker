@@ -1,7 +1,7 @@
 name: lor_builder
 description: LoR project.
 publish_to: 'none'
-version: 2.3.0+53
+version: 2.4.0+55
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
@@ -12,14 +12,15 @@ dependencies:
   flutter_localizations:
     sdk: flutter
 
-  badges: 2.0.3
+  badges: 3.1.1
   cupertino_icons: 1.0.5
   equatable: 2.0.5
-  path_provider: 2.0.11
-  percent_indicator: 4.2.2
+  file: 6.1.4
+  path_provider: 2.0.14
+  percent_indicator: 4.2.3
   provider: 6.0.5
-  sembast: 3.3.1+1
-  shared_preferences: 2.0.15
+  sembast: 3.4.4
+  shared_preferences: 2.1.0
 
   lor_deck_coder:
     path: ../lor_deck_coder/
@@ -27,8 +28,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_native_splash: 2.2.16
-  flutter_launcher_icons: 0.11.0
+  flutter_native_splash: 2.2.19
+  flutter_launcher_icons: 0.13.1
   
 flutter_native_splash:
   color: "171e28"
